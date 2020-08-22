@@ -1,0 +1,1436 @@
+{
+    "affiliation": "Department of Zoology, University of Cambridge",
+    "cites_per_year": {
+        "1981": 73,
+        "1982": 52,
+        "1983": 69,
+        "1984": 84,
+        "1985": 64,
+        "1986": 34,
+        "1987": 75,
+        "1988": 40,
+        "1989": 129,
+        "1990": 114,
+        "1991": 98,
+        "1992": 129,
+        "1993": 153,
+        "1994": 107,
+        "1995": 127,
+        "1996": 142,
+        "1997": 141,
+        "1998": 118,
+        "1999": 163,
+        "2000": 220,
+        "2001": 303,
+        "2002": 295,
+        "2003": 297,
+        "2004": 330,
+        "2005": 385,
+        "2006": 425,
+        "2007": 540,
+        "2008": 577,
+        "2009": 570,
+        "2010": 530,
+        "2011": 660,
+        "2012": 892,
+        "2013": 901,
+        "2014": 917,
+        "2015": 879,
+        "2016": 980,
+        "2017": 1079,
+        "2018": 901,
+        "2019": 940,
+        "2020": 576
+    },
+    "citedby": 15693,
+    "citedby5y": 5358,
+    "coauthors": [
+        {
+            "affiliation": "Lund University, Department of Biology",
+            "id": "qx8DDLIAAAAJ",
+            "name": "David C. O'Carroll"
+        },
+        {
+            "affiliation": "Professor of Physics and Neuroscience, Indiana University",
+            "id": "mT0AyyIAAAAJ",
+            "name": "Rob de Ruyter van Steveninck"
+        },
+        {
+            "affiliation": "AXA, Imperial College London, University College London",
+            "id": "YZHhV9kAAAAJ",
+            "name": "Biswa Sengupta"
+        },
+        {
+            "affiliation": "Professor in AI & Neuroscience/Director UKRI Centre in AI for Healthcare",
+            "id": "WjHjbrwAAAAJ",
+            "name": "A. Aldo Faisal"
+        },
+        {
+            "affiliation": "University of Oulu, Department of Physics",
+            "id": "ZU4hfWAAAAAJ",
+            "name": "Matti Weckstr\u00f6m"
+        },
+        {
+            "affiliation": "",
+            "id": "nP5LgGgAAAAJ",
+            "name": "D.G. Stavenga"
+        },
+        {
+            "affiliation": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+            "id": "uCSQcfkAAAAJ",
+            "name": "Martin Stemmler"
+        },
+        {
+            "affiliation": "Francis Crick Professor, Salk Institute, Distingished Professor, UC San Diego",
+            "id": "m1qAiOUAAAAJ",
+            "name": "Terrence Sejnowski"
+        },
+        {
+            "affiliation": "Professor of Psychology, University of Aberdeen",
+            "id": "PrEWWyIAAAAJ",
+            "name": "Benjamin W. Tatler"
+        },
+        {
+            "affiliation": "Professor University of Pennsylvania",
+            "id": "Xrgtce0AAAAJ",
+            "name": "peter sterling"
+        },
+        {
+            "affiliation": "Professor & Chair of Biomedical Engineering, Boston U.",
+            "id": "RBSFc8wAAAAJ",
+            "name": "John A. White"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "GTmdNU0AAAAJ",
+            "name": "Ron Dror"
+        },
+        {
+            "affiliation": "Professor of Systems Neuroscience",
+            "id": "5KDGzTgAAAAJ",
+            "name": "Holger G Krapp"
+        },
+        {
+            "affiliation": "sussex university",
+            "id": "b2pqztwAAAAJ",
+            "name": "Daniel Osorio"
+        },
+        {
+            "affiliation": "University of Auckland",
+            "id": "AjERj0cAAAAJ",
+            "name": "misha vorobyev"
+        },
+        {
+            "affiliation": "Professor,  UCLA",
+            "id": "R2KU5GYAAAAJ",
+            "name": "A.P. Sampath"
+        },
+        {
+            "affiliation": "Australian National University",
+            "id": "u0_nB6QAAAAJ",
+            "name": "Ted Maddess"
+        },
+        {
+            "affiliation": "University of Groningen",
+            "id": "MziU7W8AAAAJ",
+            "name": "j.h. van hateren"
+        },
+        {
+            "affiliation": "LMU",
+            "id": "1qPbYPoAAAAJ",
+            "name": "Andreas Herz"
+        },
+        {
+            "affiliation": "Postdoc (Champalimaud Research)",
+            "id": "08aY8rcAAAAJ",
+            "name": "Francisco J. H. Heras"
+        }
+    ],
+    "email": "@cam.ac.uk",
+    "hindex": 59,
+    "hindex5y": 28,
+    "i10index": 93,
+    "i10index5y": 66,
+    "id": "z4lPJ7sAAAAJ",
+    "interests": [
+        "Neurobiology",
+        "Neural Circuit Design",
+        "Efficient coding",
+        "Energy Efficiency",
+        "Visual Ecology"
+    ],
+    "name": "Simon B Laughlin",
+    "publications": [
+        {
+            "bib": {
+                "title": "An energy budget for signaling in the grey matter of the brain",
+                "cites": "2655",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive coding: a fresh view of inhibition in the retina",
+                "cites": "968",
+                "year": "1982"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The metabolic cost of neural information",
+                "cites": "953",
+                "year": "1998"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple coding procedure enhances a neuron's information capacity",
+                "cites": "910",
+                "year": "1981"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Communication in neuronal networks",
+                "cites": "835",
+                "year": "2003"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy limitation as a selective pressure on the evolution of sensory systems",
+                "cites": "710",
+                "year": "2008"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy as a constraint on the coding and processing of sensory information",
+                "cites": "473",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common strategies for light adaptation in the peripheral visual systems of fly and dragonfly",
+                "cites": "309",
+                "year": "1978"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural principles in the peripheral visual systems of invertebrates",
+                "cites": "302",
+                "year": "1981"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:as11RrW_MxEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of Neural Design",
+                "cites": "253",
+                "year": "2015"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Colour thresholds and receptor noise: behaviour and physiology compared",
+                "cites": "247",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of sensory adaptation in the retina",
+                "cites": "238",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fly photoreceptors demonstrate energy-information trade-offs in neural coding",
+                "cites": "228",
+                "year": "2007"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATP consumption by mammalian rod photoreceptors in darkness and in light",
+                "cites": "222",
+                "year": "2008"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation of the motion-sensitive neuron H1 is generated locally and governed by contrast frequency",
+                "cites": "206",
+                "year": "1985"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast and slow photoreceptors\u2014a comparative study of the functional diversity of coding and conductances in the Diptera",
+                "cites": "203",
+                "year": "1993"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action potential energy efficiency varies among neuron types in vertebrates and invertebrates",
+                "cites": "201",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ion-channel noise places limits on the miniaturization of the brain\u2019s wiring",
+                "cites": "191",
+                "year": "2005"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure and function of the fused rhabdom",
+                "cites": "188",
+                "year": "1973"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phototransduction and the evolution of photoreceptors",
+                "cites": "185",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial information capacity of compound eyes",
+                "cites": "169",
+                "year": "1977"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The rate of information transfer at graded-potential synapses",
+                "cites": "166",
+                "year": "1996"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accuracy of velocity estimation by Reichardt correlators",
+                "cites": "162",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching coding, circuits, cells, and molecules to signals: general principles of retinal design in the fly's eye",
+                "cites": "160",
+                "year": "1994"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic limitations to contrast coding in the retina of the blowfly Calliphora",
+                "cites": "160",
+                "year": "1987"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insect motion detectors matched to visual ecology",
+                "cites": "156",
+                "year": "1996"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast gain reduction in fly motion adaptation",
+                "cites": "150",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic simulations on the reliability of action potential propagation in thin axons",
+                "cites": "148",
+                "year": "2007"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information capacity of eyes",
+                "cites": "140",
+                "year": "1977"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The intracellular pupil mechanism and photoreceptor signal: noise ratios in the fly Lucilia cuprina",
+                "cites": "137",
+                "year": "1987"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The scaling of eye size with body mass in birds",
+                "cites": "136",
+                "year": "1999"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual ecology and voltage-gated ion channels in insect photoreceptors",
+                "cites": "130",
+                "year": "1995"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voltage\u2010activated potassium channels in blowfly photoreceptors and their role in light adaptation.",
+                "cites": "129",
+                "year": "1991"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Form and function in retinal processing",
+                "cites": "116",
+                "year": "1987"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation and the temporal delay filter of fly motion detectors",
+                "cites": "111",
+                "year": "1999"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transducer noise in a photoreceptor",
+                "cites": "96",
+                "year": "1979"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Angular sensitivity of the retinula cells of dark-adapted worker bee",
+                "cites": "96",
+                "year": "1971"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural integration in the first optic neuropile of dragonflies III The transfer of angular information",
+                "cites": "89",
+                "year": "1974"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural integration in the first optic neuropile of dragonflies I. Signal amplification in dark-adapted second-order neurons",
+                "cites": "89",
+                "year": "1973"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novel potassium channels encoded by the Shaker locus in Drosophila photoreceptors",
+                "cites": "87",
+                "year": "1991"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sensitivities of dragonfly photoreceptors and the voltage gain of transduction",
+                "cites": "87",
+                "year": "1976"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temperature and the temporal resolving power of fly photoreceptors",
+                "cites": "84",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching coding to scenes to enhance efficiency",
+                "cites": "84",
+                "year": "1983"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms for neural signal enhancement in the blowfly compound eye",
+                "cites": "83",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sexual dimorphism matches photoreceptor performance to behavioural requirements",
+                "cites": "82",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single photon signals in fly photoreceptors and first order interneurones at behavioral threshold.",
+                "cites": "82",
+                "year": "1981"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy-efficient coding with discrete stochastic events",
+                "cites": "81",
+                "year": "2002"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An energy budget for the olfactory glomerulus",
+                "cites": "80",
+                "year": "2007"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal properties of motion detectors matched to low image velocities in hovering insects",
+                "cites": "78",
+                "year": "1997"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dichroism and absorption by photoreceptors",
+                "cites": "68",
+                "year": "1975"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Balanced excitatory and inhibitory synaptic currents promote efficient coding and metabolic efficiency",
+                "cites": "67",
+                "year": "2013"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Membranes, dichroism and receptor sensitivity",
+                "cites": "67",
+                "year": "1975"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal information capacity and the function of the pupil",
+                "cites": "65",
+                "year": "1992"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photoreceptor performance and the co-ordination of achromatic and chromatic inputs in the fly visual system",
+                "cites": "63",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:5CmvP2Up3ZUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sensitivity of receptors in the posterior median eye of the nocturnal spider,Dinopis",
+                "cites": "63",
+                "year": "1980"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The structures of dorsal and ventral regions of a dragonfly retina",
+                "cites": "63",
+                "year": "1978"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matched filtering by a photoreceptor membrane",
+                "cites": "61",
+                "year": "1996"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in the intensity-response function of an insect's photoreceptors due to light adaptation",
+                "cites": "60",
+                "year": "1981"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A motion-sensitive neurone responds to signals from the two visual systems of the blowfly, the compound eyes and ocelli",
+                "cites": "59",
+                "year": "2006"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of parallel channels in early visual processing by the arthropod compound eye",
+                "cites": "58",
+                "year": "1984"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coding efficiency and design in visual processing",
+                "cites": "56",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic noise in locust photoreceptors",
+                "cites": "56",
+                "year": "1982"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural integration in the first optic neuropile of dragonflies",
+                "cites": "53",
+                "year": "1974"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensor fusion in identified visual interneurons",
+                "cites": "52",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Properties of histamine-activated chloride channels in the large monopolar cells of the dipteran compound eye: a comparative study",
+                "cites": "52",
+                "year": "1995"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of cell size and channel density on neuronal information encoding and energy efficiency",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural images of pursuit targets in the photoreceptor arrays of male and female houseflies Musca domestica",
+                "cites": "49",
+                "year": "2003"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diurnal modulation of photoreceptor potassium conductance in the locust",
+                "cites": "48",
+                "year": "1995"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variations in photoreceptor response dynamics across the fly retina",
+                "cites": "47",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Presynaptic enhancement of signal transients in photoreceptor terminals in the compound eye",
+                "cites": "47",
+                "year": "1992"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The bright zone, a specialized dorsal eye region in the male blowflyChrysomyia megacephala",
+                "cites": "44",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of Langevin and Markov channel noise models for neuronal signal generation",
+                "cites": "42",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of natural image statistics in biological motion estimation",
+                "cites": "40",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Membrane parameters, signal transmission, and the design of a graded potential neuron",
+                "cites": "39",
+                "year": "1990"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptor function in the apposition eye\u2014an electrophysiological approach",
+                "cites": "38",
+                "year": "1975"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual targeting of forelimbs in ladder-walking locusts",
+                "cites": "37",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Implications of Metabolic Energy Requirements for the Representation of Information in Neurons",
+                "cites": "35",
+                "year": "2004"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural integration in the first optic neuropile of dragonflies. IV. Interneuron spectral sensitivity and contrast coding",
+                "cites": "34",
+                "year": "1976"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consequences of converting graded to action potentials upon neural information coding and energy efficiency",
+                "cites": "31",
+                "year": "2014"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Light adaptation and reliability in blowfly photoreceptors",
+                "cites": "29",
+                "year": "1996"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracellular potentials modify the transfer of information at photoreceptor output synapses in the blowfly compound eye",
+                "cites": "24",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Captivity selects for smaller eyes",
+                "cites": "22",
+                "year": "2005"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The metabolic cost of information-a fundamental factor in visual ecology",
+                "cites": "22",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptor and interneuron light-adaptation in the dragonfly visual system",
+                "cites": "21",
+                "year": "1975"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficiency and complexity in neural coding:",
+                "cites": "20",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptations of the dragonfly retina for contrast detection and the elucidation of neural principles in the peripheral visual system",
+                "cites": "20",
+                "year": "1976"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resistance changes associated with the response of insect monopolar neurons",
+                "cites": "18",
+                "year": "1974"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global versus local adaptation in fly motion-sensitive neurons",
+                "cites": "17",
+                "year": "2005"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The reliability of single neurons and circuit design: a case study",
+                "cites": "16",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How reliable is the connectivity in cortical neural networks?",
+                "cites": "15",
+                "year": "2002"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual motion: Dendritic integration makes sense of the world",
+                "cites": "14",
+                "year": "1999"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coding efficiency and visual processing",
+                "cites": "14",
+                "year": "1990"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early visual processing in the compound eye: physiology and pharmacology of the retina-lamina projection in the fly",
+                "cites": "14",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural energy consumption and the representation of mental events",
+                "cites": "11",
+                "year": "2004"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energetically optimal action potentials",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal function: coupling cones clarifies vision",
+                "cites": "9",
+                "year": "2002"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measurements of signal transfer and noise suggest a new model for graded transmission at an adapting retinal synapse",
+                "cites": "7",
+                "year": "1996"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Light-mediated cyclic GMP hydrolysis controls important aspects of kinetics of retinal rod voltage response",
+                "cites": "7",
+                "year": "1983"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voltage-dependent K+ channels improve the energy efficiency of signalling in blowfly photoreceptors",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:yptliwwhi3IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy, Information, and the Work of the Brain",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling the variation in the contrast of natural scenes, and the function of contrast normalization in the mammalian visual cortex.",
+                "cites": "5",
+                "year": "1997"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The activation of a slow voltage-dependent potassium conductance is crucial for light adaptation in blowfly photoreceptors",
+                "cites": "5",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimizing the use of a sensor resource for opponent polarization coding",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shunt peaking in neural membranes",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:0SnApaDgcCoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PRINCIPLES OF SENSORY CODING AND PROCESSING-GENERAL INTRODUCTION",
+                "cites": "4",
+                "year": "1989"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An energy budget for glutamatergic signalling in grey matter of the rat cerebral cortex",
+                "cites": "3",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation reduces sensitivity to save energy without information loss in the fly visual system",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insects as a Guide to Neural Circuit Design",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Channel noise limits the minimum diameter of axons",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A fundamental measure of the metabolic cost of neural information in the retina of the blowfly, Calliphora vicina",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New views from compound eyes.",
+                "cites": "2",
+                "year": "1987"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of metabolic energy on neural computation",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensor fusion for feedback control of gaze stabilisation in the fly",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blowfly photoreceptor response dynamics vary with retinal position",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voltage-dependent K+ Channels Improve the Energy E ciency of Signalling in Blowfly Photoreceptors",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:7bRg-L-9LFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement 2 for Voltage-dependent K+ Channels Improve the Energy Efficiency of Signalling in Blowfly Photoreceptors",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:lms347EBdh4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shunt peaking in neural membranes",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:OmZH4w0uHW8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PHARMACOLOGY OF THE RETINA-LAMINA PROJECTION IN THE FLY",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory adaptation in the light of information and energy",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bang-bang optimality of energy efficient spikes in single neuron models",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:QXXbHxWZe5oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of channel noise on the propagating AP wave form and its potential impact on synaptic transmission",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion adaptation does not affect the direction tuning of a neuron processing optic flow in the blowfly Calliphora vicina",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "E\u00a4 ciency and complexity in neural coding",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:IyMil-iDmu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metabolic Energy: a Fundamental Factor in Visual Ecology",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temperature and the temporal resolving power of fly photoreceptors A Neuroethology, sensory, neural, and behavioral physiology",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:RPps9qLA3-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "-Neural Codes and Distributed Representations: Foundations of Neural Computation edited by Laurence Abbott and Terrence J. Sejnowski",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matched filtering by a photoreceptor membrane",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-poisson coding by spiking neurons and single active zones",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE FILTERING OF SLOWLY MOVING IMAGES BY THE PHOTORECEPTOR MEMBRANE OF TIPULA-PALUDOSA",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FAST AND SLOW PHOTORECEPTORS-FROM VISUAL ECOLOGY TO POTASSIUM CHANNELS IN THE DIPTERAN RETINA",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparative study of histamine-gated chloride channels in isolated large monopolar cells (LMCs) in Diptera: tuning synapses to visual ecology",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INVESTIGATING CONDUCTANCE CHANGES OF SMALL DIAMETER INTERNEURONES OF THE BLOWFLY COMPOUND EYE WITH A DISCONTINUOUS CURRENT CLAMP",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The correlation of peripheral performance with visual behavior",
+                "cites": "0",
+                "year": "1979"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptors, Interneurons and Integration in an Insect Visual System",
+                "cites": "0",
+                "year": "1974"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic computers, brains and development: unifying principles and distinctive differences",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:Zo6E4E6iJKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimizing the use of a sensor resource for",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:MwHAKEtqQGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive coding: a fresh view of inhibition in the retina",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:-Ex_6Thn4vsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing Epilepsy",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:T-SPRlcIgBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles governing the function and design of eyes, neurons and brains",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:fLJJVVwU7EQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eyes 3, 4 and 5 would be most mystifying structures if one did not know that flies flew",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foresight Cognitive Systems Project Research Review",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling relationships for neuronal circuit wiring set by noise and metabolic cost",
+                "cites": "0"
+            },
+            "id_citations": "z4lPJ7sAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=z4lPJ7sAAAAJ"
+}

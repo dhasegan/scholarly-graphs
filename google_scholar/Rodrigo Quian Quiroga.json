@@ -1,0 +1,2263 @@
+{
+    "affiliation": "University of Leicester",
+    "cites_per_year": {
+        "2001": 66,
+        "2002": 88,
+        "2003": 146,
+        "2004": 209,
+        "2005": 222,
+        "2006": 347,
+        "2007": 458,
+        "2008": 572,
+        "2009": 679,
+        "2010": 796,
+        "2011": 835,
+        "2012": 963,
+        "2013": 1059,
+        "2014": 1172,
+        "2015": 1325,
+        "2016": 1299,
+        "2017": 1324,
+        "2018": 1372,
+        "2019": 1335,
+        "2020": 634
+    },
+    "citedby": 15150,
+    "citedby5y": 7294,
+    "coauthors": [],
+    "email": "@vis.caltech.edu",
+    "hindex": 57,
+    "hindex5y": 43,
+    "i10index": 104,
+    "i10index5y": 89,
+    "id": "5LkDgzkAAAAJ",
+    "interests": [
+        "Neuroscience"
+    ],
+    "name": "Rodrigo Quian Quiroga",
+    "publications": [
+        {
+            "bib": {
+                "title": "Unsupervised spike detection and sorting with wavelets and superparamagnetic clustering",
+                "cites": "2614652980483301350",
+                "year": "2004",
+                "url": "https://www.mitpressjournals.org/doi/abs/10.1162/089976604774201631",
+                "author": "R Quian Quiroga and Zoltan Nadasdy and Yoram Ben-Shaul",
+                "journal": "Neural computation",
+                "volume": "16",
+                "number": "8",
+                "pages": "1661-1687",
+                "publisher": "MIT Press",
+                "abstract": "This study introduces a new method for detecting and sorting spikes from multiunit recordings. The method combines the wave let transform, which localizes distinctive spike features, with super paramagnetic clustering, which allows automatic classification of the data without assumptions such as low variance or gaussian distributions. Moreover, an improved method for setting amplitude thresholds for spike detection is proposed. We describe several criteria for implementation that render the algorithm unsupervised and fast. The algorithm is compared to other conventional methods using several simulated data sets whose characteristics closely resemble those of in vivo recordings. For these data sets, we found that the proposed algorithm outperformed conventional methods.",
+                "eprint": "https://authors.library.caltech.edu/13699/1/QUInc04.pdf"
+            },
+            "id_citations": "5LkDgzkAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Invariant visual representation by single neurons in the human brain",
+                "cites": "1657",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear multivariate analysis of neurophysiological signals",
+                "cites": "1060",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Performance of different synchronization measures in real data: a case study on electroencephalographic signals",
+                "cites": "886",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting information from neuronal populations: information theory and decoding approaches",
+                "cites": "644",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial event-related potentials with wavelet denoising",
+                "cites": "451",
+                "year": "2003"
+            },
+            "id_citations": "5LkDgzkAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Event synchronization: a simple and fast method to measure synchronicity and time delay patterns",
+                "cites": "339",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assessing the spatiotemporal evolution of neuronal activation with single-trial event-related potentials and functional MRI",
+                "cites": "326",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse but not \u2018grandmother-cell\u2019coding in the medial temporal lobe",
+                "cites": "305",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object selectivity of local field potentials and spikes in the macaque inferior temporal cortex",
+                "cites": "299",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning driver-response relationships from synchronization patterns",
+                "cites": "284",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept cells: the building blocks of declarative memory functions",
+                "cites": "282",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Past, present and future of spike sorting techniques",
+                "cites": "239",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-frequency analysis of electroencephalogram series. III. Wavelet packets and information cost function",
+                "cites": "223",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet entropy in event-related potentials: a new method shows ordering of EEG oscillations",
+                "cites": "216",
+                "year": "2001"
+            },
+            "id_citations": "5LkDgzkAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latency and selectivity of single neurons indicate hierarchical processing in the human medial temporal lobe",
+                "cites": "214",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging brain function with EEG: advanced temporal and spatial analysis of electroencephalographic signals",
+                "cites": "196",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse representation in the human medial temporal lobe",
+                "cites": "194",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stationarity of the EEG series",
+                "cites": "190",
+                "year": "1995"
+            },
+            "id_citations": "5LkDgzkAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human single-neuron responses at the threshold of conscious recognition",
+                "cites": "188",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet transform in the analysis of the frequency composition of evoked potentials",
+                "cites": "172",
+                "year": "2001"
+            },
+            "id_citations": "5LkDgzkAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explicit encoding of multimodal percepts by single neurons in the human brain",
+                "cites": "168",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Movement intention is better predicted than attention in the posterior parietal cortex",
+                "cites": "162",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-line, voluntary control of human temporal lobe neurons",
+                "cites": "159",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Obtaining single stimulus evoked potentials with wavelet denoising",
+                "cites": "152",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A category-specific response to animals in the right human amygdala",
+                "cites": "136",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding visual inputs from multiple neurons in the human temporal lobe",
+                "cites": "126",
+                "year": "2007"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving data quality in neuronal population recordings",
+                "cites": "123",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unmixing concurrent EEG-fMRI with parallel independent component analysis",
+                "cites": "122",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kulback-Leibler and renormalized entropies: applications to electroencephalograms of epilepsy patients",
+                "cites": "115",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative analysis of EEG signals: Time-frequency methods and Chaos theory",
+                "cites": "114",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixation-related potentials in visual search: a combined EEG and eye tracking study",
+                "cites": "111",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human medial temporal lobe neurons respond preferentially to personally relevant images",
+                "cites": "105",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Realistic simulation of extracellular recordings",
+                "cites": "103",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-frequency analysis of electroencephalogram series",
+                "cites": "102",
+                "year": "1995"
+            },
+            "id_citations": "5LkDgzkAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid encoding of new memories by individual neurons in the human brain",
+                "cites": "99",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functions and sources of event-related EEG alpha oscillations studied with the Wavelet Transform",
+                "cites": "98",
+                "year": "1999"
+            },
+            "id_citations": "5LkDgzkAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How many neurons can we see with current spike sorting algorithms?",
+                "cites": "91",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike sorting",
+                "cites": "90",
+                "year": "2007"
+            },
+            "id_citations": "5LkDgzkAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for hidden information with Gabor Transform in generalized tonic-clonic seizures",
+                "cites": "86",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic denoising of single-trial evoked potentials",
+                "cites": "83",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of neural coding",
+                "cites": "79",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is the real shape of extracellular spikes?",
+                "cites": "77",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying time-frequency analysis to seizure EEG activity",
+                "cites": "77",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet entropy: a measure of order in evoked potentials.",
+                "cites": "76",
+                "year": "1999"
+            },
+            "id_citations": "5LkDgzkAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike sorting",
+                "cites": "74",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring sparseness in the brain: Comment on Bowers (2009).",
+                "cites": "73",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bisensory stimulation increases gamma-responses over multiple cortical regions",
+                "cites": "73",
+                "year": "2001"
+            },
+            "id_citations": "5LkDgzkAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo neuronal firing patterns during human epileptiform discharges replicated by electrical stimulation",
+                "cites": "72",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-frequency analysis of electroencephalogram series (III): information transfer function and wavelets packets",
+                "cites": "72",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain cells for grandmother",
+                "cites": "71",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Looking for a face in the crowd: fixation-related potentials in an eye-movement visual search task",
+                "cites": "68",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How do we see art: an eye-tracker study",
+                "cites": "67",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayes optimal template matching for spike sorting\u2013combining fisher discriminant analysis with optimal filtering",
+                "cites": "61",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local field potentials and spikes in the human medial temporal lobe are selective to image category",
+                "cites": "61",
+                "year": "2007"
+            },
+            "id_citations": "5LkDgzkAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expectancy effects on omission evoked potentials in musicians and non\u2010musicians",
+                "cites": "59",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity of pyramidal cells and interneurons in the human medial temporal lobe",
+                "cites": "57",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncovering the mechanisms of conscious face perception: a single-trial study of the n170 responses",
+                "cites": "54",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal frequency characteristics of intersensory components in audiovisually evoked potentials",
+                "cites": "53",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A detailed and fast model of extracellular recordings",
+                "cites": "52",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking pattern learning with single-trial event-related potentials",
+                "cites": "49",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evoked potentials",
+                "cites": "47",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Habituation and sensitization in rat auditory evoked potentials: a single-trial analysis with wavelet denoising",
+                "cites": "47",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses of human medial temporal lobe neurons are modulated by stimulus repetition",
+                "cites": "46",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single neuron studies of the human brain: probing cognition",
+                "cites": "45",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A single-neuron correlate of change detection and change blindness in the human medial temporal lobe",
+                "cites": "44",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An analogue front-end model for developing neural spike sorting systems",
+                "cites": "41",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise timing accounts for posttraining sleep-dependent enhancements of the auditory mismatch negativity",
+                "cites": "41",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of stimulus repetitions on the event-related potential of humans and rats",
+                "cites": "40",
+                "year": "2004"
+            },
+            "id_citations": "5LkDgzkAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Persistent single-neuron activity during working memory in the human medial temporal lobe",
+                "cites": "39",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing of single-neuron and local field potential responses in the human medial temporal lobe",
+                "cites": "39",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rhythmic training decreases latency-jitter of omission evoked potentials (OEPs) in humans",
+                "cites": "35",
+                "year": "2004"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel and fully automatic spike-sorting implementation with variable number of features",
+                "cites": "32",
+                "year": "2018"
+            },
+            "id_citations": "5LkDgzkAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimum requirements for accurate and efficient real-time on-chip spike sorting",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal codes for visual perception and memory",
+                "cites": "30",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency evolution during tonic-clonic seizures",
+                "cites": "30",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single\u2010cell recordings in the human medial temporal lobe",
+                "cites": "29",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-cell responses to face adaptation in the human medial temporal lobe",
+                "cites": "29",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of learning and trajectory planning in the posterior parietal cortex",
+                "cites": "29",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In retrospect: Funes the memorious",
+                "cites": "26",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced re-habituation of the orienting response of the human event-related potential",
+                "cites": "25",
+                "year": "2004"
+            },
+            "id_citations": "5LkDgzkAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term coding of personal and universal associations underlying the memory web in the human brain",
+                "cites": "24",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single trial analysis of field potentials in perception, learning and memory",
+                "cites": "23",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can we learn from single-trial event-related potentials?",
+                "cites": "23",
+                "year": "2007"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity and invariance for visual object perception",
+                "cites": "22",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Borges and memory: Encounters with the human brain",
+                "cites": "21",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gnostic cells in the 21st century",
+                "cites": "20",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Postscript: About grandmother cells and Jennifer Aniston neurons.",
+                "cites": "20",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification of EEG abnormalities in partial epilepsy with simultaneous EEG\u2013fMRI recordings",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Borges y la memoria: un viaje por el cerebro humano, de\" Funes el memorioso\" a la neurona de Jennifer Aniston",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entorhinal inputs to dentate gyrus are activated mainly by conditioned events with long time intervals",
+                "cites": "17",
+                "year": "2003"
+            },
+            "id_citations": "5LkDgzkAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene-selective coding by single neurons in the human parahippocampal cortex",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting information in spike time patterns with wavelets and information theory",
+                "cites": "16",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compact standalone platform for neural recording with real-time spike sorting and data logging",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "5LkDgzkAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual and contextual awareness: methodological considerations in the search for the neural correlates of consciousness",
+                "cites": "15",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The CARMEN e-Science pilot project: Neuroinformatics work packages",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "5LkDgzkAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magic and cognitive neuroscience",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to \u201cComment on \u2018Performance of different synchronization measures in real data: A case study on electroencephalographic signals\u2019\u201d",
+                "cites": "13",
+                "year": "2003"
+            },
+            "id_citations": "5LkDgzkAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PART B-Biological physics-Kulback-Leibler and renormalized entropies: Applications to electroencephalograms of epilepsy patients",
+                "cites": "13",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:F9fV5C73w3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of epileptic EEG time series (I): Gabor transform and nonlinear dynamics methods",
+                "cites": "13",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vocal learning with inverse models",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Looking at Ophelia: a comparison of viewing art in the gallery and in the lab",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial event-related potentials with wavelet denoising: method and applications",
+                "cites": "12",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Event related potentials to digit learning: Tracking neurophysiologic changes accompanying recall performance",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The learning-oddball paradigm: Data of 24 separate individuals illustrate its potential usefulness as a new clinical tool",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural prostheses: linking brain signals to prosthetic devices",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bivariable and multivariable analysis of EEG signals",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMPARISON OF TWO PHASE-SYNCHRONIZATION ANALYSES TECHNIQUES FOR INTERICTAL FOCUS LATERALIZATION IN MESIAL TEMPORAL LOBE EPILEPSY",
+                "cites": "9",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The reticular thalamic nucleus is involved in interhemispheric synchronization of the EEG",
+                "cites": "9",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding of long-term associations through neural unitization in the human medial temporal lobe",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "5LkDgzkAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How do we recognize a face?",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of Neural Coding",
+                "cites": "8",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Forgetting Machine: Memory, Perception, and the\" Jennifer Aniston Neuron\"",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ising model for inferring network structure from spike data: In Principal of Neural Coding",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet-entropy applied to brain signal analysis",
+                "cites": "7",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Plugging in to human memory: advantages, challenges, and insights from human single-neuron recordings",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "5LkDgzkAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociation between the neural correlates of conscious face perception and visual attention",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced models of cortical dynamics in perception",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse and explicit neural coding",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural correlates of perceptual awareness",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of neural networks",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-train analysis",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and coding in neural networks",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to \u201cComment on \u2018Kullback-Leibler and renormalized entropies: Applications to electroencephalograms of epilepsy patients\u2019\u201d",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to \u201cComment on \u2018Kullback-Leibler and renormalized entropies: Applications to electroencephalograms of epilepsy patients\u2019\u201d",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial evoked potentials: wavelet denoising",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency analysis",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Borges and memory",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementation of a real time decoder for real neuroprosthetic applications",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INFLUENCE OF THE POWER-SPECTRUM OF THE PRE-STIMULUS EEG ON THE CONSECUTIVE AUDITORY EVOKED POTENTIAL IN RATS",
+                "cites": "4",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-locking of event-related alpha oscillations",
+                "cites": "4",
+                "year": "2000"
+            },
+            "id_citations": "5LkDgzkAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "4-17-09 Using wavelet transform method to remove muscular artifacts and characterize EEG signals from epileptic tonic-clonic seizure",
+                "cites": "4",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Akakhievitch revisited Comment on\u201d The unreasonable effectiveness of small neural ensembles in high-dimensional brain\u201d by Alexander N. Gorban et al.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "5LkDgzkAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting information from the shape and spatial distribution of evoked potentials",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "5LkDgzkAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where is the ball? Behavioral and neural responses elicited by a magic trick",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual cognitive adventures of single neurons in the human medial temporal lobe",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Coding in the 12 Olfactory System",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-frequency analysis",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Iterative feedback tuning for the joint controllers of a 7-DOF whole arm manipulator",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signal processing for neural spike trains",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-cell electrical activity during human spontaneous interictal epileptiform discharges and responses to single pulse electrical stimulation (SPES): P2374",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear dynamic analysis of scalp EEG epileptic signals",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "5LkDgzkAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chaos in brain function",
+                "cites": "3",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations across species",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "5LkDgzkAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept cells in the human brain",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coding of movement intentions",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological foundations of neural signals",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding and Information Theory in Neuroscience",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-neuron recordings in epileptic patients",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "5LkDgzkAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Las neuronas de la conciencia",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "R. Quian Quiroga A. Kraskov T. Kreuz and P. Grassberger Performance of different synchronization measures in real data: a case study on electroencephalographic signals",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Borges e la memoria: Viaggio nel cervello umano da Funes al neurone Jennifer Aniston",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "5LkDgzkAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel unsupervised spike sorting implementation with variable number of features",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual development of hand-centered receptive fields in a neural network model of the primate visual system trained with experimentally recorded human gaze changes",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Next Generation Neural Interfaces for low-power multichannel spike sorting",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The man who could not forget: A BIT of Borges and memory",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real time decoding for brain-machine interface applications",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike Sorting",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception and Well\u2010being: A Cross\u2010Disciplinary Approach to Experiencing Art in the Museum",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electroencephalography",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Model of a 7-DOF Whole Arm Manipulator and Validation from Experimental Data.",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Auditory evoked P3 and the omission evoked potential decrease with predictability: a single-trial analyses with wavelet denoising reveals individual learning curves",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "5LkDgzkAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A wavelet denoising implementation for obtaining single-stimulus evoked potentials",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "La utilidad de los m\u00e9todos de an\u00e1lisis cuantificado del EEG en neurofisiolog\u00eda cl\u00ednica",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "5LkDgzkAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative Analyse von EEG-Signalen: Zeit-Frequenz-Methoden und Chaos-Theorie",
+                "cites": "1",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1-17-03 Applying time-frequency analysis to seizure EEG activity: A method to help identify the source of epileptic seizures",
+                "cites": "1",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closing the gap between mind and brain with the dynamic connectome",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroScience Fiction: From\" 2001: A Space Odyssey\" to\" Inception,\" How Neuroscience Is Transforming Sci-Fi into Reality\u2014While Challenging Our Beliefs About the Mind, Machines \u2026",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "5LkDgzkAAAAJ:8xutWZnSdmoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for the neural correlates of human intelligence.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single Neuron Coding of Identity in the Human Hippocampal Formation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new scaling rule for context-dependent moral judgments.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "5LkDgzkAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural hallmark of auditory implicit learning is altered in older adults",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "5LkDgzkAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pr\u00e9sent\u00e9e et soutenue le: 07/07/2017 par: Christelle LARZABAL BRINGING VERY LONG-TERM MEMORIES BACK TO LIFE R\u00c9VEILLER NOS M\u00c9MOIRES LES PLUS ANCIENNES",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System for a brain-computer interface",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Standalone headstage for neural recording with real-time spike sorting and data logging",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Registro de neuronas individuales del l\u00f3bulo temporal en humanos. P\u00f3ster",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "5LkDgzkAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept cells",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEURONAL BEHAVIOUR DURING DELAYED RESPONSES TO SINGLE PULSE ELECTRICAL STIMULATION (SPES) IN SUBJECTS WITH EPILEPSY: p0309",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "5LkDgzkAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Looking for a face in the crowd: fixation-related potentials in an eye-movement visual search task",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "5LkDgzkAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cardiac imaging studies: Are there possible risks?",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When the screen is not enough: differences of art exploration in the museum and in the lab",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "22 Principles of Neural Coding from EEG Signals",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population Coding by Place Cells and Grid Cells",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coding in the Whisker Sensory System",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meaning from sensory information.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ECoG and EEG Images in Higher Cognition",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic Concepts for Spatial Analysis",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelets",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image Sampling Based on Spectral Analysis",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Allocortical ECoG Images Formed by Learning",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "El archivo de la memoria",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neocortical ECoG Images Formed by Learning",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "5LkDgzkAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of Epileptic EEG Time Series (I)",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A NOVEL METHOD FOR THE CLASSIFICATION OF INTERICTAL EEG ABNORMALITIES IN PARTIAL EPILEPSY: AN EEG-FMRI VALIDATION STUDY: p208",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Borges and Memory: A Trip Through the Human Brain",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Borges y la memoria: Un viaje por el cerebro humano. De\" Funes el memorioso\" a la neurona de Jennifer",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixation-related potentials to faces in a free-viewing visual search task",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "5LkDgzkAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local field potential phase and spike timing convey information about different visual features in primary visual cortex",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronization hubs may arise from strong rhythmic inhibition during gamma oscillations in primary visual cortex",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rodrigo Quian Quiroga",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity of pyramidal cells and interneurons in the",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons in primary visual cortex encode naturalistic visual information using multiple temporal scales",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Mind of a Mnemonist: A Little Book About a Vast Memory",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary Visual Cortex Encodes Complementary Information about Naturalistic Movies at Different Temporal Scales",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signal Processing for Neural Spike Trains",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring sparseness in the brain: Comment on Bowers",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Catching the train of thoughts: Unraveling dynamic changes in the brain underlying learning and memory formation",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Renormalized and Kulback-Leibler-Entropies: Applications to Epileptic EEG",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can Driver-Response Relationships be Learned from Synchronization Patterns?",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain and single-trial somatosensory event-related potentials",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The'learning-oddball'paradigm: Data of 24 individuals illustrate the possibility of a new clinical tool",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "5LkDgzkAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Sparse representation in the human medial temporal lobe\": Correction.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous single-trial ERP-fMRI recordings.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Habituation effects on somatosensory event-related potentials (SEPs) elicited by painful electric stimuli",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approaches to single-trial ERP-fMRI integration",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial ERP-FMRI: The electric and hemodynamic correlates of expectancy in target processing",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of expectation on somatosensory event-related potentials (SEPs) elicited by painful electric stimuli",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "5LkDgzkAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single neuron correlates of change blindness in the human medial temporal lobe",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of expectancy on ommision evoked potentials (OEPs) in musicians and nonmusicians",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "5LkDgzkAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Very Simple and Fast Measure of Synchronization and Delay Between Signals",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to``Comment onKullback-Leibler and renormalized entropies: Applications to electroencephalograms of epilepsy patients'''",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EVENT SYNCHRONIZATION: A VERY SIMPLE AND FAST MEASURE OF SYNCHRONIZATION AND TIME-DELAY PATTERNS",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Audio-visual sensory integration is manifested in evoked gamma-and theta-responses of the human brain",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "5LkDgzkAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern processing and generalized synchronization in directionally coupled chaotic neural oscillators",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "5LkDgzkAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kullback-Leibler and Renormalized Entropy",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "5LkDgzkAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency evolution during Grand Mal seizures.",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "5LkDgzkAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet analysis of visual evoked potentials: a responses",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "5LkDgzkAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying Time-Frequency Analysis to Seizure EEG Activity: A Method to Help Identify the Source of Epileptic Seizures 1.46",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of EEG Signal by Wavelet Packets Methods.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "5LkDgzkAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STATIONARITY OF THE EEG SERIES (VOL 14, PG 395, 1995)",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "5LkDgzkAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grandmother",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse Representation in the Human Medial Temporal Lobe: Supplementary Methods",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Realistic simulation of extracellular recordings using detailed neuron models",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in Nonnegative Matrix and Tensor Factorization",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ACNR",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Las neuronas de la conciencia",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Read-out of visual information from inferior temporal cortex for object recognition",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Detailed and Fast Model of Extracellular Recordings",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rodrigo Quian Quiroga (2007), Scholarpedia, 2 (12): 3583. doi: 10.4249/scholarpedia. 3583 revision# 73204 [link to/cite this article]",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Experimental Procedures",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated classification of interictal epileptic EEG abnormalities and related hemodynamic changes",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Looking at Ophelia: A comparison of viewing art in",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Write-in and read-out from inferior temporal cortex for object recognition-aka \u201cThe Matrix\u201d",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Paper: OBTAINING SINGLE STIMULUS EVOKED POTENTIALS WITH WAVELET DENOISING",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signal Processing for Neural Spike Trains",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Las neuronas de la conciencia",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rodrigo Quian Quiroga (2007), Scholarpedia, 2 (12): 3583. doi: 10.4249/scholarpedia. 3583 revision# 28163 [link to/cite this article]",
+                "cites": "0"
+            },
+            "id_citations": "5LkDgzkAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=5LkDgzkAAAAJ",
+    "brain_inspired": {
+        "id": "985",
+        "link": "https://braininspired.co/podcast/68/",
+        "name": "Rodrigo Quian Quiroga",
+        "title": "BI 068 Rodrigo Quian Quiroga: NeuroScience Fiction",
+        "text": "Rodrigo and I discuss concept cells and his latest book, NeuroScience Fiction. The book is a whirlwind of many of the big questions in neuroscience, each one framed by of one of Rodrigo\u2019s favorite science fiction films and buttressed by tons of history, literature, and philosophy. We discuss a few of the topics in the book, like AI, identity, free will, consciousness, and immortality, and we keep returning to concept cells and the role of abstraction in human cognition."
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "affiliation": "Assistant Professor, Dept. of Computing Science & Dept. of Psychology, University of Alberta",
+    "cites_per_year": {
+        "2004": 4,
+        "2005": 15,
+        "2006": 20,
+        "2007": 12,
+        "2008": 29,
+        "2009": 30,
+        "2010": 29,
+        "2011": 23,
+        "2012": 31,
+        "2013": 33,
+        "2014": 51,
+        "2015": 100,
+        "2016": 87,
+        "2017": 118,
+        "2018": 119,
+        "2019": 152,
+        "2020": 91
+    },
+    "citedby": 954,
+    "citedby5y": 667,
+    "coauthors": [
+        {
+            "affiliation": "Founders University Professor of Machine Learning, Carnegie Mellon University",
+            "id": "MnfzuPYAAAAJ",
+            "name": "Tom Mitchell"
+        },
+        {
+            "affiliation": "Professor of Computing Science, University of Alberta",
+            "id": "I9C6UQgAAAAJ",
+            "name": "Paul Lu"
+        },
+        {
+            "affiliation": "Professor of Computing Science, University of Alberta",
+            "id": "v2FRdPYAAAAJ",
+            "name": "Duane Szafron"
+        },
+        {
+            "affiliation": "Professor of Fisheries Science, Virginia Tech",
+            "id": "d9mX-Q4AAAAJ",
+            "name": "Brian R. Murphy"
+        },
+        {
+            "affiliation": "Carnegie Mellon University",
+            "id": "YezyUawAAAAJ",
+            "name": "Leila Wehbe"
+        },
+        {
+            "affiliation": "Professor of Computer Science, University of Alberta",
+            "id": "Rn7APGIAAAAJ",
+            "name": "Russ Greiner"
+        },
+        {
+            "affiliation": "Google Research and IISc Bangalore",
+            "id": "CIZwXAcAAAAJ",
+            "name": "Partha Talukdar"
+        },
+        {
+            "affiliation": "University of Alberta",
+            "id": "BenEJ3IAAAAJ",
+            "name": "Roman Eisner"
+        },
+        {
+            "affiliation": "Statistics and Machine Learning, Carnegie Mellon University",
+            "id": "ZvFaPxUAAAAJ",
+            "name": "Aaditya Ramdas"
+        },
+        {
+            "affiliation": "University of Washington",
+            "id": "OO-2710AAAAJ",
+            "name": "Emily B. Fox"
+        },
+        {
+            "affiliation": "Chief Scientific Officer, Founder, BrainWavebank",
+            "id": "TtHE1jIAAAAJ",
+            "name": "Brian Murphy"
+        }
+    ],
+    "email": "@ualberta.ca",
+    "hindex": 14,
+    "hindex5y": 12,
+    "i10index": 14,
+    "i10index5y": 12,
+    "id": "Vw8z7qwAAAAJ",
+    "interests": [
+        "Machine Learning",
+        "Neuroscience",
+        "Computational Biology",
+        "Natural Language Processing"
+    ],
+    "name": "Alona Fyshe",
+    "publications": [
+        {
+            "bib": {
+                "title": "Simultaneously uncovering the patterns of brain regions involved in different story reading subprocesses",
+                "cites": "152",
+                "year": "2014"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FRED (A Framework for Reconstructing Epidemic Dynamics): an open-source software system for modeling infectious diseases and control strategies using census-based populations",
+                "cites": "123",
+                "year": "2013"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proteome Analyst: custom predictions with explanations in a web-based tool for high-throughput proteome annotations",
+                "cites": "120",
+                "year": "2004"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking neural coding of perceptual and semantic features of concrete nouns",
+                "cites": "114",
+                "year": "2012"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual explanation of evidence with additive classifiers",
+                "cites": "101",
+                "year": "2006"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpretable Semantic Vectors from a Joint Model of Brain-and Text-Based Meaning",
+                "cites": "57",
+                "year": "2014"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A compositional and interpretable semantic space",
+                "cites": "54",
+                "year": "2015"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving subcellular localization prediction using text classification and the gene ontology",
+                "cites": "53",
+                "year": "2008"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PA-GOSUB: a searchable database of model organism protein sequences with their predicted Gene Ontology molecular function and subcellular localization",
+                "cites": "38",
+                "year": "2005"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Documents and dependencies: an exploration of vector space models for semantic composition",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brainbench: A brain-image test suite for distributional semantic models",
+                "cites": "20",
+                "year": "2016"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse autoencoders for word decoding from magnetoencephalography",
+                "cites": "19",
+                "year": "2013"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical latent dictionaries for models of brain activation",
+                "cites": "18",
+                "year": "2012"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Good-enough brain model: Challenges, algorithms and discoveries in multi-subject experiments",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maxmin Q-learning: Controlling the Estimation Bias of Q-learning",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding language from the brain",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corpora and Cognition: The Semantic Composition of Adjectives and Nouns in the Human Brain",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ensemble methods for native language identification",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The lexical semantics of adjective\u2013noun phrases in the human brain",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding word semantics from magnetoencephalography time series transformations",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting word-level hidden state behaviour of character-level lstm language models",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social and Emotional Correlates of Capitalization on Twitter",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of semantics in neural network representations of visual information",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Term generalization and synonym resolution for biological abstracts: using the gene ontology for subcellular localization prediction",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trellis driver: distributing a java workflow across a network of workstations",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studying language in context using the temporal generalization method",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding music in the human brain using EEG data",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Poet Admits//Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FRED User's Guide",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PA-GOSUB: A Searchable Database of Model Organism Protein Sequences With Their Predicted GO Molecular Function and Subcellular Localization",
+                "cites": "1"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved object recognition using neural networks trained to mimic the brain\u2019s statistical properties",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training neural networks to mimic the brain improves object recognition performance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training neural networks to have brain-like representations improves object recognition performance.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Word Embeddings to Explore the Learned Representations of Convolutional Neural Networks",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Good-Enough Brain Model: Challenges, Algorithms and Discoveries in Multi-Subject Experiments",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The proteome analyst suite of automated function prediction tools",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PA-GOSUB: A searchable database of model organism protein sequences with their predicted GO molecular function and subcellular localization",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proteome analyst: Custom predictions with explanations in a web-based tool for high-throughput proteome annotations",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training neural networks with brain data improves object recognition performance",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding Word Semantics and Learning in EEG Data via an Artificial Language",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural representation of concepts during composition",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BISHOP, William CMU-ML-15-106 FITERAU, Madalina CMU-ML-15-105",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene Ontology Protein Function Prediction",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2015 Theses by Author",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Compositional and Interpretable Semantic Space: Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INTERPRETABLE SEMANTIC VECTORS FROM A JOINT MODEL OF BRAIN-AND TEXT-BASED MEANING: SUPPLEMENTARY MATERIAL",
+                "cites": "0"
+            },
+            "id_citations": "Vw8z7qwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Vw8z7qwAAAAJ"
+}

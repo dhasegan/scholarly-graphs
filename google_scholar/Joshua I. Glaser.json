@@ -1,0 +1,320 @@
+{
+    "affiliation": "Postdoc, Columbia University",
+    "cites_per_year": {
+        "2013": 7,
+        "2014": 23,
+        "2015": 38,
+        "2016": 55,
+        "2017": 66,
+        "2018": 109,
+        "2019": 129,
+        "2020": 70
+    },
+    "citedby": 505,
+    "citedby5y": 469,
+    "coauthors": [
+        {
+            "affiliation": "University Professor (PIK), bioengineering and neuroscience, UPenn",
+            "id": "MiFqJGcAAAAJ",
+            "name": "Konrad Paul Kording"
+        },
+        {
+            "affiliation": "Professor of Physiology, Physical Medicine and Rehabilitation, Biomedical Engineering, Northwestern",
+            "id": "24i8cx8AAAAJ",
+            "name": "Lee E. Miller"
+        },
+        {
+            "affiliation": "Resident Physician, Northwestern University - Internal Medicine, PSTP",
+            "id": "T8W-5LsAAAAJ",
+            "name": "Thaddeus R. Cybulski MD, PhD"
+        },
+        {
+            "affiliation": "Johns Hopkins University",
+            "id": "aynAoP8AAAAJ",
+            "name": "Reza Kalhor"
+        },
+        {
+            "affiliation": "Resident Physician, Pediatric Neurology, Children's Hospital of Philadelphia",
+            "id": "jjvixpcAAAAJ",
+            "name": "Patrick N. Lawlor, MD, PhD"
+        },
+        {
+            "affiliation": "Exponent",
+            "id": "ka6_M9sAAAAJ",
+            "name": "Daniel K Wood"
+        },
+        {
+            "affiliation": "Harvard Medical School",
+            "id": "SfDzdgEAAAAJ",
+            "name": "George Church"
+        },
+        {
+            "affiliation": "",
+            "id": "JtltLUAAAAAJ",
+            "name": "Pavan Ramkumar"
+        },
+        {
+            "affiliation": "Postdoc, Icahn School of Medicine at Mount Sinai",
+            "id": "tTUtLsQAAAAJ",
+            "name": "Matthew G. Perich"
+        },
+        {
+            "affiliation": "X, the moonshot factory",
+            "id": "r-V-R3YAAAAJ",
+            "name": "Brad Zamft"
+        },
+        {
+            "affiliation": "Research Scientist, Protocol Labs",
+            "id": "CWzi9D0AAAAJ",
+            "name": "David A. Dalrymple"
+        },
+        {
+            "affiliation": "Principal Scientist; GRO Biosciences",
+            "id": "XiFOND4AAAAJ",
+            "name": "P Benjamin Stranges"
+        },
+        {
+            "affiliation": "Professor of EECS, University of California at Berkeley",
+            "id": "GP64q_kAAAAJ",
+            "name": "Jan Rabaey"
+        },
+        {
+            "affiliation": "Professor of Chemical Engineering, Caltech",
+            "id": "W7ZMoJIAAAAJ",
+            "name": "Mikhail Shapiro"
+        },
+        {
+            "affiliation": "Professor of Electrical Engineering and Neuroscience, University of California, Berkeley",
+            "id": "qyF6UhQAAAAJ",
+            "name": "Jose Carmena"
+        },
+        {
+            "affiliation": "Research Director at OpenAI",
+            "id": "6-e-ZBEAAAAJ",
+            "name": "Dario Amodei"
+        },
+        {
+            "affiliation": "Professor of Electrical Engineering and Computer Science, University of California, Berkeley",
+            "id": "DJEiH1IAAAAJ",
+            "name": "Michel M. Maharbiz"
+        },
+        {
+            "affiliation": "Postdoctoral Scholar, Systems Neuroscience Institute, University of Pittsburgh",
+            "id": "Ab0Y1pwAAAAJ",
+            "name": "Raeed H. Chowdhury"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "q2rHA5QAAAAJ",
+            "name": "Ed Boyden"
+        },
+        {
+            "affiliation": "University of Illinois",
+            "id": "lf37ASAAAAAJ",
+            "name": "Alejandro Lleras"
+        }
+    ],
+    "email": "@columbia.edu",
+    "hindex": 11,
+    "hindex5y": 11,
+    "i10index": 12,
+    "i10index5y": 11,
+    "id": "tbfWCDgAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Machine Learning",
+        "Statistics"
+    ],
+    "name": "Joshua I. Glaser",
+    "publications": [
+        {
+            "bib": {
+                "title": "Physical principles for scalable neural recording",
+                "cites": "14231147813048883747",
+                "year": "2013",
+                "url": "https://www.frontiersin.org/articles/10.3389/fncom.2013.00137/full",
+                "author": "Yael G Maguire and Mikhail G Shapiro and Thaddeus R Cybulski and Joshua I Glaser and Dario Amodei and P Benjamin Stranges and Reza Kalhor and David A Dalrymple and Dongjin Seo and Elad Alon and Michel M Maharbiz and Jose M Carmena and Jan M Rabaey",
+                "journal": "Frontiers in computational neuroscience",
+                "volume": "7",
+                "pages": "137",
+                "publisher": "Frontiers",
+                "abstract": "Simultaneously measuring the activities of all neurons in a mammalian brain at millisecond resolution is a challenge beyond the limits of existing techniques in neuroscience. Entirely new approaches may be required, motivating an analysis of the fundamental physical constraints on the problem. We outline the physical principles governing brain activity mapping using optical, electrical,magnetic resonance, and molecular modalities of neural recording. Focusing on the mouse brain, we analyze the scalability of each method, concentrating on the limitations imposed by spatiotemporal resolution, energy dissipation, and volume displacement. We also study the physics of powering and communicating with microscale devices embedded in brain tissue.",
+                "eprint": "https://www.frontiersin.org/articles/10.3389/fncom.2013.00137/full"
+            },
+            "id_citations": "tbfWCDgAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning for neural decoding",
+                "cites": "63",
+                "year": "2017"
+            },
+            "id_citations": "tbfWCDgAAAAJ:DBa1UEJaJKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin affects movement gain control in the spinal cord",
+                "cites": "57",
+                "year": "2014"
+            },
+            "id_citations": "tbfWCDgAAAAJ:L1USKYWJimsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adoption of a high-impact innovation in a homogeneous population",
+                "cites": "36",
+                "year": "2014"
+            },
+            "id_citations": "tbfWCDgAAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of supervised machine learning in systems neuroscience",
+                "cites": "28",
+                "year": "2019"
+            },
+            "id_citations": "tbfWCDgAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of expected reward in frontal eye field during natural scene search",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "tbfWCDgAAAAJ:3NQIlFlcGxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical analysis of molecular signal recording",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "tbfWCDgAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature-based attention and spatial selection in frontal eye fields during natural scene search",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "tbfWCDgAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the effect of selection history on pop-out visual search",
+                "cites": "20",
+                "year": "2014"
+            },
+            "id_citations": "tbfWCDgAAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population coding of conditional probability distributions in dorsal premotor cortex",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "tbfWCDgAAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The development and analysis of integrated neuroscience data",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "tbfWCDgAAAAJ:1yWc8FF-_SYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial Information in Large-Scale Neural Recordings",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "tbfWCDgAAAAJ:Br1UauaknNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Puzzle imaging: Using large-scale dimensionality reduction algorithms for localization",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "tbfWCDgAAAAJ:hsZV8lGYWTMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Roles of Machine Learning in Biomedical Science",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "tbfWCDgAAAAJ:AXkvAH5U_nMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A muscle-activity-dependent gain between motor cortex and EMG",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "tbfWCDgAAAAJ:jE2MZjpN3IcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Area 2 of primary somatosensory cortex encodes kinematics of the whole arm",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "tbfWCDgAAAAJ:OBSaB-F7qqsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From prior information to saccade selection: evolution of frontal eye field activity during natural scene search",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "tbfWCDgAAAAJ:MAUkC_7iAq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recording temporal data onto DNA with minutes resolution",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "tbfWCDgAAAAJ:HGTzPopzzJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning approaches for neural decoding: from CNNs to LSTMs and spikes to fMRI",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "tbfWCDgAAAAJ:NDuN12AVoxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine Learning Approaches Towards Understanding Movement Planning in Naturalistic Settings",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "tbfWCDgAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=tbfWCDgAAAAJ"
+}

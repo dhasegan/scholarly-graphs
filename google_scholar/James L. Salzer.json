@@ -1,0 +1,1382 @@
+{
+    "affiliation": "New York University",
+    "cites_per_year": {
+        "1981": 42,
+        "1982": 74,
+        "1983": 47,
+        "1984": 68,
+        "1985": 66,
+        "1986": 52,
+        "1987": 68,
+        "1988": 110,
+        "1989": 96,
+        "1990": 120,
+        "1991": 78,
+        "1992": 99,
+        "1993": 89,
+        "1994": 97,
+        "1995": 114,
+        "1996": 122,
+        "1997": 157,
+        "1998": 188,
+        "1999": 218,
+        "2000": 262,
+        "2001": 370,
+        "2002": 351,
+        "2003": 463,
+        "2004": 414,
+        "2005": 421,
+        "2006": 509,
+        "2007": 470,
+        "2008": 618,
+        "2009": 461,
+        "2010": 505,
+        "2011": 572,
+        "2012": 603,
+        "2013": 636,
+        "2014": 602,
+        "2015": 532,
+        "2016": 561,
+        "2017": 607,
+        "2018": 492,
+        "2019": 569,
+        "2020": 381
+    },
+    "citedby": 12434,
+    "citedby5y": 3145,
+    "coauthors": [
+        {
+            "affiliation": "Dartmouth-Hitchcock Medical Center",
+            "id": "45HxRX8AAAAJ",
+            "name": "George Zanazzi"
+        },
+        {
+            "affiliation": "Professor, Developmental biology, Genetics, and Neuroscience",
+            "id": "ms5tVWcAAAAJ",
+            "name": "Hugo Bellen"
+        },
+        {
+            "affiliation": "Professor of Cell Biology, Neuroscience and Psychiatry",
+            "id": "uUgZxB4AAAAJ",
+            "name": "Moses Chao"
+        },
+        {
+            "affiliation": "UT MD Anderson Cancer Center",
+            "id": "SjsUaMsAAAAJ",
+            "name": "Filippo Giancotti"
+        },
+        {
+            "affiliation": "Istituto Scientifco San Raffaele, INSPE",
+            "id": "cePuZs8AAAAJ",
+            "name": "Angelo Quattrini"
+        },
+        {
+            "affiliation": "John S. Garvin Professor and Head, Neurology & Rehabilitation,  University of Illinois at Chicago",
+            "id": "dgeQtXkAAAAJ",
+            "name": "Jeffrey A. Loeb, MD, PhD"
+        },
+        {
+            "affiliation": "Scientific Director & Sr Investigator, NINDS",
+            "id": "bXU4590AAAAJ",
+            "name": "Lorna Role"
+        }
+    ],
+    "email": "@nyumc.org",
+    "hindex": 56,
+    "hindex5y": 34,
+    "i10index": 89,
+    "i10index5y": 64,
+    "id": "d5Y0GRwAAAAJ",
+    "interests": [
+        "neuroscience"
+    ],
+    "name": "James L. Salzer",
+    "publications": [
+        {
+            "bib": {
+                "title": "Neuregulin-1 type III determines the ensheathment fate of axons",
+                "cites": "675",
+                "year": "2005"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axon-glia interactions and the domain organization of myelinated axons requires neurexin IV/Caspr/Paranodin",
+                "cites": "521",
+                "year": "2001"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Caspr2, a new member of the neurexin superfamily, is localized at the juxtaparanodes of myelinated axons and associates with K+ channels",
+                "cites": "473",
+                "year": "1999"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axonal regulation of myelination by neuregulin 1",
+                "cites": "464",
+                "year": "2006"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studies of Schwann cell proliferation. I. An analysis in tissue culture of proliferation during development, Wallerian degeneration, and direct injury.",
+                "cites": "448",
+                "year": "1980"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The amino acid sequences of the myelin-associated glycoproteins: homology to the immunoglobulin gene superfamily",
+                "cites": "442",
+                "year": "1987"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GGF/neuregulin is a neuronal signal that promotes the proliferation and survival and inhibits the differentiation of oligodendrocyte progenitors",
+                "cites": "408",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Polarized domains of myelinated axons",
+                "cites": "398",
+                "year": "2003"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The axonal membrane protein Caspr, a homologue of neurexin IV, is a component of the septate-like paranodal junctions that assemble during myelination",
+                "cites": "357",
+                "year": "1997"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studies of Schwann cell proliferation. III. Evidence for the surface localization of the neurite mitogen.",
+                "cites": "316",
+                "year": "1980"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studies of Schwann cell proliferation. II. Characterization of the stimulation and specificity of the response to a neurite membrane fraction.",
+                "cites": "297",
+                "year": "1980"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contactin-associated protein (Caspr) and contactin form a complex that is targeted to the paranodal junctions during myelination",
+                "cites": "268",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of \u03b1-dystroglycan as a Schwann cell receptor for Mycobacterium leprae",
+                "cites": "264",
+                "year": "1998"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axonal regulation of Schwann cell proliferation and survival and the initial events of myelination requires PI 3-kinase activity",
+                "cites": "251",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular domains of myelinated axons",
+                "cites": "235",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of the cell wall phenolic glycolipid-1 in the peripheral nerve predilection of Mycobacterium leprae",
+                "cites": "230",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular domains of myelinated axons in the peripheral nervous system",
+                "cites": "211",
+                "year": "2008"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contact-dependent demyelination by Mycobacterium leprae in the absence of immune cells",
+                "cites": "206",
+                "year": "2002"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axon-Schwann cell interactions during peripheral nerve degeneration and regeneration",
+                "cites": "201",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axonal regulation of Schwann cell integrin expression suggests a role for alpha 6 beta 4 in myelination.",
+                "cites": "201",
+                "year": "1993"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural targeting of Mycobacterium leprae mediated by the G domain of the laminin-\u03b12 chain",
+                "cites": "199",
+                "year": "1997"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expression of caveolin-1 and-2 in differentiating PC12 cells and dorsal root ganglion neurons: caveolin-2 is up-regulated in response to cell injury",
+                "cites": "193",
+                "year": "1998"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Type III neuregulin\u20101 promotes oligodendrocyte myelination",
+                "cites": "182",
+                "year": "2008"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nodes of Ranvier and axon initial segments are ankyrin G\u2013dependent domains that assemble by distinct mechanisms",
+                "cites": "181",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transforming growth factor-beta 1 regulates axon/Schwann cell interactions.",
+                "cites": "179",
+                "year": "1995"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nectin-like proteins mediate axon\u2013Schwann cell interactions along the internode and are essential for myelination",
+                "cites": "175",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Glial growth factor/neuregulin inhibits Schwann cell myelination and induces demyelination",
+                "cites": "167",
+                "year": "2001"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Myelin-associated glycoprotein interacts with neurons via a sialic acid binding site at ARG118 and a distinct neurite inhibition site",
+                "cites": "157",
+                "year": "1997"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Paranodal interactions regulate expression of sodium channel subtypes and provide a diffusion barrier for the node of Ranvier",
+                "cites": "156",
+                "year": "2003"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cloning of neurotrimin defines a new subfamily of differentially expressed neural cell adhesion molecules",
+                "cites": "146",
+                "year": "1995"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schwann cell myelination",
+                "cites": "140",
+                "year": "2015"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Caspr regulates the processing of contactin and inhibits its binding to neurofascin",
+                "cites": "139",
+                "year": "2003"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Myelin-associated glycoprotein in myelin and expressed by Schwann cells inhibits axonal regeneration and branching",
+                "cites": "137",
+                "year": "1998"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nodes of Ranvier form in association with ezrin-radixin-moesin (ERM)-positive Schwann cell processes",
+                "cites": "131",
+                "year": "2001"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clustering sodium channels at the node of Ranvier: close encounters of the axon\u2013glia kind",
+                "cites": "128",
+                "year": "1997"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rho kinase regulates schwann cell myelination and formation of associated axonal domains",
+                "cites": "126",
+                "year": "2004"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TACE (ADAM17) inhibits Schwann cell myelination",
+                "cites": "125",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Soluble neuregulin-1 has bifunctional, concentration-dependent effects on Schwann cell myelination",
+                "cites": "125",
+                "year": "2010"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GGF/neuregulin induces a phenotypic reversion of oligodendrocytes",
+                "cites": "124",
+                "year": "1999"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regional and ultrastructural distribution of the \u03b18 integrin subunit in developing and adult rat brain suggests a role in synaptic function",
+                "cites": "124",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The myelin-associated glycoproteins: membrane disposition, evidence of a novel disulfide linkage between immunoglobulin-like domains, and posttranslational palmitylation.",
+                "cites": "115",
+                "year": "1990"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interleukin-11 potentiates oligodendrocyte survival and maturation, and myelin formation",
+                "cites": "114",
+                "year": "2006"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axolemma-enriched fractions isolated from PNS and CNS are mitogenic for cultured Schwann cells",
+                "cites": "113",
+                "year": "1982"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurotrimin mediates bifunctional effects on neurite outgrowth via homophilic and heterophilic interactions",
+                "cites": "107",
+                "year": "1998"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibition of Gli1 mobilizes endogenous neural stem cells for remyelination",
+                "cites": "88",
+                "year": "2015"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nr-CAM and neurofascin interactions regulate ankyrin G and sodium channel clustering at the node of Ranvier",
+                "cites": "87",
+                "year": "2001"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clustering of neuronal sodium channels requires contact with myelinating Schwann cells",
+                "cites": "84",
+                "year": "1999"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Myosin II has distinct functions in PNS and CNS myelin sheath formation",
+                "cites": "79",
+                "year": "2008"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complementary expression and heterophilic interactions between IgLON family members neurotrimin and LAMP",
+                "cites": "73",
+                "year": "2002"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expression of recombinant myelin-associated glycoprotein in primary Schwann cells promotes the initial investment of axons by myelinating Schwann cells.",
+                "cites": "73",
+                "year": "1990"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assembly and maintenance of nodes of ranvier rely on distinct sources of proteins and targeting mechanisms",
+                "cites": "72",
+                "year": "2012"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ran\u20102, a glial lineage marker, is a GPI\u2010anchored form of ceruloplasmin",
+                "cites": "71",
+                "year": "1998"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of the cysteine residue responsible for disulfide linkage of Na+ channel \u03b1 and \u03b22 subunits",
+                "cites": "70",
+                "year": "2012"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential expression of MAG isoforms during development",
+                "cites": "68",
+                "year": "1991"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of cell adhesion in the nervous system: role of the immunoglobulin gene superfamily",
+                "cites": "65",
+                "year": "1989"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Akt regulates axon wrapping and myelin sheath thickness in the PNS",
+                "cites": "63",
+                "year": "2016"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutation of SIMPLE in Charcot\u2013Marie\u2013Tooth 1C alters production of exosomes",
+                "cites": "56",
+                "year": "2013"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential expression of proteoglycans at central and peripheral nodes of Ranvier",
+                "cites": "54",
+                "year": "2005"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functionally distinct PI 3-kinase pathways regulate myelination in the peripheral nervous system",
+                "cites": "50",
+                "year": "2014"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disrupted axo-glial junctions result in accumulation of abnormal mitochondria at nodes of Ranvier",
+                "cites": "48",
+                "year": "2006"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell cycle control of Schwann cell proliferation: role of cyclin-dependent kinase-2",
+                "cites": "48",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure and function of the myelin-associated glycoproteins.",
+                "cites": "48",
+                "year": "1990"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expression of unique sets of GPI-linked proteins by different primary neurons in vitro.",
+                "cites": "47",
+                "year": "1992"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Myelin-associated glycoprotein: structure-function relationships and involvement in neurological diseases",
+                "cites": "47",
+                "year": "1992"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Switching myelination on and off",
+                "cites": "45",
+                "year": "2008"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurofascin interactions play a critical role in clustering sodium channels, ankyrinG and \u03b2IV spectrin at peripheral nodes of Ranvier",
+                "cites": "45",
+                "year": "2006"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axonal regulation of Schwann cell ensheathment and myelination",
+                "cites": "44",
+                "year": "2012"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Myelination",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Growth control by cell to cell contact",
+                "cites": "41",
+                "year": "1979"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The 4.1 B cytoskeletal protein regulates the domain organization and sheath thickness of myelinated axons",
+                "cites": "38",
+                "year": "2013"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurotrimin expression during cerebellar development suggests roles in axon fasciculation and synaptogenesis",
+                "cites": "38",
+                "year": "2001"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Label-free imaging of Schwann cell myelination by third harmonic generation microscopy",
+                "cites": "37",
+                "year": "2014"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chromosomal location of the mouse gene that encodes the myelin\u2010associated glycoproteins",
+                "cites": "37",
+                "year": "1988"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localized myosin II activity regulates assembly and plasticity of the axon initial segment",
+                "cites": "36",
+                "year": "2018"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential phosphorylation of myelin\u2010associated glycoprotein isoforms in cell culture",
+                "cites": "36",
+                "year": "1990"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MMP2-9 cleavage of dystroglycan alters the size and molecular composition of Schwann cell domains",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A glial spin on neurotrophins",
+                "cites": "33",
+                "year": "2002"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuregulins as potential drugs for neurological disorders",
+                "cites": "27",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction. Schwann cell biology.",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electron tomography of paranodal septate\u2010like junctions and the associated axonal and glial cytoskeletons in the central nervous system",
+                "cites": "23",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell adhesion properties of myelin\u2010associated glycoprotein in L cell fibroblasts",
+                "cites": "23",
+                "year": "1991"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MLCK regulates Schwann cell cytoskeletal organization, differentiation and myelination",
+                "cites": "22",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuregulins as potential neuroprotective agents.",
+                "cites": "21",
+                "year": "1997"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STIMULATION OF SCHWANN CELL-PROLIFERATION BY A NEURITE MEMBRANE FRACTION",
+                "cites": "20",
+                "year": "1977"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nodes of Ranvier come of age",
+                "cites": "19",
+                "year": "2002"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What's all the RAVE about receptor internalization?",
+                "cites": "18",
+                "year": "1999"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biosynthesis and regulation of expression of the HNK\u20101 epitope on myelin\u2010associated glycoprotein in a transfected cell model system",
+                "cites": "15",
+                "year": "1995"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studies of Schwann cell proliferation",
+                "cites": "14",
+                "year": "1980"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GPI-anchored proteins in neural cell adhesion",
+                "cites": "13",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Myelination: actin disassembly leads the way",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PARsing the events of myelination",
+                "cites": "9",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expression of neurotrimin in the normal and injured adult human spinal cord",
+                "cites": "8",
+                "year": "2006"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Creating barriers: a new role for Schwann cells and Desert hedgehog",
+                "cites": "5",
+                "year": "1999"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Necl\u20104/Cadm4 recruits Par\u20103 to the Schwann cell adaxonal membrane",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent TGF\u2010\u03b21\u2010transduced CD4+ T cells suppress the progression of allergic encephalomyelitis",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method for enhancing remyelination using GLI1 inhibitors",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental Aspects of Myelin Membrane Protein Synthesis: Spatial Segregation of Polyribosomes",
+                "cites": "2",
+                "year": "1988"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Independent anterograde transport and retrograde cotransport of domain components of myelinated axons",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An unfolding role for ankyrin-G at the axon initial segment",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microglia are necessary for toxin-mediated demyelination and activation of microglia is sufficient to induce demyelination",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A glial investment of axons defrayed",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EXPRESSION AND DISTRIBUTION OF THE ALPHA-6-BETA-4-INTEGRIN IN MYELINATING SCHWANN-CELLS",
+                "cites": "1",
+                "year": "1992"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synthesis of the Myelin Polypeptides and Mechanisms for their Association with the Membrane",
+                "cites": "1",
+                "year": "1987"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accumulation of Neurofascin at nodes of Ranvier is regulated by a Paranodal Switch",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control of Channel Clustering by Cleavage",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gli2 is necessary for migration of ventral Neural Stem Cells to demyelinated lesions",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schwann cell-derived desert hedgehog regulates the endoneurial fibroblast phenotype in peripheral nerves via Gli1",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MLCK regulates Schwann cell cytoskeletal organization, differentiation and myelination",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ADAM17/TACE inhibits Schwann cell myelination",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "David Colman: A Tribute",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ADAM17/TACE inhibits Schwann cell myelination",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AKT REGULATES MYELIN SHEATH THICKNESS AND AXON WRAPPING IN THE PNS",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ROLE OF SECRETASES IN MYELINATION",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parkinson\u2019s Disease: A Thalamostriatal Rebalancing Act?",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SECRETASES AND NEUREGULIN IN PNS MYELINATION: S04-02",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SECRETASES AND NEUREGULIN IN MYELINATION",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AXON-SCHWANN CELL INTERACTIONS THAT PROMOTE MYELINATION",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AXO-GLIAL INTERACTIONS OF MYELINATION: PL04",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schwann Cells: Development, Function, and Disease Introduction",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential regulation of PNS and CNS myelin sheath formation by myosin II",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interleukin-11 potentiates oligodendrocyte survival and maturation, and myelin formation",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Nectin-like proteins are internodal adhesion molecules required for myelination",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Nectin-like proteins form an internodal complex with 4.1 B required for PNS myelination",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Nectin-like proteins are internodal adhesion molecules required for myelination",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rho-GTPases regulate Schwann cell morphology and myelination",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DEVELOPMENT/PLASTICITY/REPAIR-Paranodal Interactions Regulate Expression of Sodium Channel Subtypes and Provide a Diffusion Barrier for the Node of Ranvier",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of Rho-GTPases in the control of Schwann cell morphology and nodal microvilli formation",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mycobacterium leprae and demyelination-Response",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development/Plasticity/Repair-Axonal Regulation of Schwann Cell Proliferation and Survival and the Initial Events of Myelination Requires PI 3-Kinase Activity Patrice/Maurel",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of Neurexin IV in peripheral glia in Drosophila and Mouse",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expression of caveolin-1 and-2 in neurons",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In Memoriam: Richard Paul Bunge",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axon-Schwann cell",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "POTENTIAL ROLE OF INTEGRINS IN MYELINATION",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CHARACTERIZATION OF THE OPIATE BINDING-CELL ADHESION MOLECULE-AN ABUNDANT GPI-ANCHORED PROTEIN IN THE RAT CNS",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MICHAEL BROWN,* ARIE STRUYK,* DANIEL AFAR,'AND JOHN BELL'bDepartment of Cell Biology and cNeurology New York University Medical School",
+                "cites": "0",
+                "year": "1990"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subject Index Vol. 11, 1989",
+                "cites": "0",
+                "year": "1989"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contents Vol. 11, 1989",
+                "cites": "0",
+                "year": "1989"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author Index Vol. 11, 1989",
+                "cites": "0",
+                "year": "1989"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TISSUE CULTURE STUDIES OF SCHWANN CELL PROLIFERATION.",
+                "cites": "0",
+                "year": "1981"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CONTROL OF CELL-DIVISION BY CELL TO CELL CONTACT",
+                "cites": "0",
+                "year": "1979"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PMC2690820.",
+                "cites": "0"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "R. Douglas Fields",
+                "cites": "0"
+            },
+            "id_citations": "d5Y0GRwAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=d5Y0GRwAAAAJ"
+}

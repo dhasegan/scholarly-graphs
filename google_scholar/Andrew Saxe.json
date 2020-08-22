@@ -1,0 +1,554 @@
+{
+    "affiliation": "Sir Henry Dale Fellow, Department of Experimental Psychology, University of Oxford",
+    "cites_per_year": {
+        "2009": 7,
+        "2010": 26,
+        "2011": 37,
+        "2012": 68,
+        "2013": 111,
+        "2014": 129,
+        "2015": 173,
+        "2016": 292,
+        "2017": 346,
+        "2018": 546,
+        "2019": 656,
+        "2020": 389
+    },
+    "citedby": 2806,
+    "citedby5y": 2408,
+    "coauthors": [
+        {
+            "affiliation": "Associate Professor, Stanford University",
+            "id": "rF2VvOgAAAAJ",
+            "name": "Surya Ganguli"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "mG4imMEAAAAJ",
+            "name": "Andrew Ng"
+        },
+        {
+            "affiliation": "Harvard University",
+            "id": "0OgwPgcAAAAJ",
+            "name": "Madhu Advani"
+        },
+        {
+            "affiliation": "",
+            "id": "iYN86KEAAAAJ",
+            "name": "Ian Goodfellow"
+        },
+        {
+            "affiliation": "Director, MIT-IBM Watson AI Lab, IBM Research AI",
+            "id": "6S-WgLkAAAAJ",
+            "name": "David Cox"
+        },
+        {
+            "affiliation": "Harvard University",
+            "id": "uj1OljkAAAAJ",
+            "name": "Yamini Bansal"
+        },
+        {
+            "affiliation": "Google Brain / U. Michigan",
+            "id": "fmSHtE8AAAAJ",
+            "name": "Honglak Lee"
+        },
+        {
+            "affiliation": "Research Scientist, Google Brain",
+            "id": "vfT6-XIAAAAJ",
+            "name": "Quoc V. Le"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "Nn990CkAAAAJ",
+            "name": "Pang Wei Koh"
+        },
+        {
+            "affiliation": "Calico Life Sciences",
+            "id": "dGPqP-wAAAAJ",
+            "name": "Zhenghao Chen"
+        },
+        {
+            "affiliation": "Professor of Psychology, Co-Director of Princeton Neuroscience Institute, Princeton University",
+            "id": "NCkkQAMAAAAJ",
+            "name": "Jonathan D. Cohen"
+        },
+        {
+            "affiliation": "",
+            "id": "oZ_uAFoAAAAJ",
+            "name": "Ritvik Mudur"
+        },
+        {
+            "affiliation": "Research Scientist at Google DeepMind",
+            "id": "NkzyCvUAAAAJ",
+            "name": "Oriol Vinyals"
+        },
+        {
+            "affiliation": "University of the Witwatersrand",
+            "id": "gCE6yEQAAAAJ",
+            "name": "Adam Earle"
+        },
+        {
+            "affiliation": "Associate Professor at the University of the Witwatersrand, South Africa",
+            "id": "pWJ0SocAAAAJ",
+            "name": "Benjamin Rosman"
+        },
+        {
+            "affiliation": "Santa Fe Institute",
+            "id": "RmRwJJIAAAAJ",
+            "name": "Artemy Kolchinsky"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "bYqAaqYAAAAJ",
+            "name": "Brendan Tracey"
+        },
+        {
+            "affiliation": "Bioengineering PhD student, Harvard University",
+            "id": "4ZnsOa8AAAAJ",
+            "name": "Joel Dapello"
+        },
+        {
+            "affiliation": "Ko\u00e7 University",
+            "id": "byDdJwgAAAAJ",
+            "name": "Fuat Balc\u0131"
+        },
+        {
+            "affiliation": "Associate Professor of Neuroscience, Oberlin College",
+            "id": "Zz2HbjIAAAAJ",
+            "name": "Patrick Simen"
+        }
+    ],
+    "email": "@psy.ox.ac.uk",
+    "hindex": 16,
+    "hindex5y": 15,
+    "i10index": 21,
+    "i10index5y": 17,
+    "id": "h0Al1fcAAAAJ",
+    "interests": [
+        "Theoretical Neuroscience",
+        "Machine Learning"
+    ],
+    "name": "Andrew Saxe",
+    "publications": [
+        {
+            "bib": {
+                "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+                "cites": "9090095758382098911",
+                "year": "2013",
+                "url": "https://arxiv.org/abs/1312.6120",
+                "author": "Andrew M Saxe and James L McClelland and Surya Ganguli",
+                "journal": "arXiv preprint arXiv:1312.6120",
+                "abstract": "Despite the widespread practical success of deep learning methods, our theoretical understanding of the dynamics of learning in deep neural networks remains quite sparse. We attempt to bridge the gap between the theory and practice of deep learning by systematically analyzing learning dynamics for the restricted case of deep linear neural networks. Despite the linearity of their input-output map, such networks have nonlinear gradient descent dynamics on weights that change with the addition of each new hidden layer. We show that deep linear networks exhibit nonlinear learning phenomena similar to those seen in simulations of nonlinear networks, including long plateaus followed by rapid transitions to lower error solutions, and faster convergence from greedy unsupervised pretraining initial conditions than from random initial conditions. We provide an analytical description of these phenomena by finding new exact solutions to the nonlinear dynamics of deep learning. Our theoretical analysis also reveals the surprising finding that as the depth of a network approaches infinity, learning speed can nevertheless remain finite: for a special class of initial conditions on the weights, very deep networks incur only a finite, depth independent, delay in learning speed relative to shallow networks. We show that, under certain conditions on the training data, unsupervised pretraining can find this special class of initial conditions, while scaled random Gaussian initializations cannot. We further exhibit a new class of random orthogonal initial conditions on weights that, like unsupervised pre-training, enjoys depth independent learning times. We further \u2026",
+                "eprint": "https://arxiv.org/pdf/1312.6120"
+            },
+            "id_citations": "h0Al1fcAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring invariances in deep networks",
+                "cites": "395",
+                "year": "2009"
+            },
+            "id_citations": "h0Al1fcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On random weights and unsupervised feature learning.",
+                "cites": "375",
+                "year": "2011"
+            },
+            "id_citations": "h0Al1fcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Qualitatively characterizing neural network optimization problems",
+                "cites": "261",
+                "year": "2014"
+            },
+            "id_citations": "h0Al1fcAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the information bottleneck theory of deep learning",
+                "cites": "147",
+                "year": "2019"
+            },
+            "id_citations": "h0Al1fcAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acquisition of decision making criteria: reward rate ultimately beats accuracy",
+                "cites": "146",
+                "year": "2011"
+            },
+            "id_citations": "h0Al1fcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-dimensional dynamics of generalization error in neural networks",
+                "cites": "108",
+                "year": "2017"
+            },
+            "id_citations": "h0Al1fcAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deterministic matrices matching the compressed sensing phase transitions of Gaussian random matrices",
+                "cites": "87",
+                "year": "2013"
+            },
+            "id_citations": "h0Al1fcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "57",
+                "year": "2019"
+            },
+            "id_citations": "h0Al1fcAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning hierarchical category structure in deep neural networks",
+                "cites": "55"
+            },
+            "id_citations": "h0Al1fcAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised learning models of primary cortical receptive fields and receptive field plasticity",
+                "cites": "54",
+                "year": "2011"
+            },
+            "id_citations": "h0Al1fcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling cortical representational plasticity with unsupervised feature learning",
+                "cites": "33",
+                "year": "2011"
+            },
+            "id_citations": "h0Al1fcAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active long term memory networks",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "h0Al1fcAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mathematical theory of semantic development in deep neural networks",
+                "cites": "24",
+                "year": "2019"
+            },
+            "id_citations": "h0Al1fcAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DARPA Urban Challenge Princeton University Technical Paper",
+                "cites": "20",
+                "year": "2007"
+            },
+            "id_citations": "h0Al1fcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy\u2013entropy competition and the effectiveness of stochastic gradient descent in machine learning",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "h0Al1fcAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multitasking Capability Versus Learning Efficiency in Neural Network Architectures.",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "h0Al1fcAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospect Eleven: Princeton University's entry in the 2005 DARPA Grand Challenge",
+                "cites": "15",
+                "year": "2006"
+            },
+            "id_citations": "h0Al1fcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of stochastic gradient descent for two-layer neural networks in the teacher-student setup",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "h0Al1fcAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchy through composition with multitask LMDPs",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "h0Al1fcAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of learning in deep linear neural networks",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "h0Al1fcAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensor switching networks",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "h0Al1fcAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minnorm training: an algorithm for training overcomplete deep neural networks",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "h0Al1fcAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are efficient deep representations learnable?",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "h0Al1fcAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kratos: Princeton University's entry in the 2008 intelligent ground vehicle competition",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "h0Al1fcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep linear neural networks: A theory of learning in the brain and mind",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "h0Al1fcAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalisation dynamics of online learning in over-parameterised neural networks",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "h0Al1fcAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical subtask discovery with non-negative matrix factorization",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "h0Al1fcAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling perceptual learning with deep networks",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "h0Al1fcAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precis of deep linear neural networks: a theory of learning in the brain and mind",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "h0Al1fcAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning dynamics of deep networks admit low-rank tensor descriptions",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "h0Al1fcAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchy through composition with linearly solvable markov decision processes",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "h0Al1fcAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "If deep learning is the answer, then what is the question?",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "h0Al1fcAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Critique of Pure Hierarchy: Uncovering Cross-Cutting Structure in a Natural Dataset",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "h0Al1fcAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tutorial Workshop on Contemporary Deep Neural Network Models.",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "h0Al1fcAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incremental Hierarchical Reinforcement Learning with Multitask LMDPs",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "h0Al1fcAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring actions, intentions, and causal relations in a neural network.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "h0Al1fcAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Learning and the Brain.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "h0Al1fcAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multitask model-free reinforcement learning.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "h0Al1fcAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Workshop on Deep Learning and the Brain",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "h0Al1fcAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Information: A mathematical theory of semantic development in deep neural networks",
+                "cites": "0"
+            },
+            "id_citations": "h0Al1fcAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material for Hierarchy Through Composition with Multitask LMDPs",
+                "cites": "0"
+            },
+            "id_citations": "h0Al1fcAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospect Eleven",
+                "cites": "0"
+            },
+            "id_citations": "h0Al1fcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Christopher Baldassano, David Benjamin, Benjamin Chen, Gordon Franken, Will Hu, Jonathan Mayer",
+                "cites": "0"
+            },
+            "id_citations": "h0Al1fcAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospect Eleven\u2019s Autonomous Accomplishments while relying on Stereo Vision for Object and Physical Boundary Detection",
+                "cites": "0"
+            },
+            "id_citations": "h0Al1fcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of perceptual decision making in lateral intraparietal area",
+                "cites": "0"
+            },
+            "id_citations": "h0Al1fcAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=h0Al1fcAAAAJ",
+    "brain_inspired": {
+        "id": "904",
+        "link": "https://braininspired.co/podcast/52/",
+        "name": "Andrew Saxe",
+        "title": "BI 052 Andrew Saxe: Deep Learning Theory",
+        "text": "Andrew and I discuss his work exploring how various facets of deep networks contribute to their function, i.e. deep network theory. We talk about what he\u2019s learned by studying linear deep networks and asking how depth and initial weights affect learning dynamics, when replay is appropriate (and when it\u2019s not), how semantics develop, and what it all might tell us about deep learning in brains."
+    }
+}

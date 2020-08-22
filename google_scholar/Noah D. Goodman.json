@@ -1,0 +1,2779 @@
+{
+    "affiliation": "Stanford University",
+    "cites_per_year": {
+        "2007": 31,
+        "2008": 42,
+        "2009": 110,
+        "2010": 137,
+        "2011": 286,
+        "2012": 493,
+        "2013": 623,
+        "2014": 821,
+        "2015": 1040,
+        "2016": 1388,
+        "2017": 1466,
+        "2018": 1865,
+        "2019": 2228,
+        "2020": 1083
+    },
+    "citedby": 11932,
+    "citedby5y": 9120,
+    "coauthors": [
+        {
+            "affiliation": "MIT",
+            "id": "rRJ9wTJMUB8C",
+            "name": "Joshua B. Tenenbaum"
+        },
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "David and Lucile Packard Foundation Professor of Human Biology, Stanford University",
+            "id": "dErAioMAAAAJ",
+            "name": "Michael C. Frank"
+        },
+        {
+            "affiliation": "Ought",
+            "id": "-PR7-K0AAAAJ",
+            "name": "Andreas Stuhlm\u00fcller"
+        },
+        {
+            "affiliation": "Assistant Professor, Harvard",
+            "id": "5SF-hRsAAAAJ",
+            "name": "Tomer Ullman"
+        },
+        {
+            "affiliation": "Melbourne School of Psychological Sciences",
+            "id": "Zbo61UMAAAAJ",
+            "name": "Charles Kemp"
+        },
+        {
+            "affiliation": "Cognitive Psychology, Stanford University",
+            "id": "Y9BLeTAAAAAJ",
+            "name": "Justine T. Kao"
+        },
+        {
+            "affiliation": "Max Planck Institute for Intelligent Systems, T\u00fcbingen",
+            "id": "JscQvlUAAAAJ",
+            "name": "Falk Lieder"
+        },
+        {
+            "affiliation": "University of Toronto, Dept of Statistical Sciences; Computer Science",
+            "id": "vA6ZQ_AAAAAJ",
+            "name": "Daniel M. Roy"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "zykJTC4AAAAJ",
+            "name": "Steven T. Piantadosi"
+        },
+        {
+            "affiliation": "Assistant professor, Stanford University (Linguistics)",
+            "id": "0sXKFFkAAAAJ",
+            "name": "Judith Degen"
+        },
+        {
+            "affiliation": "Assistant professor, Stanford University",
+            "id": "5sxR1GkAAAAJ",
+            "name": "Daniel Lassiter"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "RzEnQmgAAAAJ",
+            "name": "Patrick Hanrahan"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "d0TfP8EAAAAJ",
+            "name": "Tobias Gerstenberg"
+        },
+        {
+            "affiliation": "Chief Scientist, isee AI",
+            "id": "bTdT7hAAAAAJ",
+            "name": "Chris Baker"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "AMb1WywAAAAJ",
+            "name": "David Lagnado"
+        },
+        {
+            "affiliation": "Brown University",
+            "id": "0RiypNsAAAAJ",
+            "name": "Daniel Ritchie"
+        },
+        {
+            "affiliation": "Associate Faculty, Rutgers University--Newark",
+            "id": "MA7j1gkAAAAJ",
+            "name": "Elizabeth Bonawitz"
+        },
+        {
+            "affiliation": "Assistant professor of Computer Science, Brigham Young University",
+            "id": "zCdh4NEAAAAJ",
+            "name": "David Wingate"
+        },
+        {
+            "affiliation": "McGill University, Mila",
+            "id": "iYjXhYwAAAAJ",
+            "name": "Timothy John O'Donnell"
+        }
+    ],
+    "email": "@stanford.edu",
+    "hindex": 55,
+    "hindex5y": 50,
+    "i10index": 139,
+    "i10index5y": 123,
+    "id": "OUpIbcQAAAAJ",
+    "interests": [],
+    "name": "Noah D. Goodman",
+    "publications": [
+        {
+            "bib": {
+                "title": "How to grow a mind: Statistics, structure, and abstraction",
+                "cites": "1276",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Church: a language for generative models",
+                "cites": "701",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The double-edged sword of pedagogy: Instruction limits spontaneous exploration and discovery",
+                "cites": "566",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting pragmatic reasoning in language games",
+                "cites": "562",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using speakers' referential intentions to model early cross-situational word learning",
+                "cites": "361",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One and done? Optimal decisions from very few samples",
+                "cites": "353",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One and done? Optimal decisions from very few samples",
+                "cites": "353",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowledge and implicature: Modeling language understanding as social cognition",
+                "cites": "316",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Rational Analysis of Rule\u2010Based Concept Learning",
+                "cites": "313",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where science starts: Spontaneous experiments in preschoolers\u2019 exploratory play",
+                "cites": "221",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rational use of cognitive resources: Levels of analysis between the computational and the algorithmic",
+                "cites": "215",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Qovp55VTycgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pragmatic language interpretation as probabilistic inference",
+                "cites": "192",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:USX2HHcnDqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pyro: Deep universal probabilistic programming",
+                "cites": "191",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:UoSa6IK8DwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The design and implementation of probabilistic programming languages",
+                "cites": "172",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:M3zsPnPgUlUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning a theory of causality.",
+                "cites": "167",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning disentangled representations with semi-supervised deep generative models",
+                "cites": "156",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:mpaOjDK6XBIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Amortized inference in probabilistic reasoning",
+                "cites": "156",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lightweight implementations of probabilistic programming languages via transformational compilation",
+                "cites": "155",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A rational account of pedagogical reasoning: Teaching by, and learning from, examples",
+                "cites": "145",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bootstrapping in a language of thought: A formal model of numerical concept learning",
+                "cites": "143",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Teaching games: Statistical sampling assumptions for learning in pedagogical situations",
+                "cites": "131",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The mentalistic basis of core social cognition: experiments in preverbal infants and a computational model",
+                "cites": "126",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning from others: The consequences of psychological reasoning for human learning",
+                "cites": "120",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonliteral understanding of number words",
+                "cites": "111",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:JG67p0iyyesC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Help or hinder: Bayesian models of social goal inference",
+                "cites": "110",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synthesizing open worlds with constraints using locally annealed reversible jump mcmc",
+                "cites": "107",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning design patterns with bayesian grammar induction",
+                "cites": "98",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic semantics and pragmatics: Uncertainty in language and thought",
+                "cites": "94",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:2VmNxfDIOWgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intuitive theories of mind: A rational approach to false belief",
+                "cites": "94",
+                "year": "2006"
+            },
+            "id_citations": "OUpIbcQAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring word meanings by assuming that speakers are informative",
+                "cites": "92",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian framework for cross-situational word-learning",
+                "cites": "92",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pragmatic reasoning through semantic inference",
+                "cites": "91",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjectival vagueness in a Bayesian model of interpretation",
+                "cites": "90",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:iWMDS-dds2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Going beyond the evidence: Abstract laws and preschoolers\u2019 responses to anomalous data",
+                "cites": "90",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ad-hoc implicature in preschool children",
+                "cites": "86",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Stochastic Inverses",
+                "cites": "85"
+            },
+            "id_citations": "OUpIbcQAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context, scale structure, and statistics in the interpretation of positive-form adjectives",
+                "cites": "84",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to learn causal models",
+                "cites": "83",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Burn-in, bias, and the rationality of anchoring",
+                "cites": "81",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The principles and practice of probabilistic programming",
+                "cites": "79",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Productivity and reuse in language: A theory of linguistic computation and storage",
+                "cites": "76",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Did she jump because she was the big sister or because the trampoline was safe? Causal inference and the development of social attribution",
+                "cites": "74",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concepts in a Probabilistic Language of Thought",
+                "cites": "73",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "That's what she (could have) said: How alternative utterances affect language use",
+                "cites": "72",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How, whether, why: Causal judgments as counterfactual contrasts.",
+                "cites": "71",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:dZbaGXT4iR0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory learning as stochastic search in the language of thought",
+                "cites": "71",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reasoning about reasoning by nested conditioning: Modeling theory of mind with probabilistic programs",
+                "cites": "65",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Affective cognition: Exploring lay theories of emotion",
+                "cites": "64",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:pXiCqeVOhFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The logical primitives of thought: Empirical foundations for compositional cognitive models.",
+                "cites": "63",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Y0agIcFmOsQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the preferences of ignorant, inconsistent agents",
+                "cites": "63",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:P7PM_jyRRcwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling procedural modeling programs with stochastically-ordered sequential monte carlo",
+                "cites": "62",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:kGbpvR7Ecy8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noisy Newtons: Unifying process and dependency accounts of causal attribution",
+                "cites": "62",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Productivity and reuse in language",
+                "cites": "60",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RsqFu5Siv-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anchoring bias reflects rational use of cognitive resources",
+                "cites": "59",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Fd6TstiuZzAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the stable equivalence of open books in three-manifolds",
+                "cites": "59",
+                "year": "2006"
+            },
+            "id_citations": "OUpIbcQAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The structure and dynamics of scientific theories: A hierarchical Bayesian perspective",
+                "cites": "56",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep amortized inference for probabilistic programs",
+                "cites": "53",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:fXbrI0tPCuEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ad-hoc scalar implicature in adults and children",
+                "cites": "53",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insight problems revisited: The influence of cognitive styles and experience on creative problem solving",
+                "cites": "52",
+                "year": "1993"
+            },
+            "id_citations": "OUpIbcQAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subjectivity predicts adjective ordering preferences",
+                "cites": "51",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:SFOYbPikdlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevant and robust: A response to Marcus and Davis (2013)",
+                "cites": "49",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:PpfTWA6RG0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating compositionality in sentence embeddings",
+                "cites": "46",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:HHUT0vUrEqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cause and intent: Social reasoning in causal learning",
+                "cites": "46",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and using language via recursive pragmatic reasoning about other agents",
+                "cites": "45",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Colors in context: A pragmatic neural model for grounded language understanding",
+                "cites": "43",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RfQ-KHj5eBsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How many kinds of reasoning? Inference, probability, and natural language semantics",
+                "cites": "43",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic models of cognition",
+                "cites": "43",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ZEcFV8kAgqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning causal schemata",
+                "cites": "43",
+                "year": "2007"
+            },
+            "id_citations": "OUpIbcQAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal generative models for scalable weakly-supervised learning",
+                "cites": "42",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Fu4hY69slDoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model of linguistic humor in puns",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:P5iVsrg4GywC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Informative communication in word production and word learning",
+                "cites": "41",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Formalizing the pragmatics of metaphor understanding",
+                "cites": "40",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From counterfactual simulation to causal judgment",
+                "cites": "39",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fragment grammars: Exploring computation and reuse in language",
+                "cites": "38",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory-based social goal inference",
+                "cites": "38",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian model of the acquisition of compositional semantics",
+                "cites": "38",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye-tracking causality",
+                "cites": "37",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:jW3pDOCzWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissent: Sentence representation learning from explicit discourse relations",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:EXDW3tg14iEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The imaginary fundamentalists: The unshocking truth about Bayesian cognitive science",
+                "cites": "36",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal habits can develop spontaneously through sensitivity to local cost",
+                "cites": "36",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning physics from dynamical scenes",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:zuN7wi50mysC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How tall is tall? Compositionality, statistics, and gradable adjectives",
+                "cites": "35",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling semantic cognition as logical dimensionality reduction",
+                "cites": "35",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and using relational theories",
+                "cites": "35",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overtwisted open books from sobering arcs",
+                "cites": "35",
+                "year": "2005"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The conceptual mind: New directions in the study of concepts",
+                "cites": "34",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:qzuIxkxWBNsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonstandard interpretations of probabilistic programs for efficient inference",
+                "cites": "33",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian policy search with policy priors",
+                "cites": "31",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory acquisition as stochastic search",
+                "cites": "31",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Existence of Lefschetz fibrations on Stein and Weinstein domains",
+                "cites": "29",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:4DpXlaHga4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurally-guided procedural models: Amortized inference for procedural graphics programs using neural networks",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:LHWLPdAD5FMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The strategic use of noise in pragmatic reasoning",
+                "cites": "27",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lost your marbles? The puzzle of dependent measures in experimental pragmatics",
+                "cites": "27",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pragmatically informative image captioning with character-level inference",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:0D9gKr9vLLUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wonky worlds: Listeners revise world knowledge when utterances are odd.",
+                "cites": "26",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:UO6ax3c-pNsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Talking with tact: Polite language as a balance between kindness and informativity",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:gubd_9ZgCi8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory acquisition and the language of thought",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical evidence for resource-rational anchoring and adjustment",
+                "cites": "24",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:GfAJFcoWUJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contact structures and open books",
+                "cites": "24",
+                "year": "2003"
+            },
+            "id_citations": "OUpIbcQAAAAJ:rMiSbtrAJs8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating efficient MCMC kernels from probabilistic programs",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learned helplessness and generalization",
+                "cites": "23",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dynamic programming algorithm for inference in recursive probabilistic programs",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Information-Theoretic Explanation of Adjective Ordering Preferences.",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:IT5EXw6i2GUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why do you ask? Good questions provoke informative answers.",
+                "cites": "22",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RW1BPcyHXiwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning structured generative concepts",
+                "cites": "22",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The language of generalization.",
+                "cites": "21",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:mq6pegT_rlEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the preferences of bounded agents",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:-3_NAp5WSNkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured correlation from the causal background",
+                "cites": "21",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning grounded causal models",
+                "cites": "21",
+                "year": "2007"
+            },
+            "id_citations": "OUpIbcQAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convention-formation in iterated reference games.",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:N8RR74vhTp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "C3: Lightweight incrementalized MCMC for probabilistic programs using continuations and callsite caching",
+                "cites": "19",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:rr29yNp9FasC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Let's talk (ironically) about the weather: Modeling verbal irony.",
+                "cites": "19",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Fr8DH2VBP9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A stochastic programming perspective on nonparametric Bayes",
+                "cites": "19",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to generate compositional color descriptions",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Huv_iBJ06lEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the acquisition of quantifier semantics: a case study in function word learnability",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The funny thing about incongruity: A computational model of humor in puns",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Animal, dog, or dalmatian? Level of abstraction in nominal referring expressions.",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Q9ss7R9eeXsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating design suggestions under tight constraints with gradient\u2010based probabilistic programming",
+                "cites": "16",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:G60ApcfeQaAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enactive cognitive science and biology of cognition: A response to Humberto Maturana",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:2BeMVx_SZpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ping Pong in Church: Productive use of concepts in human probabilistic inference",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models of emotion inference in theory of mind: A review and roadmap",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:vs4DU1qUSb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of social norms and conventions",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:wW8w_uPXRNAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bias and generalization in deep generative models: An empirical study",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:YvgfBAebZEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The infinite latent events model",
+                "cites": "15",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning physical parameters from dynamic scenes",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:f4T9rk490XkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Church: a language for generative models with non-parametric memoization and approximate inference",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DisSent: Learning sentence representations from explicit discourse relations",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:22I2CSi1iVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resolving uncertainty in plural predication",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:twffdjNOitAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond Boolean logic: exploring representation languages for learning complex concepts",
+                "cites": "13",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositionality in rational analysis: Grammar-based induction for concept learning",
+                "cites": "13",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositionality in rational analysis: Grammar-based induction for concept learning",
+                "cites": "13",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond reward prediction errors: Human striatum updates rule values during learning",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:1n-LKbgTOzoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Happier than thou? A self-enhancement bias in emotion attribution.",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:c6chOJGeGucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" I won't lie, it wasn't amazing\": Modeling polite indirect speech.",
+                "cites": "12",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:N0GlzNNR4l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical optimal experiment design with probabilistic programs",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:jYy9R3AkpWgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continuity of discourse provides information for word learning",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:vlECJaBXBlQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extremely costly intensifiers are stronger than quite costly ones",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:7N_8t4gx0K8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A pragmatic theory of generic language",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:rQcm2j6_ZE8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing pluralities",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inducing probabilistic programs by Bayesian program merging",
+                "cites": "11",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random-world semantics and syntactic independence for expressive languages",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Remembrance of inferences past: Amortization in human hypothesis generation",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:FSHXWovK7t4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What does the crowd believe? A hierarchical approach to estimating subjective beliefs from empirical data.",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:JjBZBFkNMTQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some arguments are probably valid: Syllogistic reasoning as communication",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inducing interpretable representations with variational autoencoders",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:eK4aujBuqBIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rational speech act models of pragmatic reasoning in reference games",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Oc-rVwKPngoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Pragmatics of Spatial Language.",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:x9HjRiAMpasC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurally-guided procedural models: learning to guide procedural models with deep neural networks",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:kkSDTGFLcmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Going beyond the evidence: Preschoolers\u2019 inferences about abstract laws and anomalous data",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the grammatical source of adjective ordering preferences",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:0lma3NU_mqEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zero shot learning for code education: Rubric sampling with deep learning inference",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:d4paSpBSrDQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse-engineering resource-efficient algorithms",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prior expectations in pedagogical situations",
+                "cites": "7",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The interactions of rational, pragmatic agents lead to efficient language structure and use",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:G-26V_K0F8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When redundancy is rational: A Bayesian approach to \u2018overinformative\u2019referring expressions",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:xqRlItQsuMMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lost in machine translation: A method to reduce meaning loss",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:PPAp3RzCAaIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-amortized variational inference and learning",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:8o7LCxyMrhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ShapeGlot: Learning language for shape differentiation",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:PRLG7g5oK-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An incremental iterated response model of pragmatics",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:gUOu-QWEMMQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Avoiding frostbite: It helps to learn from others",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:oQQVFBP0nzwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotions in lay explanations of behavior.",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:HfY9tUF4VgMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent Collective Sensing in Human Groups.",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:UCVoGz2p8ukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Not by number alone: The effect of teachers' knowledge and its value in evaluating\" sins of omission\".",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:r5yabEp13iMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differentiable antithetic sampling for variance reduction in stochastic variational inference",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:hTqO-V9ugBQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning, inference and pragmatics in sequential language games",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:LHtfzE5_5AIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Amortized hypothesis generation",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:zCpYd49hD24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Warm (for winter): Comparison class understanding in vague language",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:zG6RlwjYRPQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A rational speech-act model of projective content.",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:VDARjI3xf8gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conversational expectations account for apparent limits on theory of mind use.",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:NWFKKQzSIN4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty and denial: a resource-rational model of the value of information",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:XUmZziu-z7kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pragmatic inference and visual abstraction enable contextual flexibility during visual communication",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:X-Dm1JipzzIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cake or broccoli? Recency biases children\u2019s verbal responses",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:bKwnt0rjkrwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational estimators for bayesian optimal experimental design",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ZbiiB1Sm8G8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Definitely, maybe: A new experimental paradigm for investigating the pragmatics of evidential devices across languages",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:wdLM4YbmhYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "So good it has to be true: Wishful thinking in theory of mind",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:A5aiAONn640C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coarse-to-fine sequential monte carlo for probabilistic programs",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ie8Y0QrpMWAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating models of computation and storage in human sentence processing",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:_bh1rdP-zDcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Resource-Rational Approach to the Causal Frame Problem.",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:07QC26MHY14C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards the Mechanical Construction of Correlational Nets",
+                "cites": "4",
+                "year": "1961"
+            },
+            "id_citations": "OUpIbcQAAAAJ:C4Vd9JCM9EcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A thousand studies for the price of one: Accelerating psychological science with Pushkin",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:lLPirIASiZEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensor variable elimination for plated factor graphs",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:SPgoriM2DtkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayesian optimal experimental design",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:YK4ucWkmU_UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reasoning about social sources to learn from actions and outcomes.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:2PyGcyYA7d0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speakers account for asymmetries in visual perspective so listeners don't have to",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:J4wmHkHhN-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "webppl-oed: A practical optimal experiment design system.",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:IuzW4o0J_HAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning disentangled representations in deep generative models",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:WzbvD7BMtBoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Definitely, maybe: Approaching speaker commitment experimentally",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:SSGWEqmz6gUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Communicating generalizations about events.",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:3K1WWmVGZRgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cost-and information-based account of epistemic must",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:2SmvwDDsShQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Near-misses sting even when they are uncontrollable.",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RmQ8dt0hH3oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonliteral language understanding for number words",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:SkU8VjQp03IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation and reuse in language",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational and role-governed categories: Views from psychology, computational modeling, and linguistics",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When redundancy is useful: A Bayesian approach to \u201coverinformative\u201d referring expressions.",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:bCDyRX4i8-MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A counterfactual simulation model of causal judgment",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:xpFxhiwfz1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing machine-learned representations: A natural language case study",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:0MsrIDK0EWAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying probabilistic programming to affective computing",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:w9HJn4dzO2wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The first crank of the cultural ratchet: Learning and transmitting concepts through language.",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:H30kdXGRGPkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disentangling contributions of visual information and interaction history in the formation of graphical conventions.",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:0q7iQwrhYWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Polite speech emerges from competing social goals",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:1TqUyixsFioC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emerging abstractions: Lexical conventions are shaped by communicative context.",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:r4zddjZt6C4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing models of anchoring and adjustment",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RSvx26AYfG8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Questions and answers in dialogue",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Ow2R9nchCv8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Roses and flowers: an informativeness implicature in probabilistic pragmatics",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:rKOGDx9nJ1EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incrementalizing mcmc on probabilistic programs through tracing and slicing",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Productivity and reuse in language: A developmental study",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Xc-mKOjpdrwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory learning as stochastic search",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:QbuKDewGlxwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continuity of discourse provides information for word learning",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On Mutual Information in Contrastive Learning for Visual Representations",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:auQHJw8QJBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating Transferability in Pretrained Language Models",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Wu2CBzYYpfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Item Response Theory: Fast, Accurate, and Expressive",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:l07DEcJES74C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Importance of Views in Unsupervised Representation Learning",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:qmyJBmpVKbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting customer perceptions of product sustainability from online reviews",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:I8ubwoE7ciMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shaping Visual Representations with Language for Few-shot Classification",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:QLZAdv6BrvsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning from omission",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Vu1dURnyNv8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to explain: Answering why-questions via rephrasing",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:GzlcqhCAosUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Grading: Neural Approximate Parsing for Automated Student Feedback",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:aXI_bbQgCfgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning from generic language",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:KQ7zX_ltr48C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational optimal experiment design: efficient automation of adaptive experiments",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:WD7AgJrCjNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The division of labor in communication: Speakers help listeners account for asymmetries in visual perspective",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:0KZCP5UExFUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mentioning atypical properties of objects is communicatively efficient",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Rc-B-9qnGaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mentioning atypical properties of objects is communicatively efficient.",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Y6EZgx1ah38C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimal Nativism: How does cognitive development get off the ground?",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "OUpIbcQAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bootstrapping in a language of thought: A formal model of conceptual change in number word learning",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian Model of Pedagogical Reasoning.",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary material for \u201cUsing speakers\u2019 referential intentions to model early cross-situational word learning\u201d",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "OUpIbcQAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing the dynamics of learning in repeated reference games",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:fTLh7q_iUBEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to refer informatively by amortizing pragmatic reasoning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:tDdgxD0hSQMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for object location detection from imagery",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:8rj-XRKUtKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalizing meanings from partners to populations: Hierarchical inference supports convention formation on networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "OUpIbcQAAAAJ:H6myOybQgeYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal Generative Models for Compositional Representation Learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:SGnGYi2HwEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayesian optimal experimental design",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ZnWe2zbntUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual adaptation for efficient machine communication",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:bO_hriczGZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Amortized Inference for Probabilistic Programs",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:8QO3eJiZnkEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relation between intelligence and religiosity: A meta-analysis and some proposed explanations",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:nyUGVxR7BcAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extending rationality",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "OUpIbcQAAAAJ:W2VW_RKN1OwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint Mapping and Calibration via Differentiable Sensor Fusion",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:OtrppQHxQ5wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Refer to 3D Objects with Natural Language",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:x7X4uJ7IbpoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling contextual flexibility in visual communication",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:5Y7y0xowK3MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deriving uniform information density behavior in pragmatic agents.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:8NHCvSvNRCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalizations, from representation to transmission.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "OUpIbcQAAAAJ:pgiGeGwzGf8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why do you ask? The informational dynamics of questions and answers",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:HiznBx5RP3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scientific explanation",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:vlMkzkLhH4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Remembrance of Inferences Past",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ziW8EwMpto0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anchoring and Adjustment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Z610oKUqOA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Talking with tact: Polite language as a balance between informativity and kindness.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:cCmJLe1CRJUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Emergence of Conventions.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:BO8BTsX0K1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical and Computational Approaches to Metaphor and Figurative Meaning.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Z98IfIjqAwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toddlers Always Get the Last Word: Recency biases in early verbal behavior.",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Y4-Jr3-UGfkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "21 Probabilistic Semantics and Pragmatics",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonliteral understanding of number words",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:bQkGhl1z2hUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning physical theories from dynamical scenes",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:12nnf2f32iYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Symposium: The Role of Alternatives in Pragmatic Inference",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:yCEqH1SBpFUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding Affective Cognition: Frontiers in modeling reasoning about others\u2019 emotions",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "OUpIbcQAAAAJ:DCYT7yIMjgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Stochastic Inverses",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grounding Lexical Meaning in Core Cognition",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probability, programs, and the mind: Building structured Bayesian models of cognition",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "OUpIbcQAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and the language of thought",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forward Physics: How people learn and generalize novel dynamical models",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Y20HiHuZk70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting object and scene descriptions with an information-theoretic model of pragmatics",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Success in Theory of Mind",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:QaLwMs-zPFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental and computational perspectives on infant social cognition",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:s_JjmAzd-pQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1. Not a Sure Thing: Fitness, Probability, and Causation Not a Sure Thing: Fitness, Probability, and Causation (pp. 147-171)",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Role of Inhibition in Theory of Mind Performance: Evidence for a Non-Modular View of Theory of Mind",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "OUpIbcQAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How Tall Is Tall? Compositionality, Statistics, and Gradable Adjectives",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:KKiikWAUrRgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cause and Intent: Social Reasoning in Causal Learning",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:renmPk63pRgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One and Done? Optimal Decisions from Very Few Samples",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "OUpIbcQAAAAJ:45AZ0Vt6gvEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "(Re) constructing (Virtual) Reality",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "OUpIbcQAAAAJ:_8F20clBW_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surrogates and Mappings: Two Kinds of Conceptual Models for Interactive Devices",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "OUpIbcQAAAAJ:7T_dCfhhGW4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foerster, H. von, 200, 208 Foxman, D., 135 Frege, G., 56f., 165 Freedman, D., 46 Freire, P., 151ff.",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "OUpIbcQAAAAJ:5Y1KH4bkPm0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint Triangulation and Mapping via Differentiable Sensor Fusion",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:qNJvDq80yDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shapeglot: Learning Language for Shape Differentiation Supplemental Materials",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:fveVehIkgekC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement for Variational Bayesian Optimal Experimental Design",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:PXxrOWvQdDgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STRUCTURED INTERPRETATION OF DEEP GENERATIVE MODELS",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:P76ttB97BVgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing how Visual Question Answering models scale with the world",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:Q3_nmhWTCy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Graphical convention formation during visual communication",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:xUT3DyvLuJwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying Probabilistic Programming to Affective Computing",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:8IsQavbT1M8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Workshop on Computational Pragmatics",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:I96H1Mlar6gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevant and robust. A response to Marcus and Davis.",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:1Lcp1PKUB6cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1 Dataset Descriptions",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:ZuSUVyMx-TgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics as Pottery: Bayesian Data Analysis using Probabilistic Programs (Tutorial)",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:tai-Ft5GzhwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LEARNING TO COMMUNICATE ABOUT CONCEPTUAL HIERARCHIES",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:AeQkyvggb0MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic integration of linguistic framing in ad-hoc pragmatic implicatures",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:prvsfHNhuEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intuitive Pedagogical Reasoning: An Interdisciplinary Workshop",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:FnaCo-ypupUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinterpreting anchoring-and-adjustment as rational use of cognitive resources",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:04dtUmz_MT0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Burn-in, bias, andtherationalityofanchoring",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:OWslULmvb_UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Communicating with Epistemic Modals in Stochastic \u03bb-Calculus",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:i9B0nK2ie9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What do newspapers, watches, credit cards, and liquors bottles have in common? A computational exploration of question behavior.",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:BjLbhSWBl98C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When \u201call\u201d means not all: Nonliteral interpretations of universal quantifiers",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:TpYZtc-0n-8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Justine T. Kao, Department of Psychology, Stanford University Roger Levy, Department of Linguistics, UCSD",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:RF4BjkDOTHkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Stochastic Inverses for Adaptive Inference in Probabilistic Programs",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:KUazKHuGu6AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controllability and resource-rational planning",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:cAX_JoMERPUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Just-in-time Compilation of MCMC for Probabilistic Programs",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A formal model of number word acquisition",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noisy Newtons",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The acquisition and use of abstract causal knowledge",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and using relational theories: supporting material",
+                "cites": "0"
+            },
+            "id_citations": "OUpIbcQAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=OUpIbcQAAAAJ"
+}

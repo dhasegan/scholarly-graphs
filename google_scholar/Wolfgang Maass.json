@@ -1,0 +1,4301 @@
+{
+    "affiliation": "Professor of Computer Science, Graz University of Technology",
+    "cites_per_year": {
+        "1992": 90,
+        "1993": 96,
+        "1994": 171,
+        "1995": 155,
+        "1996": 171,
+        "1997": 222,
+        "1998": 231,
+        "1999": 203,
+        "2000": 215,
+        "2001": 253,
+        "2002": 328,
+        "2003": 343,
+        "2004": 446,
+        "2005": 585,
+        "2006": 699,
+        "2007": 702,
+        "2008": 689,
+        "2009": 842,
+        "2010": 851,
+        "2011": 999,
+        "2012": 958,
+        "2013": 1129,
+        "2014": 1117,
+        "2015": 1246,
+        "2016": 1507,
+        "2017": 1531,
+        "2018": 1532,
+        "2019": 1757,
+        "2020": 923
+    },
+    "citedby": 20649,
+    "citedby5y": 8500,
+    "coauthors": [],
+    "email": "@igi.tugraz.at",
+    "hindex": 68,
+    "hindex5y": 43,
+    "i10index": 187,
+    "i10index5y": 109,
+    "id": "2WpvdH0AAAAJ",
+    "interests": [
+        "Computational Neuroscience",
+        "Machine Learning",
+        "Computational Complexity Theory"
+    ],
+    "name": "Wolfgang Maass",
+    "publications": [
+        {
+            "bib": {
+                "title": "Real-time computing without stable states: A new framework for neural computation based on perturbations",
+                "cites": "13362160432017304416",
+                "year": "2002",
+                "url": "https://www.mitpressjournals.org/doi/abs/10.1162/089976602760407955",
+                "author": "Wolfgang Maass and Thomas Natschl\u00e4ger and Henry Markram",
+                "journal": "Neural computation",
+                "volume": "14",
+                "number": "11",
+                "pages": "2531-2560",
+                "publisher": "MIT Press",
+                "abstract": "A key challenge for neural modeling is to explain how a continuous stream of multimodal input from a rapidly changing environment can be processed by stereotypical recurrent circuits of integrate-and-fire neurons in real time. We propose a new computational model for real-time computing on time-varying input that provides an alternative to paradigms based on Turing machines or attractor neural networks. It does not require a task-dependent construction of neural circuits. Instead, it is based on principles of high-dimensional dynamical systems in combination with statistical learning theory and can be implemented on generic evolved or found recurrent circuitry. It is shown that the inherent transient dynamics of the high-dimensional dynamical system formed by a sufficiently large and heterogeneous neural circuit may serve as universal analog fading memory. Readout neurons can learn to extract in real time from \u2026",
+                "eprint": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.2874&rep=rep1&type=pdf"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Networks of spiking neurons: the third generation of neural network models",
+                "cites": "1728",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pulsed neural networks",
+                "cites": "1184",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approximation schemes for covering and packing problems in image processing and VLSI",
+                "cites": "814",
+                "year": "1985"
+            },
+            "id_citations": "2WpvdH0AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "State-dependent computations: spatiotemporal processing in cortical networks",
+                "cites": "730",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Threshold circuits of bounded depth",
+                "cites": "430",
+                "year": "1993"
+            },
+            "id_citations": "2WpvdH0AAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics as sampling: a model for stochastic computation in recurrent networks of spiking neurons",
+                "cites": "335",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge of chaos and prediction of computational performance for neural circuit models",
+                "cites": "333",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universal multi-task kernels",
+                "cites": "308",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational power of winner-take-all",
+                "cites": "305",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lower bounds for the computational power of networks of spiking neurons",
+                "cites": "292",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast sigmoidal networks via spiking neurons",
+                "cites": "251",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can a neuron learn with spike-timing-dependent plasticity?",
+                "cites": "236",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models for generic cortical microcircuits",
+                "cites": "228",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The\" liquid computer\": A novel strategy for real-time computing on time series",
+                "cites": "227",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational power of noisy spiking neurons",
+                "cites": "226",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A learning theory for reward-modulated spike-timing-dependent plasticity with application to biofeedback",
+                "cites": "223",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational power of circuits of spiking neurons",
+                "cites": "223",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian computation emerges in generic cortical microcircuits through spike-timing-dependent plasticity",
+                "cites": "222",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational neuroscience: a comprehensive approach",
+                "cites": "222",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:C33y2ycGS3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A statistical analysis of information-processing properties of lamina-specific cortical microcircuit models",
+                "cites": "214",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational aspects of feedback in neural circuits",
+                "cites": "211",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring spike trains from local field potentials",
+                "cites": "209",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a theoretical foundation for morphological computation with compliant bodies",
+                "cites": "199",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A learning rule for very simple universal approximators consisting of a single layer of perceptrons",
+                "cites": "171",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic stochastic synapses as computational units",
+                "cites": "171",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A pulse-coded communications infrastructure for neuromorphic systems",
+                "cites": "170",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3BvdIg-l-ZAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory and applications of agnostic PAC-learning with small decision trees",
+                "cites": "160",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special issue on echo state networks and liquid state machines.",
+                "cites": "139",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Liquid state machines: motivation, theory, and applications",
+                "cites": "134",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed fading memory for stimulus properties in the primary visual cortex",
+                "cites": "133",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the effect of analog noise in discrete-time analog computations",
+                "cites": "131",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise as a resource for computation and learning in networks of spiking neurons",
+                "cites": "128",
+                "year": "2014"
+            },
+            "id_citations": "2WpvdH0AAAAJ:VN7nJs4JPk0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with spiking neurons",
+                "cites": "124",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational power of sigmoid versus boolean threshold circuits",
+                "cites": "121",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with spikes",
+                "cites": "119",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of complex computational structures from chaotic neural networks through reward-modulated Hebbian learning",
+                "cites": "117",
+                "year": "2014"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bounds for the computational power and learning complexity of analog neural nets",
+                "cites": "116",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Branch-specific plasticity enables self-organization of nonlinear computation in single neurons",
+                "cites": "112",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What makes a dynamical system computationally powerful",
+                "cites": "112",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for real-time computation in generic neural microcircuits",
+                "cites": "111",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synapses as dynamic memory buffers",
+                "cites": "111",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A reward-modulated hebbian learning rule can explain experimentally observed network reorganization in a brain control task",
+                "cites": "108",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Movement generation with circuits of spiking neurons",
+                "cites": "107",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STDP enables spiking neurons to detect hidden causes of their inputs",
+                "cites": "105",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long short-term memory and learning-to-learn in networks of spiking neurons",
+                "cites": "96",
+                "year": "2018"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WWeOtg8bX_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient agnostic pac-learning with simple hypothesis",
+                "cites": "96",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Networks of spiking neurons can emulate arbitrary Hopfield nets in temporal coding",
+                "cites": "95",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lower bound methods and separation results for on-line learning models",
+                "cites": "93",
+                "year": "1992"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analog neural nets with gaussian or other common noise distributions cannot recognize arbitrary regular languages",
+                "cites": "91",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic inference in general graphical models through sampling in stochastic networks of spiking neurons",
+                "cites": "89",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer models and analysis tools for neural microcircuits",
+                "cites": "89",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient temporal processing with biologically realistic dynamic synapses",
+                "cites": "88",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STDP installs in winner-take-all circuits an online approximation to hidden Markov model learning",
+                "cites": "85",
+                "year": "2014"
+            },
+            "id_citations": "2WpvdH0AAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning from counterexamples",
+                "cites": "84",
+                "year": "1989"
+            },
+            "id_citations": "2WpvdH0AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural nets with superlinear VC-dimension",
+                "cites": "82",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural systems as nonlinear filters",
+                "cites": "81",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fading memory and kernel properties of generic cortical microcircuit models",
+                "cites": "79",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How fast can a threshold gate learn?",
+                "cites": "78",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oracle-dependent properties of the lattice of NP sets",
+                "cites": "76",
+                "year": "1983"
+            },
+            "id_citations": "2WpvdH0AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of dynamic memory traces in cortical microcircuit models through STDP",
+                "cites": "74",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the communication complexity of graph properties",
+                "cites": "73",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network plasticity as Bayesian inference",
+                "cites": "72",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:DrR-2ekChdkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of feedback in morphological computation with compliant bodies",
+                "cites": "72",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coding and learning of behavioral sequences",
+                "cites": "72",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning for spiking neurons with temporal coding",
+                "cites": "72",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient learning with virtual threshold gates",
+                "cites": "69",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic computations in cortical microcircuit models",
+                "cites": "68",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing the maximum bichromatic discrepancy, with applications to computer graphics and machine learning",
+                "cites": "66",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vapnik-Chervonenkis dimension of neural nets",
+                "cites": "65",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new approach towards vision suggested by biologically realistic neural microcircuit models",
+                "cites": "64",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursively enumerable generic sets",
+                "cites": "64",
+                "year": "1982"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion planning among time dependent obstacles",
+                "cites": "63",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational complexity of networks of spiking neurons",
+                "cites": "62",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic hardware in the loop: Training a deep spiking network on the brainscales wafer-scale system",
+                "cites": "61",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yY3RG6sOEgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of information content carried by neurons in the primary visual cortex",
+                "cites": "61",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking neurons and the induction of finite state machines",
+                "cites": "59",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Movement generation and control with generic neural microcircuits",
+                "cites": "58",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural computation with winner-take-all as the only nonlinear operation",
+                "cites": "57",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combinatorial lower bound arguments for deterministic and nondeterministic Turing machines",
+                "cites": "57",
+                "year": "1985"
+            },
+            "id_citations": "2WpvdH0AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Belief propagation in networks of spiking neurons",
+                "cites": "56",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reducing communication for distributed learning in neural networks",
+                "cites": "56",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast approximation algorithms for a nonconvex covering problem",
+                "cites": "56",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation with spiking neurons",
+                "cites": "54",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vapnik-Chervonenkis dimension of neural nets",
+                "cites": "53",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:idthP5jqfYAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-line learning of rectangles and unions of rectangles",
+                "cites": "52",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Input prediction and autonomous movement analysis in recurrent circuits of spiking neurons",
+                "cites": "50",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Paradigms for computing with spiking neurons",
+                "cites": "50",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning from counterexamples and membership queries",
+                "cites": "50",
+                "year": "1990"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pulsed neural networks",
+                "cites": "48",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9NZAP19TdFAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning complex motions by sequencing simpler motion templates",
+                "cites": "47",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing and learning with dynamic synapses",
+                "cites": "47",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-tuning of neural circuits through short-term synaptic plasticity",
+                "cites": "46",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods for estimating the computational power and generalization capability of neural microcircuits",
+                "cites": "46",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ensembles of spiking neurons with noise support optimal probabilistic inference in a dynamically changing environment",
+                "cites": "44",
+                "year": "2014"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kF1pexMAQbMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motif distribution, dynamical properties, and computational performance of two data-based cortical microcircuit templates",
+                "cites": "44",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Splitting properties and jump classes",
+                "cites": "44",
+                "year": "1981"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep rewiring: Training very sparse deep networks",
+                "cites": "43",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KS-xo-ZNxMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Algorithms and lower bounds for on-line learning of geometrical concepts",
+                "cites": "42",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Solving constraint satisfaction problems with networks of spiking neurons",
+                "cites": "41",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:X9ykpCP0fEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learned graphical models for probabilistic planning provide a new class of movement primitives",
+                "cites": "41",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meanders, Ramsey theory and lower bounds for branching programs",
+                "cites": "41",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Liquid computing",
+                "cites": "37",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of recursively enumerable sets with supersets effectively isomorphic to all recursively enumerable sets",
+                "cites": "37",
+                "year": "1983"
+            },
+            "id_citations": "2WpvdH0AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A quantitative analysis of information about past and present stimuli encoded by spikes of A1 neurons",
+                "cites": "36",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of real-time computing with feedback applied to cortical microcircuit models",
+                "cites": "36",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for fast analog computation based on unreliable synapses",
+                "cites": "36",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for principles of brain computation",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:2v_ZtQDX9iAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives of current research about the complexity of learning on neural nets",
+                "cites": "33",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Agnostic PAC-learning of functions on analog neural nets",
+                "cites": "32",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of optimal decoding of population codes through STDP",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives of the high\u2010dimensional dynamics of neural microcircuits from the point of view of low\u2010dimensional readouts",
+                "cites": "31",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relevance of time in neural computation and learning",
+                "cites": "31",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of the computational power of sigmoid and Boolean threshold circuits",
+                "cites": "31",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The intervals of the lattice of recursively enumerable sets determined by major subsets",
+                "cites": "31",
+                "year": "1983"
+            },
+            "id_citations": "2WpvdH0AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational power of threshold circuits with sparse activity",
+                "cites": "30",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning for a spiking neuron",
+                "cites": "30",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-line learning with an oblivious environment and the power of randomization",
+                "cites": "30",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-modulated hebbian learning of decision making",
+                "cites": "29",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On computation with pulses",
+                "cites": "28",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical comparison of spike responses to natural stimuli in monkey area V1 with simulated responses of a detailed laminar network model for a patch of V1",
+                "cites": "27",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compensating inhomogeneities of neuromorphic VLSI devices via short-term synaptic plasticity",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking neurons can learn to solve information bottleneck problems and extract independent components",
+                "cites": "27",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quadratic lower bounds for deterministic and nondeterministic one-tape Turing machines",
+                "cites": "27",
+                "year": "1984"
+            },
+            "id_citations": "2WpvdH0AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To spike or not to spike: that is the question",
+                "cites": "26",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:CYCckWUYoCcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically inspired kinematic synergies provide a new paradigm for balance control of humanoid robots",
+                "cites": "26",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory of the computational function of microcircuit dynamics",
+                "cites": "26",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically inspired alternatives to backpropagation through time for learning in recurrent neural nets",
+                "cites": "25",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4n0clTBhZ78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking neurons in neuroscience and technology",
+                "cites": "25",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:vxA22ZmNLkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Digital simulation of spiking neural networks",
+                "cites": "25",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:SrKkpNFED5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically inspired kinematic synergies enable linear balance control of a humanoid robot",
+                "cites": "24",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory-efficient deep learning on a SpiNNaker 2 prototype",
+                "cites": "23",
+                "year": "2018"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hHIA4WEVY-EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A fresh look at real-time computation in generic recurrent neural circuits",
+                "cites": "23",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relevance of time in neural computation and learning",
+                "cites": "23",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of function learning",
+                "cites": "23",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inadmissibility, tame re sets and the admissible collapse",
+                "cites": "23",
+                "year": "1978"
+            },
+            "id_citations": "2WpvdH0AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dynamic connectome supports the emergence of stable computational function of neural circuits through reward-based learning",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KTwcwpFFj4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing the optimally fitted spike train for a synapse",
+                "cites": "22",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motivation, theory, and applications of liquid state machines",
+                "cites": "21",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:MDX3w3dAD3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Replacing supervised classification learning by Slow Feature Analysis in spiking neural networks",
+                "cites": "20",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information dynamics and emergent computation in recurrent circuits of spiking neurons",
+                "cites": "20",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed-up of Turing machines with one work tape and a two-way input tape",
+                "cites": "20",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient continuous-time reinforcement learning with adaptive state graphs",
+                "cites": "19",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simplified rules and theoretical analysis for information bottleneck optimization and PCA with spiking neurons",
+                "cites": "18",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Associative memory with networks of spiking neurons in temporal coding",
+                "cites": "18",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theoretical basis for emergent pattern discrimination in neural systems through slow feature extraction",
+                "cites": "17",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two tapes are better than one for off-line Turing machines",
+                "cites": "17",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A spiking neuron as information bottleneck",
+                "cites": "16",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foundations for a circuit complexity theory of sensory processing",
+                "cites": "16",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On learnability and predicate logic",
+                "cites": "16",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two tapes versus one for off-line Turing machines",
+                "cites": "16",
+                "year": "1993"
+            },
+            "id_citations": "2WpvdH0AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the orbits of hyperhypersimple sets",
+                "cites": "16",
+                "year": "1984"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long term memory and the densest k-subgraph problem",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "2WpvdH0AAAAJ:x21FZCSn4ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One cell to rule them all, and in the dendrites bind them",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the classification capability of sign-constrained perceptrons",
+                "cites": "15",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical analysis of learning with reward-modulated spike-timing-dependent plasticity",
+                "cites": "15",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the special issue on echo state networks and liquid state machines",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:nU66GSXDKhoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal integration in recurrent microcircuits",
+                "cites": "15",
+                "year": "2003"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The p-delta learning rule for parallel perceptrons",
+                "cites": "15",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pulsed neural networks",
+                "cites": "15",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Dem6FJhTUoYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lower bound arguments with \u201cinaccessible\u201d numbers",
+                "cites": "15",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern representation and recognition with accelerated analog neuromorphic systems",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eI34FqJmdUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Liquid computing in a simplified model of cortical layer IV: learning to balance a ball",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Ak0FvsSvgGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural circuits for pattern recognition with small total wire length",
+                "cites": "14",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding the Key to a Synapse",
+                "cites": "14",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple model for neural computation with firing rates and firing correlations",
+                "cites": "14",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast identification of geometric objects with membership queries",
+                "cites": "14",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The complexity of matrix transposition on one-tape off-line Turing machines",
+                "cites": "14",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An optimal lower bound for Turing machines with one work tape and a two-way input tape",
+                "cites": "14",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic sampling: A Bayesian approach to neural network plasticity and rewiring",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:qe6vwMD2xtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hebbian learning of Bayes optimal decisions",
+                "cites": "13",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-class support vector machines",
+                "cites": "13",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:EPG8bYD4jVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the role of time and space in neural computation",
+                "cites": "13",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of information and emergent computation in generic neural microcircuit models",
+                "cites": "12",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of depth two neural networks with constant fan-in at the hidden nodes",
+                "cites": "12",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of nonconvex covering",
+                "cites": "12",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meanders, Ramsey theory and lower bounds",
+                "cites": "12",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3MwzVuqRcA0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On minimal pairs and minimal degrees in higher recursion theory",
+                "cites": "12",
+                "year": "1977"
+            },
+            "id_citations": "2WpvdH0AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed bayesian computation and self-organized learning in sheets of spiking neurons with local lateral inhibition",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QsaTk4IG4EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyses of Markov decision process structure regarding the possible strategic use of interacting memory systems",
+                "cites": "11",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information bottleneck optimization and independent component extraction with spiking neurons",
+                "cites": "11",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approximation schemes for covering and packing problems in robotics and vlsi",
+                "cites": "11",
+                "year": "1984"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic hardware learns to learn",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:rqnDXT1GswoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UPs and DOWNs in cortical computation",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ups and downs in the genesis of cortical computation",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a computational semantics of path relations",
+                "cites": "10",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3bvyWxjaHKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast identification of geometric objects with membership queries",
+                "cites": "10",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback inhibition shapes emergent computational properties of cortical microcircuit motifs",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:jlhcAiayVhoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assembly pointers for variable binding in networks of spiking neurons",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:oPLKW5k6eA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning probabilistic inference through spike-timing-dependent plasticity",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kJDgFkosVoMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional network reorganization in motor cortex can be explained by reward-modulated Hebbian learning",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural computation: a research topic for theoretical computer science? Some thoughts and pointers",
+                "cites": "9",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast analog computation in networks of spiking neurons using unreliable synapses",
+                "cites": "9",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking Neurons.",
+                "cites": "9",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emulation of Hopfield networks with spiking neurons in temporal coding",
+                "cites": "9",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analog computations on networks of spiking neurons",
+                "cites": "9",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An efficient implementation of sigmoidal neural nets in temporal coding with noisy spiking neurons",
+                "cites": "9",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning on neural nets",
+                "cites": "9",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How fast can a threshold gate learn?",
+                "cites": "9",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9LpHyFPp1DQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smoothed analysis of discrete tensor decomposition and assemblies of neurons",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "2WpvdH0AAAAJ:X4-KO54GjGYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing real sensory worlds of receivers with unsupervised clustering",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wire length as a circuit complexity measure",
+                "cites": "8",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning on feedforward neural nets",
+                "cites": "8",
+                "year": "1993"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions to [alpha]-and [beta]-recursion Theory",
+                "cites": "8",
+                "year": "1978"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-based stochastic self-configuration of neural circuits",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:iyewoVqAXLQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy-efficient neural network chips approach human recognition capabilities",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:G1UMdFYMoxkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The computational power of spiking neurons depends on the shape of the postsynaptic potentials",
+                "cites": "7",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the use of inaccessible numbers and order indiscernibles in lower bound arguments for random access machines",
+                "cites": "7",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are recursion theoretic arguments useful in complexity theory?",
+                "cites": "7",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High \u03b1-recursively enumerable degrees",
+                "cites": "7",
+                "year": "1978"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient reward-based structural plasticity on a SpiNNaker 2 prototype",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:CMvovTBb2okC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The grand challenges and myths of neural-symbolic computation",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural pulse coding",
+                "cites": "6",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:unp9ATQDT5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A precise characterization of the class of languages recognized by neural nets under gaussian and other common noise distributions",
+                "cites": "6",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relevance of the shape of postsynaptic potentials for the computational power of Spiking Neurons",
+                "cites": "6",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:z6xuaG2dYH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variations on promptly simple sets",
+                "cites": "6",
+                "year": "1985"
+            },
+            "id_citations": "2WpvdH0AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursively invariant \u03b2-recursion theory",
+                "cites": "6",
+                "year": "1981"
+            },
+            "id_citations": "2WpvdH0AAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A solution to the learning dilemma for recurrent networks of spiking neurons",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:S2WlVNSe3u4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic model for learning in cortical microcircuit motifs with data-based divisive inhibition",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PQEM9vzQD9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Camkii activation supports reward-based neural network optimization through hamiltonian sampling",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BmWJbWwHJAwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy complexity and entropy of threshold circuits",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for the interaction of oscillations and pattern generation with real-time computing in generic neural microcircuit models",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A criterion for the convergence of learning with spike timing dependent plasticity",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge of chaos and prediction of computational power for neural microcircuit models",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing of time series by neural circuits with biologically realistic synaptic dynamics",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The uniform regular set theorem in \u03b1-recursion theory",
+                "cites": "5",
+                "year": "1978"
+            },
+            "id_citations": "2WpvdH0AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Church Rosser Theorem f\u00fcr \u03bb-Kalk\u00fcle mit unendlich langen Termen",
+                "cites": "5",
+                "year": "1975"
+            },
+            "id_citations": "2WpvdH0AAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theoretical basis for efficient computations with noisy spiking neurons",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "2WpvdH0AAAAJ:2l5NCbZemmgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction: Bilingual conversation revisited",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of stimulus history in information conveyed by neurons in primary auditory cortex in response to tone sequences",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autonomous fast learning in a mobile robot",
+                "cites": "4",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zur Kunst des formalen Denkens",
+                "cites": "4",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Networks B",
+                "cites": "4",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uAPFzskPt0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for fast analog computations with noisy spiking neurons",
+                "cites": "4",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extensional properties of sets of time bounded complexity",
+                "cites": "4",
+                "year": "1989"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Approximation Algorithms for the Robot Placement Problem",
+                "cites": "4",
+                "year": "1983"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On \u03b1-and \u03b2-recursively enumerable degrees",
+                "cites": "4",
+                "year": "1979"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognizing Images with at most one Spike per Neuron",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Gb6Hms-Uo9kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal integration in neocortical microcircuits",
+                "cites": "3",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2001 special issue spiking neurons in neuroscience and technology",
+                "cites": "3",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Das menschliche Gehirn\u2013nur ein Rechner?",
+                "cites": "3",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The complexity of matrix transposition on one-tape off-line Turing machines with output tape",
+                "cites": "3",
+                "year": "1993"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The complexity of matrix transposition on one-tape off-line Turing machines with output tape",
+                "cites": "3",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Major subsets and automorphisms of recursively enumerable sets",
+                "cites": "3",
+                "year": "1985"
+            },
+            "id_citations": "2WpvdH0AAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eine Funktionalinterpretation der pr\u00e4dikativen Analysis",
+                "cites": "3",
+                "year": "1974"
+            },
+            "id_citations": "2WpvdH0AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STDP forms associations between memory traces in networks of spiking neurons",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:DXE8ND7PrJAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classifying Images with Few Spikes per Neuron",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Nnq8S6OXqDYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reservoirs learn to learn",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eFf2swCANGcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embodied synaptic plasticity with online reinforcement learning",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:sJK75vZXtG0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain computation: a computer science perspective",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Og1tA8FjbJAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A kernel two-sample test",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Additional material to the paper: What can a neuron learn with spike-timing-dependent plasticity",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observations on low dimensional readouts from the complex high dimensional dynamics of neural microcircuits, submitted for publication",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike trains\u2013im Rhythmus neuronaler Zellen",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of computing and learning with networks of spiking neurons",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing on Analog Neural Nets with Arbitrary Real Weights",
+                "cites": "2",
+                "year": "1994"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The complexity types of computable sets",
+                "cites": "2",
+                "year": "1992"
+            },
+            "id_citations": "2WpvdH0AAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some problems and results in the theory of actually computable functions",
+                "cites": "2",
+                "year": "1989"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1xBWf43XMUgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory networks orchestrate the self-organization of computational function in cortical microcircuit motifs through STDP",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:6VlyvFCUEfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for structured information representation in neural networks",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:X5YyAB84Iw4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assembly projections support the assignment of thematic roles to concepts in networks of spiking neurons",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:oursBaop5wYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variable Binding through Assemblies in Spiking Neural Networks.",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:37UQlXuwjP4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eliminating the teacher in reservoir computing",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:rLGzs9wiiwIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some steps towards a general principle for dimensionality reduction mappings",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long range coupling between V4 and PF in theta band during visual short-term memory",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of recurrent networks in neural architectures of grounded cognition: learning of control",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Imitation of life: how biology is inspiring computing\" by Nancy Forbes.",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of a detailed model for area V1 with simultaneous recordings from LGN and V1",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the computational power of neural microcircuit models: Pointers to the literature",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kurzzeitspeicher ohne stabile Zustaende in r\u00fcckgekoppelten neuronalen Netzen",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "2WpvdH0AAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Total wire length as a salient circuit complexity measure for sensory processing",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Konstruktion von Lernf\u00e4higen Robotern im Studentenwettbewerb\" Robotik 2000\" an der Technischen Universit\u00e4t Graz",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "2WpvdH0AAAAJ:lbI08cpqPnQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analog computations with temporal coding in networks of spiking neurons",
+                "cites": "1",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A solution of the credit assignment problem in the case of learning rectangles",
+                "cites": "1",
+                "year": "1992"
+            },
+            "id_citations": "2WpvdH0AAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine structure theory of the constructible universe in \u00ab.-and (I-recursion theory",
+                "cites": "1",
+                "year": "1978"
+            },
+            "id_citations": "2WpvdH0AAAAJ:qE4H1tSSYIIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eine Funktionalinterpretation der pr\u00e4dikativen Analysis",
+                "cites": "1",
+                "year": "1977"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions to...[alpha]-and...-recursion Theory",
+                "cites": "1",
+                "year": "1977"
+            },
+            "id_citations": "2WpvdH0AAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neuron can learn anytime classification of trajectories of network states without supervision",
+                "cites": "1"
+            },
+            "id_citations": "2WpvdH0AAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain computation by assemblies of neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:AFXcoJnoRH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for structured information representation in neural networks of the brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eAUscmXIlQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A biologically motivated rule for supervised learning with spiking neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:wkm4DBaukwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot learning with spiking neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Cvh0bltMcLgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-frequency adaptation provides a long short-term memory to networks of spiking neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2WpvdH0AAAAJ:vD2iS2Kej30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eligibility traces provide a data-inspired alternative to backpropagation through time",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1EqfMoDn7-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for the formation of associations between memory items in the brain",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "2WpvdH0AAAAJ:AZju0d2GQJ0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory and Applications of Agnostic PAC-Learning with Small Decision Trees",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:In6cVmBjs0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hamiltonian synaptic sampling in a model for reward-gated network plasticity",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Wq2b2clWBLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement: Network Plasticity as Bayesian Inference",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:TlpoogIpr_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic network plasticity as Bayesian inference",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:60iIaj97TE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic Plasticity as Bayesian Inference",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:xyvS_IvSCKsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-based network plasticity as Bayesian inference",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KI9T_ytC6pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A MODEL FOR FAST ANALOG COMPUTATIONS",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:oqD4_j7ulsYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local inhibition facilitates synaptic learning in spatially extended Bayesian spiking networks",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:VRfTbSk87rEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural circuits naturally encode probability distributions over network states, and over trajectories of network states",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ifOnle78iJkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Networks of spiking neurons with noise have an inherent capability to generate heuristic solutions to complex constraint satisfaction problems",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:R22Rs3tN8aoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles for an Alternative Design of Movement Primitives that Uses Probabilistic Inference in Learned Graphical Models",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "2WpvdH0AAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Klosterwiesgasse 32/2, A-8010 Graz, Austria E-mail:{maass, thatschl} Qigi. tu-graz. ac. at",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:69ZgNCALVd0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AND MEMBERSHIP QUERIES",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yIeBiWEAh44C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (June 13, 2012). doi: 10.1152/jn. 00935.2011",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:l6Q3WhenKVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spikes as temporal beliefs and the optimal temporal integration of uncertain information in networks of spiking neurons",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:natZJ_-F0IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved feature extraction by pyramidal cells through relaxed lateral inhibition",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of Hidden Markov Models through STDP in Networks of Spiking Neurons",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-organization of nonlinear neural computation through synaptic plasticity in dendritic branches",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9shLKfS_uJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of Optimal Population Decoding through STDP",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PlWzFYVEG4EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Das Gehirn als Teich, in den man Steine wirft",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Vno172sVVMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zeitsprung in der Sch\u00fcssel",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:aDl3D7KC1E4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hirnforschung-Prothesen f\u00fcr Gel\u00e4hmte",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:I858iXPj1OkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Die Nerven und ihre Erinnerung",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kUhpeDhEZMUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-based Expectation Maximization",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:8RAEygVn5_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid feature binding by a learning rule that integrates branch strength potentiation and STDP",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hfzGNhXhx5MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of Bayesian computation in generic motifs of cortical microcircuits",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:U0iAMwwPxtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursively Invariant-Recursion Theory",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:nVrZBo8bIpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "10302 Summary-Learning Paradigms in Dynamic Environments",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons and symbols: a manifesto",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why deterministic logic is hard to learn but Statistical Relational Learning works",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Second-order SMO for SVM Online Learning",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "2WpvdH0AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blick durch die Brille",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:TGkaJS32XoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Durch die Brille der Vergangenheit",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3lUAU8Oskd0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blick zur\u00fcck",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:0sTkTiv_uMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrated learning rule for branch strength potentiation and STDP",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STDP performs stochastic EM to reveal the hidden causes of spatiotemporal spiking patterns",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "2WpvdH0AAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with transient network dynamics",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Information to \u201cA Learning Theory for Reward-Modulated Spike-timing-dependent Plasticity with an Application to Biofeedback\u201d",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for learning effects in motor cortex that may facilitate the brain control of neuroprosthetic devices",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Learning Theory for Reward-Modulated Spike-Timing-Dependent Plasticity with Application to",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "08041 Abstracts collection--Recurrent neural networks-Models, capacities, and applications",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Hebbian Learning Rule for Optimal Decision Making",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "08041 Summary--Recurrent Neural Networks-Models, Capacities, and Applications",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Superposition of information in large ensembles of neurons in primary visual cortex.",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic Models of Computation in Computer Science and their Relation to the Computational Brain",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Department of Mathematics, Statistics and Computer Science University of Illinois at Chicago Chicago, Illinois 60680",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge of Chaos and Prediction of Computational Power for Neural Circuit Models",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Circuits as Analog Computers",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:XUvXOeBm_78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational consequences of lamina-specific structure in cortical microcircuit models.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Energy Complexity of Threshold Circuits",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting Independent Components with Spiking Neurons",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Results and open problems regarding the role of local feature descriptors for image classification in computer vision, and image representation in primary visual cortex",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UPs and DOWNs in Cortical Computation",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of real-time computing with feedback in generic neural microcircuit models",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adachi, Susumu, 201 Albers, Susanne, 145",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WC23djZS0W4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hitchcock, John M., 97",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PYBJJbyH-FwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "17 Excitotoxic and oxidative cross-talk between motor neurons and glia in ALS pathogenesis",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "2WpvdH0AAAAJ:WHdLCjDvYFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Readout neurons in neural microcircuits",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:J3LtWjKFLicC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolution of internal states of neural microcircuits",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BAanoTsO0WEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From spikes to liquid computing",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimizing the Layout of a Balanced Tree",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "2WpvdH0AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Article ID inco. 1999.2839, available online at http: \u0e22 \u0e22 www. idealibrary. com on",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:rOcdG6UcVlcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Article ID inco. 1998.2780, available online at http: \u0e22 \u0e22 www. idealibrary. com on",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:wKETBy42zhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised Learning",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "2WpvdH0AAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "E-mail:{maass, thatschl} Gigi. tu-graz. ac. at",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00a9 1998 The MIT Press. is provided in screen-viewable form for personal use only by members of MIT CogNet. Unauthorized use or dissemination of this information is expressly",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information and Computation Author Index",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Models for Fast Analog Computation with Spiking Neurons (Invited",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Models for Fast Analog Computation with Spiking Neurons.",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noisy Spiking Neurons with Temporal Coding have more Computational Power",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "2WpvdH0AAAAJ:xa5BkEQK8BgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sixth Annual Workshop on Computational Learning Theory (COLT)-July 26-28, 1993-Editor's foreword",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u_mOZUIutIEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "article no. SS971509",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "article no. 0044",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "2WpvdH0AAAAJ:MhiOAD_qIWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Weighted Majority Algorithms 3 Naoki Abe, Hang Li, and Atsuyoshi Nakamura On Handling Tree-Structured Attributes in Decision Tree Learning 12",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:7Frjd3zlGBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Identification of Geometric Objects with",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:cdwqcPQS8ssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast ldentification of Geometric Objects with Membership Oueries",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QsKbpXNoaWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives of Current Research about the Complexity of Learning on Neural Networks",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "2WpvdH0AAAAJ:N4u4nq0IxgcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATZENI, PAOLO",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "2WpvdH0AAAAJ:7H_MAutzIkAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Splitting and density for the recursive sets of a fixed time complexity",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "2WpvdH0AAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-Line Learning",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:8VtEwCQfWZkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Method for the Efficient Design of Boltzmann Machines for Classiffication Problems",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "2WpvdH0AAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the complexity of learning from counterexamples and membership queries(abstract)",
+                "cites": "0",
+                "year": "1990"
+            },
+            "id_citations": "2WpvdH0AAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relationship between the complexity, the degree, and the extension of a computable set",
+                "cites": "0",
+                "year": "1990"
+            },
+            "id_citations": "2WpvdH0AAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00a9 1990 The MIT Press. is provided in screen-viewable form for personal use only by members of MIT CogNet. Unauthorized use or dissemination of this information is expressly",
+                "cites": "0",
+                "year": "1990"
+            },
+            "id_citations": "2WpvdH0AAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some Problems and Results in the Theory of Actually Computable Functions (preliminary abstract)",
+                "cites": "0",
+                "year": "1989"
+            },
+            "id_citations": "2WpvdH0AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ON THEORY OF COMPUTING, 186-191, 1988.",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-95Q15plzcUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "KIROUSIS, LEFTERIS M., 14 KLEIN, PHILIP N., 190",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:L1USKYWJimsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ALLENDER, ERIC W., 336",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "2WpvdH0AAAAJ:CB2v5VPnA5kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Martin D. Davis and Elaine J. Weyuker. Comparability, complexity, and languages. Fundamentals of theoretical computer science. Computer science and applied \u2026",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:EBV337fEn3EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SURVEY/EXPOSITORY PAPER",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Approximation Algorithms for a Nonconvex Covering Problem",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:jFemdcug13IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Davis Martin D. and Weyuker Elaine J.. Comparability, complexity, and languages. Fundamentals of theoretical computer science. Computer science and applied mathematics \u2026",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AN EASY THEOREM OF CLASSICAL RECURSION-THEORY WHICH FAILS IN ALPHA-RECURSION THEORY FOR ALL ALPHA-GREATER-THAN-OMEGA",
+                "cites": "0",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:rHJHxKgnXwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pennsylvania State University, University Park, Pennsylvania 16802",
+                "cites": "0",
+                "year": "1986"
+            },
+            "id_citations": "2WpvdH0AAAAJ:adHtZc2wMuEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Strong reducibilities in \u03b1-and \u03b2-recursion theory",
+                "cites": "0",
+                "year": "1985"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "write A for N\u2014A. Observe that if A is re then< \u00a7 (/T) is trivially isomorphic to the lattice {WI W re and W 2 A} of re supersets of A.",
+                "cites": "0",
+                "year": "1984"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1DsIQWDZLl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A COUNTABLE BASIS FOR SIGMA 21 SETS AND RECURSION THEORY ON CHI 1",
+                "cites": "0",
+                "year": "1981"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QKtdBID3u5MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RECURSMLY TNIVARTANT p-RECURSTON THEORY",
+                "cites": "0",
+                "year": "1981"
+            },
+            "id_citations": "2WpvdH0AAAAJ:FiDNX6EVdGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A countable basis for \u03a3\u00b9\u2082 sets and recursion theory on \u2135\u2081",
+                "cites": "0",
+                "year": "1981"
+            },
+            "id_citations": "2WpvdH0AAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine structure theory of the constructible universe in \u03b1-and \u03b2-recursion theory",
+                "cites": "0",
+                "year": "1978"
+            },
+            "id_citations": "2WpvdH0AAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions to-\u0308 [Recursion] and \u00dfRecursion Theory",
+                "cites": "0",
+                "year": "1977"
+            },
+            "id_citations": "2WpvdH0AAAAJ:QyXJ3EUuO1IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplements for \u201cOne-shot learning with spiking neural networks\u201d",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:tgTmbKTkO1IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A solution to the learning dilemma for recurrent",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:i91s68tWr-MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Calculus for Brain Computation",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:M0j1y4EgrScC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary materials for: A solution to the learning dilemma for recurrent networks of spiking neurons",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:oYLFIHfuHKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically inspired alternatives to backpropagation through time for learning in recurrent neural networks",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:T8_be82Iz5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Book Review of\" Imitation of life: how biology is inspiring computing\" by Nancy Forbes",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hefNtdE4IMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VD Senchez A., F&on, inc., 9845 via Pasar, San Diego, CA 921264557 USA Regional editors",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:gV6rEsy15s0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VD Sdnchez A., Universify of Miami, Department of Mathemattcs and Computer Soence, PO Box 249085, Coral Gab/es",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:u3T1itk59dMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FA Mussa-lvaldi, Chicago, IL, USA",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:0ngZmJvimKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "N eural N ets with Superlinear mC-D im ension",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:i_7YvbSbtFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary information for: Long short-term memory and learning-to-learn in networks of spiking neurons",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:e84hm74t-eoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Method for the Efficient Design of Boltzmann Machines for Classification",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:h168fVGZblEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPIKES: Exploring the neural code SPIKES: Exploring the neural code, 1997",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:vnF2_uLGgtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory coding and information transmission The handbook of brain theory and neural networks Sensory coding and information transmission The handbook of brain theory and neural \u2026",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PuOEWVtPfzwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elements of information theory Elements of information theory, 1991",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:3A3nxV7CjKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern Classification Pattern Classification, 2001",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:eH23hyXCXa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Practical Guide to Information Analysis of Spike Trains A Practical Guide to Information Analysis of Spike Trains, 2003",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:XDrR66g3YHsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short term memory in echo state networks Short term memory in echo state networks, 2002",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Y9VhQm-5nPIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The complexity of matrix transposition on one-tape off-line",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:TesyEGJKHF4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-line Learning with an Oblivious",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:I8rxH6phXEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "and Learning Complexity of Analog Neural Nets",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yeL6HyUMUGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "of 2, substructures L, with p2f\"= f. The reasons for the interest in hyper",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yTLRzDEmwhEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronale Netze und maschinelles Lernen",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:RMgMIBzvq-4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What Target Functions can be Learnt with Spike-Timing-Dependent Plasticity?",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Y0-TYkg6YM4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Analytically Tractable Model for the Emergence of Concept Cells in the Human MTL",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:cBPnxVikjH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Material to Network Plasticity as Bayesian Inference",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Vr2j17o0sqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-based Expectation Maximization: Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:pYKElYtJMmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supporting Text S2 for: Ensembles of spiking neurons with noise support optimal probabilistic inference in a dynamically changing environment",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:sfnaS5RM6jYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some Differences between Genetic Algorithms in Nature and in Computer Science",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LK8CI43ZvvMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Okinawa Computational Neuroscience Course 2004",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-6RzNnnwWf8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "bounds tor the Computational Bower and Learning Complexity of Analog Neural Nets",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:silx2ntsSuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking Neurons",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-nhnvRiOwuoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sfunpson which will appear in the? roceeclings of the Second S\u00a1 rmposiun",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:pAkWuXOU-OoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ON c-AND P-RECURSMLY ENUMERABLE DEGREES",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KNjnJ3z-R6IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions to",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uVUOdF_882EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical Report: A Convergence Criterion for Spike Timing Dependent Plasticity",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:MAUkC_7iAq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EK Blum",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Materials for: Emergence of complex computational structures from chaotic neural networks through reward-modulated Hebbian learning",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:1yWc8FF-_SYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit Complexity Theory OF Sensory Processing",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:-mN3Mh-tlDkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "J. Hartmanis",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Institut f\u00fcr Grundlagen der Informationsverarbeitung Technische Universit\u00e4t Graz Inffeldgasse 16b A-8010 Graz, Austria",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EU FP7",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:7BrZ7Jt4UNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elmar A. R\u00fcckert1, Gerhard Neumann2, Marc Toussaint3",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Poster ID: W62 Paper ID: 416",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synapses as Dynamic Memory Buffers Wolfgang Maass* Institute for Theoretical Computer Science Technische Universitiat Graz A-8010 Graz, Austria",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "n\u00a3 om\u00a9 utation\" ith'ulses",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion planning among time dependent obstacles",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A countable basis for sigma-one-two sets and recursion theory on aleph-one",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "wetware (deutsche Version)",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Institute for Theoretical Computer Science Technische Universitaet Graz Inffeldgasse 16b A-8010 Graz, Austria",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lernende Maschinen",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The\" Liquid Computer\": A Novel Strategy for Real-Time",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time Computing with Partial Attractors in Generic Neural Microcircuit Models",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-tuning of neural circuits through inherent synaptic dynamics",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational role of theta oscillations in delayed-decision tasks",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronale Netze und maschinelles Lernen am Institut fuer Grundlagen der Informationsverarbeitung an der Technischen Universitaet Graz",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "eural om utation') 1esear78@ o i7 Dor",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory and Applications of Agnostic PAC-learning with Small Decision Trees Peter Auer Institute for Theoretical Computer Science Technische Universitaet Graz",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursively invariant beta-recursion theory-a preliminary survey",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-modulated Hebbian Learning of Optimal Decision Making",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2009 International Neural Network Society Officers (Executive Committee)",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "spike trains",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Agnostic PAC-Learning of Functions Analog Neural Nets (Extended Abstract) on",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INNS Officers and Board of Governors",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "J\u00f6ounas \u044e\u0433 tne computational rower and Learning Complexity of Analog Neural Nets",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Total Wire Length as a Salient Circuit Complexity Measure for Sensory Processing1 Robert A. Legenstein Institute for Theoretical Computer Science Technische Universitiat Graz \u2026",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "wetware (English version)",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "et\u00a5 or s of Spi ing eurons3",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational impact of laminar structure and small world properties of cortical microcircuit models",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Com putational Power of",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An E cient Implementation of Sigmoidal Neural Nets in Temporal Coding with Noisy Spiking Neurons",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ist die Vertreibung der Vernunft reversibel? Uberlegungen zu einem Wissenschafts-und Medienzentrum",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Jeff Bilems Peter Latham Rich Zemel",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical characterization of the spike response to natural stimuli in monkey area V1 and in a detailed model for a patch of V1",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimizing the Layout of a Complete Tree",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A very short story about autonomous robots",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The\" Liquid Computer\": A Novel Strategy for Real-Time",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing the Maximum Bichromatic Discrepancy, with applications to Computer Graphics and Machine Learning David P. Dobkin 1 Department of Computer Science, Princeton University",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STDP approximates Expectation Maximization in networks of spiking neurons with lateral inhibition",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EMERGENT NEURAL CODING IN NEURAL MICROCIRCUIT MODELS",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed fading memory for stimulus properties in the primary visual",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interaction of local field potential and spiking activity in area V1",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "This is page i Printer: Opaque this Paradigms for Computing with Spiking Neurons Wolfgang Maass",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synapses as Dynam ic M em ory Buffers",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the Special Issue on Computational Learning Theory",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00c3urzzeitspeicher ohne stabile ust ande in",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thomas Natschl\u0408ager and Wolfgang Maass",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian Hebb Rule for Incremental Learning of Optimal Inference in Bayesian Networks",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Learning Rule for Universal Approximators with a Single Non-Linearity",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Stochastic Synapses as",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noisy Spiking Neurons% ith Temporal",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bounds for the Com putational Power and",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CIRCUITS WITH BIOLOGICALLY REALISTIC SYNAPTIC DYNAMICS",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long range coupling between V4 and PFC in theta band during visual short-term memory.",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Konstruktion von lernfaehigen mobilen Robotern im Studentenwettbewerb``Robotik 2000''an der Technischen Universitaet Graz",
+                "cites": "0"
+            },
+            "id_citations": "2WpvdH0AAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=2WpvdH0AAAAJ",
+    "brain_inspired": {
+        "id": "944",
+        "link": "https://braininspired.co/podcast/59/",
+        "name": "Wolfgang Maass",
+        "title": "BI 059 Wolfgang Maass: How Do Brains Compute?",
+        "text": "In this second part of my discussion with Wolfgang (check out the first part), we talk about spiking neural networks in general, principles of brain computation he finds promising for implementing better network models, and we quickly overview some of his recent work on using these principles to build models with biologically plausible learning mechanisms, a spiking network analog of the well-known LSTM recurrent network, and meta-learning using reservoir computing."
+    }
+}

@@ -1,0 +1,2265 @@
+{
+    "affiliation": "Research Scientist, Google Brain",
+    "cites_per_year": {
+        "2009": 221,
+        "2010": 278,
+        "2011": 366,
+        "2012": 527,
+        "2013": 885,
+        "2014": 1382,
+        "2015": 2444,
+        "2016": 4493,
+        "2017": 7150,
+        "2018": 11463,
+        "2019": 17557,
+        "2020": 10328
+    },
+    "citedby": 57744,
+    "citedby5y": 53590,
+    "coauthors": [
+        {
+            "affiliation": "Research Scientist at Google DeepMind",
+            "id": "NkzyCvUAAAAJ",
+            "name": "Oriol Vinyals"
+        },
+        {
+            "affiliation": "Senior Research Scientist, Google Brain",
+            "id": "H-BnRI0AAAAJ",
+            "name": "Barret Zoph"
+        },
+        {
+            "affiliation": "Co-Founder and Chief Scientist of OpenAI",
+            "id": "x04W_mMAAAAJ",
+            "name": "Ilya Sutskever"
+        },
+        {
+            "affiliation": "Google Senior Fellow & SVP, Google Research and Health",
+            "id": "NMS69lQAAAAJ",
+            "name": "Jeff Dean"
+        },
+        {
+            "affiliation": "Amazon Web Services",
+            "id": "Tb0ZrYwAAAAJ",
+            "name": "Alex Smola"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "mG4imMEAAAAJ",
+            "name": "Andrew Ng"
+        },
+        {
+            "affiliation": "The D. E. Shaw Group",
+            "id": "kjMNMLkAAAAJ",
+            "name": "Navdeep Jaitly"
+        },
+        {
+            "affiliation": "Google, Inc.",
+            "id": "yp4Gk3kAAAAJ",
+            "name": "Vijay Vasudevan"
+        },
+        {
+            "affiliation": "Senior Research Scientist at Google",
+            "id": "Bmbkv6sAAAAJ",
+            "name": "Minh-Thang Luong"
+        },
+        {
+            "affiliation": "Google Research",
+            "id": "x5bC-UwAAAAJ",
+            "name": "Jon Shlens"
+        },
+        {
+            "affiliation": "Senior Researcher, CIIRC CTU",
+            "id": "oBu8kMMAAAAJ",
+            "name": "Tomas Mikolov"
+        },
+        {
+            "affiliation": "Google Brain, Carnegie Mellon University",
+            "id": "GpcGdRkAAAAJ",
+            "name": "Hieu Pham"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "n0pk_jEAAAAJ",
+            "name": "Jiquan Ngiam"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "55FnA9wAAAAJ",
+            "name": "Yonghui Wu"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "2r2NuDAAAAAJ",
+            "name": "Andrew Dai"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "Mu_8iOEAAAAJ",
+            "name": "Ekin Dogus Cubuk"
+        },
+        {
+            "affiliation": "Staff Scientist, Google Brain",
+            "id": "Lncr-VoAAAAJ",
+            "name": "Mohammad Norouzi"
+        },
+        {
+            "affiliation": "Research Scientist, Google Brain",
+            "id": "Vs-MdPcAAAAJ",
+            "name": "Samy Bengio"
+        },
+        {
+            "affiliation": "Google Inc.",
+            "id": "EemUE4gAAAAJ",
+            "name": "Zhifeng Chen"
+        },
+        {
+            "affiliation": "Google Inc.",
+            "id": "TKvd_Z4AAAAJ",
+            "name": "Kai Chen"
+        }
+    ],
+    "email": "@stanford.edu",
+    "hindex": 77,
+    "hindex5y": 73,
+    "i10index": 127,
+    "i10index5y": 121,
+    "id": "vfT6-XIAAAAJ",
+    "interests": [
+        "Machine Learning",
+        "Artificial Intelligence"
+    ],
+    "name": "Quoc V. Le",
+    "publications": [
+        {
+            "bib": {
+                "title": "Sequence to sequence learning with neural networks",
+                "cites": "11408",
+                "year": "2014"
+            },
+            "id_citations": "vfT6-XIAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed representations of sentences and documents",
+                "cites": "6014",
+                "year": "2014"
+            },
+            "id_citations": "vfT6-XIAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Google's neural machine translation system: Bridging the gap between human and machine translation",
+                "cites": "2918",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large scale Distributed Deep Networks",
+                "cites": "2680",
+                "year": "2012"
+            },
+            "id_citations": "vfT6-XIAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building high-level features using large scale unsupervised learning",
+                "cites": "2225",
+                "year": "2012"
+            },
+            "id_citations": "vfT6-XIAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural architecture search with reinforcement learning",
+                "cites": "1700",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning transferable architectures for scalable image recognition",
+                "cites": "1596",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural conversational model",
+                "cites": "1331",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Listen, attend and spell: A neural network for large vocabulary conversational speech recognition",
+                "cites": "1229",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis",
+                "cites": "1105",
+                "year": "2011"
+            },
+            "id_citations": "vfT6-XIAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting similarities among languages for machine translation",
+                "cites": "1037",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Xlnet: Generalized autoregressive pretraining for language understanding",
+                "cites": "873",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On optimization methods for deep learning",
+                "cites": "859",
+                "year": "2011"
+            },
+            "id_citations": "vfT6-XIAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Google\u2019s multilingual neural machine translation system: Enabling zero-shot translation",
+                "cites": "846",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to rank with nonsmooth cost functions",
+                "cites": "712",
+                "year": "2007"
+            },
+            "id_citations": "vfT6-XIAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grounded compositional semantics for finding and describing images with sentences",
+                "cites": "704",
+                "year": "2014"
+            },
+            "id_citations": "vfT6-XIAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient neural architecture search via parameter sharing",
+                "cites": "702",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-supervised sequence learning",
+                "cites": "676",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regularized evolution for image classifier architecture search",
+                "cites": "660",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for activation functions",
+                "cites": "620",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale evolution of image classifiers",
+                "cites": "608",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Addressing the rare word problem in neural machine translation",
+                "cites": "606",
+                "year": "2014"
+            },
+            "id_citations": "vfT6-XIAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tacotron: Towards end-to-end speech synthesis",
+                "cites": "604",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-task sequence to sequence learning",
+                "cites": "551",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficientnet: Rethinking model scaling for convolutional neural networks",
+                "cites": "540",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable and accurate deep learning with electronic health records",
+                "cites": "517",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple way to initialize recurrent networks of rectified linear units",
+                "cites": "477",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transformer-xl: Attentive language models beyond a fixed-length context",
+                "cites": "474",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On rectified linear units for speech processing",
+                "cites": "462",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Outrageously large neural networks: The sparsely-gated mixture-of-experts layer",
+                "cites": "456",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mnasnet: Platform-aware neural architecture search for mobile",
+                "cites": "449",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cofi rank-maximum margin matrix factorization for collaborative ranking",
+                "cites": "444",
+                "year": "2008"
+            },
+            "id_citations": "vfT6-XIAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning graph matching",
+                "cites": "436",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Qanet: Combining local convolution with global self-attention for reading comprehension",
+                "cites": "406",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hypernetworks",
+                "cites": "401",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring invariances in deep networks",
+                "cites": "395",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autoaugment: Learning augmentation policies from data",
+                "cites": "358",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric quantile estimation",
+                "cites": "356",
+                "year": "2006"
+            },
+            "id_citations": "vfT6-XIAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fastfood-approximating kernel expansions in loglinear time",
+                "cites": "343",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Don't decay the learning rate, increase the batch size",
+                "cites": "333",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural combinatorial optimization with reinforcement learning",
+                "cites": "315",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tiled convolutional neural networks",
+                "cites": "304",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Massive exploration of neural machine translation architectures",
+                "cites": "303",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Document embedding with paragraph vectors",
+                "cites": "301",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent neural networks for noise reduction in robust ASR",
+                "cites": "301",
+                "year": "2012"
+            },
+            "id_citations": "vfT6-XIAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ICA with reconstruction cost for efficient overcomplete feature learning",
+                "cites": "294",
+                "year": "2011"
+            },
+            "id_citations": "vfT6-XIAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bundle methods for regularized risk minimization",
+                "cites": "283",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adding gradient noise improves learning for very deep networks",
+                "cites": "274",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specaugment: A simple data augmentation method for automatic speech recognition",
+                "cites": "261",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for mobilenetv3",
+                "cites": "219",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do better imagenet models transfer better?",
+                "cites": "218",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural programmer: Inducing latent programs with gradient descent",
+                "cites": "206",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A scalable modular convex solver for regularized risk minimization",
+                "cites": "201",
+                "year": "2007"
+            },
+            "id_citations": "vfT6-XIAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural symbolic machines: Learning semantic parsers on freebase with weak supervision",
+                "cites": "193",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating labels from label proportions.",
+                "cites": "190",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gpipe: Efficient training of giant neural networks using pipeline parallelism",
+                "cites": "188",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding and simplifying one-shot architecture search",
+                "cites": "182",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised pretraining for sequence to sequence learning",
+                "cites": "175",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bundle methods for machine learning",
+                "cites": "163",
+                "year": "2008"
+            },
+            "id_citations": "vfT6-XIAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dropblock: A regularization method for convolutional networks",
+                "cites": "153",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Device placement optimization with reinforcement learning",
+                "cites": "150",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural questions: a benchmark for question answering research",
+                "cites": "149",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autoaugment: Learning augmentation strategies from data",
+                "cites": "149",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised data augmentation for consistency training",
+                "cites": "136",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A bayesian perspective on generalization and stochastic gradient descent",
+                "cites": "134",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fastfood-computing hilbert space expansions in loglinear time",
+                "cites": "133",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural optimizer search with reinforcement learning",
+                "cites": "128",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nas-fpn: Learning scalable feature pyramid architecture for object detection",
+                "cites": "124",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heteroscedastic Gaussian process regression",
+                "cites": "118",
+                "year": "2005"
+            },
+            "id_citations": "vfT6-XIAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct optimization of ranking measures",
+                "cites": "112",
+                "year": "2007"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grasping novel objects with depth segmentation",
+                "cites": "110",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-supervised sequence modeling with cross-view training",
+                "cites": "106",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-accuracy 3d sensing for mobile manipulation: Improving object detection and door opening",
+                "cites": "100",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning a natural language interface with neural programmer",
+                "cites": "94",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural transducer",
+                "cites": "94",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to grasp objects with multiple contact points",
+                "cites": "89",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to skim text",
+                "cites": "78",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-training with noisy student improves imagenet classification",
+                "cites": "77",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple method for commonsense reasoning",
+                "cites": "76",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolved transformer",
+                "cites": "70",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tighter bounds for structured estimation",
+                "cites": "69",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large margin optimization of ranking measures",
+                "cites": "67",
+                "year": "2007"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning longer-term dependencies in rnns with auxiliary losses",
+                "cites": "58",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on deep learning part 2: Autoencoders, convolutional neural networks and recurrent neural networks",
+                "cites": "57",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Randaugment: Practical automated data augmentation with a reduced search space",
+                "cites": "56",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint calibration of multiple sensors",
+                "cites": "55",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable learning for object detection with GPU hardware",
+                "cites": "54",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proximal regularization for online and batch learning",
+                "cites": "54",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low-cost accelerometers for robotic manipulator perception",
+                "cites": "51",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention augmented convolutional networks",
+                "cites": "48",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simpler knowledge-based support vector machines",
+                "cites": "44",
+                "year": "2006"
+            },
+            "id_citations": "vfT6-XIAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent sequence decompositions",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effective domain mixing for neural machine translation",
+                "cites": "41",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electra: Pre-training text encoders as discriminators rather than generators",
+                "cites": "39",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning data augmentation strategies for object detection",
+                "cites": "39",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficientdet: Scalable and efficient object detection",
+                "cites": "38",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hierarchical model for device placement",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bam! born-again multi-task networks for natural language understanding",
+                "cites": "36",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a human-like open-domain chatbot",
+                "cites": "34",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network for machine translation, at production scale",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning invariant features of tumor signatures",
+                "cites": "34",
+                "year": "2012"
+            },
+            "id_citations": "vfT6-XIAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intriguing properties of adversarial examples",
+                "cites": "33",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixconv: Mixed depthwise convolutional kernels",
+                "cites": "31",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding task-relevant features for few-shot learning by category traversal",
+                "cites": "31",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory augmented policy optimization for program synthesis and semantic parsing",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fluid jetting apparatus and a process for manufacturing the same",
+                "cites": "29",
+                "year": "2003"
+            },
+            "id_citations": "vfT6-XIAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain adaptive transfer learning with specialist models",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural program synthesis with priority queue training",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The human rights enterprise in Australia and internationally",
+                "cites": "26",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on deep learning part 1: Nonlinear classifiers and the backpropagation algorithm",
+                "cites": "23",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale multiclass transduction",
+                "cites": "22",
+                "year": "2006"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimization of ranking measures",
+                "cites": "20",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory augmented policy optimization for program synthesis with generalization",
+                "cites": "19",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating representations of input sequences using neural networks",
+                "cites": "18",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of network width on stochastic gradient descent and generalization: an empirical study",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using machine learning to explore neural network architecture",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using web co-occurrence statistics for improving image categorization",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adversarial examples improve image recognition",
+                "cites": "16",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selfie: Self-supervised pretraining for image embedding",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A short tour of kernel methods for graphs",
+                "cites": "15",
+                "year": "2006"
+            },
+            "id_citations": "vfT6-XIAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating vector representations of documents",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Airdialogue: An environment for goal-oriented dialogue research",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active perception: Interactive manipulation for improving object detection",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "vfT6-XIAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Condconv: Conditionally parameterized convolutions for efficient inference",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural machine translation systems with rare word processing",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can deep reinforcement learning solve erdos-selfridge-spencer games?",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transductive gaussian process regression with automatic model selection",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "vfT6-XIAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saccader: improving accuracy of hard attention models for vision",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Glucose oxidase immobilization on different modified surfaces of platinum nanowire for application in glucose detection",
+                "cites": "8",
+                "year": "2010"
+            },
+            "id_citations": "vfT6-XIAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ELEFANT user manual (revision 0.1)",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "vfT6-XIAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specaugment on large scale datasets",
+                "cites": "7",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using videos to evaluate image model robustness",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diversity and depth in per-example routing models",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AutoML for large scale image classification and object detection",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning representations of text using neural networks",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient computation of expected hypervolume improvement using box decomposition algorithms",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural input search for large scale recommendation models",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Backprop evolution",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical planning for device placement",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating labeled images",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Affinity weighted embedding",
+                "cites": "6",
+                "year": "2014"
+            },
+            "id_citations": "vfT6-XIAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SpineNet: Learning scale-permuted backbone for recognition and localization",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chip Placement with Deep Reinforcement Learning",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating author vectors",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving 3D Object Detection through Progressive Population Based Augmentation",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta pseudo labels",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural symbolic reader: Scalable integration of distributed and symbolic representations for reading comprehension",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stable electromyographic sequence prediction during movement transitions using temporal convolutional networks",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SpecAugment: A Simple Augmentation Method for Automatic Speech Recognition",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech recognition with attention-based recurrent neural networks",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implicit bridging of machine learning tasks",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring neural architecture search for language tasks",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical planning for device placement",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Neural Network for Machine Translation, at Production Scale. Google AI Blog",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "vfT6-XIAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable feature learning",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "vfT6-XIAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cofi rank-maximum margin matrix factorization for collaborative ranking NIPS",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "vfT6-XIAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved Noisy Student Training for Automatic Speech Recognition",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:v1_lew4L6wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can Weight Sharing Outperform Random Architecture Search? An Investigation With TuNAS",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mnasfpn: Learning latency-aware pyramid architecture for object detection on mobile devices",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and Method for Predicting and Summarizing Medical Events from Electronic Health Records",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High fidelity video prediction with large neural nets",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic natural gradient descent draws posterior samples in function space",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Goal-oriented Neural Conversation Model by Self-Play",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal SGD Hyperparameters for Fully Connected Networks",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "W, M. Rasi, T. Low, and A. Ng. Haptic belt with pedestrian detection",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "vfT6-XIAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optical lens device assembly",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "vfT6-XIAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection",
+                "cites": "2"
+            },
+            "id_citations": "vfT6-XIAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AutoML-Zero: Evolving Machine Learning Algorithms From Scratch",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural machine translation systems",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech recognition with attention-based recurrent neural networks",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural architecture search for convolutional neural networks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating representations of input sequences using neural networks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural question answering system",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Translating terms using numeric representations",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Label consistency for image analysis",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smooth Adversarial Training",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking Pre-training and Self-training",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:IaI1MmNe2tcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Skimming text using recurrent neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:7BrZ7Jt4UNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implicit bridging of machine learning tasks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:MpfHP-DdYjUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AutoHAS: Differentiable Hyper-parameter and Architecture Search",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:LdasjJ6CEcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent neural networks with rectified linear units",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech recognition with attention-based recurrent neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training machine learning models using adaptive transfer learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:zCSUwVk65WsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end text-to-speech conversion",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating author vectors",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural architecture search for convolutional neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end text-to-speech conversion",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural network optimizer search",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating target sequences from input sequences using partial conditioning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing text sequences using neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Label consistency for image analysis",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training a document classification neural network",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfT6-XIAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical device placement with reinforcement learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Translating terms using numeric representations",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Data Augmentation Strategies for Object Detection",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning data augmentation policies",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Augmentation of Audiographic Images for Improved Machine Learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Label consistency for image analysis",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical device placement with reinforcement learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Device placement optimization with reinforcement learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-supervised Learning by Coaching",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural architecture search",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning longer-term dependencies in neural network using auxiliary losses",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Machine Translation Systems With Rare Word Processing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting a search engine ranking signal value",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training neural networks using priority queues",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and Method for Predicting and Summarizing Medical Events from Electronic Health Records",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixtape: Breaking the Softmax Bottleneck Efficiently",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saccader: Accurate, interpretable image classification with hard attention",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the Workshop on High Performance Energy Efficient Embedded Systems (HIP3ES) 2019",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfT6-XIAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain Adaptive Transfer Learning",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving modular neural sequence architectures with genetic programming",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Code Synthesis with Priority Queue Training",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linguo-psychological model of depressive personality",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u041b\u0456\u043d\u0433\u0432\u043e\u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u0434\u0435\u043f\u0440\u0435\u0441\u0438\u0432\u043d\u043e\u0457 \u043e\u0441\u043e\u0431\u0438\u0441\u0442\u043e\u0441\u0442\u0456.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can Deep Reinforcement Learning Solve Erdos-Selfridge-Spencer Games?",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Don't decay the learning rate, increase the batch size",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Faster Discovery of Neural Architectures by Searching for Paths within a Large Model",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intriguing Properties of Adversarial Examples",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vfT6-XIAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating labeled images",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural network programmer",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "vfT6-XIAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In: ICCV (2009) Lan, T., Wang, Y., Mori, G.: Discriminative figure-centric models for joint action localization and recognition. In: 2011 IEEE International Conference on \u2026",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "vfT6-XIAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Release 0.4",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Release 0.3",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "vfT6-XIAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "V. Arul Kumar",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "vfT6-XIAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric quantile estimation",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "vfT6-XIAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Google Brain {hadavid, adai, qvl}@ google. com",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material for \u201cDo Better ImageNet Models Transfer Better?",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory Augmented Policy Optimization (MAPO)",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "QANET: COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF-ATTENTION FOR READING COMPRE",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kernel Means",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent Neural Networks for Signal Denoising in Robust ASR",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-Scale Multiclass Transduction",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LEARNING INVARIANT FEATURES OF TUMOR SIGNATURE WITH INDEPENDENT SUBSPACE ANALYSIS",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning with Non-Smooth Cost Functions",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bundle Methods for Machine Learning (T17)",
+                "cites": "0"
+            },
+            "id_citations": "vfT6-XIAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vfT6-XIAAAAJ"
+}

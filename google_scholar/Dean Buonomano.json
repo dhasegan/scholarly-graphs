@@ -1,0 +1,1043 @@
+{
+    "affiliation": "UCLA",
+    "cites_per_year": {
+        "1996": 88,
+        "1997": 54,
+        "1998": 66,
+        "1999": 94,
+        "2000": 156,
+        "2001": 177,
+        "2002": 262,
+        "2003": 214,
+        "2004": 218,
+        "2005": 315,
+        "2006": 281,
+        "2007": 361,
+        "2008": 360,
+        "2009": 550,
+        "2010": 464,
+        "2011": 603,
+        "2012": 501,
+        "2013": 610,
+        "2014": 724,
+        "2015": 625,
+        "2016": 723,
+        "2017": 645,
+        "2018": 659,
+        "2019": 664,
+        "2020": 358
+    },
+    "citedby": 9978,
+    "citedby5y": 3681,
+    "coauthors": [
+        {
+            "affiliation": "GPS/Rady, UCSD",
+            "id": "H8mW424AAAAJ",
+            "name": "Uma R. Karmarkar"
+        },
+        {
+            "affiliation": "University of Texas",
+            "id": "-ZsQmeEAAAAJ",
+            "name": "John H Byrne"
+        },
+        {
+            "affiliation": "Professor, University of Quilmes, Argentina",
+            "id": "2avORIAAAAAJ",
+            "name": "Rodrigo Laje"
+        },
+        {
+            "affiliation": "NYU",
+            "id": "4JGfwiQAAAAJ",
+            "name": "Vishwa Goudar"
+        },
+        {
+            "affiliation": "Professor of Translational Cognitive Neuroscience, University of Oxford",
+            "id": "yBSamFkAAAAJ",
+            "name": "Anna C Nobre"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Graz University of Technology",
+            "id": "2WpvdH0AAAAJ",
+            "name": "Wolfgang Maass"
+        },
+        {
+            "affiliation": "Posit Science",
+            "id": "ZrIZMPoAAAAJ",
+            "name": "Henry Mahncke"
+        },
+        {
+            "affiliation": "CEA, DRF/Joliot, NeuroSpin; INSERM, Cognitive Neuroimaging Unit",
+            "id": "c9JKGzoAAAAJ",
+            "name": "Virginie van Wassenhove"
+        },
+        {
+            "affiliation": "UCLA Professor of Psychology, Neuroscience, BioEngineering",
+            "id": "ws5IamUAAAAJ",
+            "name": "Ladan Shams"
+        },
+        {
+            "affiliation": "Centre for Systems Neuroscience, University of Leicester",
+            "id": "5eOhfkMAAAAJ",
+            "name": "Jian K. Liu"
+        },
+        {
+            "affiliation": "University of California, Los Angeles",
+            "id": "fbV8R-IAAAAJ",
+            "name": "Helen Motanis"
+        },
+        {
+            "affiliation": "Scuola Internazionale Superiore di Studi Avanzati (SISSA)",
+            "id": "z6YBf8kAAAAJ",
+            "name": "Domenica Bueti"
+        },
+        {
+            "affiliation": "Intel",
+            "id": "xwGIuw4AAAAJ",
+            "name": "Tyler Lee"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, University College London, Sainsbury Wellcome Centre for Neural Circuits",
+            "id": "UyHu4EUAAAAJ",
+            "name": "Tom Otis"
+        },
+        {
+            "affiliation": "Professor of Biomedical Information Engineering Lab., The University of Aizu",
+            "id": "pTf-49IAAAAJ",
+            "name": "Wenxi Chen"
+        }
+    ],
+    "email": "@ucla.edu",
+    "hindex": 39,
+    "hindex5y": 28,
+    "i10index": 62,
+    "i10index5y": 47,
+    "id": "W-2MXuEAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Time",
+        "Learning",
+        "Neurocomputation"
+    ],
+    "name": "Dean Buonomano",
+    "publications": [
+        {
+            "bib": {
+                "title": "Cortical plasticity: from synapses to maps",
+                "cites": "2752038923259538031",
+                "year": "1998",
+                "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.21.1.149",
+                "author": "Dean V Buonomano and Michael M Merzenich",
+                "volume": "21",
+                "number": "1",
+                "pages": "149-186",
+                "publisher": "Annual Reviews",
+                "abstract": "It has been clear for almost two decades that cortical representations in adult animals are not fixed entities, but rather, are dynamic and are continuously modified by experience. The cortex can preferentially allocate area to represent the particular peripheral input sources that are proportionally most used. Alterations in cortical representations appear to underlie learning tasks dependent on the use of the behaviorally important peripheral inputs that they represent. The rules governing this cortical representational plasticity following manipulations of inputs, including learning, are increasingly well understood.",
+                "eprint": "https://www.annualreviews.org/doi/full/10.1146/annurev.neuro.21.1.149"
+            },
+            "id_citations": "W-2MXuEAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of temporal processing",
+                "cites": "901",
+                "year": "2004"
+            },
+            "id_citations": "W-2MXuEAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "State-dependent computations: spatiotemporal processing in cortical networks",
+                "cites": "730",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing in the absence of clocks: encoding time in neural network states",
+                "cites": "552",
+                "year": "2007"
+            },
+            "id_citations": "W-2MXuEAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal information transformed into a spatial code by a neural network with realistic properties",
+                "cites": "473",
+                "year": "1995"
+            },
+            "id_citations": "W-2MXuEAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding temporal information: a model based on short-term synaptic plasticity",
+                "cites": "318",
+                "year": "2000"
+            },
+            "id_citations": "W-2MXuEAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and generalization of auditory temporal\u2013interval discrimination in humans",
+                "cites": "303",
+                "year": "1997"
+            },
+            "id_citations": "W-2MXuEAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust timing and motor patterns by taming chaos in recurrent neural networks",
+                "cites": "292",
+                "year": "2013"
+            },
+            "id_citations": "W-2MXuEAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural network model of the cerebellum: temporal discrimination and the timing of motor responses",
+                "cites": "281",
+                "year": "1994"
+            },
+            "id_citations": "W-2MXuEAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Book Review: How Do We Tell Time?",
+                "cites": "247",
+                "year": "2002"
+            },
+            "id_citations": "W-2MXuEAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distortions of subjective time perception within and across senses",
+                "cites": "244",
+                "year": "2008"
+            },
+            "id_citations": "W-2MXuEAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time and the brain: how subjective time relates to neural time",
+                "cites": "235",
+                "year": "2005"
+            },
+            "id_citations": "W-2MXuEAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of spike-timing dependent plasticity: one or two coincidence detectors?",
+                "cites": "199",
+                "year": "2002"
+            },
+            "id_citations": "W-2MXuEAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal specificity of perceptual learning in an auditory discrimination task",
+                "cites": "147",
+                "year": "2003"
+            },
+            "id_citations": "W-2MXuEAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population clocks: motor timing with neural dynamics",
+                "cites": "146",
+                "year": "2011"
+            },
+            "id_citations": "W-2MXuEAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The biology of time across different scales",
+                "cites": "126",
+                "year": "2007"
+            },
+            "id_citations": "W-2MXuEAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing of neural responses in cortical organotypic slices",
+                "cites": "100",
+                "year": "2003"
+            },
+            "id_citations": "W-2MXuEAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms and significance of spike-timing dependent plasticity",
+                "cites": "99",
+                "year": "2002"
+            },
+            "id_citations": "W-2MXuEAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Different forms of homeostatic plasticity are engaged with distinct temporal profiles",
+                "cites": "94",
+                "year": "2006"
+            },
+            "id_citations": "W-2MXuEAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural and molecular bases of nonassociative and associative learning in Aplysia",
+                "cites": "92",
+                "year": "1991"
+            },
+            "id_citations": "W-2MXuEAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Net interaction between different forms of short-term synaptic plasticity and slow-IPSPs in the hippocampus and auditory cortex",
+                "cites": "91",
+                "year": "1998"
+            },
+            "id_citations": "W-2MXuEAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain bugs: how the brain's flaws shape our lives",
+                "cites": "90",
+                "year": "2011"
+            },
+            "id_citations": "W-2MXuEAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing as an intrinsic property of neural networks: evidence from in vivo and in vitro experiments",
+                "cites": "87",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embedding multiple trajectories in simulated recurrent neural networks in a self-organizing manner",
+                "cites": "86",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential effects of excitatory and inhibitory plasticity on synaptically driven neuronal input-output functions",
+                "cites": "86",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of the interstimulus interval on temporal processing and learning: testing the state-dependent network model",
+                "cites": "84",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A learning rule for the emergence of stable dynamics and timing in recurrent networks",
+                "cites": "84",
+                "year": "2005"
+            },
+            "id_citations": "W-2MXuEAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics of in vitro cortical networks reflects experienced temporal patterns",
+                "cites": "81",
+                "year": "2010"
+            },
+            "id_citations": "W-2MXuEAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct functional types of associative long-term potentiation in neocortical and hippocampal pyramidal neurons",
+                "cites": "80",
+                "year": "1999"
+            },
+            "id_citations": "W-2MXuEAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term synaptic changes produced by a cellular analog of classical conditioning in Aplysia",
+                "cites": "77",
+                "year": "1990"
+            },
+            "id_citations": "W-2MXuEAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of timing: Distributed mechanisms for diverse functions",
+                "cites": "76",
+                "year": "2018"
+            },
+            "id_citations": "W-2MXuEAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development and plasticity of spontaneous activity and Up states in cortical organotypic slices",
+                "cites": "67",
+                "year": "2007"
+            },
+            "id_citations": "W-2MXuEAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network model of temporal code generation and position-invariant pattern recognition",
+                "cites": "62",
+                "year": "1999"
+            },
+            "id_citations": "W-2MXuEAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential encoding of time by prefrontal and striatal network dynamics",
+                "cites": "60",
+                "year": "2017"
+            },
+            "id_citations": "W-2MXuEAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Your brain is a time machine: The neuroscience and physics of time",
+                "cites": "58",
+                "year": "2017"
+            },
+            "id_citations": "W-2MXuEAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time in cortical circuits",
+                "cites": "56",
+                "year": "2015"
+            },
+            "id_citations": "W-2MXuEAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing and balance of inhibition enhance the effect of long-term potentiation on cell firing",
+                "cites": "54",
+                "year": "2004"
+            },
+            "id_citations": "W-2MXuEAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential effects of short-and long-term potentiation on cell firing in the CA1 region of the hippocampus",
+                "cites": "53",
+                "year": "2003"
+            },
+            "id_citations": "W-2MXuEAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context-sensitive synaptic plasticity and temporal-to-spatial transformations in hippocampal slices",
+                "cites": "42",
+                "year": "1997"
+            },
+            "id_citations": "W-2MXuEAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Small networks of empirically derived adaptive elements simulate some higher-order features of classical conditioning",
+                "cites": "39",
+                "year": "1990"
+            },
+            "id_citations": "W-2MXuEAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal interval learning in cortical cultures is encoded in intrinsic network dynamics",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "W-2MXuEAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocomputational models of interval and pattern timing",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "W-2MXuEAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel learning rule for long-term plasticity of short-term synaptic plasticity enhances temporal processing",
+                "cites": "32",
+                "year": "2011"
+            },
+            "id_citations": "W-2MXuEAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding sensory and motor patterns as time-invariant trajectories in recurrent neural networks",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "W-2MXuEAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A learning rule based on empirically-derived activity-dependent neuromodulation supports operant conditioning in a small network",
+                "cites": "27",
+                "year": "1992"
+            },
+            "id_citations": "W-2MXuEAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of temporal motor patterns: an analysis of continuous versus reset timing",
+                "cites": "26",
+                "year": "2011"
+            },
+            "id_citations": "W-2MXuEAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal perceptual learning",
+                "cites": "25",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A technique for repeated recordings in cortical organotypic slices",
+                "cites": "23",
+                "year": "2005"
+            },
+            "id_citations": "W-2MXuEAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Associative synaptic plasticity in hippocampal CA1 neurons is not sensitive to unpaired presynaptic activity",
+                "cites": "23",
+                "year": "1996"
+            },
+            "id_citations": "W-2MXuEAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory neuron produces heterosynaptic inhibition of the sensory-to-motor neuron synapse inAplysia",
+                "cites": "21",
+                "year": "1992"
+            },
+            "id_citations": "W-2MXuEAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics based timing in the subsecond to seconds range",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial overview: Time in perception and action.",
+                "cites": "17",
+                "year": "2016"
+            },
+            "id_citations": "W-2MXuEAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of order-selectivity based on dynamic changes in the balance of excitation and inhibition produced by short-term synaptic plasticity",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "W-2MXuEAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised formation of vocalization-sensitive neurons: a cortical model based on short-term and homeostatic plasticity",
+                "cites": "15",
+                "year": "2012"
+            },
+            "id_citations": "W-2MXuEAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harnessing chaos in recurrent neural networks",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal and network determinants of simple and higher-order features of associative learning: Experimental and modeling approaches",
+                "cites": "15",
+                "year": "1990"
+            },
+            "id_citations": "W-2MXuEAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding time in feedforward trajectories of a recurrent neural network model",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "W-2MXuEAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronic electrical stimulation homeostatically decreases spontaneous activity, but paradoxically increases evoked network activity",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "W-2MXuEAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirically derived adaptive elements and networks simulate associative learning",
+                "cites": "14",
+                "year": "1991"
+            },
+            "id_citations": "W-2MXuEAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A method for chronic stimulation of cortical organotypic cultures using implanted electrodes",
+                "cites": "11",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "O C\u00e9rebro Imperfeito: como as limita\u00e7\u00f5es do c\u00e9rebro condicionam as nossas vidas",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "W-2MXuEAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical plasticity: from synapse to maps",
+                "cites": "10",
+                "year": "1998"
+            },
+            "id_citations": "W-2MXuEAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of temporal scaling correctly predicts that motor timing improves with speed",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "W-2MXuEAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "16 The Neural Mechanisms of Timing on Short Timescales",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental shift of short-term synaptic plasticity in cortical organotypic slices",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "W-2MXuEAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multifocal fluorescence microscope for fast optical recordings of neuronal action potentials",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "W-2MXuEAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Useful dynamic regimes emerge in recurrent networks",
+                "cites": "7",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term synaptic plasticity as a mechanism for sensory timing",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "W-2MXuEAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Policy: A single market for European research",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "W-2MXuEAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical plasticity and learning: mechanisms and models",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Delayed in vitro development of Up states but normal network plasticity in Fragile X circuits",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "W-2MXuEAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural coding: time contraction and dilation in the striatum",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "W-2MXuEAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal information processing: A computational role for paired-pulse facilitation and slow inhibition",
+                "cites": "4",
+                "year": "1997"
+            },
+            "id_citations": "W-2MXuEAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model of Temporal Scaling Correctly Predicts that Weber\u2032 s Law is Speed-dependent",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "W-2MXuEAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A brain bug's life",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "W-2MXuEAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-Timing-Dependent Plasticity (STDP)",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "W-2MXuEAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Original Contribution: A learning rule based on empirically-derived activity-dependent neuromodulation supports operant conditioning in a small network",
+                "cites": "3",
+                "year": "1992"
+            },
+            "id_citations": "W-2MXuEAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Utilizing the Cortico-Striatal Projectome to Advance the Study of Timing and Time Perception",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "W-2MXuEAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory, Overview",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subjective Time: The Philosophy, Psychology, and Neuroscience of Temporality",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing as an intrinsic property of neural networks: evidence",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complexity without chaos: Plasticity within random recurrent networks generates robust timing and motor control",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "W-2MXuEAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gated dipoles for operant conditioning.",
+                "cites": "1",
+                "year": "1994"
+            },
+            "id_citations": "W-2MXuEAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Musical expertise generalizes to superior temporal scaling in a Morse code tapping task",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "W-2MXuEAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Le temps des neurones: Les horloges du cerveau",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "W-2MXuEAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Issue on Subjective Duration Guest Editor: Val\u00e9rie Doy\u00e8re",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "W-2MXuEAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain projects need stronger foundation",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "W-2MXuEAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics and temporal processing in cortical networks",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "W-2MXuEAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TimeandtheBrain: HowSubjectiveTimeRelatesto NeuralTime",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "W-2MXuEAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time is of the Essence: TU 205",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "W-2MXuEAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Gated dipoles for operant conditioning\": Reply.",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "W-2MXuEAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GATED DIPOLES FOR OPERANT-CONDITIONING-RESPONSE",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "W-2MXuEAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response to letter by Gaudiano et al",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "W-2MXuEAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural analogs of associative learning in Aplysia: Experimental and theoretical approaches.",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "W-2MXuEAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "JOHN H. BYRNE, DOUGLAS A. BAXTER, DEAN V. BUONOMANO, LEONARD J. CLEARY, ARNOLD ESKIN, 6 JASON R. GOLDSMITH, EV McCLENDON, FIDELMA A. NAZIF, FLORENCE NOEL, AND KENNETH P. SCHOLZ c",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "W-2MXuEAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Sequences as an Optimal Dynamical Regime for the Readout of Time",
+                "cites": "0"
+            },
+            "id_citations": "W-2MXuEAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of the interstimulus interval on temporal processing",
+                "cites": "0"
+            },
+            "id_citations": "W-2MXuEAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Material: Embedding Multiple Trajectories in Recurrent Neural Networks in",
+                "cites": "0"
+            },
+            "id_citations": "W-2MXuEAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SYSTEMS/CIRCUITS",
+                "cites": "0"
+            },
+            "id_citations": "W-2MXuEAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain Buys",
+                "cites": "0"
+            },
+            "id_citations": "W-2MXuEAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditioning, Cellular and Network Schemes for Higher-Order Features of Classical",
+                "cites": "0"
+            },
+            "id_citations": "W-2MXuEAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=W-2MXuEAAAAJ",
+    "brain_inspired": {
+        "id": "602",
+        "link": "https://braininspired.co/podcast/18/",
+        "name": "Dean Buonomano",
+        "title": "BI 018 Dean Buonomano: Time in Brains and AI",
+        "text": "Dean and I talk about how time and duration is encoded in the brain, how he implemented timing and sequences using short-term synaptic plasticity, in neuronal cultures, and in recurrent neural networks. We also discuss the subjective nature of time, consciousness, and how time might be implemented in future general AI."
+    }
+}

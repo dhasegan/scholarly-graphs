@@ -1,0 +1,513 @@
+{
+    "affiliation": "Research Scientist at DeepMind",
+    "cites_per_year": {
+        "2012": 8,
+        "2013": 14,
+        "2014": 31,
+        "2015": 68,
+        "2016": 106,
+        "2017": 243,
+        "2018": 572,
+        "2019": 1128,
+        "2020": 601
+    },
+    "citedby": 2811,
+    "citedby5y": 2737,
+    "coauthors": [
+        {
+            "affiliation": "Research Scientist, DeepMind",
+            "id": "nQ7Ij30AAAAJ",
+            "name": "Peter Battaglia"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "rRJ9wTJMUB8C",
+            "name": "Joshua B. Tenenbaum"
+        },
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "Associate Researcher, UC Berkeley",
+            "id": "Uva82JYAAAAJ",
+            "name": "Fernando Perez"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "id": "pCOmQzsAAAAJ",
+            "name": "Matthias Bussonnier"
+        },
+        {
+            "affiliation": "California Polytechnic State University, San Luis Obispo",
+            "id": "6_i63vgAAAAJ",
+            "name": "Brian E. Granger"
+        },
+        {
+            "affiliation": "Senior Research Engineer",
+            "id": "xSC3VSAAAAAJ",
+            "name": "Benjamin Ragan-Kelley"
+        },
+        {
+            "affiliation": "Project Jupyter, Cal Poly SLO",
+            "id": "Actb5ZYAAAAJ",
+            "name": "Carol Willing"
+        },
+        {
+            "affiliation": "QuantStack",
+            "id": "o_ARklQAAAAJ",
+            "name": "Sylvain Corlay"
+        },
+        {
+            "affiliation": "current: Software engineer at Bloomberg. past: Graduate Student, Vision Science, UC Berkeley",
+            "id": "QZW0vl8AAAAJ",
+            "name": "Paul Ivanov"
+        },
+        {
+            "affiliation": "Goethe Universit\u00e4t, Frankfurt",
+            "id": "95mnc80AAAAJ",
+            "name": "Victor Bapst"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "id": "UgHB5oAAAAAJ",
+            "name": "Anca D Dragan"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "iAq_9tEAAAAJ",
+            "name": "Jaime F. Fisac"
+        },
+        {
+            "affiliation": "Mechanical and Aerospace Engineering, Cornell University",
+            "id": "hhm6ZzUAAAAJ",
+            "name": "Chang Liu"
+        },
+        {
+            "affiliation": "University of California",
+            "id": "KgZxzjsAAAAJ",
+            "name": "Shankar Sastry"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "79k7bGEAAAAJ",
+            "name": "Nicolas Heess"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "aXNBOywAAAAJ",
+            "name": "John V McDonnell"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "z7inLV8AAAAJ",
+            "name": "Alexander S Rich"
+        },
+        {
+            "affiliation": "Department of Psychological Science, University of North Carolina at Charlotte",
+            "id": "lXiXiHAAAAAJ",
+            "name": "Doug Markant"
+        },
+        {
+            "affiliation": "Professor of Psychology, New York University",
+            "id": "4wcx4HMAAAAJ",
+            "name": "Todd Gureckis"
+        }
+    ],
+    "email": "@google.com",
+    "hindex": 16,
+    "hindex5y": 15,
+    "i10index": 18,
+    "i10index5y": 18,
+    "id": "2ylcZSsAAAAJ",
+    "interests": [
+        "cognitive science",
+        "AI",
+        "machine learning",
+        "mental simulation",
+        "model-based RL"
+    ],
+    "name": "Jessica B. Hamrick",
+    "publications": [
+        {
+            "bib": {
+                "title": "Jupyter Notebooks-a publishing format for reproducible computational workflows.",
+                "cites": "7764472154722495745",
+                "year": "2016",
+                "url": "http://books.google.com/books?hl=en&lr=&id=Lgy3DAAAQBAJ&oi=fnd&pg=PA87&dq=info:AW2laknywGsJ:scholar.google.com&ots=N1GVaSxGkn&sig=_ydrHYiE0JOS-1w05D9cln_lvKY",
+                "author": "Thomas Kluyver and Benjamin Ragan-Kelley and Fernando P\u00e9rez and Brian E Granger and Matthias Bussonnier and Jonathan Frederic and Kyle Kelley and Jessica B Hamrick and Jason Grout and Sylvain Corlay and Paul Ivanov and Dami\u00e1n Avila and Safia Abdalla and Carol Willing and et al.",
+                "pages": "87-90",
+                "abstract": "It is increasingly necessary for researchers in all fields to write computer code, and in order to reproduce research results, it is important that this code is published. We present Jupyter notebooks, a document format for publishing code, results and explanations in a form that is both readable and executable. We discuss various tools and use cases for notebook documents.",
+                "eprint": "https://eprints.soton.ac.uk/403913/1/STAL9781614996491-0087.pdf"
+            },
+            "id_citations": "2ylcZSsAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational inductive biases, deep learning, and graph networks",
+                "cites": "647",
+                "year": "2018"
+            },
+            "id_citations": "2ylcZSsAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation as an engine of physical scene understanding",
+                "cites": "475",
+                "year": "2013"
+            },
+            "id_citations": "2ylcZSsAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "psiTurk: An open-source framework for conducting replicable behavioral experiments online",
+                "cites": "139",
+                "year": "2015"
+            },
+            "id_citations": "2ylcZSsAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal physics models guide probabilistic judgments about object dynamics",
+                "cites": "83",
+                "year": "2011"
+            },
+            "id_citations": "2ylcZSsAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring mass in complex scenes by mental simulation",
+                "cites": "60",
+                "year": "2016"
+            },
+            "id_citations": "2ylcZSsAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevant and robust: A response to Marcus and Davis (2013)",
+                "cites": "49",
+                "year": "2015"
+            },
+            "id_citations": "2ylcZSsAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacontrol for Adaptive Imagination-Based Optimization",
+                "cites": "48",
+                "year": "2017"
+            },
+            "id_citations": "2ylcZSsAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Algorithm selection by rational metareasoning as a model of human strategy selection",
+                "cites": "40",
+                "year": "2014"
+            },
+            "id_citations": "2ylcZSsAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational inductive bias for physical construction in humans and machines",
+                "cites": "37",
+                "year": "2018"
+            },
+            "id_citations": "2ylcZSsAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Think again? The amount of mental simulation tracks uncertainty in the outcome",
+                "cites": "28",
+                "year": "2015"
+            },
+            "id_citations": "2ylcZSsAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal inference improves objective and perceived performance in human-robot collaboration",
+                "cites": "24",
+                "year": "2016"
+            },
+            "id_citations": "2ylcZSsAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pragmatic-Pedagogic Value Alignment",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "2ylcZSsAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analogues of mental simulation and imagination in deep learning",
+                "cites": "19",
+                "year": "2019"
+            },
+            "id_citations": "2ylcZSsAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approximating Bayesian inference with a sparse distributed memory system",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "2ylcZSsAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating plans that predict themselves",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "2ylcZSsAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Creating and Grading IPython/Jupyter Notebook Assignments with NbGrader",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "2ylcZSsAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What to simulate? Inferring the right direction for mental rotation",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "2ylcZSsAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagination-based decision making with physical models in deep neural networks",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "2ylcZSsAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured agents for physical construction",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "2ylcZSsAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering simple heuristics from mental simulation",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "2ylcZSsAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining Q-Learning and Search with Amortized Value Estimates",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "2ylcZSsAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "nbgrader: A tool for creating and grading assignments in the Jupyter Notebook",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "2ylcZSsAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physical reasoning in complex scenes is sensitive to mass",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "2ylcZSsAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wallace: Automating Cultural Evolution Experiments Through Crowdsourcing.",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "2ylcZSsAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mental Rotation as Bayesian Quadrature",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "2ylcZSsAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring Exploration: Comparing Children with RL Agents in Unified Environments",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2ylcZSsAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Divide-and-Conquer Monte Carlo Tree Search For Goal-Directed Planning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2ylcZSsAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Levels of Analysis for Machine Learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "2ylcZSsAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object-oriented state editing for HRL",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "2ylcZSsAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heuristics, hacks, and habits: Boundedly optimal approaches to learning, reasoning and decision making.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "2ylcZSsAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Strategies and representations in physical inference.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "2ylcZSsAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring inductive bias of visual scenes",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "2ylcZSsAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metareasoning and Mental Simulation",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "2ylcZSsAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring mass in complex physical scenes via probabilistic simulation.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "2ylcZSsAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intuitive mechanics in visual reasoning about complex scenes with unknown forces",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2ylcZSsAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physics knowledge aids object perception in dynamic scenes",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "2ylcZSsAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human stability perception implies sophisticated knowledge of physical dynamics",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "2ylcZSsAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u4f7f\u7528 NLP \u9884\u6d4b\u7535\u5f71\u7c7b\u578b-\u591a\u6807\u7b7e...",
+                "cites": "0"
+            },
+            "id_citations": "2ylcZSsAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eckenhoff, Kevin, 48 Elfes, Alberto, 272 Elkaim, Gabriel Hugh, 33",
+                "cites": "0"
+            },
+            "id_citations": "2ylcZSsAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fully automated experiments on cultural transmission through crowdsourcing",
+                "cites": "0"
+            },
+            "id_citations": "2ylcZSsAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=2ylcZSsAAAAJ",
+    "brain_inspired": {
+        "id": "887",
+        "link": "https://braininspired.co/podcast/51/",
+        "name": "Jess Hamrick",
+        "title": "BI 051 Jess Hamrick: Mental Simulation and Construction",
+        "text": "Jess and I discuss construction using graph neural networks. She makes AI agents that build structures to solve tasks in a simulated blocks and glue world using graph neural networks and deep reinforcement learning. We also discuss her work modeling mental simulation in humans and how it could be implemented in machines, and plenty more."
+    }
+}

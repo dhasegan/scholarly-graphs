@@ -1,0 +1,657 @@
+{
+    "affiliation": "Professor, Center for Neural Science, NYU",
+    "cites_per_year": {
+        "1996": 19,
+        "1997": 22,
+        "1998": 47,
+        "1999": 86,
+        "2000": 78,
+        "2001": 78,
+        "2002": 94,
+        "2003": 169,
+        "2004": 191,
+        "2005": 237,
+        "2006": 196,
+        "2007": 268,
+        "2008": 290,
+        "2009": 303,
+        "2010": 344,
+        "2011": 425,
+        "2012": 440,
+        "2013": 439,
+        "2014": 384,
+        "2015": 430,
+        "2016": 426,
+        "2017": 383,
+        "2018": 390,
+        "2019": 360,
+        "2020": 243
+    },
+    "citedby": 6417,
+    "citedby5y": 2233,
+    "coauthors": [
+        {
+            "affiliation": " Principal Investigator in Neuroscience, IDIBAPS",
+            "id": "TlXNwPoAAAAJ",
+            "name": "Jaime de la Rocha"
+        },
+        {
+            "affiliation": "Professor of Neurobiology and Statistics, University of Chicago",
+            "id": "2o_bzEUAAAAJ",
+            "name": "Brent Doiron"
+        },
+        {
+            "affiliation": "Assistant Professor of Neuroscience, University of Pittsburgh",
+            "id": "JsIqMCkAAAAJ",
+            "name": "Anne-Marie Oswald"
+        },
+        {
+            "affiliation": "Applied Mathematics, University of Washington",
+            "id": "GyvbrjcAAAAJ",
+            "name": "Eric Shea-Brown"
+        },
+        {
+            "affiliation": "Department of Mathematics, University of Houston",
+            "id": "P6oiy9kAAAAJ",
+            "name": "Kre\u0161imir Josi\u0107"
+        },
+        {
+            "affiliation": "Group Leader, Champalimaud Neuroscience Programme, Lisbon, Portugal",
+            "id": "_Z8XqrUAAAAJ",
+            "name": "Alfonso Renart"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "jcYBNfIAAAAJ",
+            "name": "Kenneth Harris"
+        },
+        {
+            "affiliation": "Brandeis University, CERN, Boston University, Columbia University, Stanford Linear Accelerator",
+            "id": "ca_O-WQAAAAJ",
+            "name": "L F Abbott"
+        },
+        {
+            "affiliation": "Professor of Mathematics, Univ of Pittsburgh",
+            "id": "E73icgUAAAAJ",
+            "name": "Bard Ermentrout"
+        },
+        {
+            "affiliation": "Ecole Normale Superieure",
+            "id": "Q2aFVoYAAAAJ",
+            "name": "B Gutkin"
+        },
+        {
+            "affiliation": "Assistant Professor of Neuroscience, The City College of New York",
+            "id": "s2stPsAAAAAJ",
+            "name": "Hysell V. Oviedo"
+        },
+        {
+            "affiliation": "Professor of Physiology & Biophysics, University of Washington",
+            "id": "Z1_YWEIAAAAJ",
+            "name": "Eberhard Fetz"
+        },
+        {
+            "affiliation": "Institut Pasteur",
+            "id": "LPiyDRgAAAAJ",
+            "name": "J\u00e9r\u00e9mie Barral"
+        },
+        {
+            "affiliation": "Professor of Neural Science and Biology",
+            "id": "voyxc_8AAAAJ",
+            "name": "Chiye Aoki"
+        },
+        {
+            "affiliation": "Saints-P\u00e8res Paris Institute for the Neurosciences, CNRS UMR 8003, Universit\u00e9 Paris Descartes",
+            "id": "HkTh0pIAAAAJ",
+            "name": "Michael Graupner, PhD"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "iAqJssMAAAAJ",
+            "name": "Joseph LeDoux"
+        },
+        {
+            "affiliation": "Associate Professor, Psychology and Biomedical Engineering, University of Connecticut",
+            "id": "iWBXZOsAAAAJ",
+            "name": "Heather L. Read"
+        },
+        {
+            "affiliation": "RIKEN Center for Brain Science",
+            "id": "iO7jHc4AAAAJ",
+            "name": "Tomoki Fukai"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 29,
+    "hindex5y": 22,
+    "i10index": 35,
+    "i10index5y": 27,
+    "id": "HBdWe7MAAAAJ",
+    "interests": [
+        "Neurodynamics/mechanisms"
+    ],
+    "name": "Alex D. Reyes",
+    "publications": [
+        {
+            "bib": {
+                "title": "Gain modulation from background synaptic input",
+                "cites": "993",
+                "year": "2002"
+            },
+            "id_citations": "HBdWe7MAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The asynchronous state in cortical circuits",
+                "cites": "847",
+                "year": "2010"
+            },
+            "id_citations": "HBdWe7MAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target-cell-specific facilitation and depression in neocortical circuits",
+                "cites": "670",
+                "year": "1998"
+            },
+            "id_citations": "HBdWe7MAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation between neural spike trains increases with firing rate",
+                "cites": "618",
+                "year": "2007"
+            },
+            "id_citations": "HBdWe7MAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchrony-dependent propagation of firing rate in iteratively constructed networks in vitro",
+                "cites": "325",
+                "year": "2003"
+            },
+            "id_citations": "HBdWe7MAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental switch in the short-term modification of unitary EPSPs evoked in layer 2/3 and layer 5 pyramidal neurons of rat neocortex",
+                "cites": "301",
+                "year": "1999"
+            },
+            "id_citations": "HBdWe7MAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vitro analysis of optimal stimuli for phase-locking and time-delayed modulation of firing in avian nucleus laminaris neurons",
+                "cites": "225",
+                "year": "1996"
+            },
+            "id_citations": "HBdWe7MAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Membrane properties underlying the firing of neurons in the avian cochlear nucleus",
+                "cites": "225",
+                "year": "1994"
+            },
+            "id_citations": "HBdWe7MAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two modes of interspike interval shortening by brief transient depolarizations in cat neocortical neurons",
+                "cites": "222",
+                "year": "1993"
+            },
+            "id_citations": "HBdWe7MAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-response curves give the responses of neurons to transient inputs",
+                "cites": "216",
+                "year": "2005"
+            },
+            "id_citations": "HBdWe7MAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of dendritic conductances on the input-output properties of neurons",
+                "cites": "208",
+                "year": "2001"
+            },
+            "id_citations": "HBdWe7MAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial profile of excitatory and inhibitory synaptic connectivity in mouse primary auditory cortex",
+                "cites": "177",
+                "year": "2012"
+            },
+            "id_citations": "HBdWe7MAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maturation of intrinsic and synaptic properties of layer 2/3 pyramidal neurons in mouse auditory cortex",
+                "cites": "170",
+                "year": "2008"
+            },
+            "id_citations": "HBdWe7MAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A depolarizing inhibitory response to GABA in brainstem auditory neurons of the chick",
+                "cites": "102",
+                "year": "1995"
+            },
+            "id_citations": "HBdWe7MAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic mechanisms underlying auditory processing",
+                "cites": "101",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Layer and frequency dependencies of phase response properties of pyramidal neurons in rat motor cortex",
+                "cites": "97",
+                "year": "2007"
+            },
+            "id_citations": "HBdWe7MAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking the response properties of cells in auditory cortex with network architecture: cotuning versus lateral inhibition",
+                "cites": "90",
+                "year": "2008"
+            },
+            "id_citations": "HBdWe7MAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial profile and differential recruitment of GABAB modulate oscillatory activity in auditory cortex",
+                "cites": "88",
+                "year": "2009"
+            },
+            "id_citations": "HBdWe7MAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relation between single neuron and population spiking statistics and effects on network activity",
+                "cites": "80",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic scaling rule preserves excitatory\u2013inhibitory balance and salient neuronal network dynamics",
+                "cites": "69",
+                "year": "2016"
+            },
+            "id_citations": "HBdWe7MAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boosting of neuronal firing evoked with asynchronous and synchronous inputs to the dendrite",
+                "cites": "68",
+                "year": "2002"
+            },
+            "id_citations": "HBdWe7MAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic input correlations leading to membrane potential decorrelation of spontaneous activity in cortex",
+                "cites": "66",
+                "year": "2013"
+            },
+            "id_citations": "HBdWe7MAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of inhibitory timescales in auditory cortex",
+                "cites": "51",
+                "year": "2011"
+            },
+            "id_citations": "HBdWe7MAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic synchronization in finite size spiking networks",
+                "cites": "51",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variation of input-output properties along the somatodendritic axis of pyramidal neurons",
+                "cites": "46",
+                "year": "2005"
+            },
+            "id_citations": "HBdWe7MAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise-driven adaptation: in vitro and mathematical analysis",
+                "cites": "45",
+                "year": "2003"
+            },
+            "id_citations": "HBdWe7MAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nicotinic and muscarinic reduction of unitary excitatory postsynaptic potentials in sensory cortex; dual intracellular recording in vitro",
+                "cites": "43",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of thalamocortical responses of regular-spiking and fast-spiking neurons of the mouse auditory cortex in vitro and in silico",
+                "cites": "41",
+                "year": "2012"
+            },
+            "id_citations": "HBdWe7MAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coexistence of lateral and co-tuned inhibitory configurations in cortical networks",
+                "cites": "37",
+                "year": "2011"
+            },
+            "id_citations": "HBdWe7MAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic short-term plasticity in auditory cortical circuits",
+                "cites": "29",
+                "year": "2011"
+            },
+            "id_citations": "HBdWe7MAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prey orienting in frogs: Accounting for variations in output with stimulus distance",
+                "cites": "22",
+                "year": "1985"
+            },
+            "id_citations": "HBdWe7MAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rubel EW, and Spain WJ",
+                "cites": "20",
+                "year": "1994"
+            },
+            "id_citations": "HBdWe7MAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cholinergic modulation of local pyramid\u2013interneuron synapses exhibiting divergent short-term dynamics in rat sensory cortex",
+                "cites": "18",
+                "year": "2008"
+            },
+            "id_citations": "HBdWe7MAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Updating temporal expectancy of an aversive event engages striatal plasticity under amygdala control",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "HBdWe7MAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible traffic control of the synfire-mode transmission by inhibitory modulation: nonlinear noise reduction",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "HBdWe7MAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of subthreshold and suprathreshold excitatory barrages along the somatodendritic axis of pyramidal neurons",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "HBdWe7MAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Propagation of temporal and rate signals in cultured multilayer networks",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "HBdWe7MAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetic stimulation and recording of primary cultured neurons with spatiotemporal control",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "HBdWe7MAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of brief depolarizing pulses on the firing rate of cat neocortical neurons.",
+                "cites": "4",
+                "year": "1991"
+            },
+            "id_citations": "HBdWe7MAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A breakthrough method that became vital to neuroscience",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "HBdWe7MAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voluntary wheel running exercise evoked by food-restriction stress exacerbates weight loss of adolescent female rats but also promotes resilience by enhancing gabaergic \u2026",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "HBdWe7MAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experimental and theoretical analyses of synchrony in feedforward Networks",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "HBdWe7MAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensing Sound Through Thalamocortical Afferent Architecture and Cortical Microcircuits",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "HBdWe7MAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mathematical framework for a place code in the auditory system",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "HBdWe7MAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal signals thoroughly recorded",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "HBdWe7MAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Propagation of spike timing and firing rate in feedforward networks reconstituted in vitro",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "HBdWe7MAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of Subthreshold and Suprathreshold Excitatory Barrages along the Somatodendritic Axis of Pyramidal",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "HBdWe7MAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maturation of Intrinsic and Synaptic Properties of",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "HBdWe7MAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Asynchronous State in the Cerebral Cortex",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "HBdWe7MAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Information for the article \u2018Correlation between neural spike trains increases with firing rate\u2019",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "HBdWe7MAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational studies of activity propagations through feed-forward networks of burst neurons",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "HBdWe7MAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-Response Curves Give the Responses of",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Soft Matter, Biological, and Interdisciplinary Physics-Relation between Single Neuron and Population Spiking Statistics and Effects on Network Activity",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vitro reconstruction of networks in auditory cortex",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "HBdWe7MAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase Response Curves Determine the Responses of Neurons to Transient",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "HBdWe7MAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling neuronal sensitivity to synchronous input",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "HBdWe7MAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mathematical framework for place coding in the auditory system",
+                "cites": "0"
+            },
+            "id_citations": "HBdWe7MAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation-rate relation enhances information throughput in layer networks of spiking neurons",
+                "cites": "0"
+            },
+            "id_citations": "HBdWe7MAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=HBdWe7MAAAAJ"
+}

@@ -1,0 +1,271 @@
+{
+    "affiliation": "Assistant Professor at New York University",
+    "cites_per_year": {
+        "2007": 5,
+        "2008": 9,
+        "2009": 27,
+        "2010": 18,
+        "2011": 56,
+        "2012": 61,
+        "2013": 96,
+        "2014": 88,
+        "2015": 137,
+        "2016": 129,
+        "2017": 151,
+        "2018": 167,
+        "2019": 202,
+        "2020": 143
+    },
+    "citedby": 1297,
+    "citedby5y": 929,
+    "coauthors": [
+        {
+            "affiliation": "Professor, Columbia University",
+            "id": "P2DJoxUAAAAJ",
+            "name": "Sarah Woolley"
+        },
+        {
+            "affiliation": "Research Scientist in Neuroscience",
+            "id": "NJz5I2wAAAAJ",
+            "name": "Puiu F Balan"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "Q7Iqo-4AAAAJ",
+            "name": "Jacqueline Gottlieb"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "FayXlTYAAAAJ",
+            "name": "Liam Paninski"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "pXgG2x8AAAAJ",
+            "name": "Anders Nelson"
+        },
+        {
+            "affiliation": "Max Planck Florida Institute for Neuroscience",
+            "id": "o6HjUAIAAAAJ",
+            "name": "Joseph W. Schumacher"
+        },
+        {
+            "affiliation": "Duke University Medical Center, Department of Neurobiology",
+            "id": "1HcDs2kAAAAJ",
+            "name": "Jun Takatoh"
+        },
+        {
+            "affiliation": "Principal Investigator, Champalimaud Neuroscience Programme",
+            "id": "ObXtA4UAAAAJ",
+            "name": "Joseph J. Paton"
+        },
+        {
+            "affiliation": "University of Pittsburgh",
+            "id": "7ZIlTPEAAAAJ",
+            "name": "Sara Morrison"
+        },
+        {
+            "affiliation": "University of Oregon, Departments of Biology and Mathematics",
+            "id": "ZDaThWgAAAAJ",
+            "name": "Yashar Ahmadian"
+        },
+        {
+            "affiliation": "Professor, Georgia Institute of Technology",
+            "id": "_DT8jHD7dGYJ",
+            "name": "Robert Butera"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 16,
+    "hindex5y": 15,
+    "i10index": 17,
+    "i10index5y": 15,
+    "id": "5NEJCPcAAAAJ",
+    "interests": [
+        "Neuroscience"
+    ],
+    "name": "David M. Schneider",
+    "publications": [
+        {
+            "bib": {
+                "title": "A synaptic and circuit basis for corollary discharge in the auditory cortex",
+                "cites": "315",
+                "year": "2014"
+            },
+            "id_citations": "5NEJCPcAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A circuit for motor cortical modulation of auditory cortical activity",
+                "cites": "120",
+                "year": "2013"
+            },
+            "id_citations": "5NEJCPcAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A generalized linear model for estimating spectrotemporal receptive fields from responses to natural sounds",
+                "cites": "118",
+                "year": "2011"
+            },
+            "id_citations": "5NEJCPcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of visuospatial and effector information during symbolically cued limb movements in monkey lateral intraparietal area",
+                "cites": "102",
+                "year": "2006"
+            },
+            "id_citations": "5NEJCPcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal correlates of the set-size effect in monkey lateral intraparietal area",
+                "cites": "98",
+                "year": "2008"
+            },
+            "id_citations": "5NEJCPcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse and background-invariant coding of vocalizations in auditory scenes",
+                "cites": "89",
+                "year": "2013"
+            },
+            "id_citations": "5NEJCPcAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrimination of communication vocalizations by single neurons and groups of neurons in the auditory midbrain",
+                "cites": "74",
+                "year": "2010"
+            },
+            "id_citations": "5NEJCPcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anesthetic state modulates excitability but not spectral tuning or neural discrimination in single auditory midbrain neurons",
+                "cites": "65",
+                "year": "2011"
+            },
+            "id_citations": "5NEJCPcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional circuits and anatomical distribution of response properties in the primate amygdala",
+                "cites": "62",
+                "year": "2013"
+            },
+            "id_citations": "5NEJCPcAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cortical filter that learns to suppress the acoustic consequences of movement",
+                "cites": "43",
+                "year": "2018"
+            },
+            "id_citations": "5NEJCPcAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor-related signals in the auditory system for listening and learning",
+                "cites": "36",
+                "year": "2015"
+            },
+            "id_citations": "5NEJCPcAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extra-classical tuning predicts stimulus-dependent receptive fields in auditory neurons",
+                "cites": "36",
+                "year": "2011"
+            },
+            "id_citations": "5NEJCPcAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incorporating naturalistic correlation structure improves spectrogram reconstruction from neuronal activity in the songbird auditory midbrain",
+                "cites": "32",
+                "year": "2011"
+            },
+            "id_citations": "5NEJCPcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task specific computations in attentional maps",
+                "cites": "30",
+                "year": "2009"
+            },
+            "id_citations": "5NEJCPcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated auditory recognition training and testing",
+                "cites": "29",
+                "year": "2011"
+            },
+            "id_citations": "5NEJCPcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How movement modulates hearing",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "5NEJCPcAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automating the design of informative sequences of sensory stimuli",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "5NEJCPcAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing neurophysiology experiments to optimally constrain receptive field models along parametric submanifolds",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "5NEJCPcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reflections of action in sensory cortex",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "5NEJCPcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms for sparse, informative and background-invariant coding of vocalizations",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "5NEJCPcAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=5NEJCPcAAAAJ"
+}

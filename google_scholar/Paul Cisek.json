@@ -1,0 +1,999 @@
+{
+    "affiliation": "U of Montreal",
+    "cites_per_year": {
+        "1997": 31,
+        "1998": 11,
+        "1999": 21,
+        "2000": 34,
+        "2001": 210,
+        "2002": 35,
+        "2003": 101,
+        "2004": 117,
+        "2005": 100,
+        "2006": 122,
+        "2007": 207,
+        "2008": 195,
+        "2009": 232,
+        "2010": 249,
+        "2011": 312,
+        "2012": 341,
+        "2013": 491,
+        "2014": 555,
+        "2015": 638,
+        "2016": 825,
+        "2017": 713,
+        "2018": 806,
+        "2019": 846,
+        "2020": 455
+    },
+    "citedby": 7715,
+    "citedby5y": 4285,
+    "coauthors": [
+        {
+            "affiliation": "Universit\u00e9 de Montr\u00e9al",
+            "id": "uJrcFwYAAAAJ",
+            "name": "John F. Kalaska"
+        },
+        {
+            "affiliation": "Lyon Neuroscience Research Center, Inserm, France",
+            "id": "cLqamBsAAAAJ",
+            "name": "David Thura"
+        },
+        {
+            "affiliation": "Professor, GSK-CIHR Chair in Neuroscience, Queen's University",
+            "id": "X5HyCNUAAAAJ",
+            "name": "Stephen Scott"
+        },
+        {
+            "affiliation": "University of Barcelona",
+            "id": "8qtPAsYAAAAJ",
+            "name": "Ignasi Cos"
+        },
+        {
+            "affiliation": "Wang Professor of Cognitive and Neural Systems, Boston University",
+            "id": "3BIV70wAAAAJ",
+            "name": "Stephen Grossberg"
+        },
+        {
+            "affiliation": "Professor Emeritus, Boston University",
+            "id": "35zk2FwAAAAJ",
+            "name": "Daniel Bullock"
+        },
+        {
+            "affiliation": "York University",
+            "id": "6T3-Rd4AAAAJ",
+            "name": "Lauren E Sergio"
+        },
+        {
+            "affiliation": "McGill University",
+            "id": "Lu2XPfUAAAAJ",
+            "name": "Alain Dagher"
+        },
+        {
+            "affiliation": "Universit\u00e9 catholique Louvain",
+            "id": "6irpMpMAAAAJ",
+            "name": "Duque Julie"
+        },
+        {
+            "affiliation": "McGill University",
+            "id": "atg5_n0AAAAJ",
+            "name": "Marco Leyton"
+        },
+        {
+            "affiliation": "National Research Council of Italy, Rome",
+            "id": "kkVbtzAAAAAJ",
+            "name": "Giovanni Pezzulo"
+        },
+        {
+            "affiliation": "Associate professor of Psychology, University of Ottawa",
+            "id": "nE_8s1YAAAAJ",
+            "name": "JP Thivierge"
+        },
+        {
+            "affiliation": "Post-doc, Instituto de Neurociencias, Universidad Miguel Hern\u00e1ndez de Elche",
+            "id": "UNsuDpgAAAAJ",
+            "name": "Encarni Marcos"
+        },
+        {
+            "affiliation": "Institute of Neuroscience, Brussels. / Twitter: @GDerosiere / Website: http://gerardderosiere.wix",
+            "id": "DyGtf1sAAAAJ",
+            "name": "Gerard Derosiere"
+        },
+        {
+            "affiliation": "West Virginia University",
+            "id": "W3m4ukcAAAAJ",
+            "name": "Valeriya Gritsenko"
+        },
+        {
+            "affiliation": "Universite de montreal",
+            "id": "KsavZ_QAAAAJ",
+            "name": "Trevor Drew"
+        },
+        {
+            "affiliation": "Leiden University",
+            "id": "mINykdQwol0C",
+            "name": "Bernhard Hommel"
+        },
+        {
+            "affiliation": "Professor, Faculty of Kinesiology & Physical Education, University of Toronto",
+            "id": "lReLLQcAAAAJ",
+            "name": "Timothy N. Welsh"
+        },
+        {
+            "affiliation": "Associate Professor Kinesiology, Dalhousie University",
+            "id": "q5aG4R0AAAAJ",
+            "name": "Heather Neyedli"
+        },
+        {
+            "affiliation": "Associate Professor of Cognitive, Linguistic & Psychological Sciences, Brown University",
+            "id": "i__gZh4AAAAJ",
+            "name": "Joo-Hyun Song"
+        }
+    ],
+    "email": "@umontreal.ca",
+    "hindex": 37,
+    "hindex5y": 28,
+    "i10index": 50,
+    "i10index5y": 42,
+    "id": "B2yaNZoAAAAJ",
+    "interests": [
+        "Neuroscience"
+    ],
+    "name": "Paul Cisek",
+    "publications": [
+        {
+            "bib": {
+                "title": "Neural mechanisms for interacting with a world full of action choices",
+                "cites": "12786248730873347505",
+                "year": "2010",
+                "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.051508.135409",
+                "author": "Paul Cisek and John F Kalaska",
+                "volume": "33",
+                "pages": "269-298",
+                "publisher": "Annual Reviews",
+                "abstract": "The neural bases of behavior are often discussed in terms of perceptual, cognitive, and motor stages, defined within an information processing framework that was originally inspired by models of human abstract problem solving. Here, we review a growing body of neurophysiological data that is difficult to reconcile with this influential theoretical perspective. As an alternative foundation for interpreting neural data, we consider frameworks borrowed from ethology, which emphasize the kinds of real-time interactive behaviors that animals have engaged in for millions of years. In particular, we discuss an ethologically-inspired view of interactive behavior as simultaneous processes that specify potential motor actions and select between them. We review how recent neurophysiological data from diverse cortical and subcortical regions appear more compatible with this parallel view than with the classical view of serial \u2026",
+                "eprint": "https://www.annualreviews.org/doi/full/10.1146/annurev.neuro.051508.135409"
+            },
+            "id_citations": "B2yaNZoAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of reaching decisions in dorsal premotor cortex: specification of multiple direction choices and final selection of action",
+                "cites": "877",
+                "year": "2005"
+            },
+            "id_citations": "B2yaNZoAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical mechanisms of action selection: the affordance competition hypothesis",
+                "cites": "866",
+                "year": "2007"
+            },
+            "id_citations": "B2yaNZoAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical control of reaching movements",
+                "cites": "479",
+                "year": "1997"
+            },
+            "id_citations": "B2yaNZoAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrated neural processes for defining potential actions and deciding between them: a computational model",
+                "cites": "327",
+                "year": "2006"
+            },
+            "id_citations": "B2yaNZoAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisions in changing conditions: the urgency-gating model",
+                "cites": "298",
+                "year": "2009"
+            },
+            "id_citations": "B2yaNZoAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activity in primary motor and dorsal premotor cortex in reaching tasks with the contralateral versus ipsilateral arm",
+                "cites": "265",
+                "year": "2003"
+            },
+            "id_citations": "B2yaNZoAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of mental rehearsal in dorsal premotor cortex",
+                "cites": "255",
+                "year": "2004"
+            },
+            "id_citations": "B2yaNZoAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making decisions through a distributed consensus",
+                "cites": "238",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical networks for control of voluntary arm movements under variable force conditions.",
+                "cites": "228",
+                "year": "1998"
+            },
+            "id_citations": "B2yaNZoAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision making by urgency gating: theory and experimental support",
+                "cites": "193",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous encoding of multiple potential reach directions in dorsal premotor cortex",
+                "cites": "186",
+                "year": "2002"
+            },
+            "id_citations": "B2yaNZoAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond the computer metaphor: Behaviour as interaction",
+                "cites": "185",
+                "year": "1999"
+            },
+            "id_citations": "B2yaNZoAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making",
+                "cites": "174",
+                "year": "2014"
+            },
+            "id_citations": "B2yaNZoAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Navigating the affordance landscape: feedback control as a process model of behavior and cognition",
+                "cites": "169",
+                "year": "2016"
+            },
+            "id_citations": "B2yaNZoAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of biased competition in premotor cortex",
+                "cites": "140",
+                "year": "2011"
+            },
+            "id_citations": "B2yaNZoAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of predicted arm biomechanics on decision making",
+                "cites": "109",
+                "year": "2011"
+            },
+            "id_citations": "B2yaNZoAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the challenges and mechanisms of embodied decisions",
+                "cites": "105",
+                "year": "2014"
+            },
+            "id_citations": "B2yaNZoAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activity in primary motor cortex related to mechanical loads applied to the shoulder and elbow during a postural task",
+                "cites": "91",
+                "year": "2001"
+            },
+            "id_citations": "B2yaNZoAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical control of whole-arm motor tasks",
+                "cites": "88",
+                "year": "1998"
+            },
+            "id_citations": "B2yaNZoAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kinematics and kinetics of multijoint reaching in nonhuman primates",
+                "cites": "87",
+                "year": "2003"
+            },
+            "id_citations": "B2yaNZoAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of premotor and primary motor cortical activity during volitional adjustments of speed-accuracy trade-offs",
+                "cites": "85",
+                "year": "2016"
+            },
+            "id_citations": "B2yaNZoAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of motor plans, desired trajectories, and controlled objects",
+                "cites": "84",
+                "year": "2005"
+            },
+            "id_citations": "B2yaNZoAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response competition in the primary motor cortex: corticospinal excitability reflects response replacement during simple decisions",
+                "cites": "77",
+                "year": "2010"
+            },
+            "id_citations": "B2yaNZoAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modest gaze-related discharge modulation in monkey dorsal premotor cortex during a reaching task performed with free fixation",
+                "cites": "68",
+                "year": "2002"
+            },
+            "id_citations": "B2yaNZoAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cortico-spinal model of reaching and proprioception under multiple task constraints",
+                "cites": "68",
+                "year": "1998"
+            },
+            "id_citations": "B2yaNZoAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The basal ganglia do not select reach targets but control the urgency of commitment",
+                "cites": "66",
+                "year": "2017"
+            },
+            "id_citations": "B2yaNZoAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonperiodic synchronization in heterogeneous networks of spiking neurons",
+                "cites": "56",
+                "year": "2008"
+            },
+            "id_citations": "B2yaNZoAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid prediction of biomechanical costs during action decisions",
+                "cites": "54",
+                "year": "2014"
+            },
+            "id_citations": "B2yaNZoAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context-dependent urgency influences speed\u2013accuracy trade-offs in decision-making and movement execution",
+                "cites": "52",
+                "year": "2014"
+            },
+            "id_citations": "B2yaNZoAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binding through the fovea,\u201d a tale of perception in the service of action",
+                "cites": "50",
+                "year": "1999"
+            },
+            "id_citations": "B2yaNZoAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dorsal premotor cortex is involved in switching motor plans",
+                "cites": "45",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Descending corticospinal control of intersegmental dynamics",
+                "cites": "43",
+                "year": "2011"
+            },
+            "id_citations": "B2yaNZoAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common codes for situated interaction",
+                "cites": "42",
+                "year": "2001"
+            },
+            "id_citations": "B2yaNZoAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of multiple potential motor actions in primate premotor cortex",
+                "cites": "40",
+                "year": "1999"
+            },
+            "id_citations": "B2yaNZoAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine precursor depletion impairs structure and efficiency of resting state brain functional networks",
+                "cites": "37",
+                "year": "2014"
+            },
+            "id_citations": "B2yaNZoAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From anticipation to action, the role of dopamine in perceptual decision making: an fMRI-tyrosine depletion study",
+                "cites": "37",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of selection and guidance of reaching movements in the parietal lobe",
+                "cites": "36",
+                "year": "2003"
+            },
+            "id_citations": "B2yaNZoAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The modulatory influence of end-point controllability on decisions between actions",
+                "cites": "35",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preparing for Speed. Focus on \u201cPreparatory Activity in Premotor and Motor Cortex Reflects the Speed of the Upcoming Reach\u201d",
+                "cites": "29",
+                "year": "2006"
+            },
+            "id_citations": "B2yaNZoAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational Neuroscience: Theoretical insights into brain function",
+                "cites": "26",
+                "year": "2007"
+            },
+            "id_citations": "B2yaNZoAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational neuroscience: Theoretical insights into brain function",
+                "cites": "26",
+                "year": "2007"
+            },
+            "id_citations": "B2yaNZoAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence against perfect integration of sensory information during perceptual decision making",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "B2yaNZoAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An alternative interpretation of population vector rotation in macaque motor cortex",
+                "cites": "24",
+                "year": "1999"
+            },
+            "id_citations": "B2yaNZoAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A parallel framework for interactive behavior",
+                "cites": "18",
+                "year": "2007"
+            },
+            "id_citations": "B2yaNZoAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embodiment is all in the head",
+                "cites": "17",
+                "year": "2001"
+            },
+            "id_citations": "B2yaNZoAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tony J. Prescott (2008), Scholarpedia, 3 (2): 2705. doi: 10.4249/scholarpedia. 2705 revision# 89604 [link to/cite this article]",
+                "cites": "17"
+            },
+            "id_citations": "B2yaNZoAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The urgency-gating model can explain the effects of early evidence",
+                "cites": "16",
+                "year": "2015"
+            },
+            "id_citations": "B2yaNZoAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "No one knows what attention is",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "B2yaNZoAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resynthesizing behavior through phylogenetic refinement",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "B2yaNZoAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The urge to decide and act: implications for brain function and dysfunction",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "B2yaNZoAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the difference between evidence accumulator models and the urgency gating model",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "B2yaNZoAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor cortex disruption delays motor processes but not deliberation about action choices",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "B2yaNZoAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural circuits for action selection",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "B2yaNZoAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Affordance Competition Hypothesis",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "B2yaNZoAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model of reach decisions in the primate cerebral cortex",
+                "cites": "7",
+                "year": "2005"
+            },
+            "id_citations": "B2yaNZoAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making choices between rules or between actions",
+                "cites": "6",
+                "year": "2011"
+            },
+            "id_citations": "B2yaNZoAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A remarkable facilitating effect of parietal damage",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "B2yaNZoAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The currency of guessing",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "B2yaNZoAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trial-to-trial adjustments of speed-accuracy trade-offs in premotor and primary motor cortex",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "B2yaNZoAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biomechanical costs of reaching movements bias perceptual decisions",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "B2yaNZoAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal models",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "B2yaNZoAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking neurons that keep the rhythm",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "B2yaNZoAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "11 A Computational Perspective on Proprioception and Movement Guidance in Parietal Cortex",
+                "cites": "4",
+                "year": "2001"
+            },
+            "id_citations": "B2yaNZoAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GW theory in the spotlight of evolution",
+                "cites": "3",
+                "year": "1997"
+            },
+            "id_citations": "B2yaNZoAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reaching movements: implications for computational models",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "B2yaNZoAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reaching decisions during ongoing movements",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "B2yaNZoAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Modelling Perspective on the Role of Biomechanics on Motor Decision-Making",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corticospinal excitability reflects response competition during a decisionmaking task: 71",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "B2yaNZoAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical circuits for control of voluntary arm movements",
+                "cites": "1",
+                "year": "1997"
+            },
+            "id_citations": "B2yaNZoAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microstimulation of dorsal premotor and primary motor cortex delays the volitional commitment to an action choice",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "B2yaNZoAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic changes in urgency over the course of a decision",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "B2yaNZoAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A sensorimotor alternative to coding is possible",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "B2yaNZoAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of evidence and urgency during human perceptual decision-making in dynamically changing conditions",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "B2yaNZoAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral phenotyping of impulsivity with a dynamic decision-making task",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "B2yaNZoAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (November 25, 2015). doi: 10.1152/jn. 00264.2015",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "B2yaNZoAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (July 5, 2012). doi: 10.1152/jn. 00081.2012",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EXPERIMENTAL SUPPORT 3",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "B2yaNZoAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling Natural Action Selection: Cortical mechanisms of action selection: the affordance competition hypothesis",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "B2yaNZoAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (May 5, 2010). doi: 10.1152/jn. 00819.2009",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "B2yaNZoAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine depletion impairs cortico-basal ganglia-thalamic loop activation during a motion discrimination task with expectation",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "B2yaNZoAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational Neuroscience: Theoretical Insights into Brain Function Preface",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "B2yaNZoAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RAPID COMMUNICATIONS-Modest Gaze-Related Discharge Modulation in Monkey Dorsal Premotor Cortex During a Reaching Task Performed With Free Fixation",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "B2yaNZoAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pascal and Francis Bibliographic Databases",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "B2yaNZoAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural model of voluntary reaching and postural control.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "B2yaNZoAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical Report CAS/CNS-96-035",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "B2yaNZoAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pascal and Francis Bibliographic Databases",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "B2yaNZoAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural model of biased oscillations in Aplysia head-waving behavior",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "B2yaNZoAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pascal and Francis Bibliographic Databases",
+                "cites": "0"
+            },
+            "id_citations": "B2yaNZoAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information for",
+                "cites": "0"
+            },
+            "id_citations": "B2yaNZoAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of trial-to-trial adjustments of speed-accuracy trade-offs in premotor and primary motor cortex",
+                "cites": "0"
+            },
+            "id_citations": "B2yaNZoAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PERCEPTUAL DECISIONS IN CHANGING CONDITIONS",
+                "cites": "0"
+            },
+            "id_citations": "B2yaNZoAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Data Neural Correlates of Reaching Decisions in Dorsal Premotor Cortex: Specification of Multiple Direction Choices and Final Selection of Action",
+                "cites": "0"
+            },
+            "id_citations": "B2yaNZoAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Speed-Invariant Temporal Feature Detector",
+                "cites": "0"
+            },
+            "id_citations": "B2yaNZoAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=B2yaNZoAAAAJ",
+    "brain_inspired": {
+        "id": "983",
+        "link": "https://braininspired.co/podcast/67/",
+        "name": "Paul Cisek",
+        "title": "BI 067 Paul Cisek: Backward Through The Brain",
+        "text": "In this second part of my conversion with Paul, we continue our discussion about how to understand brains as feedback control mechanisms \u2013 controlling our internal state and extending that control into the world \u2013 and how Paul thinks the key to understanding intelligence is to trace our evolutionary past through phylogenetic refinement."
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "affiliation": "X, the moonshot factory",
+    "cites_per_year": {
+        "2012": 3,
+        "2013": 26,
+        "2014": 40,
+        "2015": 38,
+        "2016": 47,
+        "2017": 60,
+        "2018": 54,
+        "2019": 56,
+        "2020": 32
+    },
+    "citedby": 361,
+    "citedby5y": 288,
+    "coauthors": [
+        {
+            "affiliation": "University Professor (PIK), bioengineering and neuroscience, UPenn",
+            "id": "MiFqJGcAAAAJ",
+            "name": "Konrad Paul Kording"
+        },
+        {
+            "affiliation": "Harvard Medical School",
+            "id": "SfDzdgEAAAAJ",
+            "name": "George Church"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "q2rHA5QAAAAJ",
+            "name": "Ed Boyden"
+        },
+        {
+            "affiliation": "DeepMind, MIT",
+            "id": "pRTuNPsAAAAJ",
+            "name": "Adam H Marblestone"
+        },
+        {
+            "affiliation": "Postdoc, Columbia University",
+            "id": "tbfWCDgAAAAJ",
+            "name": "Joshua I. Glaser"
+        },
+        {
+            "affiliation": "Resident Physician, Northwestern University - Internal Medicine, PSTP",
+            "id": "T8W-5LsAAAAJ",
+            "name": "Thaddeus R. Cybulski MD, PhD"
+        },
+        {
+            "affiliation": "Associate Professor of Chemical and Biological Engineering, Northwestern University",
+            "id": "HMAn4WUAAAAJ",
+            "name": "Keith Tyo"
+        },
+        {
+            "affiliation": "Research Scientist, Protocol Labs",
+            "id": "CWzi9D0AAAAJ",
+            "name": "David A. Dalrymple"
+        },
+        {
+            "affiliation": "Principal Scientist; GRO Biosciences",
+            "id": "XiFOND4AAAAJ",
+            "name": "P Benjamin Stranges"
+        },
+        {
+            "affiliation": "Professor of EECS, University of California at Berkeley",
+            "id": "GP64q_kAAAAJ",
+            "name": "Jan Rabaey"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "Lk38PP0AAAAJ",
+            "name": "Carlos Jose Bustamante"
+        },
+        {
+            "affiliation": "University of Minnesota",
+            "id": "Z7p522oAAAAJ",
+            "name": "Daniel Schmidt"
+        },
+        {
+            "affiliation": "Assistant Professor, Boston Children's Hospital and Harvard Medical School",
+            "id": "U7eic7AAAAAJ",
+            "name": "Jeffrey R. Moffitt"
+        },
+        {
+            "affiliation": "Professor of Biology, CSHL",
+            "id": "wM_22hwAAAAJ",
+            "name": "Anthony Zador"
+        },
+        {
+            "affiliation": "Harvard University",
+            "id": "o_xIYNUAAAAJ",
+            "name": "Evan R. Daugharthy"
+        },
+        {
+            "affiliation": "PhD student, UC Berkeley",
+            "id": "dc40_-AAAAAJ",
+            "name": "Dongjin (DJ) Seo"
+        },
+        {
+            "affiliation": "",
+            "id": "8yTRtWgAAAAJ",
+            "name": "Ian Peikon"
+        },
+        {
+            "affiliation": "National Institute of Standards and Technology",
+            "id": "q6REHGkAAAAJ",
+            "name": "Daniel R Schmidt"
+        }
+    ],
+    "email": "@x.team",
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 6,
+    "i10index5y": 5,
+    "id": "r-V-R3YAAAAJ",
+    "interests": [
+        "Synthetic Biology",
+        "Biotechnology",
+        "Agriculture",
+        "Infectious Disease",
+        "Nucleic Acid Diagnostics"
+    ],
+    "name": "Brad Zamft",
+    "publications": [
+        {
+            "bib": {
+                "title": "Physical principles for scalable neural recording",
+                "cites": "161",
+                "year": "2013"
+            },
+            "id_citations": "r-V-R3YAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nascent RNA structure modulates the transcriptional dynamics of RNA polymerases",
+                "cites": "76",
+                "year": "2012"
+            },
+            "id_citations": "r-V-R3YAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing",
+                "cites": "51",
+                "year": "2012"
+            },
+            "id_citations": "r-V-R3YAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical analysis of molecular signal recording",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "r-V-R3YAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conneconomics: the economics of large-scale neural connectomics",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "r-V-R3YAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial information in large-scale neural recordings",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "r-V-R3YAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Puzzle imaging: Using large-scale dimensionality reduction algorithms for localization",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "r-V-R3YAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engineering plants to reflect light: strategies for engineering water\u2010efficient plants to adapt to a changing climate",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "r-V-R3YAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution mapping of DNA polymerase fidelity using nucleotide imbalances and next-generation sequencing",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "r-V-R3YAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DNA binding strength increases the processivity and activity of a Y-Family DNA polymerase",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "r-V-R3YAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single Molecule and Synthetic Biology Studies of Transcription",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "r-V-R3YAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=r-V-R3YAAAAJ"
+}

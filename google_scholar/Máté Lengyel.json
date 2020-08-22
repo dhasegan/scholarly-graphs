@@ -1,0 +1,1634 @@
+{
+    "affiliation": "Professor of Computational Neuroscience, Department of Engineering, University of Cambridge",
+    "cites_per_year": {
+        "2000": 23,
+        "2001": 5,
+        "2002": 4,
+        "2003": 11,
+        "2004": 13,
+        "2005": 35,
+        "2006": 38,
+        "2007": 46,
+        "2008": 51,
+        "2009": 65,
+        "2010": 110,
+        "2011": 157,
+        "2012": 171,
+        "2013": 217,
+        "2014": 209,
+        "2015": 247,
+        "2016": 282,
+        "2017": 335,
+        "2018": 374,
+        "2019": 463,
+        "2020": 274
+    },
+    "citedby": 3164,
+    "citedby5y": 1979,
+    "coauthors": [
+        {
+            "affiliation": "Central European University",
+            "id": "MqlADsMAAAAJ",
+            "name": "Jozsef Fiser"
+        },
+        {
+            "affiliation": "Head, Computational Systems Neuroscience Lab, MTA Wigner Research Centre, Budaepst, Hungary",
+            "id": "1JeMZad2LKcC",
+            "name": "Gergo Orban"
+        },
+        {
+            "affiliation": "Kalamazoo College",
+            "id": "q832g60AAAAJ",
+            "name": "Peter Erdi"
+        },
+        {
+            "affiliation": "",
+            "id": "Xbh1cHoAAAAJ",
+            "name": "Pietro Berkes"
+        },
+        {
+            "affiliation": "Haskins Laboratories and Yale University",
+            "id": "QTQ6V5oAAAAJ",
+            "name": "Richard Aslin"
+        },
+        {
+            "affiliation": "Twitter",
+            "id": "koQCVT4AAAAJ",
+            "name": "Ferenc Husz\u00e1r"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, Columbia University",
+            "id": "YM8BRlUAAAAJ",
+            "name": "Daniel Wolpert"
+        },
+        {
+            "affiliation": "The University of Cambridge, UK",
+            "id": "-NkKYYcAAAAJ",
+            "name": "Guillaume Hennequin"
+        },
+        {
+            "affiliation": "Ecole Normale Superieure",
+            "id": "Q2aFVoYAAAAJ",
+            "name": "B Gutkin"
+        },
+        {
+            "affiliation": "Humboldt-Universit\u00e4t zu Berlin, Germany",
+            "id": "7LUzNNwAAAAJ",
+            "name": "Michiel Remme"
+        },
+        {
+            "affiliation": "NYU",
+            "id": "muNtwgcAAAAJ",
+            "name": "Cristina Savin"
+        },
+        {
+            "affiliation": "Professor of Theoretical Neuroscience, Institute of Neuroinformatics, University of Zurich and ETH",
+            "id": "mzUYoLgAAAAJ",
+            "name": "Jean-Pascal Pfister"
+        },
+        {
+            "affiliation": "Google",
+            "id": "sm1-TZMAAAAJ",
+            "name": "Neil Houlsby"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "DF9khKUAAAAJ",
+            "name": "Laurence Aitchison"
+        },
+        {
+            "affiliation": "Professor, University of Cambridge, and Chief Scientist, Uber",
+            "id": "0uTu7fYAAAAJ",
+            "name": "Zoubin Ghahramani"
+        },
+        {
+            "affiliation": "MTA Institute of Experimental Medicine",
+            "id": "Qup7UAYAAAAJ",
+            "name": "Balazs B Ujfalussy"
+        },
+        {
+            "affiliation": "Korea University",
+            "id": "CqLyzK0AAAAJ",
+            "name": "Jeehyun Kwag"
+        },
+        {
+            "affiliation": "UCL Sainsbury Wellcome Centre",
+            "id": "PJ7kIFMAAAAJ",
+            "name": "Tiago Branco"
+        },
+        {
+            "affiliation": "Rutgers University",
+            "id": "s83B9fcAAAAJ",
+            "name": "Scott Cheng-Hsin Yang"
+        }
+    ],
+    "email": "@eng.cam.ac.uk",
+    "hindex": 24,
+    "hindex5y": 21,
+    "i10index": 39,
+    "i10index5y": 27,
+    "id": "WvgoL14AAAAJ",
+    "interests": [
+        "computational neuroscience",
+        "learning",
+        "memory",
+        "computational cognitive science"
+    ],
+    "name": "M\u00e1t\u00e9 Lengyel",
+    "publications": [
+        {
+            "bib": {
+                "title": "Statistically optimal perception and learning: from behavior to neural representations",
+                "cites": "17896871339421675729",
+                "year": "2010",
+                "url": "https://www.sciencedirect.com/science/article/pii/S1364661310000045",
+                "author": "J\u00f3zsef Fiser and Pietro Berkes and Gerg\u0151 Orb\u00e1n and M\u00e1t\u00e9 Lengyel",
+                "volume": "14",
+                "number": "3",
+                "pages": "119-130",
+                "publisher": "Elsevier Current Trends",
+                "abstract": "Human perception has recently been characterized as statistical inference based on noisy and ambiguous sensory inputs. Moreover, suitable neural representations of uncertainty have been identified that could underlie such probabilistic computations. In this review, we argue that learning an internal model of the sensory environment is another key aspect of the same statistical inference procedure and thus perception and learning need to be treated jointly. We review evidence for statistically optimal learning in humans and animals, and re-evaluate possible neural representations of uncertainty based on their potential to support statistically optimal learning. We propose that spontaneous activity can have a functional role in such representations leading to a new, sampling-based, framework of how the cortex represents information and uncertainty.",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2939867/"
+            },
+            "id_citations": "WvgoL14AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous cortical activity reveals hallmarks of an optimal internal model of the environment",
+                "cites": "556",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian learning of visual chunks by human observers",
+                "cites": "228",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian active learning for classification and preference learning",
+                "cites": "168",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamically detuned oscillations account for the coupled rate and temporal code of place cell firing",
+                "cites": "166",
+                "year": "2003"
+            },
+            "id_citations": "WvgoL14AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching storage and recall: hippocampal spike timing\u2013dependent plasticity and phase response curves",
+                "cites": "154",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal contributions to control: the third way",
+                "cites": "126",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural variability and sampling-based probabilistic representations in the visual cortex",
+                "cites": "117",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical treatment of looking-time data.",
+                "cites": "77",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synapses with short-term plasticity are optimal estimators of presynaptic membrane potentials",
+                "cites": "76",
+                "year": "2010"
+            },
+            "id_citations": "WvgoL14AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "With or without you: predictive coding and Bayesian inference in the brain",
+                "cites": "69",
+                "year": "2017"
+            },
+            "id_citations": "WvgoL14AAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Democracy-independence trade-off in oscillating dendrites and its implications for grid cells",
+                "cites": "69",
+                "year": "2010"
+            },
+            "id_citations": "WvgoL14AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of ongoing dendritic oscillations in single-neuron dynamics",
+                "cites": "54",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational theories on the function of theta oscillations",
+                "cites": "52",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-directed decision making with spiking neurons",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical perspectives on active sensing",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active sensing in the categorization of visual patterns",
+                "cites": "37",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamical regime of sensory cortex: stable dynamics around a single stimulus-tuned attractor account for patterns of noise variability",
+                "cites": "36",
+                "year": "2018"
+            },
+            "id_citations": "WvgoL14AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive tomography reveals complex, task-independent mental representations",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Hamiltonian brain: efficient probabilistic inference with excitatory-inhibitory neural circuit dynamics",
+                "cites": "31",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast sampling-based inference in balanced neuronal networks",
+                "cites": "31",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta oscillation\u2010coupled dendritic spiking integrates inputs on a long time scale",
+                "cites": "30",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal rhythm generation: gamma-related theta-frequency resonance in CA3 interneurons",
+                "cites": "30",
+                "year": "2001"
+            },
+            "id_citations": "WvgoL14AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal recall from bounded metaplastic synapses: predicting functional adaptations in hippocampal area CA3",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of the hippocampus: Multiple strategies",
+                "cites": "23",
+                "year": "1998"
+            },
+            "id_citations": "WvgoL14AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global and multiplexed dendritic computations under in vivo-like conditions",
+                "cites": "21",
+                "year": "2018"
+            },
+            "id_citations": "WvgoL14AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty, phase and oscillatory hippocampal recall",
+                "cites": "21",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta-modulated feedforward network generates rate and phase coded firing in the entorhino-hippocampal system",
+                "cites": "18",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase coding: spikes get a boost from local fields",
+                "cites": "17",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Properties of a random attachment growing network",
+                "cites": "17",
+                "year": "2003"
+            },
+            "id_citations": "WvgoL14AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic nonlinearities are tuned for efficient spike-based computations in cortical circuits",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "WvgoL14AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mind reading by machine learning: A doubly Bayesian method for inferring mental representations",
+                "cites": "15",
+                "year": "2010"
+            },
+            "id_citations": "WvgoL14AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Know thy neighbour: A normative theory of synaptic depression",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient state-space modularization for planning: theory, behavioral and neural signatures",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrahippocampal gamma and theta rhythm generation in a network model of inhibitory interneurons",
+                "cites": "13",
+                "year": "2001"
+            },
+            "id_citations": "WvgoL14AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact natural gradient in deep linear networks and its application to the nonlinear case",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "WvgoL14AAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian model learning in human visual perception",
+                "cites": "12",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dual algorithm for olfactory computation in the locust brain",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rate-and phase-coded autoassociative memory",
+                "cites": "10",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How (not) to assess the importance of correlations for the matching of spontaneous and evoked activity",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two is better than one: distinct roles for familiarity and recollection in retrieving palimpsest memories",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching spontaneous and evoked activity in V1: a hallmark of probabilistic inference",
+                "cites": "7",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical-like dynamics in recurrent circuits optimized for sampling-based probabilistic inference",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "WvgoL14AAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analog memories in a balanced rate-based network of EI neurons",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlations strike back (again): the case of associative memory retrieval",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the role of time in perceptual decision making",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "WvgoL14AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity between spontaneous and sensory-evoked activity does suggest learning in the cortex",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active dendrites: adaptation to spike-based communication",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic spiking accounts for rate and phase coding in a biophysical model of a hippocampal place cell",
+                "cites": "4",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matematikai modellek az idegrendszer-kutat\u00e1sban (Mathematical models in neuroscience)",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "WvgoL14AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single cell and population activities in cortical-like systems",
+                "cites": "4",
+                "year": "1999"
+            },
+            "id_citations": "WvgoL14AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multicompartmental modeling of hippocampal pyramidal cells and interneurons with the GENESIS software tool.",
+                "cites": "4",
+                "year": "1996"
+            },
+            "id_citations": "WvgoL14AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sampling-based probabilistic inference emerges from learning in neural circuits with a cost on reliability",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "WvgoL14AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast sampling for Bayesian inference in neural circuits",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theoretical framework for the dynamics of multiple intrinsic oscillators in single neurons",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "WvgoL14AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal contributions to control: a normative perspective",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of dendritic location and different components of LTP expression on the bursting activity of hippocampal CA1 pyramidal cells",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational untangling by the firing rate nonlinearity in v1 simple cells",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "WvgoL14AAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unimodal statistical learning produces multimodal object-like representations",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "WvgoL14AAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing variability in nonlinear recurrent neuronal networks",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Hamiltonian brain",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast sampling in recurrent neural circuits",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed versus accuracy in spiking attractor networks",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE THETA SWITCH: RATE AND PHASE CODING IN THE ENTORHINO-HIPPOCAMPAL SYSTEM",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "WvgoL14AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic memory and cognitive map in a rate model network of the rat hippocampus",
+                "cites": "2",
+                "year": "2001"
+            },
+            "id_citations": "WvgoL14AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal rhythm generation: gamma related theta frequency",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "WvgoL14AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Location-dependent differences between somatic and dendritic IPSPs",
+                "cites": "2",
+                "year": "1999"
+            },
+            "id_citations": "WvgoL14AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using temporal associations to model the development of place fields in a novel environment",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "WvgoL14AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Redemption of Noise: Inference with Neural Populations",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "WvgoL14AAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asymptotic scaling properties of the posterior mean and variance in the Gaussian scale mixture model",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "WvgoL14AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A trade-off between dendritic democracy and independence in neurons with intrinsic subthreshold membrane potential oscillations",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experience-based development of internal probabilistic representations in the primary visual cortex",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic computation: A possible functional role for spontaneous activity in the cortex",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of previous implicit knowledge on eye movements in free viewing",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "WvgoL14AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementing entorhinal grid fields in biophysical neuronal models",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Looking for hallmarks of generative models in the visual cortex",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning objects by learning models: Finding independent causes and preferring simplicity",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rate and phase-coding in a biophysical model of a hippocampus place cell.",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial overview: Computational neuroscience.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "WvgoL14AAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To Teach Better, Learn First.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "WvgoL14AAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: Active sensing in the categorization of visual patterns",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "WvgoL14AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual decision making from correlated samples.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "WvgoL14AAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is human learning driven by Prediction Error?",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On optimal estimation from correlated samples",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stabilized supralinear network dynamics account for stimulus-induced changes of noise variability in the cortex",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Odour coding and organisational logic of the lateral horn.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "WvgoL14AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling information integration in sequential visual decision-making",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "WvgoL14AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The temporal balance between evidence integration and probabilistic sampling in perceptual decision making",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Factors determining the balance between evidence integration and probabilistic sampling in perceptual decision-making",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "WvgoL14AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of time in human decision-making",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time and making perceptual decisions",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "WvgoL14AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time to decide: sampling based representation of uncertainty in human vision",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "WvgoL14AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision time and uncertainty: evidence for a sampling-based representation in human vision",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "WvgoL14AAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making under time constraints supports sampling-based representation of uncertainty in vision",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "WvgoL14AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty in scene segmentation: Statistically optimal effects on learning visual representations",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty representation of low-level visual attributes",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactions between short-term and long-term plasticity: shooting for a moving target",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal storage and recall with biologically plausible synapses",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal biophysics: optimised for information processing?",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous representation of uncertainty about multiple low-level visual elements",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "WvgoL14AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A normative theory of short-term synaptic plasticity",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "WvgoL14AAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coarse-to-fine learning in scene perception: Bayes trumps Hebb",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What eye-movements tell us about online learning of the structure of scenes",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of ongoing dendritic oscillations in single-neuron dynamics",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Requirements for a single cell mechanism of entorhinal\" grid field\" activity: role of dendritic oscillators and coupling",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "WvgoL14AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning in the service of understanding human learning: an ideal observer-based analysis of the learning curve",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking implicit chunk learning and the capacity of working memory",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "WvgoL14AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Back to the future: episodic memories for control",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond pair-wise statistics in visual scene perception",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal contributions to control\u2013a normative theory",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "V1 activity as Bayesian inference",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ideal Bayesian learning in human scene perception",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "WvgoL14AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Workshop on cortico-hippocampal dynamics: navigation and neuromodulation",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching storage and recall: spike timing-dependent plasticity and phase response curves in the hippocampus. Workshop on Phase response curves: where theory and experiments \u2026",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional models of the hippocampal formation",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Firing rates and times in the hippocampus: what are they good for?",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with spikes",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Objects by Learning Models: Finding Independent Causes and Preferring Simplicity",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian model-learning and the emergence of visual features and rules",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "WvgoL14AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching storage and recall: constructing optimal rate and phase-coded autoassociative memories",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian model selection in human visual perception",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching storage and recall for rate-and phase-based autoassociative memories",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "WvgoL14AAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rate-and phase-coded autoassociative memories: Bayesian inference",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamically detuned oscillations account for rate and phase coding in the hippocampus",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Properties of a random attachment growing network",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rate and temporal coding in a biophysical model of a hippocampal place cell",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPECIAL ISSUE PAPERS-Neural Modeling-Theta-Modulated Feedforward Network Generates Rate and Phase Coded Firing in the Entorhino-Hippocampal System",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "WvgoL14AAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the activity of neural networks: biological decoding and constant metric content",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "WvgoL14AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feed-forward networks in the hippocampus: analysis of the possible role of theta oscillation and the phase precession effect in sharpening the spatial tuning curves of place cells",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "WvgoL14AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling Pyramidal Cell Activity by Bistable Gamma-Frequency Oscillations in a Network of Hippo Campal Interneurons",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "WvgoL14AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sharpening the Spatial Tuning Curves of Place Cells in a Feed-Forward Network: The Possible Role of Theta Oscillation-Based Dynamics in the Hippocampus",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "WvgoL14AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A detuned oscillator model of place unit phase precession in the rat hippocampus",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "WvgoL14AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "REVIEWS IN THE NEUROSCIENCES",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "WvgoL14AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of The Hippocampus: Multiple Strategies (Invited",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "WvgoL14AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye Movements Reflect Causal Inference During Episodic Memory Retrieval",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is human learning driven by Prediction Error?",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact natural gradient in deep linear networks and application to the nonlinear case Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Printing",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlations strike back (again): the case of autoassociative memory retrieval",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two-In-One: A Circuit Optimised for Recollection Predicts Recognition Behavior",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "III-64. Computational model of optimal changes in auditory cortical receptive fields during behavioral tasks",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient state-space modularization for planning: theory, behavioral and neural signatures\u2014supplementary material\u2014",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based reinforcement learning with spiking neurons",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active dendrites: adaptation to spike-based communication\u2013supplementary information\u2013",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Sampling-Based Inference in Balanced Neuronal Networks\u2014Supplementary Information\u2014",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic nonlinearities reflect adaptation to input statistics",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic nonlinearities reflect adaptation to the statistics of synaptic inputs",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analog Memories in a Balanced Rate-Based Network of EI Neurons\u2014Supplementary Material\u2014",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supporting Online Material for Dendritic nonlinearities reflect adaptation to the statistics of synaptic inputs",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Dual Algorithm for Olfactory Computation in the Locust Brain\u2013Supplementary Material\u2013",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single cell and population activities in the olfactory bulb and the hippocampus",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information Democracy-Independence Trade-Off in Oscillating Dendrites and Its Implications for Grid Cells",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistically optimal perception and learning: from behavior to neural representations",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Know Thy Neighbour: A Normative Theory of Synaptic Depression Supplementary Information",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "V1 activity as optimal Bayesian inference",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information Theoretic Active Learning for Gaussian Process Classification",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlations strike back (again): the case of associative memory retrieval\u2013supplementary information\u2013",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "104 The origins of religion: evolved adaptation or by-product?",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Active Learning for Gaussian Process Classification",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning in the service of understanding human learning: an ideal observer-based analysis of mental representations",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence of statistically optimal inference and learning in the visual cortex",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty and Bayesian inference",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ideal Bayesian learning of visual chunks",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal Contributions to Control: The Third Way\u2013Supporting Material\u2013",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Working memory & episodic memory",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mind Reading by Machine Learning: A Doubly Bayesian Method for Inferring Mental Representations\u2013supplementary material\u2013",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty, phase and oscillatory hippocampal recall supplementary material",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two is better than one: distinct roles for familiarity and recollection when retrieving palimpsest memories\u2013supplementary text\u2013",
+                "cites": "0"
+            },
+            "id_citations": "WvgoL14AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=WvgoL14AAAAJ",
+    "brain_inspired": {
+        "id": "740",
+        "link": "https://braininspired.co/podcast/38/",
+        "name": "M\u00e1t\u00e9 Lengyel",
+        "title": "BI 038 M\u00e1t\u00e9 Lengyel: Probabilistic Perception and Learning",
+        "text": "M\u00e1t\u00e9 and I discuss his work on probabilistic internal models to understand perception and learning and their inherent uncertainty in our brains, bayesian theory, how his models relate to modern deep learning, and lots more."
+    }
+}

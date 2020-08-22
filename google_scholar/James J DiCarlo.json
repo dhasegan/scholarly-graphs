@@ -1,0 +1,1256 @@
+{
+    "affiliation": "Massachusetts Institute of Technology",
+    "cites_per_year": {
+        "1997": 27,
+        "1998": 38,
+        "1999": 40,
+        "2000": 39,
+        "2001": 46,
+        "2002": 62,
+        "2003": 43,
+        "2004": 46,
+        "2005": 70,
+        "2006": 104,
+        "2007": 168,
+        "2008": 258,
+        "2009": 326,
+        "2010": 410,
+        "2011": 448,
+        "2012": 554,
+        "2013": 588,
+        "2014": 728,
+        "2015": 752,
+        "2016": 1024,
+        "2017": 1089,
+        "2018": 1351,
+        "2019": 1489,
+        "2020": 825
+    },
+    "citedby": 10727,
+    "citedby5y": 6543,
+    "coauthors": [],
+    "email": "@mit.edu",
+    "hindex": 46,
+    "hindex5y": 37,
+    "i10index": 65,
+    "i10index5y": 60,
+    "id": "qenoZwUAAAAJ",
+    "interests": [],
+    "name": "James J DiCarlo",
+    "publications": [
+        {
+            "bib": {
+                "title": "How does the brain solve visual object recognition?",
+                "cites": "6753244819959685148",
+                "year": "2012",
+                "url": "https://www.sciencedirect.com/science/article/pii/S089662731200092X",
+                "author": "James J DiCarlo and Davide Zoccolan and Nicole C Rust",
+                "volume": "73",
+                "number": "3",
+                "pages": "415-434",
+                "publisher": "Cell Press",
+                "abstract": "Mounting evidence suggests that \u2018core object recognition,\u2019 the ability to rapidly recognize objects despite substantial appearance variation, is solved in the brain via a cascade of reflexive, largely feedforward computations that culminate in a powerful neuronal representation in the inferior temporal cortex. However, the algorithm that produces this solution remains poorly understood. Here we review evidence ranging from individual neurons and neuronal populations to behavior and computational models. We propose that understanding this algorithm will require using neuronal and psychophysical data to sift through many computational models, each based on building blocks of small, canonical subnetworks with a common functional goal.",
+                "eprint": "https://www.sciencedirect.com/science/article/pii/S089662731200092X"
+            },
+            "id_citations": "qenoZwUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Performance-optimized hierarchical models predict neural responses in higher visual cortex",
+                "cites": "9133172044543660546",
+                "year": "2014",
+                "url": "https://www.pnas.org/content/111/23/8619.short",
+                "author": "Daniel LK Yamins and Ha Hong and Charles F Cadieu and Ethan A Solomon and Darren Seibert and James J DiCarlo",
+                "journal": "Proceedings of the National Academy of Sciences",
+                "volume": "111",
+                "number": "23",
+                "pages": "8619-8624",
+                "publisher": "National Academy of Sciences",
+                "abstract": "The ventral visual stream underlies key human visual object recognition abilities. However, neural encoding in the higher areas of the ventral stream remains poorly understood. Here, we describe a modeling approach that yields a quantitatively accurate model of inferior temporal (IT) cortex, the highest ventral cortical area. Using high-throughput computational techniques, we discovered that, within a class of biologically plausible hierarchical neural network models, there is a strong correlation between a model\u2019s categorization performance and its ability to predict individual IT neural unit response data. To pursue this idea, we then identified a high-performing neural network that matches human performance on a range of recognition tasks. Critically, even though we did not constrain this model to match neural data, its top output layer turns out to be highly predictive of IT spiking responses to complex naturalistic \u2026",
+                "eprint": "https://www.pnas.org/content/pnas/111/23/8619.full.pdf"
+            },
+            "id_citations": "qenoZwUAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast readout of object identity from macaque inferior temporal cortex",
+                "cites": "17254087113421447537",
+                "year": "2005",
+                "url": "https://science.sciencemag.org/content/310/5749/863.abstract",
+                "author": "Chou P Hung and Gabriel Kreiman and Tomaso Poggio and James J DiCarlo",
+                "journal": "Science",
+                "volume": "310",
+                "number": "5749",
+                "pages": "863-866",
+                "publisher": "American Association for the Advancement of Science",
+                "abstract": "Understanding the brain computations leading to object recognition requires quantitative characterization of the information represented in inferior temporal (IT) cortex. We used a biologically plausible, classifier-based readout technique to investigate the neural coding of selectivity and invariance at the IT population level. The activity of small neuronal populations (\u223c100 randomly selected cells) over very short time intervals (as small as 12.5 milliseconds) contained unexpectedly accurate and robust information about both object \u201cidentity\u201d and \u201ccategory.\u201d This information generalized over a range of object positions and scales, even for novel objects. Coarse information about position and scale could also be read out from the same population."
+            },
+            "id_citations": "qenoZwUAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Untangling invariant object recognition",
+                "cites": "656",
+                "year": "2007"
+            },
+            "id_citations": "qenoZwUAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why is real-world visual object recognition hard?",
+                "cites": "621",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why is real-world visual object recognition hard?",
+                "cites": "618",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using goal-driven deep learning models to understand sensory cortex",
+                "cites": "611",
+                "year": "2016"
+            },
+            "id_citations": "qenoZwUAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks rival the representation of primate IT cortex for core visual object recognition",
+                "cites": "400",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-throughput screening approach to discovering good forms of biologically inspired visual representation",
+                "cites": "301",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-throughput screening approach to discovering good forms of biologically inspired visual representation",
+                "cites": "301",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object selectivity of local field potentials and spikes in the macaque inferior temporal cortex",
+                "cites": "299",
+                "year": "2006"
+            },
+            "id_citations": "qenoZwUAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus configuration, classical conditioning, and hippocampal function.",
+                "cites": "289",
+                "year": "1992"
+            },
+            "id_citations": "qenoZwUAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity and tolerance (\u201cinvariance\u201d) both increase as visual information propagates from cortical area V4 to IT",
+                "cites": "257",
+                "year": "2010"
+            },
+            "id_citations": "qenoZwUAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised natural experience rapidly alters invariant object representation in visual cortex",
+                "cites": "252",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrimination training alters object representations in human extrastriate cortex",
+                "cites": "251",
+                "year": "2006"
+            },
+            "id_citations": "qenoZwUAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How far can you get with a modern face recognition test set using only simple features?",
+                "cites": "245",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior inferotemporal neurons of monkeys engaged in object recognition can be highly sensitive to object retinal position",
+                "cites": "213",
+                "year": "2003"
+            },
+            "id_citations": "qenoZwUAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure of receptive fields in area 3b of primary somatosensory cortex in the alert monkey",
+                "cites": "201",
+                "year": "1998"
+            },
+            "id_citations": "qenoZwUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple object response normalization in monkey inferotemporal cortex",
+                "cites": "196",
+                "year": "2005"
+            },
+            "id_citations": "qenoZwUAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explicit information for category-orthogonal object properties increases along the ventral stream",
+                "cites": "173",
+                "year": "2016"
+            },
+            "id_citations": "qenoZwUAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "'Breaking'position-invariant object recognition",
+                "cites": "163",
+                "year": "2005"
+            },
+            "id_citations": "qenoZwUAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trade-off between object selectivity and tolerance in monkey inferotemporal cortex",
+                "cites": "148",
+                "year": "2007"
+            },
+            "id_citations": "qenoZwUAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Marking microelectrode penetrations with fluorescent dyes",
+                "cites": "135",
+                "year": "1996"
+            },
+            "id_citations": "qenoZwUAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A rodent model for the study of invariant visual object recognition",
+                "cites": "126",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised natural visual experience rapidly reshapes size-invariant object representation in inferior temporal cortex",
+                "cites": "119",
+                "year": "2010"
+            },
+            "id_citations": "qenoZwUAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale, high-resolution comparison of the core visual object recognition behavior of humans, monkeys, and state-of-the-art deep artificial neural networks",
+                "cites": "111",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial and temporal structure of receptive fields in primate somatosensory area 3b: effects of stimulus scanning direction and orientation",
+                "cites": "109",
+                "year": "2000"
+            },
+            "id_citations": "qenoZwUAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical modular optimization of convolutional networks achieves representations similar to macaque IT and human ventral stream",
+                "cites": "107",
+                "year": "2013"
+            },
+            "id_citations": "qenoZwUAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precedence of the eye region in neural processing of faces",
+                "cites": "104",
+                "year": "2012"
+            },
+            "id_citations": "qenoZwUAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and neural plasticity in visual object recognition",
+                "cites": "104",
+                "year": "2006"
+            },
+            "id_citations": "qenoZwUAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Form representation in monkey inferotemporal cortex is virtually unaltered by free viewing",
+                "cites": "98",
+                "year": "2000"
+            },
+            "id_citations": "qenoZwUAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape similarity, better than semantic membership, accounts for the structure of visual object representations in a population of monkey inferotemporal neurons",
+                "cites": "93",
+                "year": "2013"
+            },
+            "id_citations": "qenoZwUAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network approach to hippocampal function in classical conditioning.",
+                "cites": "90",
+                "year": "1991"
+            },
+            "id_citations": "qenoZwUAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Device and method for tracking eye gaze direction",
+                "cites": "87",
+                "year": "2007"
+            },
+            "id_citations": "qenoZwUAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetic and pharmacological suppression of spatial clusters of face neurons reveal their causal role in face gender discrimination",
+                "cites": "82",
+                "year": "2015"
+            },
+            "id_citations": "qenoZwUAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What response properties do individual neurons need to underlie position and clutter \u201cinvariant\u201d object recognition?",
+                "cites": "81",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Velocity invariance of receptive field structure in somatosensory cortical area 3b of the alert monkey",
+                "cites": "79",
+                "year": "1999"
+            },
+            "id_citations": "qenoZwUAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simple learned weighted sums of inferior temporal neuronal firing rates accurately predict human core object recognition performance",
+                "cites": "77",
+                "year": "2015"
+            },
+            "id_citations": "qenoZwUAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using neuronal latency to determine sensory\u2013motor processing pathways in reaction time tasks",
+                "cites": "76",
+                "year": "2005"
+            },
+            "id_citations": "qenoZwUAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A stable topography of selectivity for unfamiliar shape classes in monkey inferior temporal cortex",
+                "cites": "74",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing state-of-the-art visual features on invariant object recognition tasks",
+                "cites": "72",
+                "year": "2011"
+            },
+            "id_citations": "qenoZwUAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural population control via deep image synthesis",
+                "cites": "71",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence that recurrent circuits are critical to the ventral stream\u2019s execution of core object recognition behavior",
+                "cites": "64",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Establishing good benchmarks and baselines for face recognition",
+                "cites": "57",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of object recognition behavior in human and monkey",
+                "cites": "55",
+                "year": "2015"
+            },
+            "id_citations": "qenoZwUAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-driven convolutional recurrent models of the visual system",
+                "cites": "50",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive field structure in cortical area 3b of the alert monkey",
+                "cites": "50",
+                "year": "2002"
+            },
+            "id_citations": "qenoZwUAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Balanced increases in selectivity and tolerance produce constant sparseness along the ventral visual stream",
+                "cites": "47",
+                "year": "2012"
+            },
+            "id_citations": "qenoZwUAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimally invasive multimode optical fiber microendoscope for deep brain fluorescence imaging",
+                "cites": "45",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine-scale spatial organization of face and object selectivity in the temporal lobe: do functional magnetic resonance imaging, optical imaging, and electrophysiology agree?",
+                "cites": "45",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-score: Which artificial neural network for object recognition is most brain-like?",
+                "cites": "42",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale, high-resolution neurophysiological maps underlying FMRI of macaque temporal lobe",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "qenoZwUAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal learning of invariant object representation in the ventral visual stream is not dependent on reward",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "qenoZwUAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does learned shape selectivity in inferior temporal cortex automatically generalize across retinal position?",
+                "cites": "31",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eight open questions in the computational modeling of higher sensory cortex",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "qenoZwUAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Form processing and attention effects in the somatosensory system",
+                "cites": "27",
+                "year": "1996"
+            },
+            "id_citations": "qenoZwUAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural representation benchmark and its evaluation on brain and machine",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "qenoZwUAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution three-dimensional microelectrode brain mapping using stereo microfocal X-ray imaging",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cornet: Modeling the neural mechanisms of core object recognition",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurophysiological organization of the middle face patch in macaque inferior temporal cortex",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "qenoZwUAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hippocampal theory of schizophrenia",
+                "cites": "15",
+                "year": "1991"
+            },
+            "id_citations": "qenoZwUAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics at successive stages of the ventral visual stream are consistent with hierarchical error signals",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics of hippocampal modulation of classical conditioning",
+                "cites": "13",
+                "year": "1991"
+            },
+            "id_citations": "qenoZwUAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-like object recognition with high-performing shallow recurrent ANNs",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversible inactivation of different millimeter-scale regions of primate IT results in different patterns of core object recognition deficits",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms underlying visual object recognition",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human versus machine: comparing visual object recognition systems on a level playing field",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "qenoZwUAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep brain fluorescence imaging with minimally invasive ultra-thin optical fibers",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "qenoZwUAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Teacher guided architecture search",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence that feedback is required for object identity inferences computed by the ventral stream",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "qenoZwUAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-fast object recognition from few spikes",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "qenoZwUAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single units in a deep neural network functionally correspond with neurons in the brain: preliminary results",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A performance-optimized model of neural responses across the ventral visual stream",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "qenoZwUAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why is real-world object recognition hard? Establishing honest benchmarks and baselines for object recognition",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-throughput screening approach to discovering good forms of visual representation",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making faces in the brain",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "qenoZwUAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards largescale, high resolution maps of object selectivity in inferior temporal cortex",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "qenoZwUAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning reaches the motor system",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural population control via deep ann image synthesis",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetic and pharmacological suppression of face-selective neurons reveal their causal role in face discrimination behavior.",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping core similarity among visual objects across image modalities",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Balanced increases in selectivity and invariance produce constant sparseness across the ventral visual pathway",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to give a paper presentation",
+                "cites": "2"
+            },
+            "id_citations": "qenoZwUAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast recurrent processing via ventral prefrontal cortex is needed by the primate ventral stream for robust core visual object recognition",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "qenoZwUAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing novel object learning in humans, models, and monkeys",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using brain-score to evaluate and build neural networks for brain-like object recognition",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can deep neural networks rival human ability to generalize in core object recognition",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Emergence of Face-Selective Units in a Model that Has Never Seen a Face",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "qenoZwUAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale Characterization of a Universal and Compact Visual Perceptual Space",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern population approaches for discovering neural representations and for discriminating among algorithms that might produce those representations.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrafast decoding from cells in the macaque monkey",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "qenoZwUAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity of local field potentials in macaque inferior temporal cortex",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "qenoZwUAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking image-by-image population dynamics in the macaque inferior temporal cortex to core object recognition behavior",
+                "cites": "1"
+            },
+            "id_citations": "qenoZwUAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised Neural Network Models of the Ventral Visual Stream",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qenoZwUAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qenoZwUAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qenoZwUAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised changes in core object recognition behavioral performance are accurately predicted by unsupervised neural plasticity in inferior temporal cortex",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qenoZwUAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic Deep Artificial Neural Networks (TDANNs) predict face selectivity topography in primate inferior temporal (IT) cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A precursor of reading: Neural responses to letters strings in the untrained primate inferior temporal cortex predict word recognition behavior",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional Properties of Circuits, Cellular Populations, and Areas",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A potential cortical precursor of visual word form recognition in untrained monkeys",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To find better neural network models of human vision, find better neural network models of primate vision",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qenoZwUAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aligning Artificial Neural Networks to the Brain yields Shallow Recurrent Architectures",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional recurrent neural network models of dynamics in higher visual cortex",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pinwheel-like Iso-Orientation Domains in a Convolutional Neural Network Model",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence that recurrent circuits are critical to the ventral stream\u2019s execution of core object recognition behavior",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-Score: Which Artificial Neural Network Best Emulates the Brain\u2019s Neural Network?",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qenoZwUAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single fiber endoscopy for deep brain imaging",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "qenoZwUAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence that the ventral stream codes the errors used in hierarchical inference and learning",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "qenoZwUAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Steven Hsiao: In Memoriam",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "qenoZwUAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of Object Recognition Behavior in Human and Monkey",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "qenoZwUAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Varying object identity while maintaining the continuity of its movement breaks position invariant perception",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "qenoZwUAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From luminance to semantics: how natural objects are represented in monkey inferotemporal cortex.",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "qenoZwUAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Winning Faces: Biologically inspired vision algorithm predicts election results",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "qenoZwUAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object Recognition",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-throughput screening approach to discovering good forms of inspired visual representation",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "qenoZwUAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How does the visual system accomplish invariant object recognition?",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "qenoZwUAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A large-scale shape map in monkey inferior temporal (IT) cortex",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "qenoZwUAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Spatial and Temporal Structure of Neural Receptive Fields in Area 3b of Primary Somatosensory Cortex in the Alert Monkey",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "qenoZwUAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimally invasive multimode optical fiber microendoscope for deep brain fluorescence imaging.",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material for Teacher Guided Architecture Search",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Exit Strategy from the Covid-19 Lockdown based on Risk-sensitive Resource Allocation\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Winning Faces: Model of basic primate visual processing predicts elections",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedforward deep neural networks diverge from humans and monkeys on core visual object recognition behavior",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking Neural Circuits for Gaussian Tuning and the Maximum Operation",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How far can you get with a modern face recognition test set using only simple",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Text S2: Technical Details of the Computational Framework",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural encoding model of area PL, the earliest face selective region in monkey IT",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2011 IEEE Workshop on Applications of Computer Vision (WACV)",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "J. Neuroscience, In press, October 1998",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normalization of Response to Multiple Stimuli in Monkey Inferotemporal Cortex",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object Recognition in Clutter: Selectivity and Invariance Properties in Monkey Inferotemporal Cortex",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Text S1: Search Space of Candidate Models",
+                "cites": "0"
+            },
+            "id_citations": "qenoZwUAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=qenoZwUAAAAJ",
+    "brain_inspired": {
+        "id": "1059",
+        "link": "https://braininspired.co/podcast/75/",
+        "name": "Jim DiCarlo",
+        "title": "BI 075 Jim DiCarlo: Reverse Engineering Vision",
+        "text": "Jim and I discuss his reverse engineering approach to visual intelligence, using deep models optimized to perform object recognition tasks. We talk about the history of his work developing models to match the neural activity in the ventral visual stream, how deep learning connects with those models, and some of his recent work: adding recurrence to the models to account for more difficult object recognition, using unsupervised learning to account for plasticity in the visual stream, and controlling neural activity  by creating specific images for subjects to view."
+    }
+}

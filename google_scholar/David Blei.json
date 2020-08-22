@@ -1,0 +1,3746 @@
+{
+    "affiliation": "Professor of Statistics and Computer Science, Columbia University",
+    "cites_per_year": {
+        "2004": 212,
+        "2005": 391,
+        "2006": 569,
+        "2007": 801,
+        "2008": 1197,
+        "2009": 1875,
+        "2010": 2596,
+        "2011": 3578,
+        "2012": 4615,
+        "2013": 5603,
+        "2014": 6904,
+        "2015": 7995,
+        "2016": 9767,
+        "2017": 9932,
+        "2018": 11047,
+        "2019": 11728,
+        "2020": 5214
+    },
+    "citedby": 85115,
+    "citedby5y": 55742,
+    "coauthors": [
+        {
+            "affiliation": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
+            "id": "yxUduqMAAAAJ",
+            "name": "Michael I. Jordan"
+        },
+        {
+            "affiliation": "Head of AML Research at ByteDance",
+            "id": "vRI2blsAAAAJ",
+            "name": "Chong Wang"
+        },
+        {
+            "affiliation": "Research Scientist, Google Research",
+            "id": "IeHKeGYAAAAJ",
+            "name": "Matthew D. Hoffman"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "r31_fYQAAAAJ",
+            "name": "John Paisley"
+        },
+        {
+            "affiliation": "Professor of Statistics & Data Science, Temple University & PI, Harvard University",
+            "id": "XKCyZk0AAAAJ",
+            "name": "Edoardo M Airoldi"
+        },
+        {
+            "affiliation": "Associate Professor, University of Maryland",
+            "id": "BT4XTP4AAAAJ",
+            "name": "Jordan Boyd-Graber"
+        },
+        {
+            "affiliation": "Senior Technical Manager, The Voleon Group",
+            "id": "CzV_T5IAAAAJ",
+            "name": "Prem Gopalan"
+        },
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "Facebook",
+            "id": "VGAsUUwAAAAJ",
+            "name": "Jonathan Chang"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "Professor (Adj.) of Statistics, University of California, Berkeley",
+            "id": "Bxgu5DQAAAAJ",
+            "name": "Jon McAuliffe"
+        },
+        {
+            "affiliation": "Associate Professor, Cornell University",
+            "id": "uBFV6SUAAAAJ",
+            "name": "David Mimno"
+        },
+        {
+            "affiliation": "Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind",
+            "id": "y-nUzMwAAAAJ",
+            "name": "Yee Whye Teh"
+        },
+        {
+            "affiliation": "Professor of Electrical and Computer Engineering, Duke University",
+            "id": "2nmHOtoAAAAJ",
+            "name": "Lawrence Carin"
+        },
+        {
+            "affiliation": "Duke University",
+            "id": "EWlUGVcAAAAJ",
+            "name": "Allison J.B. Chaney"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "rRJ9wTJMUB8C",
+            "name": "Joshua B. Tenenbaum"
+        },
+        {
+            "affiliation": "Associate Professor of Operations Research and Information Engineering, Cornell University",
+            "id": "xBHy_qwAAAAJ",
+            "name": "Peter I Frazier"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Princeton University",
+            "id": "A4ycnDQAAAAJ",
+            "name": "Kenneth A. Norman"
+        },
+        {
+            "affiliation": "Inria - Ecole Normale Sup\u00e9rieure",
+            "id": "6PJWcFEAAAAJ",
+            "name": "Francis Bach"
+        },
+        {
+            "affiliation": "Prof. , Department of Computer Engineering, Hacettepe University, Ankara, Turkey",
+            "id": "1KEMrHkAAAAJ",
+            "name": "Pinar Duygulu Sahin"
+        }
+    ],
+    "email": "@columbia.edu",
+    "hindex": 88,
+    "hindex5y": 78,
+    "i10index": 196,
+    "i10index5y": 182,
+    "id": "8OYE6iEAAAAJ",
+    "interests": [
+        "Machine Learning",
+        "Statistics",
+        "Probabilistic topic models",
+        "Bayesian nonparametrics",
+        "Approximate posterior inference"
+    ],
+    "name": "David Blei",
+    "publications": [
+        {
+            "bib": {
+                "title": "Latent dirichlet allocation",
+                "cites": "32555",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic topic models",
+                "cites": "5636",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sharing clusters among related groups: Hierarchical Dirichlet processes",
+                "cites": "4194",
+                "year": "2005"
+            },
+            "id_citations": "8OYE6iEAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic topic models",
+                "cites": "2522",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching words and pictures",
+                "cites": "1938",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed membership stochastic blockmodels",
+                "cites": "1886",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reading tea leaves: How humans interpret topic models",
+                "cites": "1783",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supervised topic models",
+                "cites": "1730",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic variational inference",
+                "cites": "1629",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online learning for latent dirichlet allocation",
+                "cites": "1449",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collaborative topic modeling for recommending scientific articles",
+                "cites": "1416",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference: A review for statisticians",
+                "cites": "1407",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A correlated topic model of science",
+                "cites": "1384",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling annotated data",
+                "cites": "1359",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference for Dirichlet process mixtures",
+                "cites": "1313",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical topic models and the nested chinese restaurant process",
+                "cites": "1156",
+                "year": "2004"
+            },
+            "id_citations": "8OYE6iEAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlated topic models",
+                "cites": "975",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:c1e4I3QdEKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic models",
+                "cites": "931",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational topic models for document networks",
+                "cites": "762",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies",
+                "cites": "694",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous image classification and annotation",
+                "cites": "657",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Black box variational inference",
+                "cites": "636",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating topics and syntax",
+                "cites": "628",
+                "year": "2005"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent dirichlet allocation",
+                "cites": "597",
+                "year": "2002"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continuous time dynamic topic models",
+                "cites": "483",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on Bayesian nonparametric models",
+                "cites": "453",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting affinities between topic modeling and the sociological perspective on culture: Application to newspaper coverage of US government arts funding",
+                "cites": "445",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online variational inference for the hierarchical Dirichlet process",
+                "cites": "387",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayesian inference with stochastic search",
+                "cites": "330",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distance Dependent Chinese Restaurant Processes.",
+                "cites": "313",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating spatial layout of rooms using volumetric reasoning about objects and surfaces",
+                "cites": "285",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A topic model for word sense disambiguation",
+                "cites": "279",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic topic models",
+                "cites": "278",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:eAlLMO4JVmQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient discovery of overlapping communities in massive networks",
+                "cites": "266",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic differentiation variational inference",
+                "cites": "250",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Full-capacity unitary recurrent neural networks",
+                "cites": "250",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4X0JR2_MtJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing topic models",
+                "cites": "247",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context, learning, and extinction.",
+                "cites": "242",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Syntactic topic models",
+                "cites": "237",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic gradient descent as approximate bayesian inference",
+                "cites": "225",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:L1USKYWJimsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic segmentation with an aspect hidden Markov model",
+                "cites": "214",
+                "year": "2001"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edward: A library for probabilistic modeling, inference, and criticism",
+                "cites": "205",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:jL-93Qbq4QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational methods for the Dirichlet process",
+                "cites": "195",
+                "year": "2004"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference in nonconjugate models",
+                "cites": "189",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical variational models",
+                "cites": "182",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multilingual topic models for unaligned text",
+                "cites": "179",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian nonparametric matrix factorization for recorded music",
+                "cites": "176",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nested hierarchical Dirichlet processes",
+                "cites": "175",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Language-based Approach to Measuring Scholarly Impact.",
+                "cites": "169",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Recommendation with Hierarchical Poisson Factorization.",
+                "cites": "167",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The IBP compound Dirichlet process and its application to focused topic modeling",
+                "cites": "167",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical implicit models and likelihood-free variational inference",
+                "cites": "163",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:MhiOAD_qIWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dirichlet process mixtures of generalized linear models.",
+                "cites": "159",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic variational inference in Stan",
+                "cites": "156",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting legislative roll calls from text",
+                "cites": "156",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Factorization meets the item embedding: Regularizing matrix factorization with item co-occurrence",
+                "cites": "155",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Backprop kf: Learning discriminative deterministic state estimators",
+                "cites": "155",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Content-based recommendations with poisson factorization",
+                "cites": "152",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse stochastic inference for latent Dirichlet allocation",
+                "cites": "149",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed membership stochastic block models for relational data with application to protein-protein interactions",
+                "cites": "149",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic model for using social networks in personalized item recommendation",
+                "cites": "148",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connections between the lines: augmenting social networks with text",
+                "cites": "146",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Block-LDA: Jointly modeling entity-annotated text and entity-entity links",
+                "cites": "145",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic modeling and digital humanities",
+                "cites": "142",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:AYInfyleIOsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep probabilistic programming",
+                "cites": "140",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling user exposure in recommendation",
+                "cites": "138",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building and using a semantivisual image hierarchy",
+                "cites": "132",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Build, compute, critique, repeat: Data analysis with latent variable models",
+                "cites": "131",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric empirical Bayes for the Dirichlet process mixture model",
+                "cites": "126",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoupling sparsity and smoothness in the discrete hierarchical dirichlet process",
+                "cites": "125",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric variational inference",
+                "cites": "119",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Care and feeding of topic models: Problems, diagnostics, and improvements",
+                "cites": "117",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The variational Gaussian process",
+                "cites": "115",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable recommendation with poisson factorization",
+                "cites": "115",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Easy As CBA: A Simple Probabilistic Model for Tagging Music.",
+                "cites": "113",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep exponential families",
+                "cites": "111",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning with hierarchical convolutional factor analysis",
+                "cites": "108",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian checking for topic models",
+                "cites": "102",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable inference of overlapping communities",
+                "cites": "101",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric bayes pachinko allocation",
+                "cites": "100",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian nonparametric poisson factorization for recommendation systems",
+                "cites": "98",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Truncation-free online variational inference for Bayesian nonparametric models",
+                "cites": "97",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How they vote: Issue-adjusted models of legislative behavior",
+                "cites": "93",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic models of text and images",
+                "cites": "93",
+                "year": "2004"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep survival analysis",
+                "cites": "90",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Bg7qf7VwUHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing topics with multi-word expressions",
+                "cites": "90",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational sequential monte carlo",
+                "cites": "89",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hsZV8lGYWTMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exponential family embeddings",
+                "cites": "88",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handbook of mixed membership models and their applications",
+                "cites": "85",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A variational analysis of stochastic gradient algorithms",
+                "cites": "84",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An adaptive learning rate for stochastic variational inference",
+                "cites": "84",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Content-Based Musical Similarity Computation using the Hierarchical Dirichlet Process.",
+                "cites": "83",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic poisson factorization",
+                "cites": "82",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial distance dependent Chinese restaurant processes for image segmentation",
+                "cites": "81",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The discrete infinite logistic normal distribution for mixed-membership modeling",
+                "cites": "77",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BleiNgJordan2003. pdf",
+                "cites": "77",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:37UQlXuwjP4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "XML fever",
+                "cites": "76",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:DyXnQzXoVgIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic differentiation variational inference",
+                "cites": "74",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:X0DADzN9RKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian nonparametric approach to image super-resolution",
+                "cites": "74",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequentist consistency of variational Bayes",
+                "cites": "73",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Br1UauaknNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference for the nested Chinese restaurant process",
+                "cites": "69",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed Membership Matrix Factorization.",
+                "cites": "66",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Science and data science",
+                "cites": "65",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk prediction for chronic kidney disease progression using heterogeneous electronic health record data and time series analysis",
+                "cites": "65",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Avoiding latent variable collapse with generative skip models",
+                "cites": "62",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:qe6vwMD2xtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Markov topic models",
+                "cites": "62",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian learning and inference in recurrent switching linear dynamical systems",
+                "cites": "61",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic embeddings for language evolution",
+                "cites": "60",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:EPG8bYD4jVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Nonnegative Matrix Factorization with Stochastic Variational Inference.",
+                "cites": "60",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reparameterization gradients through acceptance-rejection sampling algorithms",
+                "cites": "58",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:jU7OWUQzBzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Inference via  Upper Bound Minimization",
+                "cites": "58",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:U_HPUtbDl20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational approach to style in American poetry",
+                "cites": "58",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A latent mixed membership model for relational data",
+                "cites": "57",
+                "year": "2005"
+            },
+            "id_citations": "8OYE6iEAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer method and apparatus for segmenting text streams",
+                "cites": "53",
+                "year": "2004"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian poisson tensor factorization for inferring multilateral relations from sparse dyadic event counts",
+                "cites": "51",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Copula variational inference",
+                "cites": "51",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The inverse regression topic model",
+                "cites": "51",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stick-breaking beta processes and the Poisson process",
+                "cites": "50",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured stochastic variational inference",
+                "cites": "49",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Xl6nMSl579sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The blessings of multiple causes",
+                "cites": "48",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:wvYxNZNCP7wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A split-merge MCMC algorithm for the hierarchical Dirichlet process",
+                "cites": "47",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Bayesian models for applications in information retrieval",
+                "cites": "46",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:RJOyoaXV5v8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating network degree distributions under sampling: An inverse problem, with applications to monitoring social media networks",
+                "cites": "44",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1tZ8xJnm2c8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Poisson Tucker decomposition for learning the structure of international relations",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic structured variational inference",
+                "cites": "42",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning with scope, with application to information extraction and classification",
+                "cites": "42",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distance dependent Chinese restaurant processes",
+                "cites": "42",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Readmission prediction via deep contextual embedding of clinical concepts",
+                "cites": "41",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:SGW5VrABaM0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting covariate similarity in sparse regression via the pairwise elastic net",
+                "cites": "39",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shortest paths in a dynamic uncertain domain",
+                "cites": "38",
+                "year": "1999"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic factor analysis: a Bayesian model for inferring brain networks from neural data",
+                "cites": "37",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference for adaptor grammars",
+                "cites": "37",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relative performance guarantees for approximate inference in latent Dirichlet allocation",
+                "cites": "36",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical modeling of biomedical corpora: mining the caenorhabditis genetic center bibliography for genes related to life span",
+                "cites": "36",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Inference for Stick-Breaking Beta Process Priors.",
+                "cites": "35",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A topographic latent source model for fMRI data",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overdispersed black-box variational inference",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development and validation of the groupwork skills questionnaire (GSQ) for higher education",
+                "cites": "31",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Ak0FvsSvgGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shopper: A probabilistic model of consumer choice with substitutes and complements",
+                "cites": "30",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-jrNzM816MMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smoothed gradients for stochastic variational inference",
+                "cites": "30",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Putop: Turning predominant senses into a topic model for word sense disambiguation",
+                "cites": "30",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian analysis of dynamics in free recall",
+                "cites": "29",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating heterogeneous consumer preferences for restaurants and travel time using mobile location data",
+                "cites": "28",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:VN7nJs4JPk0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured embedding models for grouped data",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:MAUkC_7iAq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification with Incomplete Data Using Dirichlet Process Priors.",
+                "cites": "28",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:z8nqeaKD1nsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling probabilistic models of genetic variation to millions of humans",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding latent sources in recorded music with a shift-invariant HDP",
+                "cites": "27",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational tempering",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distance dependent infinite latent feature models",
+                "cites": "26",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling overlapping communities with node popularities",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient online inference for bayesian nonparametric relational models",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining stochastic block models and mixed membership for statistical network analysis",
+                "cites": "26",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A general method for robust Bayesian modeling",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Network Analysis: Models, Issues, and New Directions: ICML 2006 Workshop on Statistical Network Analysis, Pittsburgh, PA, USA, June 29, 2006, Revised Selected Papers",
+                "cites": "24",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TagLDA: Bringing a document structure knowledge into topic models",
+                "cites": "24",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Posterior predictive checks to quantify lack-of-fit in admixture models of latent population structure",
+                "cites": "23",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical maximum entropy density estimation",
+                "cites": "23",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring discursive influence across scholarship",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:WAzi4Gm8nLoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlated random measures",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent switching linear dynamical systems",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to Mixed Membership Models and Methods.",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural topic models",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:unp9ATQDT5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implicit causal models for genome-wide association studies",
+                "cites": "21",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:QyXJ3EUuO1IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Bernoulli embeddings for language evolution",
+                "cites": "21",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical clustering",
+                "cites": "21",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The population posterior and Bayesian modeling on streams",
+                "cites": "20",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric density estimation for stochastic optimization with an observable state variable",
+                "cites": "19",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "De novo gene signature identification from single\u2010cell RNA\u2010seq with hierarchical Poisson factorization",
+                "cites": "18",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:UmS_249rOGwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Survival Filter: Joint Survival Analysis with a Latent Time Series.",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mixed-membership approach to the assessment of political ideology from survey responses",
+                "cites": "18",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Focused topic models",
+                "cites": "18",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data-driven recomposition using the hierarchical Dirichlet process hidden Markov model",
+                "cites": "18",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discriminative mixed-membership models",
+                "cites": "17",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Augment and reduce: Stochastic inference for large categorical distributions",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:w1MjKQ0l0TYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust probabilistic modeling with bayesian data reweighting",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fully automatic variational inference of differentiable probability models",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distance dependent infinite latent feature models",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic modeling in embedding spaces",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:EsEWqaRxkBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adapting neural networks for the estimation of treatment effects",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:MIg0yeAD4ggC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Objective variables for probabilistic revenue maximization in second-price auctions with reserve",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring polyadic events with Poisson tensor factorization",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decomposing spatiotemporal brain patterns into topographic latent sources",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time topic models for crisis counseling",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic approach to discovering dynamic full-brain functional connectivity patterns",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:IaI1MmNe2tcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The deconfounded recommender: A causal inference approach to recommendation",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Xz60mAmATU4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal inference for recommendation",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent Dirichlet allocation. 2003",
+                "cites": "12"
+            },
+            "id_citations": "8OYE6iEAAAAJ:G1UMdFYMoxkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The holdout randomization test: Principled and easy black box feature selection",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:v6i8RKmR8ToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edward: A library for probabilistic modeling, inference, and criticism, 2016",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:CdxZDUztZiMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Issue Title: Topic Models and the Cultural Sciences",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YsrPvlHIBpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online learning for latent dirichlet allocation",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian inference for latent Hawkes processes",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kWvqk_afx_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context selection for embedding models",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:sszUF3NjhM4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical topographic factor analysis",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making digital: visual approaches to the digital humanities",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-7ulzOJl1JYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tale of two (types of) memberships: Comparing mixed and partial membership with a continuous data example",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference",
+                "cites": "9",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Equation embeddings",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:An6A6Jpfc1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep exponential families",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:nqdriD65xNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population empirical bayes",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic block models of mixed membership",
+                "cites": "9",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using text embeddings for causal inference",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:z6xuaG2dYH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noisin: Unbiased regularization for recurrent neural networks",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:oi2SiIJ9l4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proximity variational inference",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting and characterizing events",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reweighted data for robust probabilistic models",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering newsworthy tweets with a geographical topic model",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Spectral Matching: Turning Young MC into MC Hammer via MCMC Sampling.",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed membership analysis of high-throughput interaction studies: Relational data",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Full-Scale Continuous Synthetic Sonar Data Generation with Markov Conditional Generative Adversarial Networks",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BJrgspguQaEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A nested hdp for hierarchical topic models",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical bayesian models for applications in information retrieval",
+                "cites": "7",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment on \u201cAre Ethnic Groups Biological \u2018Species\u2019 to The Human Brain? Essentialism in Our Cognition of Some Social Categories.\u201d",
+                "cites": "7",
+                "year": "2001"
+            },
+            "id_citations": "8OYE6iEAAAAJ:LXmCCkuhhTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamic embedded topic model",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-yGd096yOn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical recurrent state space models reveal discrete and continuous dynamics of neural activity in C. elegans",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:D_tqNUsBuKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continuous-time limit of stochastic gradient descent revisited",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The discrete infinite logistic normal distribution",
+                "cites": "6",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:isU91gLudPYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ideal point topic model: Predicting legislative roll calls from text",
+                "cites": "6",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prescribed generative adversarial networks",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:t-hv7AR41mYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population predictive checks",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zwpXiJ37cpgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Counterfactual inference for consumer choice across many product categories",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:A8cqit5AE6sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayes under model misspecification",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:T_ojBgVMvoEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using embeddings to correct for unobserved confounding",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:C33y2ycGS3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zero-inflated exponential family embeddings",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:DBa1UEJaJKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The \u03c7-Divergence for Approximate Inference",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model criticism for bayesian causal inference",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The population posterior and bayesian inference on streams",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:lYAcb2jw7qUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A filtering approach to stochastic variational inference",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic regression",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed membership models",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to probablilistic topic models",
+                "cites": "5"
+            },
+            "id_citations": "8OYE6iEAAAAJ:OBSaB-F7qqsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple causes: A causal graphical view",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-6RzNnnwWf8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using embeddings to correct for unobserved confounding in networks",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4aZ_i-5WJEQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Black box fdr",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zGdJYJv2LkUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating Bayesian models with posterior dispersion indices",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:rHJHxKgnXwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference: Foundations and modern methods",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regularized regression",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An analysis of development of dementia through the extended trajectory grade of membership model",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian boosting model",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixtures of clusterings by boosting",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling science",
+                "cites": "4",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Equal opportunity and affirmative action via counterfactual predictions",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:SAZ1SQo2q1kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical risk minimization and stochastic gradient descent for relational data",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:silx2ntsSuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Poisson-randomized gamma dynamical systems",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:JP7YXuLIOvAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical perspective: expressive probabilistic models and scalable method of moments",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:pS0ncopqnHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Mixture Models and the Gibbs Sampler",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the 32Nd International Conference on International Conference on Machine Learning-Volume 37",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:SxCCDk4iOpsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population Stratification with Mixed Membership Models.",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed Membership Blockmodels for Dynamic Networks with Feedback.",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Topic Models: Origins and Challenges",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Poisson trust factorization for incorporating social networks into personalized item recommendation",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed membership models for time series",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Issue-Adjusted Ideal Point Model",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corotational formulation for 3d solids. an analysis of geometrically nonlinear foam deformation",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The stick-breaking construction of the beta process as a Poisson process",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nested chinese restaurant process and hierarchical topic models",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric empirical bayes for the dirichlet process mixture model",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FACTORS INFLUENCING ACCESS TO HEALTH CARE AMONG MEXICAN AMERICAN ELDERLY IN TEXAS.",
+                "cites": "3",
+                "year": "1984"
+            },
+            "id_citations": "8OYE6iEAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Blessings of Multiple Causes: Rejoinder",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YB4bud6kWLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent dirichlet allocation",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:qwy9JoKyICEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving and evaluating topic models and other models of text comment",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:aIdbFUkbNIkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference with copula augmentation",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical regression",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deterministic annealing for stochastic variational inference",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overlapping clustering methods for networks",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic and Supervised Topic Models for Literature-Based Discovery",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment on\" Fastest learning in small-world neural networks\"",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic latent semantic analysis",
+                "cites": "2",
+                "year": "1999"
+            },
+            "id_citations": "8OYE6iEAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Markovian score climbing: Variational inference with KL (p|| q)",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:s85pQhAUCrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning with Reflective Likelihoods",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:wE-fMHVdjMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Blessings of Multiple Causes: A Causal Graphical View",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:tHtfpZlB6tUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimatingnetworkdegree distributions under sampling: an inverse problem, with applications to monitoring social media networks",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hGdtkIFZdKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Models",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:g5Ck-dwhA_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Topic Models and User Behavior",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Who, what, when, where, and why? A computational approach to understanding historical events using state depart-ment cables",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed Membership Classification for Documents with Hierarchically Structured Labels.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Profile predictive inference",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating Diagnostic Error without a Gold Standard.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpretability constraints and trade-offs in using mixed membership models",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interacting with the data",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixture Models and Expectation-Maximization",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-Based Classification",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Analysis",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The open encyclopedia of classical sites",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical models",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric Mixed Membership Modelling Using the IBP Compound Dirichlet Process",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Text-based HMM of Foreign Affair Sentiment",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent factor topic models with rank-reducing beta process priors",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Influence in Text Corpora",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of Text Patterns Using Kernel Methods",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear Regression",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Efficient Off-Line Beat Tracking Method for Music with Steady Tempo",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "8OYE6iEAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical discovery of signaling pathways from an ensemble of weakly informative data sources",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference and learning for a unified model of syntax, semantics and morphology",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Text-Based Ideal Points",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:TaaCk18tZOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General linear-time inference for Gaussian Processes on one dimension",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zUl2_INMlC4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Clarifying the Theory of the Deconfounder",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:LK8CI43ZvvMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation Learning: A Probabilistic Perspective",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "8OYE6iEAAAAJ:jtI9f0ekYq0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Blessings of Multiple Causes: A Reply to Ogburn et al.(2019)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:H_jBuBxbQIAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational Dose-Response Modeling for Cancer Drug Studies",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:c_xDhezhKKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Medical Deconfounder: Assessing Treatment Effects with Electronic Health Records",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:L_l9e5I586QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment: Variational Autoencoders as Empirical Bayes",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NxmKEeNBbOMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Tensor Filtering: Smooth, Locally-Adaptive Factorization of Functional Matrices.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "8OYE6iEAAAAJ:__bU50VfleQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dose-response modeling in high-throughput cancer drug screenings: A case study with recommendations for practitioners",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kJDgFkosVoMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Probabilistic Model of Cardiac Physiology and Electrocardiograms",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zdjWy_NXXwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise-Based Regularizers for Recurrent Neural Networks",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:k_7cPK9k7w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Word2net: Deep Representations of Language",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:RoXSNcbkSzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Sequential Monte Carlo",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:LGlY6t8CeOMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Markov link method: a nonparametric approach to combine observations from multiple experiments",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "8OYE6iEAAAAJ:hSRAE-fF4OAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment: A Discussion of \u201cNonparametric Bayes Modeling of Populations of Networks\u201d",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HhcuHIWmDEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Topic Modeling: Online Learning, Diagnostics, and Recommendation",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YTuZlYwrTOUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Approximate Inference for Arbitrarily Large Semiparametric Regression Models via Message Passing Comment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:2ywjKiB__4kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Approximate Inference for Arbitrarily Large Semiparametric Regression Models via Message Passing Comment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "8OYE6iEAAAAJ:6bLC7aUMtPcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rejection Sampling Variational Inference",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Exponential Family",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discussion of\" Fast Approximate Inference for Arbitrarily Large Semiparametric Regression Models via Message Passing\"",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Posterior Dispersion Indices",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMS E6998-002: Probabilistic Modeling for Discrete Data Lecture 3: Word Embeddings III",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Models of Discrete Data",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2015 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 37",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "8OYE6iEAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Matrix Factorization",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed-membership Models (and an introduction to variational inference)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact Inference: Elimination and Sum Product (and hidden Markov models)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Quick Review of Probability",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to Foundations of Graphical Models",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "8OYE6iEAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear regression, Logistic regression, and Generalized Linear Models",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting Mixed Membership April Galyardt",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Wq2b2clWBLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-Supervised Mixed Membership Models",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:X9ykpCP0fEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Part 5 Special Methodology for Sequence and Rank Data",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:27LrP4qxOz0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Part 3 Topic Models: Mixed Membership Models for Text",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-DxkuPiZhfEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting Mixed Membership",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:5bg8sr1QxYwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Tale of Two (Types Of) Memberships",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kzcSZmkxUKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust Estimation of Topic Summaries Leveraging Word Frequency and Exclusivity.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric Mixed Membership Models.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discriminative Training of Mixed Membership Models.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Models",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Markov chain Monte Carlo",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foundations of Graphical Models",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stephan Mandt",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "8OYE6iEAAAAJ:XUvXOeBm_78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced Methods in Probabilistic Modeling",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multinomial Inverse Regression for Text Analysis Comment",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:SIv7DqKytYAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Please sign, scan, and send (as a pdf fifile) to production@ jmlr. org, along with your fifinal submission.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-Parametric Bayesian Analysis of Heterogeneous Data",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Factor Topographic Latent Source Analysis: Factor Analysis for Brain Images\u22c6",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Nonparametric Models",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A text-based model of foreign-affairs sentiment",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "8OYE6iEAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic Search with an Observable State Variable",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "8OYE6iEAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "chapter Topic Models",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:rTD5ala9j4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Truth in Data",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stephen E. Fienberg",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PU-BCD: exponential family models for the coarse-and fine-grained all-words tasks",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "8OYE6iEAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:oPLKW5k6eA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CLV2 Class File Manual",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "8OYE6iEAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference in a truncated Dirichlet process",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Nonparametric Inference for Mixed Poisson Processes",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "8OYE6iEAAAAJ:BmWJbWwHJAwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home\u00bb Publications",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "8OYE6iEAAAAJ:69ZgNCALVd0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appendix for Poisson-Randomized Gamma Dynamical Systems",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:Zh0EY9V9P6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking dose-response modeling in high throughput cancer drug screenings: a case study and recommendations for practitioners",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:YlPif8NxrbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online Appendix For: Estimating Heterogeneous Consumer Preferences for Restaurants and Travel Time Using Mobile Location Data",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:HJSXoJQnj-YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aki Vehtari Aalto University Jean-Phillipe Vert Mines ParisTech Hao Helen Zhang North Carolina State University",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-95Q15plzcUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic approach to full-brain functional connectivity analyses",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1DsIQWDZLl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Large-Scale Classification with Latent Variable Augmentation",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:ce2CqMG-AY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Inference via \u03c7 Upper Bound Minimization: Supplement",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NDuN12AVoxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement: Hierarchical Implicit Models and Likelihood-Free Variational Inference",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PyEswDtIyv0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Papers were reviewed by a Program Committee, consisting of 150 experts in a wide variety of sub-disciplines within Artificial Intelligence and Statistics. Each paper was re \u2026",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1yWc8FF-_SYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1 Distribution of \u03b5",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PYBJJbyH-FwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LE PANEL DISCUSSION",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:WC23djZS0W4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement for Operator Variational Inference",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Generalized Reparameterization Gradient: Supplement",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Probabilistic Programming with Edward",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dynamic theory of social failure in isolated communities",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Validating Causal Models",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material for \u201cBayesian Poisson Tucker Decomposition for Learning the Structure of International Relations\u201d",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact Inference: Elimination and Sum Product",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Bayesian Poisson Tensor Factorization",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aji, SM and RJ McEliece (2000, March). The generalized distribu-tive law. IEEE Trans. Info. The-ory 46 (2), 325\u2013343. Alag, S. and A. Agogino (1996). In",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement: Copula variational inference",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Copula variational inference",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic Structured Variational Inference\u2014Supplement",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Materials for Distance Dependent Infinite Latent Feature Models",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Black Box Variational Inference (Extra Materials)",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material: Bayesian Nonparametric Poisson Factorization for Recommendation Systems",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement for Nonparametric Density Estimation for Stochastic Optimization with an Observable State Variable",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Adaptive Learning Rate for Stochastic Variational Inference (Supplementary Information)",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptively Setting the Learning Rate in Stochastic Variational Inference",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement to Truncation-free Online Variational Inference for Bayesian Nonparametric Models",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sampling Strategies for the Scalable Inference of Communities",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Turbo Topics: Visualizing Topics with Multi-Word Expressions DRAFT COPY: DO NOT CITE OR DISTRIBUTE",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New Tools for Decoding Mental Representations from Neuroimaging Data",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent Dirichlet Allocation David M. Blei, Andrew Y. Ng and Michael I. Jordan Variational Extensions to EM and Multinomial PCA Wray Buntine Summary by Jaakko Peltonen, Feb 17, 2004",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE ANNALS",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M43",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COS513: FOUNDATIONS OF PROBABILISTIC MODELS",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoupling Sparsity and Smoothness in the Discrete HDP",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed Membership Stochastic Blockmodels Poster W53",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring Confidence in Temporal Topic Models with Posterior Predictive Checks",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Additive Component Analysis",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AUDIO TAGGING WITH CBA",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Models for Decoding Real-Valued Natural Experience in FMRI",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Syntactic Topic Models Supplement",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning with Scope",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multilingual Topic Models",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement to Decoupling Sparsity and Smoothness in the Discrete Hierarchical Dirichlet Process",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DIMACS Workshop on Algorithms in the Field",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low-Rank Matrix Factorization Using Regularized Logistic Regression",
+                "cites": "0"
+            },
+            "id_citations": "8OYE6iEAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=8OYE6iEAAAAJ"
+}

@@ -1,0 +1,2333 @@
+{
+    "affiliation": "Distinguished Professor, National Tsing Hua University",
+    "cites_per_year": {
+        "2003": 24,
+        "2004": 34,
+        "2005": 79,
+        "2006": 150,
+        "2007": 188,
+        "2008": 257,
+        "2009": 246,
+        "2010": 347,
+        "2011": 339,
+        "2012": 338,
+        "2013": 424,
+        "2014": 542,
+        "2015": 592,
+        "2016": 800,
+        "2017": 950,
+        "2018": 1056,
+        "2019": 1245,
+        "2020": 684
+    },
+    "citedby": 8487,
+    "citedby5y": 5351,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Statistics, University of South Florida",
+            "id": "mPf3qd0AAAAJ",
+            "name": "Wolfgang Jank"
+        },
+        {
+            "affiliation": "Coller School of Management",
+            "id": "avjLJ58AAAAJ",
+            "name": "Dr. Inbal Yahav"
+        },
+        {
+            "affiliation": "Professor of Information and Decision Sciences",
+            "id": "s420FPYAAAAJ",
+            "name": "Ravi Bapna"
+        },
+        {
+            "affiliation": "Assistant Professor of Decision and Information Sciences, Rotterdam School of Management, Erasmus University",
+            "id": "3DCJirkAAAAJ",
+            "name": "Otto Koppius"
+        },
+        {
+            "affiliation": "Department of Mathematics and Statistics, Georgetown University",
+            "id": "tkoMZlUAAAAJ",
+            "name": "Kimberly F. Sellers"
+        },
+        {
+            "affiliation": "Principal Researcher, Microsoft Research, Cambridge UK",
+            "id": "odOmEY0AAAAJ",
+            "name": "Tom Minka"
+        },
+        {
+            "affiliation": "Assistant Professor",
+            "id": "8CkZaVcAAAAJ",
+            "name": "Suneel Babu Chatla"
+        },
+        {
+            "affiliation": "KPA Group and Samuel Neaman Institute, Technion, Israel",
+            "id": "NRAkibAAAAAJ",
+            "name": "Ron S. Kenett"
+        },
+        {
+            "affiliation": "Senior Research Scientist, University of Maryland",
+            "id": "VnwWgwIAAAAJ",
+            "name": "Catherine Plaisant"
+        },
+        {
+            "affiliation": "Harvard University; University of Maryland; Grockit, Inc.; Square, Inc.",
+            "id": "v_opUkIAAAAJ",
+            "name": "Thomas Lotze"
+        },
+        {
+            "affiliation": "Professor of Computer Science, University of Maryland",
+            "id": "h4i4fh8AAAAJ",
+            "name": "Ben Shneiderman"
+        },
+        {
+            "affiliation": "Maurice Falk University Professor of Statistics and Social Science",
+            "id": "3dxS1VYAAAAJ",
+            "name": "Stephen E Fienberg 1942-2016"
+        },
+        {
+            "affiliation": "Georgia Institute of Technology",
+            "id": "QtiSMhgAAAAJ",
+            "name": "Mingfeng Lin"
+        },
+        {
+            "affiliation": "Associate Professor, Institute of Service Science, National Tsing Hua University",
+            "id": "6WjiSOwAAAAJ",
+            "name": "Soumya Ray"
+        },
+        {
+            "affiliation": "Otto-von-Guericke Universit\u00e4t Magdeburg",
+            "id": "KnnmEP4AAAAJ",
+            "name": "Marko Sarstedt"
+        },
+        {
+            "affiliation": "Associate Professor, McGill University",
+            "id": "4DI8uncAAAAJ",
+            "name": "Jui Ramaprasad"
+        },
+        {
+            "affiliation": "University of Minnesota. Carlson School of Management.",
+            "id": "s-KM7G8AAAAJ",
+            "name": "Akhmed Umyarov"
+        },
+        {
+            "affiliation": "Associate Professor of Business Administration, University of Virginia",
+            "id": "6pQ8hnIAAAAJ",
+            "name": "Kenneth C. Lichtendahl Jr."
+        },
+        {
+            "affiliation": "University of Southern California",
+            "id": "SEPTQX0AAAAJ",
+            "name": "Joseph Nunes"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Delaware",
+            "id": "RG3EolgAAAAJ",
+            "name": "Pratyush Nidhi Sharma"
+        }
+    ],
+    "email": "@iss.nthu.edu.tw",
+    "hindex": 37,
+    "hindex5y": 26,
+    "i10index": 86,
+    "i10index5y": 57,
+    "id": "kmy07ucAAAAJ",
+    "interests": [
+        "business analytics",
+        "biosurveillance",
+        "count data",
+        "online auctions",
+        "statistical methodology"
+    ],
+    "name": "Galit Shmueli",
+    "publications": [
+        {
+            "bib": {
+                "title": "To explain or to predict?",
+                "cites": "8705401808006963960",
+                "year": "2010",
+                "url": "https://projecteuclid.org/euclid.ss/1294167961",
+                "author": "Galit Shmueli",
+                "journal": "Statistical Science",
+                "volume": "25",
+                "number": "3",
+                "pages": "289-310",
+                "publisher": "Institute of Mathematical Statistics",
+                "abstract": "Statistical modeling is a powerful tool for developing and testing theories by way of causal explanation, prediction, and description. In many disciplines there is near-exclusive use of statistical modeling for causal explanation and the assumption that models with high explanatory power are inherently of high predictive power. Conflation between explanation and prediction is common, yet the distinction must be understood for progressing scientific knowledge. While this distinction has been recognized in the philosophy of science, the statistical literature lacks a thorough discussion of the many differences that arise in the process of modeling for an explanatory versus a predictive goal. The purpose of this article is to clarify the distinction between explanatory and predictive modeling, to discuss its sources, and to reveal the practical implications of the distinction to each step in the modeling process.",
+                "eprint": "https://projecteuclid.org/download/pdfview_1/euclid.ss/1294167961"
+            },
+            "id_citations": "kmy07ucAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive analytics in information systems research",
+                "cites": "694",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research Commentary-Too Big to Fail: Large Samples and the p-Value Problem",
+                "cites": "586",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data mining for business intelligence: Concepts, techniques, and applications in Microsoft Office Excel with XLMiner",
+                "cites": "527",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:eHo_KFcuhuIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data mining for business intelligence: Concepts, techniques, and applications in Microsoft Office Excel with XLMiner (2nd Edition)",
+                "cites": "522",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:Nb0HLiwjfsIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data mining for business intelligence: concepts, techniques, and applications in Microsoft Office Excel with XLMiner (1st Edition)",
+                "cites": "522",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A useful distribution for fitting discrete data: revival of the Conway\u2013Maxwell\u2013Poisson distribution",
+                "cites": "405",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early statistical detection of anthrax outbreaks by tracking over-the-counter medication sales",
+                "cites": "256",
+                "year": "2002"
+            },
+            "id_citations": "kmy07ucAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of product assortment changes on customer retention",
+                "cites": "234",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The elephant in the room: Predictive performance of PLS models",
+                "cites": "206",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:D4n_APcuzvwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Elephant in the Room: Evaluating the Predictive Performance of Partial Least Squares (PLS) Path Models",
+                "cites": "206",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical challenges facing early outbreak detection in biosurveillance",
+                "cites": "204",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining for Business Analytics: Concepts, Techniques and Applications in Microsoft Excel with XLMiner (3rd Edition)",
+                "cites": "200",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:MRFs4rWx_PcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining for Business Analytics: Concepts, Techniques and Applications in Python",
+                "cites": "186",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:UO8fSLLLPykC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data mining for business analytics: concepts, techniques, and applications in R",
+                "cites": "186",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:5LOebrzo1TYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining for Business Analytics: Concepts, Techniques, and Applications in R",
+                "cites": "186",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:-rwTIRUNLawC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining for Business Analytics: Concepts, Techniques, and Applications with JMP Pro",
+                "cites": "186",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:dw5aoL0HVgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining for Business Analytics: Concepts, Techniques, and Applications with XLMiner (3rd Edition)",
+                "cites": "186",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:fhZv66dCuXAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A flexible regression model for count data",
+                "cites": "186",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated time series forecasting for biosurveillance",
+                "cites": "151",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consumer surplus in online auctions",
+                "cites": "139",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining and forecasting online auction prices and their dynamics using functional data analysis",
+                "cites": "134",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Price formation and its dynamics in online auctions",
+                "cites": "130",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The COM\u2010Poisson model for count data: a survey of methods and applications",
+                "cites": "114",
+                "year": "2012"
+            },
+            "id_citations": "kmy07ucAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conjugate analysis of the Conway-Maxwell-Poisson distribution",
+                "cites": "108",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional data analysis in electronic commerce research",
+                "cites": "100",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical issues and challenges associated with rapid detection of bio\u2010terrorist attacks",
+                "cites": "95",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On information quality",
+                "cites": "92",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity-based forecasting with simultaneous previews: A river plot interface for time series forecasting",
+                "cites": "79",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:r655XaDZu5IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity-based forecasting with simultaneous previews: A river plot interface for time series forecasting",
+                "cites": "79",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On generating multivariate Poisson data in management science applications",
+                "cites": "77",
+                "year": "2012"
+            },
+            "id_citations": "kmy07ucAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The BARISTA: A model for bid arrivals in online auctions",
+                "cites": "76",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current and potential statistical methods for monitoring multiple data streams for biosurveillance",
+                "cites": "76",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing online auctions",
+                "cites": "74",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive model assessment in PLS-SEM: guidelines for using PLSpredict",
+                "cites": "72",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:69viAa4lnfgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-way mirrors in online dating: A randomized field experiment",
+                "cites": "66",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:BHd7YmozNHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with the COM-Poisson distribution",
+                "cites": "65",
+                "year": "2003"
+            },
+            "id_citations": "kmy07ucAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing unevenly-spaced time series data for visualization and interactive exploration",
+                "cites": "61",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information quality: The potential of data and analytics to generate knowledge",
+                "cites": "60",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:EfTNjLFZ3b0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring auction databases through interactive visualization",
+                "cites": "54",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical Time Series Forecasting with R: A Hands-On Guide",
+                "cites": "51",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:FGHlONkF9GcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical time series forecasting: A hands-on guide",
+                "cites": "51",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unified Markov chain approach for computing the run length distribution in control charts with simple or compound rules",
+                "cites": "50",
+                "year": "2003"
+            },
+            "id_citations": "kmy07ucAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Run-length distribution for control charts with runs and scans rules",
+                "cites": "50",
+                "year": "2003"
+            },
+            "id_citations": "kmy07ucAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Profiling price dynamics in online auctions using curve clustering",
+                "cites": "48",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Price Dynamics in eBay Auctions Using Differential Equations",
+                "cites": "47",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling online auctions",
+                "cites": "41",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating concurrency in online auctions through visualization",
+                "cites": "37",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PLS-based model selection: the role of alternative explanations in information systems research",
+                "cites": "34",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:zJAXUfKFhq0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction\u2010Oriented Model Selection in Partial Least Squares Path Modeling",
+                "cites": "34",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:bxbQgRQgr4sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Run-related probability functions applied to sampling inspection",
+                "cites": "34",
+                "year": "2000"
+            },
+            "id_citations": "kmy07ucAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time forecasting of online auctions via functional k-nearest neighbors",
+                "cites": "33",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling bid arrivals in online auctions",
+                "cites": "33",
+                "year": "2004"
+            },
+            "id_citations": "kmy07ucAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical methods in e-commerce research",
+                "cites": "29",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic, real-time forecasting of online auctions via functional models",
+                "cites": "29",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Dynamics in Online Auctions: A Modern Statistical Approach",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:oQ8ZOKt5vhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studying heterogeneity of price evolution in eBay auctions via functional clustering",
+                "cites": "28",
+                "year": "2009"
+            },
+            "id_citations": "kmy07ucAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementation and Comparison of Preprocessing Methods for Biosurveillance Data",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling concurrency of events in on\u2010line auctions via spatiotemporal semiparametric models",
+                "cites": "28",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the dynamics of online auctions: A modern statistical approach",
+                "cites": "28",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data dispersion: Now you see it\u2026 now you don't",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preparing biosurveillance data for classic monitoring",
+                "cites": "24",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A data disclosure policy for count data based on the COM-Poisson distribution",
+                "cites": "24",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:-A4928QJj7oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A data disclosure policy for count data based on the COM-Poisson distribution",
+                "cites": "24",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet-based monitoring in modern biosurveillance",
+                "cites": "24",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic profiling of online auctions using curve clustering",
+                "cites": "24",
+                "year": "2003"
+            },
+            "id_citations": "kmy07ucAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing Behavioral Big Data: Methodological, practical, ethical, and moral issues",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:NRnkAyzcrGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Tree-Based Approach for Addressing Self-Selection in Impact Studies with Big Data",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:Y1W0x10ZrwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clarifying the terminology that describes scientific reproducibility",
+                "cites": "23",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Getting started with business analytics: insightful decision-making",
+                "cites": "21",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data mining for business intelligence",
+                "cites": "20",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:FmXltp8y-ZkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forecasting eBay\u2019s online auction prices using functional data analysis",
+                "cites": "20",
+                "year": "2004"
+            },
+            "id_citations": "kmy07ucAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using grocery sales data for the detection of bio-terrorist attacks",
+                "cites": "20",
+                "year": "2002"
+            },
+            "id_citations": "kmy07ucAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A wavelet-based anomaly detector for early detection of disease outbreaks",
+                "cites": "18",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining in Excel: Lecture Notes and Cases",
+                "cites": "18",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research Dilemmas with Behavioral Big Data",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:7f0ks1Axv_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Bimodal Discrete Data Using Conway-Maxwell-Poisson Mixture Models",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating multivariate syndromic time series and outbreak signatures",
+                "cites": "17",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-way mirrors and weak-signaling in online dating: A randomized field experiment",
+                "cites": "16",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating and evaluating biosurveillance datasets",
+                "cites": "16",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A family of growth models for representing the price process in online auctions",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling price paths in on\u2010line auctions: smoothing sparse and unevenly sampled curves by using semiparametric mixed models",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:AE81f6nWjdQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling price paths in on\u2010line auctions: smoothing sparse and unevenly sampled curves by using semiparametric mixed models",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling price paths in on\u2010line auctions: smoothing sparse and unevenly sampled curves by using semiparametric mixed models",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Algorithm combination for improved performance in biosurveillance systems",
+                "cites": "16",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smoothing sparse and unevenly sampled curves using semiparametric mixed models: An application to online auctions",
+                "cites": "16",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximizing bidder surplus in simultaneous online art auctions via dynamic forecasting",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Too big to fail: Larger samples and false discoveries",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:_WP0DvM6eX8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directionally Sensitive Multivariate Control Charts in Practice: Application to Biosurveillance",
+                "cites": "14",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Elegant Method for Generating Multivariate Poisson Random Variable",
+                "cites": "14",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive vs. explanatory modeling in IS research",
+                "cites": "14",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:mRAYM1lGiDwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Conway-Maxwell-Poisson Model for Analyzing Unique Datasets",
+                "cites": "13",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data mining for business intelligence",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:kuq-04jA658C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bridging the gap: a generalized stochastic process for count data",
+                "cites": "12",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:ult01sCh7k0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical acceptance sampling: A hands-on guide",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:XyWThvt29VcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear Probability Models (LPM) and Big Data: The Good, the Bad, and the Ugly",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The challenge of prediction in information systems research",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "kmy07ucAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Models for Count Data Reply",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:_IwLajd9sWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling price dynamics in online auctions via regression trees",
+                "cites": "11",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:kFM4V80Y5EsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A flexible model for estimating price dynamics in on\u2010line auctions",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting censored count data with COM-Poisson regression",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical Time Series Forecasting",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:WmQWPPBrFVcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic price forecasting in simultaneous online art auctions",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Models of Bidder Activity Consistent with Self\u2010Similar Bid Arrivals",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing functional data with an Application to eBay\u2019s online auctions",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sampling eCommerce data from the web: Methodological and practical issues",
+                "cites": "9",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From quality to information quality in official statistics",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How does improved forecasting benefit detection? An application to biosurveillance",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "kmy07ucAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A regression model for count data with observation-level dispersion",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "kmy07ucAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical challenges in eCommerce: Modeling dynamic and networked data",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TUTORIALS OPERATIONS RESEARCH inlJUSl \u00ab",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing consecutive-type reliabilities nonrecursively",
+                "cites": "8",
+                "year": "2003"
+            },
+            "id_citations": "kmy07ucAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjusting to the GDPR: The impact on data scientists and behavioral researchers",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:KD63RgGzVVoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Helping authors and reviewers ask the right questions: The InfoQ framework for reviewing applied research",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:lYbyOjaXH8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ensemble forecasting for disease outbreak detection",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transformations for semi-continuous data",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Information Quality (InfoQ) Framework for Ex-Ante and Ex-Post Evaluation of Empirical Studies",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet-Based Monitoring for Disease Outbreaks and Bioterrorism: Methods and Challenges",
+                "cites": "6",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is more always better? Larger samples and false discoveries",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerating statistical research in drug safety",
+                "cites": "6",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:8s22W2WWFy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient estimation of COM\u2013Poisson regression and a generalized additive model",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:23Hg5vt_rPQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Extensive Examination of Regression Models with a Binary Outcome Variable",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:9LrdxYebArsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Outcomes matter: estimating pre-transplant survival rates of kidney-transplant patients using simulator-based propensity scores",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting potential survival rates of kidney transplant candidates from databases with existing allocation policies",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic forecasting of online auction price using functional data analysis",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling price dynamics in eBay auctions using principal differential analysis",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:YnriW4MgZhwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forecasting Online Auctions using Dynamic Models",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current and Potential Statistical Methods for Anomaly Detection in Modern Time Series Data: The Case of Biosurveillance",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System-wide probabilities for systems with runs and scans rules",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "kmy07ucAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive model selection in partial least squares path modeling",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:UwpDZDXJMDUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does Growing Demand for Data Science Create New Opportunities for Information Systems?",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavelet-Based Monitoring for Biosurveillance",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact Assessment in Observational Studies: A Classification and Regression Tree Approach",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-Way Mirrors and Weak-Signaling in Online Dating: A Randomized Field Experiment",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fitting COM-Poisson Mixtures to Bimodal Count Data",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "kmy07ucAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forecasting Online Auctions using Dynamic Models",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relationship between forecast accuracy and detection performance: An application to biosurveillance",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A special issue on statistical challenges and opportunities in electronic commerce research",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studying heterogeneity of price evolution in ebay auctions via functional clustering",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:tsQ8sfJ2mf4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing functional data with an Application to eBay\u2019s online auctions",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:lDOOmgye57wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bidding dynamics in B2B reverse auctions",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Models for Bid Arrivals and Bidder Arrivals in Online Auctions",
+                "cites": "4",
+                "year": "2004"
+            },
+            "id_citations": "kmy07ucAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using computational and mathematical methods to explore a new distribution: The \u03bd-Poisson",
+                "cites": "4",
+                "year": "2001"
+            },
+            "id_citations": "kmy07ucAAAAJ:hzvVvKpMvx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis and display of hierarchical life-time data",
+                "cites": "4",
+                "year": "1999"
+            },
+            "id_citations": "kmy07ucAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Forest or the Trees? Tackling Simpson's Paradox with Classi fication and Regression Trees",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Algorithm Combination for Improved Performance in Biosurveillance",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is Predictive about Partial Least Squares?",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Elegant Method for Generating Multivariate Poisson Data",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Computational and Graphical Methods to Explore a New Distribution: The \u03bd-Poisson",
+                "cites": "3",
+                "year": "2001"
+            },
+            "id_citations": "kmy07ucAAAAJ:GWiaReNCd0YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tree-based methods for clustering time series using domain-relevant attributes",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:5AlGpL-oHpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Forest or the Trees? Tackling Simpson's Paradox with Classification Trees",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:ZVmBtQ9RJaQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assessing the Value of an Information System for Developing Predictive Analytics: The Case of Forecasting School-Level Demand in Taiwan",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:KxdiYzj_eL0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating the Predictive Performance of Composites in PLS Path Modeling",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:OP2qWFMeUpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A special issue on: Actual impact and future perspectives on stochastic modelling in business and industry",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rejoinder: The COM\u2010Poisson Model for count data: A survey of methods and applications",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "kmy07ucAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing Theories with Big Data: A Super-power Approach",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "kmy07ucAAAAJ:hKmHnHMtuq0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating Directionally-Sensitive Multivariate Control Charts with an Application to Biosurveillance",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring consumer surplus on eBay: An empirical study",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating Multivariate Syndromic Time Series and Outbreak Signatures",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:jg3FfqxSHJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian dynamics model for influenza surveillance",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data-Adaptive Multivariate Control Charts for Routine Health Monitoring",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive student response system: Pilot project",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "kmy07ucAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Customer surveys",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "kmy07ucAAAAJ:AbS6eEh_b9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Tree-based Semi-Varying Coefficient Model for the COM-Poisson Distribution",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "kmy07ucAAAAJ:Dh4RK7yvr34C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Efficient Estimation of Conway-Maxwell Poisson Regression and Additive Model with an Application to Bike Sharing",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:rlwtDmSc194C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SOABER: an innovative approach to maximize bidder surplus in simultaneous online art auctions",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "kmy07ucAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential equation trees to model price dynamics in online auctions",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Inference with Large (eCommerce) Datasets",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a theory of bidding dynamics",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Run Related Probability Functions and Their Application to Industrial Statistics",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "kmy07ucAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discussion on \u201cAssessing the goodness of fit of logistic regression models in large samples: A modification of the Hosmer\u2010Lemeshow test\u201d by Giovanni Nattino, Michael L. Pennell \u2026",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "kmy07ucAAAAJ:b9WrW9Envh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selected Topics in Statistical Computing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "kmy07ucAAAAJ:PN3Jufe71OMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Tree-based Semi-Varying Coefficient Model for the COM-Poisson Distribution",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "kmy07ucAAAAJ:Itmi1h0dExoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How Personal is Machine Learning Personalization?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:It3QlvBKHbMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Forecast Reconciliation Using Linear Models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:OLNndOjO69MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive Analysis and Out-of-Sample Generalizability of Construct-based Models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:XdYaqolBBq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bridging Medical Research and Clinical Work by Evaluating Predictive Ability",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:Xc8JtHQmRf8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond Overall Treatment Effects: Leveraging Covariates in Randomized Experiments Guided by Causal Structure",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:dY-VugTTHzcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lift Up and Act! Classifier Performance in Resource-Constrained Applications",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "kmy07ucAAAAJ:PFhWnMnuT1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conjugate Analysis of the Conway-Maxwell-Poisson Distribution (vol 1, pg 363, 2006)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:6DzZfY3qH5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing the Impact of GDPR on Data Scientists Using the InfoQ Framework",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:1W67FsDfIBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u6570\u636e\u6316\u6398: \u5546\u4e1a\u6570\u636e\u5206\u6790\u6280\u672f\u4e0e\u5b9e\u8df5",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:4_yl7nwqy4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Note of correction:\u201cConjugate Analysis of the Conway-Maxwell-Poisson Distribution\u201d",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "kmy07ucAAAAJ:5s9rAH04UEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selected topics in statistical computing",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:f5lEeLvKxmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "There\u2019s so much we don\u2019t know but we\u2019ve been brainwashed to think that we do.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "kmy07ucAAAAJ:zxqBrjVgvjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ support with JMP",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:p7qoFRH4VUUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ support with R",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:zBCjByih94YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ support with Minitab",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:M3hCyctIOBoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Big Count Data: An IRLS Framework for CMP Regression and GAM",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:bXvxhPDrUX0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Efficient Estimation of Conway-Maxwell Poisson Regression and Additive Model with an Application to Bike Sharing",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:PbrqR9PZhrEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beauty is in the Eye of the (Data) Beholder: Researchers\u2019 Dilemmas Using Behavioral Big Data",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:QxtoOqDH1aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Official statistics",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "kmy07ucAAAAJ:IaRkJ05COeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-Way Mirrors and Weak-Signaling in Online Dating: A Randomized Field Experiment-Online E-Companion Appendix",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The future of PLS path modeling: prediction or explanation?",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:FkBsMxS_Bp0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive model selection in partial least squares path modeling (PLS-PM)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "kmy07ucAAAAJ:J3KpcKIlIpsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Generalized Stochastic Process for Count Data",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tackling Simpson's Paradox in Big Data Using Classification & Regression Trees",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LINEAR PROBABILITY MODELS IN INFORMATION SYSTEMS RESEARCH",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "kmy07ucAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fundamentals of Clinical Trials",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "kmy07ucAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Business Statistics",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "kmy07ucAAAAJ:Ns2bVKt8YxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical methods in eCommerce research (Series statistics in practice)",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling price paths in on-line auctions: Smoothing sparse and unevenly sampled curves by using semiparametric mixed models 510: Z",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "kmy07ucAAAAJ:XK2cf6JOk9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Evaluation of Wavelet-Based Techniques for Prediction and Anomaly Detection in Univariate Syndromic Data",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development and Evaluation of a Data-adaptive Algorithm for Univariate Temporal Biosurveillance Data",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "kmy07ucAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Special Issue on Statistical Challenges and Opportunities in Electronic Commerce Research........................ Wolfgang Jank and Galit Shmueli 113 Collecting and Analyzing \u2026",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "kmy07ucAAAAJ:aSKcRT6rTsQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proc. of INTERACT 2005, Springer, Berlin (835-846). Springer Link http://dx. doi. org/10.1007/11555261_66 HCIL-2005-01, CS-TR-4713, UMIACS-TR-2005-21, ISR-TR-2005-73",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:Xtec1x7NZGAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the Dynamics of Online Auctions Using a Functional Data Analytic Approach",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining In Excel: Lecture Notes and Cases",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:LwieBGrN4GEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Studying Price-Dynamics and Auction-Energy in Functional Models",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration (2005)",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "kmy07ucAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "of the Conway\u2013Maxwell\u2013Poisson distribution",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "kmy07ucAAAAJ:P_fFXc30I2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Frequency and Quantity Model of the Effect of Assortment Changes on Customer Retention",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "kmy07ucAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Run Related Probability Functions and their Application to Industrial Statistics: Ph. D. Thesis",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "kmy07ucAAAAJ:D_25heFg6JwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Mining for Business Analytics: Concepts, Techniques, and Applications with XLMiner, 3rd",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:BQCiT8P4igIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Go to Section",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:N2osnxbUuuUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volume 44 M. Wei, G. Chen, JB Cruz Jr., L. Hayes, M. Kruger and E. Blasch Game-theoretic modeling and control of military operations with partially emotional civilian players 565",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:hx4mni8B3JkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MISQ Archivist",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:Pm-n7EBaiV4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LINEAR PROBABILITY MODELS",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:F_tUKv7nyWgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Healthcare",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:pZYLKkizsIQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PREDICTIVE ANALYTICS IN INFORMATION",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:_09KEOFGu60C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quality of goal, data quality, and analysis quality",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:aXwx4OqTWR4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to information quality",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:StPPYsf1FV0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ in review processes of scientific publications",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:6jAoOr-ogVAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating InfoQ into data science analytics programs, research methods courses, and more",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:F-1HeU7gMOYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear Probability Models and Big Data: Kosher or Not?",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:EGhj4itiAA0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ at the postdata collection stage",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:JVJ6OkSwpHsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ at the study design stage",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:P--cqP0FnSgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dimensions of information quality and InfoQ assessment",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:lAj_JhtUatoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoQ and reproducible research",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:z0_F5_TITjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Helping Authors and Reviewers Ask the Right Questions",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:QSG1pgF8pGAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting Bio-Terrorist Attacks By Monitoring Multiple Data Streams",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:r5WMYYrv30cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Forest or the Trees? Tackling Simpson's Paradox in Big Data Using Trees",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring Online Auction Data",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics in Practice",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Online Auction Data",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forecasting Online Auctions",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Obtaining Online Auction Data",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STATISTICAL METHODS IN ECOMMERCE RESEARCH",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research Note: A Pre-Theory Functional Approach for Detecting Private-or Affiliated-Value Auction Settings",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "23 Models for Bid Arrivals and",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive Visualization of Functional Data: An Application to Exploring eBay\u2019s Online Auctions",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Price Forecasting in Online Auction using Functional Models",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material for \u201cA Flexible Regression Model for Count Data\u201d",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STATISTICAL METHODS IN ECOMMERCE RESEARCH",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Useful Model for Count Data: The COM-Poisson",
+                "cites": "0"
+            },
+            "id_citations": "kmy07ucAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=kmy07ucAAAAJ",
+    "brain_inspired": {
+        "id": "970",
+        "link": "https://braininspired.co/podcast/64/",
+        "name": "Galit Shmueli",
+        "title": "BI 064 Galit Shmueli: Explanation vs. Prediction",
+        "text": "Galit and I discuss the independent roles of prediction and explanation in scientific models, their history and eventual separation in the philosophy of science, how they can inform each other, and how statisticians like Galit view the current deep learning explosion."
+    }
+}

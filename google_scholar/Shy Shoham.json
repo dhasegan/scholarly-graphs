@@ -1,0 +1,1751 @@
+{
+    "affiliation": "NYU Langone Health",
+    "cites_per_year": {
+        "2003": 13,
+        "2004": 40,
+        "2005": 56,
+        "2006": 102,
+        "2007": 181,
+        "2008": 148,
+        "2009": 162,
+        "2010": 191,
+        "2011": 209,
+        "2012": 247,
+        "2013": 297,
+        "2014": 285,
+        "2015": 348,
+        "2016": 341,
+        "2017": 442,
+        "2018": 524,
+        "2019": 551,
+        "2020": 364
+    },
+    "citedby": 4566,
+    "citedby5y": 2571,
+    "coauthors": [
+        {
+            "affiliation": "Senior Researcher Bar Ilan University",
+            "id": "fbsDuaEAAAAJ",
+            "name": "Nairouz Farah"
+        },
+        {
+            "affiliation": "Professor of Biomedical Imaging, University and ETH Zurich",
+            "id": "zzmM5ggAAAAJ",
+            "name": "Daniel Razansky"
+        },
+        {
+            "affiliation": "Technion",
+            "id": "qepX3zIAAAAJ",
+            "name": "Eitan Kimmel"
+        },
+        {
+            "affiliation": "Assistant Professor, Lerner Research Institute, Cleveland Clinic",
+            "id": "4z6Lb4IAAAAJ",
+            "name": "Hod Dana"
+        },
+        {
+            "affiliation": "Senior Scientist, Group Leader at University Z\u00fcrich and ETH Z\u00fcrich",
+            "id": "XZVbso0AAAAJ",
+            "name": "Xos\u00e9 Lu\u00eds De\u00e1n-Ben"
+        },
+        {
+            "affiliation": "Associate Professor in Neuroscience, The Johns Hopkins University School of Medicine",
+            "id": "96YQhUgAAAAJ",
+            "name": "Daniel H. O'Connor"
+        },
+        {
+            "affiliation": "Assistant Professor, Technion - Israel Institute of Technology",
+            "id": "xe1fzB0AAAAJ",
+            "name": "Yoav Shechtman"
+        },
+        {
+            "affiliation": "Solid State Institute and Physics Department, Technion - Israel Institute of Technology",
+            "id": "1sAYoSEAAAAJ",
+            "name": "Mordechai Segev"
+        },
+        {
+            "affiliation": "TUM/HMGU",
+            "id": "AOdPuWkAAAAJ",
+            "name": "Vasilis Ntziachristos"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 36,
+    "hindex5y": 31,
+    "i10index": 59,
+    "i10index5y": 50,
+    "id": "Yuw3_wQAAAAJ",
+    "interests": [
+        "Biomedical Engineering",
+        "Neurotechnology",
+        "Computational/Systems Neuroscience"
+    ],
+    "name": "Shy Shoham",
+    "publications": [
+        {
+            "bib": {
+                "title": "Robust, automatic spike sorting using mixtures of multivariate t-distributions",
+                "cites": "359",
+                "year": "2003"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intramembrane cavitation as a unifying mechanism for ultrasound-induced bioeffects",
+                "cites": "312",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural substrates of tactile object recognition: an fMRI study",
+                "cites": "232",
+                "year": "2004"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How silent is the brain: is there a \u201cdark matter\u201d problem in neuroscience?",
+                "cites": "222",
+                "year": "2006"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparsity-based single-shot subwavelength coherent diffractive imaging",
+                "cites": "183",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid neurotransmitter uncaging in spatially defined patterns",
+                "cites": "166",
+                "year": "2005"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Superlinear population encoding of dynamic hand trajectory in primary motor cortex",
+                "cites": "149",
+                "year": "2004"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of network-level coding units for real-time representation of episodic experiences in the hippocampus",
+                "cites": "137",
+                "year": "2005"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced optoacoustic methods for multiscale imaging of in vivo dynamics",
+                "cites": "126",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor-cortical activity in tetraplegics",
+                "cites": "120",
+                "year": "2001"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust clustering by deterministic agglomeration EM of mixtures of multivariate t-distributions",
+                "cites": "118",
+                "year": "2002"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intramembrane cavitation as a predictive bio-piezoelectric mechanism for ultrasonic brain stimulation",
+                "cites": "108",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic inference of hand motion from neural activity in motor cortex",
+                "cites": "108",
+                "year": "2002"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical encoding model for a primary motor cortical brain-machine interface",
+                "cites": "103",
+                "year": "2005"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design and characteristics of holographic neural photo-stimulation systems",
+                "cites": "101",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system for transmitting light",
+                "cites": "95",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Laser photoablation of guidance microchannels into hydrogels directs cell growth in three dimensions",
+                "cites": "95",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic optogenetic stimulation of patterned neuronal activity for vision restoration",
+                "cites": "93",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrasonic neuromodulation",
+                "cites": "92",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speckle elimination using shift-averaging in high-rate holographic projection",
+                "cites": "90",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coding of position by simultaneously recorded sensory neurones in the cat dorsal root ganglion",
+                "cites": "90",
+                "year": "2004"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional optoacoustic neuro-tomography for scalable whole-brain monitoring of calcium indicators",
+                "cites": "83",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterned optical activation of retinal ganglion cells",
+                "cites": "71",
+                "year": "2007"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system for optical stimulation of neurons",
+                "cites": "66",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation-based analysis and generation of multiple spike trains using Hawkes models with an exogenous input",
+                "cites": "61",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generation of spike trains with controlled auto-and cross-correlation functions",
+                "cites": "60",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hybrid multiphoton volumetric functional imaging of large-scale bioengineered neuronal networks",
+                "cites": "58",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast scanning coaxial optoacoustic microscopy",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographically patterned activation using photo-absorber induced neural\u2013thermal stimulation",
+                "cites": "51",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Numerical evaluation of temporal focusing characteristics in transparent and scattering media",
+                "cites": "50",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards multifocal ultrasonic neural stimulation II: design considerations for an acoustic retinal prosthesis",
+                "cites": "49",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured neuronal encoding and decoding of human speech features",
+                "cites": "46",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Realistic numerical and analytical modeling of light scattering in brain tissue for optogenetic applications",
+                "cites": "45",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell-type-selective effects of intramembrane cavitation as a unifying theoretical framework for ultrasonic neuromodulation",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards multifocal ultrasonic neural stimulation: pattern generation algorithms",
+                "cites": "42",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A genetically encoded near-infrared fluorescent calcium ion indicator",
+                "cites": "40",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multivariate autoregressive modeling and Granger causality analysis of multiple spike trains",
+                "cites": "35",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thermal transients excite neurons through universal intramembrane mechanoelectrical effects",
+                "cites": "34",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid volumetric optoacoustic imaging of neural dynamics across the mouse brain",
+                "cites": "33",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of the murine skull in optoacoustic brain microscopy",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Line temporal focusing characteristics in transparent and scattering media",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction-free remotely scanned two-photon in vivo mouse retinal imaging",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Remotely scanned multiphoton temporal focusing by axial grism scanning",
+                "cites": "28",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive-motor brain\u2013machine interfaces",
+                "cites": "27",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding mechanisms for sensory neurons studied with a multielectrode array in the cat dorsal root ganglion",
+                "cites": "23",
+                "year": "2004"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetics meets optical wavefront shaping",
+                "cites": "22",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Point spread function estimation from projected speckle illumination",
+                "cites": "19",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subspace projection approaches to classification and visualization of neural network-level encoding patterns",
+                "cites": "19",
+                "year": "2007"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "All-optical bidirectional neural interfacing using hybrid multiphoton holographic optogenetic stimulation",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special issue on optical neural engineering: advances in optical stimulation technology",
+                "cites": "15",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional optoacoustic neuro-tomography of calcium fluxes in adult zebrafish brain in vivo",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The theory of central nervous system recording",
+                "cites": "12",
+                "year": "2003"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic fiber bundle system for patterned optogenetic activation of large-scale neuronal networks",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decoding for a primary motor cortical brain-computer interface",
+                "cites": "11",
+                "year": "2005"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correspondence: Revisiting the theoretical cell membrane thermal capacitance response",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparsity-based single-shot sub-wavelength coherent diffractive imaging",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular resolution panretinal imaging of optogenetic probes using a simple funduscope",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduction of two-photon holographic speckle using shift-averaging",
+                "cites": "10",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network implementing optimal state estimation based on dynamic spike train decoding",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-deep penetration of temporally-focused two-photon excitation",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse decoding of multiple spike trains for brain\u2013machine interfaces",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Form-function relations in cone-tipped stimulating microelectrodes",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous activity characteristics of 3D \u201coptonets\u201d",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optics on the brain: OSA\u2019s mulitphoton and patterned optogenetics incubator",
+                "cites": "7",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method for reconstructing a holographic projection",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterned optical activation of Channelrhodopsin II expressing retinal ganglion cells",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrete stimulus estimation from neural responses in the turtle retina",
+                "cites": "7",
+                "year": "2006"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microfluidic Chip for Site\u2010Specific Neuropharmacological Treatment and Activity Probing of 3D Neuronal \u201cOptonet\u201d Cultures",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hydrogel-based nerve regeneration conduit with sub-micrometer feature control",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Utah optrode array customization using stereotactic brain atlases and 3-D CAD modeling for optogenetic neocortical interrogation in small rodents and nonhuman primates",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional optoacoustic neuro-tomography (FONT) for whole-brain monitoring of calcium indicators",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two-photon in vivo imaging of retinal microstructures",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preparing, handling, and applying caged compound solutions for acousto-optical deflector-based patterned uncaging with ultraviolet light",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photo-thermal neural excitation by extrinsic and intrinsic absorbers: a temperature-rate model",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation-distortion based identification of Linear-Nonlinear-Poisson models",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise optical probing of perceptual detection",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-controlled, speckle-free holographic projection with applications in precision optogenetics",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation of morphologically structured photo-thermal neural stimulation",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Far-field microscopy of sparse subwavelength objects",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical hemodynamic responses induced by low-intensity transcranial ultrasound stimulation of mouse cortex",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optoacoustic calcium imaging of deep brain activity in an intracardially perfused mouse brain model",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "International society for therapeutic ultrasound conference 2016",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Realistic modeling of optogenetic neuronal excitation in light-scattering brain tissue",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system of operating a multi focused acoustic wave source",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Construction, alignment, and implementation of an acousto-optical deflector-based system for patterned uncaging with ultraviolet light",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid volumetric temporal focusing multiphoton microscopy of neural activity: theory, image processing, and experimental realization",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The classification of spatial, chromatic, and intensity features of simple visual stimuli by a network of retinal ganglion cells",
+                "cites": "3",
+                "year": "1997"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Manipulating synthetic optogenetic odors reveals the coding logic of olfactory perception",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real\u2010Time In Situ Holographic Optogenetics Confocally Unraveled Sculpting Microscopy",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Induced neuro-vascular interactions robustly enhance functional attributes of engineered neural implants",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two photon holographic stimulation system for cellular-resolution interrogation of olfactory coding",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New insights and system designs for temporally focused multiphoton optogenetics",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optically sensitive cell network",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system for optical stimulation of neurons",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acousto-optical deflector-based patterned ultraviolet uncaging of neurotransmitter for the study of neuronal integration",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photo-absorber based neural stimulation for an optical retinal prosthesis",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three-dimensional guidance of DRG neurite outgrowth using multi-photon photo-ablation",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handbook of Neurophotonics",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Isolated Murine Brain Model for Large-Scale Optoacoustic Calcium Imaging",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatially and temporally precise optical probing of neural activity readout",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time volumetric mapping of calcium activity in living mice by functional optoacoustic neuro-tomography (Conference Presentation)",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optically sensitive cell network",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal focusing apparatus and method",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microscopic psf estimation and resolution enhancement by speckle pattern illumination",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of the skull insertion loss using an optoacoustic point source",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the optics and the brain 2015 feature issue",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and devices for manipulation of target cells using a combined application of acoustical and optical radiations",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational de-scattering for enabling high rate deep imaging of neural activity traces: simulation study",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell-targeted holographic retinal photo-stimulation in vivo",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optical probing of three-dimensional engineered neural-networks",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal optoacoustic and multiphoton fluorescence microscopy",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system of manipulating bilayer membranes",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Numerical evaluation of temporal focusing characteristics in transparent and scattering media: erratum",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic photo-stimulation for dynamic control of neuronal population activity",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of input-output relations in single neurons using spatiotemporal photo-stimulation",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A decoding filter for motor cortical (MI) neurons",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spherical array system for high precision transcranial ultrasound stimulation and optoacoustic imaging in rodents.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two-Photon Microscopy in the Mammalian Brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurophotonic Vision Restoration",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic Optical Neural Interfaces (HONIs)",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic display for optical retinal prosthesis: design and validation",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An all-optical system for rapid and deep interrogation of behaviorally relevant activity patterns (Conference Presentation)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volumetric optoacoustic mapping of fast neuronal activity in an isolated mouse brain model expressing genetically encoded calcium indicator (Conference Presentation)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system of manipulating bilayer membranes",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "25 Holographic Optical Neural Interfacing with Retinal Neurons",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo optoacoustic monitoring of calcium activity in the brain (Conference Presentation)",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive in vivo functional optoacoustic calcium imaging of neural activity in GCaMP6f-expressing mice",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volumetric optoacoustic imaging of large-scale calcium activity in adult zebrafish brain in vivo",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "5th International Symposium on Focused Ultrasound",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced multiphoton methods for in vitro and in vivo functional imaging of mouse retinal neurons (Conference Presentation)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational modeling of optogenetic neuronal excitation under complex illumination conditions using a Matlab-Neuron interface (Conference Presentation)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vitro and in vivo analysis and characterization of engineered spinal neural implants (Conference Presentation)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and devices for manipulation of target cells using a combined application of acoustical and optical radiations",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Section on Causal Control of Biological Systems with Light: All-optical bidirectional neural interfacing using hybrid multiphoton holographic optogenetic stimulation",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drug Screening: Microfluidic Chip for Site\u2010Specific Neuropharmacological Treatment and Activity Probing of 3D Neuronal \u201cOptonet\u201d Cultures (Adv. Healthcare Mater. 10/2015)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photonic interfacing with natural and bioengineered large-scale neuronal networks",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photonic Interfacing with Large Scale Natural and Bioengineered Neuronal Networks",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic interfaces with neuronal populations in retinas and optonets",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three-dimensional optical probing of bio-engineered neuronal'Optonets'",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEAT, a comprehensive multi-channel neural activity analysis toolbox",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation of morphologically structured neural stimulation by light",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special section guest editorial: Optical imaging, sensing, and light interactions in cells and tissues",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low intensity ultrasound can affect neurons through nanoscopic membrane vibrations",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards retinal stimulation with spatio-temporal patterns of ultrasound",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characteristics of photo-absorber induced neuro-thermal stimulation (PAINTS)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse decoding and blind extraction of representational structure from human spike trains",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining holographic stimulation with cellular resolution imaging in the rodent eye",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-and multi-photon fluorescence retinal imaging in the intact rodent eye: a comparison",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrasound holography for retinal stimulation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured neuronal encoding of articulatory speech features in humans",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photo-absorber induced neuro-thermal stimulation (PAINTS): Properties and Characteristics",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Targeted holographic retinal stimulation in vivo",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid three-dimensional temporal focusing multiphoton microscopy",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vitro control of an optogenetic neural prosthetic for a blind retina",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking Sparse Movement from Fourier Intensity Measurements",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic Acoustic Retinal Stimulation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular-Scale Responses to Artificial Retinal Stimulation Using Holographic Patterned Photo-Stimulation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech decoding from human spike trains",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances towards patterned ultrasonic neuro-stimulation",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Photo-absorber induced neural thermal stimulation",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation-based identification of retinal ganglion cells' spike train models",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi neuron activity monitoring using high-rate temporal focusing microscopy",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic optogenetic control of neural activity in the retina",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic Patterned Stimulation For A Retinal Prosthesis With Single Cell Resolution",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation-based approach to analysis of spiking networks",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closed-form correlation-based identification of recurrent spiking networks",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cornelussen R: see Ordelman SCMA 066001 Costa-Neto CM: see Minnikanti S 016002 Cowan R: see Newbold C 056011 Crone NE: see Acharya S 046002 D\u2019Zmura M: see Deng S 046006",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control and analysis of spike trains' correlations",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New methods for simulation and analysis of correlated spike-trains",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic Dynamic Control of Neuronal Populations in the Retina",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A STUDY OF SYNAPTIC PLASTICITY BY GLUTAMATE RECEPTOR CHANNEL KINETICS MODELS-FUTURE APPLICATION OF 2-PHOTON LASER PHOTOLYSIS",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualization and classification of neural ensemble encoding patterns by subspace analysis methods",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiphoton optical approaches to understanding brain function",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Color and intensity information representations by a network of turtle retinal ganglion cells",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of color information by a small network of ganglion cells in the turtle retina.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetic Resonance Imaging of Continuous ultrasound holograms",
+                "cites": "0",
+                "year": "1729"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional optoacoustic neuro-tomography (FONT) for whole-brain monitoring of calcium indicators",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional optoacoustic neuro-tomography for scalable whole-brain monitoring of calciu",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured neuronal encoding and decoding of human speech",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding Speech from Human Spike Trains",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hydrogel-based Microfluidic Chip for Site-specific Chemical Treatment of 3D Neuronal \u201cOpto-nets\u201d",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-Wavelength Coherent Diffractive Imaging based on Sparsity",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "the inconsistent",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network-level coding units for real-time representation of episodic experiences in the hippocampus.",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Solution",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CNS 2012 workshops",
+                "cites": "0"
+            },
+            "id_citations": "Yuw3_wQAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Yuw3_wQAAAAJ"
+}

@@ -1,0 +1,833 @@
+{
+    "affiliation": "Assistant Professor, Harvard University",
+    "cites_per_year": {
+        "2008": 11,
+        "2009": 36,
+        "2010": 62,
+        "2011": 137,
+        "2012": 165,
+        "2013": 282,
+        "2014": 284,
+        "2015": 380,
+        "2016": 387,
+        "2017": 515,
+        "2018": 461,
+        "2019": 669,
+        "2020": 316
+    },
+    "citedby": 3751,
+    "citedby5y": 2728,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Psychology, Harvard University",
+            "id": "qU8dld4AAAAJ",
+            "name": "George A. Alvarez"
+        },
+        {
+            "affiliation": "Principal Research Scientist, CSAIL;  MIT Director MIT-IBM Watson AI Lab; Co-director MIT Quest",
+            "id": "FNhl50sAAAAJ",
+            "name": "Aude Oliva"
+        },
+        {
+            "affiliation": "Asst. Professor, University of California, San Diego",
+            "id": "Ut8bD-0AAAAJ",
+            "name": "Timothy F. Brady"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Stanford University",
+            "id": "HXUagwoAAAAJ",
+            "name": "Bria Long"
+        },
+        {
+            "affiliation": "Amherst College/MIT",
+            "id": "JIHlhmYAAAAJ",
+            "name": "Michael A Cohen"
+        },
+        {
+            "affiliation": "Brown University Institute for Brain Sciences",
+            "id": "UOBlGuQAAAAJ",
+            "name": "Christopher Moore"
+        },
+        {
+            "affiliation": "Assistant Professor of Cognitive Science, Johns Hopkins University",
+            "id": "WZusv3EAAAAJ",
+            "name": "Soojin Park"
+        },
+        {
+            "affiliation": "Associate Professor, Dept. Psychology, Carnegie Mellon Neuroscience Institute, & BME (courtesy)",
+            "id": "rjPNIhkAAAAJ",
+            "name": "Timothy Verstynen"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, University of California Berkeley",
+            "id": "nicnuy4AAAAJ",
+            "name": "Richard IVRY"
+        },
+        {
+            "affiliation": "Harvard University",
+            "id": "NNOJM5AAAAAJ",
+            "name": "Chen-Ping Yu"
+        },
+        {
+            "affiliation": "Senior Research Fellow, University of Melbourne",
+            "id": "qxv59-AAAAAJ",
+            "name": "Olivia Carter"
+        }
+    ],
+    "email": "@fas.harvard.edu",
+    "hindex": 23,
+    "hindex5y": 20,
+    "i10index": 28,
+    "i10index5y": 24,
+    "id": "QxV9vroAAAAJ",
+    "interests": [
+        "Cognitive Neuroscience",
+        "Visual Cognition",
+        "Cognitive Computational Neuroscience"
+    ],
+    "name": "Talia Konkle",
+    "publications": [
+        {
+            "bib": {
+                "title": "Visual long-term memory has a massive storage capacity for object details",
+                "cites": "16597628279217360486",
+                "year": "2008",
+                "url": "https://www.pnas.org/content/105/38/14325.short",
+                "author": "Timothy F Brady and Talia Konkle and George A Alvarez and Aude Oliva",
+                "journal": "Proceedings of the National Academy of Sciences",
+                "volume": "105",
+                "number": "38",
+                "pages": "14325",
+                "publisher": "National Acad Sciences",
+                "abstract": "One of the major lessons of memory research has been that human memory is fallible, imprecise, and subject to interference. Thus, although observers can remember thousands of images, it is widely assumed that these memories lack detail. Contrary to this assumption, here we show that long-term memory is capable of storing a massive number of objects with details from the image. Participants viewed pictures of 2,500 objects over the course of 5.5 h. Afterward, they were shown pairs of images and indicated which of the two they had seen. The previously viewed item could be paired with either an object from a novel category, an object of the same basic-level category, or the same object in a different state or pose. Performance in each of these conditions was remarkably high (92%, 88%, and 87%, respectively), suggesting that participants successfully maintained detailed representations of thousands of \u2026",
+                "eprint": "https://www.pnas.org/content/pnas/105/38/14325.full.pdf"
+            },
+            "id_citations": "QxV9vroAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A review of visual memory capacity: Beyond individual items and toward structured representations",
+                "cites": "478",
+                "year": "2011"
+            },
+            "id_citations": "QxV9vroAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Real-World Size Organization of Object Responses in Occipitotemporal Cortex",
+                "cites": "308",
+                "year": "2012"
+            },
+            "id_citations": "QxV9vroAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conceptual distinctiveness supports detailed visual long-term memory for real-world objects.",
+                "cites": "288",
+                "year": "2010"
+            },
+            "id_citations": "QxV9vroAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compression in visual working memory: Using statistical regularities to form more efficient memory representations.",
+                "cites": "253",
+                "year": "2009"
+            },
+            "id_citations": "QxV9vroAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene memory is more detailed than you think: The role of categories in visual long-term memory",
+                "cites": "249",
+                "year": "2010"
+            },
+            "id_citations": "QxV9vroAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual long-term memory has the same limit on fidelity as visual working memory",
+                "cites": "142",
+                "year": "2013"
+            },
+            "id_citations": "QxV9vroAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tripartite organization of the ventral stream by animacy and object size",
+                "cites": "130",
+                "year": "2013"
+            },
+            "id_citations": "QxV9vroAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensitive period for a multimodal response in human visual motion area MT/MST",
+                "cites": "130",
+                "year": "2010"
+            },
+            "id_citations": "QxV9vroAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion aftereffects transfer between touch and vision",
+                "cites": "129",
+                "year": "2009"
+            },
+            "id_citations": "QxV9vroAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Canonical visual size for real-world objects.",
+                "cites": "97",
+                "year": "2011"
+            },
+            "id_citations": "QxV9vroAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-World Objects Are Not Represented as Bound Units: Independent Forgetting of Different Object Details From Visual Memory.",
+                "cites": "95",
+                "year": "2012"
+            },
+            "id_citations": "QxV9vroAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tactile rivalry demonstrated with an ambiguous apparent-motion quartet",
+                "cites": "90",
+                "year": "2008"
+            },
+            "id_citations": "QxV9vroAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric coding of the size and clutter of natural scenes in the human brain",
+                "cites": "68",
+                "year": "2015"
+            },
+            "id_citations": "QxV9vroAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing multiple visual objects is limited by overlap in neural channels",
+                "cites": "60",
+                "year": "2014"
+            },
+            "id_citations": "QxV9vroAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A familiar-size Stroop effect: real-world size is an automatic property of object representation.",
+                "cites": "54",
+                "year": "2012"
+            },
+            "id_citations": "QxV9vroAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting changes in real-world objects: The relationship between visual long-term memory and change blindness",
+                "cites": "48",
+                "year": "2009"
+            },
+            "id_citations": "QxV9vroAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mid-level visual features underlie the high-level categorical organization of the ventral stream",
+                "cites": "44",
+                "year": "2018"
+            },
+            "id_citations": "QxV9vroAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normative representation of objects: Evidence for an ecological bias in object perception and memory",
+                "cites": "34",
+                "year": "2007"
+            },
+            "id_citations": "QxV9vroAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mid-level perceptual features distinguish objects of different real-world sizes.",
+                "cites": "32",
+                "year": "2016"
+            },
+            "id_citations": "QxV9vroAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ipsilateral corticospinal projections do not predict congenital mirror movements: a case report",
+                "cites": "31",
+                "year": "2007"
+            },
+            "id_citations": "QxV9vroAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing, perceiving and remembering the shape of visual space",
+                "cites": "25",
+                "year": "2010"
+            },
+            "id_citations": "QxV9vroAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual awareness is limited by the representational architecture of the visual system",
+                "cites": "24",
+                "year": "2015"
+            },
+            "id_citations": "QxV9vroAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual search for object categories is predicted by the representational architecture of high-level visual cortex",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching in dynamic displays: Effects of configural predictability and spatiotemporal continuity",
+                "cites": "19",
+                "year": "2007"
+            },
+            "id_citations": "QxV9vroAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The large-scale organization of object-responsive cortex is reflected in resting-state network architecture",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two types of TMS-induced movement variability after stimulation of the primary motor cortex",
+                "cites": "15",
+                "year": "2006"
+            },
+            "id_citations": "QxV9vroAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can crossmodal aftereffects reveal about neural representation and dynamics?",
+                "cites": "10",
+                "year": "2009"
+            },
+            "id_citations": "QxV9vroAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual dissociations among views of objects, scenes, and reachable spaces.",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of textural statistics vs. outer contours in deep CNN and neural responses to objects",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "QxV9vroAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A familiar-size Stroop effect in the absence of basic-level recognition",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient coding in visual short-term memory: Evidence for an information-limited capacity",
+                "cites": "5",
+                "year": "2008"
+            },
+            "id_citations": "QxV9vroAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability-based voxel selection",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "QxV9vroAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-world size is automatically encoded in preschoolers\u2019 object representations.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of real-world size in object representation",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "QxV9vroAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Examining how the real-world size of objects is represented in ventral visual cortex",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "QxV9vroAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral and neural associations between object size and curvature",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the neural structure underlying human action perception",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent properties of foveated perceptual systems",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "QxV9vroAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Pok\u00e9mon-sized window into the human brain",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the representational geometry of object representation in the ventral stream using brain-behavior correlations",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "QxV9vroAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are real-world objects represented as bound units? Independent decay of object details from short-term to long-term memory",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "QxV9vroAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Objects, big and small: evidence for canonical visual size in object representation",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "QxV9vroAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sociality and interaction envelope organize visual action representations",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "QxV9vroAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Instance-level contrastive learning yields human brain-like representation without category-supervision",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "QxV9vroAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale dissociations between views of objects, scenes, and reachable-scale environments in visual cortex",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "QxV9vroAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Animacy and object size are reflected in perceptual similarity computations by the preschool years",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating category-selective regions in biological and artificial neural networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of Multiple Retinotopic Maps Without a Feature Hierarchy",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability-Based Voxel Selection for Condition-Rich Designs",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape features learned for object classification can predict behavioral discrimination of written symbols",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale neural dissociations between views of objects, scenes, and reachable spaces",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Which aspects of size and distance for real objects are coded through the hierarchy of visual areas?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reachable or Not? Perceptual judgments of reachability along the object-scene continuum",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QxV9vroAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the Behavioral Similarity Structure of Visual Actions",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "QxV9vroAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of reachspaces dissociate from scenes and objects",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "QxV9vroAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting object shape and curvature judgments with a new parameterization of shape",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "QxV9vroAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mid-level features are sufficient to drive the animacy and object size organization of the ventral stream",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low and high level features explain neural response tuning during action observation",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object, scenes, and the spaces in between: Workspaces have distinctive perceptual and semantic content",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Map-CNN: A Convolutional Neural Network with Map-like Organization",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "QxV9vroAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual object responses of the ventral stream reflect both size and motor-relevance",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "QxV9vroAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pre-verbal infants automatically activate real-world object size information",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "QxV9vroAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion aftereffects transfer between touch and vision",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "QxV9vroAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-world object size is automatically activated by mid-level shape features",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "QxV9vroAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual awareness is constrained by the functional organization of the higher-level visual system",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "QxV9vroAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convergence and divergence in the neural organization of object responses to pictures and words",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "QxV9vroAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object gist features capture the structure of neural responses to objects",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "QxV9vroAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-world size influences visual search efficiency",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "QxV9vroAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Macro-organization of object responses in occipito-temporal cortex",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "QxV9vroAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale functional distinctions in object cortex are reflected in resting state networks",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "QxV9vroAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short Term Visual Memory And Space Representation In Age-related Macular Degeneration (AMD)",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "QxV9vroAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A review of visual memory capacity: Beyond individual items and",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "QxV9vroAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How big is visual long-term memory? Evidence for massive and high fidelity storage",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "QxV9vroAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching in dynamic displays: Effects of congural predictability and",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "QxV9vroAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two types of TMS-induced movement variability after stimulation of the primary motor cortex (vol 96, pg 1018, 2006)",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "QxV9vroAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image Segmentation Using Neural Oscillators",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "QxV9vroAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerated Texforms: Alternative Methods for Generating Unrecognizable Object Images with Preserved Mid-Level Features",
+                "cites": "0"
+            },
+            "id_citations": "QxV9vroAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General Shape Features Allow for Categorization of Written Symbols Across Font Variation",
+                "cites": "0"
+            },
+            "id_citations": "QxV9vroAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mathematical model of real-world object shape predicts human perceptual judgments",
+                "cites": "0"
+            },
+            "id_citations": "QxV9vroAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-Level Features Organize Perceived Action Similarities",
+                "cites": "0"
+            },
+            "id_citations": "QxV9vroAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=QxV9vroAAAAJ",
+    "brain_inspired": {
+        "id": "770",
+        "link": "https://braininspired.co/podcast/44/",
+        "name": "Talia Konkle",
+        "title": "BI 044 Talia Konkle: Turning Vision On Its Side",
+        "text": "Talia and I discuss her work on how our visual system is organized topographically, and divides into three main categories: big inanimate things, small inanimate things, and animals. Her work is unique in that it focuses not on the classic hierarchical processing of vision (though she does that, too), but what kinds of things are represented along that hierarchy. She also uses deep networks to learn more about the visual system. We also talk about her keynote talk at the Cognitive Computational Neuroscience conference and plenty more."
+    }
+}

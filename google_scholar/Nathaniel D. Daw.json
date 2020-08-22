@@ -1,0 +1,2347 @@
+{
+    "affiliation": "Professor of Neurocience and Psychology, Princeton University",
+    "cites_per_year": {
+        "2005": 78,
+        "2006": 185,
+        "2007": 314,
+        "2008": 395,
+        "2009": 664,
+        "2010": 633,
+        "2011": 855,
+        "2012": 1181,
+        "2013": 1225,
+        "2014": 1571,
+        "2015": 1749,
+        "2016": 1960,
+        "2017": 2263,
+        "2018": 2842,
+        "2019": 3141,
+        "2020": 1728
+    },
+    "citedby": 21093,
+    "citedby5y": 13730,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Princeton University",
+            "id": "5NUNoKwAAAAJ",
+            "name": "Yael Niv"
+        },
+        {
+            "affiliation": "Computational and Biological Learning Lab, University of Cambridge",
+            "id": "KDtSFaQAAAAJ",
+            "name": "Ben Seymour"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "JFlQGZAAAAAJ",
+            "name": "Daphna Shohamy"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "0iy8RTMAAAAJ",
+            "name": "Raymond J Dolan"
+        },
+        {
+            "affiliation": "Pershing Square Professor of Human Neuroscience, Harvard University",
+            "id": "UsW4ViYAAAAJ",
+            "name": "Elizabeth Phelps"
+        },
+        {
+            "affiliation": "Professor of Psychology, California Institute of Technology",
+            "id": "sxfWyk8AAAAJ",
+            "name": "John P. O'Doherty"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Carnegie Mellon University",
+            "id": "yjzqylcAAAAJ",
+            "name": "David Touretzky"
+        },
+        {
+            "affiliation": "Universit\u00e9 de Montr\u00e9al",
+            "id": "km6CP8cAAAAJ",
+            "name": "Aaron Courville"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "McGill University",
+            "id": "JBtPJugAAAAJ",
+            "name": "Ross Otto"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "7vl9HdwAAAAJ",
+            "name": "Prof. T.W. Robbins"
+        },
+        {
+            "affiliation": "University of Washington",
+            "id": "wb-DKCIAAAAJ",
+            "name": "Sham M Kakade"
+        },
+        {
+            "affiliation": "data",
+            "id": "8CH4nIYAAAAJ",
+            "name": "Bradley Doll"
+        },
+        {
+            "affiliation": "School of Psychology & Global Brain Health Institute, Trinity College Dublin",
+            "id": "JfDpk1YAAAAJ",
+            "name": "Claire M. Gillan"
+        },
+        {
+            "affiliation": "Department of Cognitive Sciences and Center for the Neurobiology of Learning and Memory, UC Irvine",
+            "id": "ltlh6LQAAAAJ",
+            "name": "Aaron M. Bornstein"
+        },
+        {
+            "affiliation": "Department of Psychology, Tel-Aviv University",
+            "id": "RvfRumEAAAAJ",
+            "name": "Daphna Joel"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "dw1TWk4AAAAJ",
+            "name": "Valerie Voon"
+        },
+        {
+            "affiliation": "School of Psychological and Cognitive Sciences, Peking University",
+            "id": "IBegxO0AAAAJ",
+            "name": "Jian Li"
+        },
+        {
+            "affiliation": "Professor of Cognitive Neuropsychiatry, Radboud University Nijmegen",
+            "id": "zgNza0oAAAAJ",
+            "name": "Roshan Cools"
+        },
+        {
+            "affiliation": "Professor of Psychology, Co-Director of Princeton Neuroscience Institute, Princeton University",
+            "id": "NCkkQAMAAAAJ",
+            "name": "Jonathan D. Cohen"
+        }
+    ],
+    "email": "@princeton.edu",
+    "hindex": 70,
+    "hindex5y": 62,
+    "i10index": 126,
+    "i10index5y": 118,
+    "id": "BxlScrEAAAAJ",
+    "interests": [],
+    "name": "Nathaniel D. Daw",
+    "publications": [
+        {
+            "bib": {
+                "title": "Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control",
+                "cites": "8309455266838475129",
+                "year": "2005",
+                "url": "https://www.nature.com/articles/nn1560",
+                "author": "Nathaniel D Daw and Yael Niv and Peter Dayan",
+                "journal": "Nature neuroscience",
+                "volume": "8",
+                "number": "12",
+                "pages": "1704-1711",
+                "publisher": "Nature Publishing Group",
+                "abstract": "A broad range of neural and behavioral data suggests that the brain contains multiple systems for behavioral choice, including one associated with prefrontal cortex and another with dorsolateral striatum. However, such a surfeit of control raises an additional choice problem: how to arbitrate between the systems when they disagree. Here, we consider dual-action choice systems from a normative perspective, using the computational theory of reinforcement learning. We identify a key trade-off pitting computational simplicity against the flexible and statistically efficient use of experience. The trade-off is realized in a competition between the dorsolateral striatal and prefrontal systems. We suggest a Bayesian principle of arbitration between them according to uncertainty, so each controller is deployed when it should be most accurate. This provides a unifying account of a wealth of experimental evidence about the \u2026",
+                "eprint": "http://matt.colorado.edu/teaching/highcog/fall11/readings/dnd5.pdf"
+            },
+            "id_citations": "BxlScrEAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical substrates for exploratory decisions in humans",
+                "cites": "1800",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based influences on humans' choices and striatal prediction errors",
+                "cites": "1015",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "States versus rewards: dissociable neural prediction error signals underlying model-based and model-free reinforcement learning",
+                "cites": "872",
+                "year": "2010"
+            },
+            "id_citations": "BxlScrEAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tonic dopamine: opportunity costs and the control of response vigor",
+                "cites": "854",
+                "year": "2007"
+            },
+            "id_citations": "BxlScrEAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The importance of mixed selectivity in complex cognitive tasks",
+                "cites": "792",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Opponent interactions between serotonin and dopamine",
+                "cites": "778",
+                "year": "2002"
+            },
+            "id_citations": "BxlScrEAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The computational neurobiology of learning and reward",
+                "cites": "519",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational substrate for incentive salience",
+                "cites": "455",
+                "year": "2003"
+            },
+            "id_citations": "BxlScrEAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential encoding of losses and gains in the human striatum",
+                "cites": "435",
+                "year": "2007"
+            },
+            "id_citations": "BxlScrEAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision theory, reinforcement learning, and the brain",
+                "cites": "426",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian theories of conditioning in a changing world",
+                "cites": "413",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin and dopamine: unifying affective, activational, and decision functions",
+                "cites": "356",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning signals in the human striatum distinguish learners from nonlearners during reward-based decision making",
+                "cites": "344",
+                "year": "2007"
+            },
+            "id_citations": "BxlScrEAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trial-by-trial data analysis using computational models",
+                "cites": "324",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disorders of compulsivity: a common bias towards learning habits",
+                "cites": "319",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-learning and the novelty-seeking personality: a between-and within-subjects study of the effects of dopamine agonists on young Parkinson's patients",
+                "cites": "317",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dual role for prediction error in associative learning",
+                "cites": "302",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Working-memory capacity protects model-based learning from stress",
+                "cites": "301",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The misbehavior of value and the discipline of the will",
+                "cites": "290",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ubiquity of model-based reinforcement learning",
+                "cites": "255",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential roles of human striatum and amygdala in associative learning",
+                "cites": "251",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The curse of planning: dissecting multiple reinforcement-learning systems by taxing the central executive",
+                "cites": "246",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal activity underlies novelty-based choice in humans",
+                "cites": "213",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing a psychiatric symptom dimension related to deficits in goal-directed control",
+                "cites": "190",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-evaluation of decision-making: A general Bayesian framework for metacognitive computation.",
+                "cites": "188",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based choices involve prospective neural activity",
+                "cites": "183",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning and episodic memory in humans and animals: an integrative framework",
+                "cites": "162",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin selectively modulates reward value in human decision-making",
+                "cites": "158",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of forward planning in a spatial decision task in humans",
+                "cites": "153",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple forms of value learning and the function of dopamine",
+                "cites": "153",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking extinction",
+                "cites": "151",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation and timing in theories of the dopamine system",
+                "cites": "148",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The successor representation in human reinforcement learning",
+                "cites": "147",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward and choice encoding in terminals of midbrain dopamine neurons depends on striatal target",
+                "cites": "146",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of aversive prediction errors in the human periaqueductal gray",
+                "cites": "145",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surprise! Neural correlates of Pearce\u2013Hall and Rescorla\u2013Wagner coexist within the brain",
+                "cites": "145",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable effects of dopamine and serotonin on reversal learning",
+                "cites": "143",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based learning protects against forming habits",
+                "cites": "138",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tonic dopamine modulates exploitation of reward learning",
+                "cites": "130",
+                "year": "2010"
+            },
+            "id_citations": "BxlScrEAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive control predicts use of model-based reinforcement learning",
+                "cites": "128",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive neuroscience of motivation and learning",
+                "cites": "127",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The algorithmic anatomy of model-based evaluation",
+                "cites": "120",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human reinforcement learning subdivides structured action spaces by learning effector-specific values",
+                "cites": "113",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Depression: a decision-theoretic analysis",
+                "cites": "112",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From creatures of habit to goal-directed learners: Tracking the developmental emergence of model-based reinforcement learning",
+                "cites": "111",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive representations can link model-based reinforcement learning to model-free mechanisms",
+                "cites": "109",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational approaches to fMRI analysis",
+                "cites": "106",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signals in human striatum are appropriate for policy update rather than value prediction",
+                "cites": "102",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociating hippocampal and striatal contributions to sequential prediction learning",
+                "cites": "101",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deciding how to decide: Self-control and meta-decision making",
+                "cites": "100",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How fast to work: Response vigor, motivation and tonic dopamine",
+                "cites": "94",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalization of value in reinforcement learning by humans",
+                "cites": "89",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fronto-striatal organization: defining functional and microstructural substrates of behavioural flexibility",
+                "cites": "87",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplicity of control in the basal ganglia: computational roles of striatal subregions",
+                "cites": "87",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning models of the dopamine system and their behavioral implications",
+                "cites": "87",
+                "year": "2003"
+            },
+            "id_citations": "BxlScrEAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective impairment of prediction error signaling in human dorsolateral but not ventral striatum in Parkinson's disease patients: evidence from a model-based fMRI study",
+                "cites": "86",
+                "year": "2010"
+            },
+            "id_citations": "BxlScrEAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior prefrontal cortex contributes to action selection through tracking of recent reward trends",
+                "cites": "82",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term reward prediction in TD models of the dopamine system",
+                "cites": "81",
+                "year": "2002"
+            },
+            "id_citations": "BxlScrEAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the opportunity cost of time in a patch-foraging task",
+                "cites": "80",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local analysis of behaviour in the adjusting-delay task for assessing choice of delayed reinforcement",
+                "cites": "80",
+                "year": "2002"
+            },
+            "id_citations": "BxlScrEAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surviving threats: neural circuit and computational implications of a new taxonomy of defensive behaviour",
+                "cites": "78",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception, action and utility: The tangled skein",
+                "cites": "77",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reminders of past choices bias decisions for reward in humans",
+                "cites": "75",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine selectively remediates \u2018model-based\u2019reward learning: a computational approach",
+                "cites": "75",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice values",
+                "cites": "75",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variability in dopamine genes dissociates model-based and model-free reinforcement learning",
+                "cites": "74",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic memory encoding interferes with reward learning and decreases striatal prediction errors",
+                "cites": "74",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple memory systems as substrates for multiple decision systems",
+                "cites": "71",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The pigeon as particle filter",
+                "cites": "71",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple systems for value learning",
+                "cites": "68",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical and hippocampal correlates of deliberation during model-based decisions for rewards in humans",
+                "cites": "66",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model uncertainty in classical conditioning",
+                "cites": "65",
+                "year": "2004"
+            },
+            "id_citations": "BxlScrEAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating memories to guide decisions",
+                "cites": "64",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value learning through reinforcement: the basics of dopamine and reinforcement learning",
+                "cites": "64",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specialized coding of sensory, motor and cognitive variables in VTA dopamine neurons",
+                "cites": "60",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prioritized memory access explains planning and hippocampal replay",
+                "cites": "58",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Actions, policies, values and the basal ganglia",
+                "cites": "57",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The irrationality of categorical perception",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-rational models of conditioning: The case of trial order",
+                "cites": "52",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced model-based decision-making in schizophrenia.",
+                "cites": "51",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity and discrimination in classical conditioning: A latent variable account",
+                "cites": "50",
+                "year": "2005"
+            },
+            "id_citations": "BxlScrEAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking psychiatry research online",
+                "cites": "49",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coherent neuronal ensembles are rapidly recruited when making a look-reach decision",
+                "cites": "49",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mediators of changes of mind about perceptual decisions",
+                "cites": "48",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Suboptimal criterion learning in static and dynamic environments",
+                "cites": "47",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Valence-dependent influence of serotonin depletion on model-based choice strategy",
+                "cites": "46",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Instructed knowledge shapes feedback-driven aversive learning in striatum and orbitofrontal cortex, but not the amygdala",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A perceptual inference mechanism for hallucinations linked to striatal dopamine",
+                "cites": "41",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How cognitive and reactive fear circuits optimize escape decisions in humans",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increased locus coeruleus tonic activity causes disengagement from a patch-foraging task",
+                "cites": "38",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motivation and value influences in the relative balance of goal-directed and habitual behaviours in obsessive-compulsive disorder",
+                "cites": "38",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extraversion differentiates between model-based and model-free strategies in a reinforcement learning task",
+                "cites": "38",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Least squares optimization",
+                "cites": "36",
+                "year": "2003"
+            },
+            "id_citations": "BxlScrEAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal contributions to model-based planning and spatial memory",
+                "cites": "32",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grid cells, place cells, and geodesic generalization for spatial reinforcement learning",
+                "cites": "31",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing and partial observability in the dopamine system",
+                "cites": "31",
+                "year": "2003"
+            },
+            "id_citations": "BxlScrEAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral considerations suggest an average reward TD model of the dopamine system",
+                "cites": "31",
+                "year": "2000"
+            },
+            "id_citations": "BxlScrEAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic estimation of task-relevant variance in movement under risk",
+                "cites": "30",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The rat as particle filter",
+                "cites": "30",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing whether humans have an accurate model of their own motor uncertainty in a speeded reaching task",
+                "cites": "29",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motivational context modulates prediction error response in schizophrenia",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based reinforcement learning as cognitive search: neurocomputational theories",
+                "cites": "28",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environmental statistics and the trade-off between model-based and TD learning in humans",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine: at the intersection of reward and action",
+                "cites": "28",
+                "year": "2007"
+            },
+            "id_citations": "BxlScrEAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human representation of visuo-motor uncertainty as mixtures of orthogonal basis distributions",
+                "cites": "27",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "More than the sum of its parts: A role for the hippocampus in configural reinforcement learning",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning and higher level cognition: Introduction to special issue.",
+                "cites": "26",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Offline replay supports planning in human reinforcement learning",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced reinforcement learning",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The opportunity cost of time modulates cognitive effort",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Independent neural computation of value from other people's confidence",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronic and acute stress promote overexploitation in serial decision making",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining configural and TD learning on a robot",
+                "cites": "22",
+                "year": "2002"
+            },
+            "id_citations": "BxlScrEAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From neuron to cognition via computational neuroscience",
+                "cites": "21",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of human ventromedial prefrontal cortex in learning and recall of enhanced extinction",
+                "cites": "20",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low lifetime stress exposure is associated with reduced stimulus\u2013response memory",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boredom, Information-Seeking and Exploration.",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dual-system learning models and drugs of abuse",
+                "cites": "17",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action selection in multi-effector decision making",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Operant behavior suggests attentional gating of dopamine system inputs",
+                "cites": "14",
+                "year": "2001"
+            },
+            "id_citations": "BxlScrEAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of the association between goal-directed planning and self-reported compulsivity vs obsessive-compulsive disorder diagnosis",
+                "cites": "12",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slow escape decisions are swayed by trait anxiety",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A retrieved context model of the emotional modulation of memory.",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A distinct inferential mechanism for delusions in schizophrenia",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are we of two minds?",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine and inference about timing",
+                "cites": "9",
+                "year": "2002"
+            },
+            "id_citations": "BxlScrEAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward prediction error does not explain movement selectivity in DMS-projecting dopamine neurons",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Of goals and habits",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A closer look at choice",
+                "cites": "6",
+                "year": "2010"
+            },
+            "id_citations": "BxlScrEAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matchmaking",
+                "cites": "6",
+                "year": "2004"
+            },
+            "id_citations": "BxlScrEAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic contributions to model-based reinforcement learning",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anxiety, avoidance, and sequential evaluation",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction error: the expanding role of dopamine",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple model for learning in volatile environments",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced model-based decision-making in gambling disorder",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Excessive deliberation in social anxiety",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural mechanism for the opportunity cost of time",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Habits and reinforcement learning.",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms and Processes",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "196. Motivational effects on behavior: Towards a reinforcement learning model of rates of responding",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "BxlScrEAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common model explaining flexible decision making, grid fields and cognitive control",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How instructed knowledge shapes adaptive learning",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LATENT SUBSTRATES OF COMPULSIVITY AND BEHAVIOURAL FLEXIBILITY",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information-Seeking, Learning and the Marginal Value Theorem: A Normative Approach to Adaptive Exploration.",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "BxlScrEAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning, action, inference and neuromodulation",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Computational Role for Top\u2013Down Modulation from Frontal Cortex in Infancy",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rats exhibit similar biases in foraging and intertemporal choice tasks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S72. Longitudinal Assessment of Impairments in Goal-Directed Reinforcement Learning for Money and Food in Anorexia Nervosa",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "T216. Deficient Belief Updating Explains Abnormal Information Seeking Associated With Delusions in Schizophrenia",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acute Stress Effects on Model-Based versus Model-Free Reinforcement Learning",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing whether humans have an accurate model of their own motor uncertainty in a speeded reaching task",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational cognitive neuroscience",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement Learning and Higher Cognition",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Human Brain Computes Two Different Prediction Errors",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Pearce\u2013Hall model",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sympathetic involvement in time-constrained sequential foraging.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond the Average View of Dopamine",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-Based and Model-Free Learning in Anorexia Nervosa and Other Disorders",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural and Behavioral Mechanisms of Food Decision Making Across a Spectrum of Restrictive Eating",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of the Association Between Goal-Directed Planning and Self-reported Compulsivity vs Obsessive-Compulsive Disorder Diagnosis (vol 57, pg, 254, 2019)",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Base-pair resolution analysis of the effect of supercoiling on DNA flexibility and recognition",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear reinforcement learning: Flexible reuse of computation in planning, grid fields, and cognitive control",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BxlScrEAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S73. Characterizing Approach and Avoidance Learning in Anorexia Nervosa",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sympathetic and parasympathetic involvement in time constrained sequential foraging",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biased belief updating and suboptimal choice in foraging decisions",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deficient goal-directed control in a population characterized by extreme goal pursuit",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BxlScrEAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novel methods for measuring the cost of cognitive control in a patch foraging task and a demand selection task with Stroop.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In for a pound, in for a penny: How the opportunity to gain reward influences the competition for memory resources",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "BxlScrEAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intolerance to uncertainty is associated with diminished exploration.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pre-term infants exhibit impaired prediction and learning in Audio-Visual association paradigm.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of overharvesting in patch foraging.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BxlScrEAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Criterion learning in an orientation-discrimination task",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement Learning Markers of Variation in Compulsive and Depressive Traits",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocognitive Development of Goal-directed and Habitual Learning",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Processes in Parkinson\u2019s Disease and Healthy Aging (I3-5C)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DISSECTING THE BRAIN'S MECHANISMS FOR REINFORCEMENT LEARNING IN HEALTH AND DISEASE",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Full title: Fronto-Striatal Organization: Defining Functional and Microstructural Substrates of Behavioural Flexibility",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BxlScrEAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parkinson's disease impairs decisions involving the cost of time: 922",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Control Mode Predicts Behavioral Expression of Model-Based Reinforcement-Learning",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "BxlScrEAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum to Dissociable effects of dopamine and serotonin on reversal learning [Neuron, 80,(2012), 1090-1100]",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Chapter 16. Advanced Reinforcement Learning",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Chapter 21. Multiple Systems for Value Learning",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable effects of dopamine and serotonin on reversal learning [Correction]",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:yMeIxYmEMEAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing Whether Humans Have an Accurate Model of Their Own Motor Uncertainty in a Speeded Reaching",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making Decisions from the Minds of Others: Biological Markers",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BxlScrEAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocomputational Theories",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The motor error distribution implicit in planning of movement in a speeded reaching task compared to the true error distribution",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psychostimulant Addiction: Evidence for a Model of Habit Formation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Computations Supporting Cognition: Rumelhart Prize Symposium in Honor of Peter Dayan",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "of Book: Cognitive search: Evolution, algorithms, and the brain",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BxlScrEAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving Beyond Where and What to How: Using Models and fMRI to Understand Brain-Behavior Relations",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin's role in behaviour: Aversion and/or inhibition?",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SEROTONIN, PERSEVERATION, AND HOPE",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "BxlScrEAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response to changes in variability during movement under risk",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement Learning Reinforcement Learning, 1998",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin modulates choice stickiness through an outcome-independent striatal mechanism",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning sequential predictions absent explicit reward: A model-based fMRI study",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "BxlScrEAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics, Estimation and Decisions",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "BxlScrEAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Representation and timing in theories of the dopamine system (Neural Computation (July 2006) 7,(1637))",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Representation and Timing in Theories of the Dopamine System\": Erratum.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation and timing in theories of the dopamine system (vol 18, pg 1637, 2006)",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Sciences",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experience",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "BxlScrEAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian framework for configural conditioning",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "BxlScrEAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "triggered by aversive events.",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "BxlScrEAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embedded compilation for multimedia applications",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "BxlScrEAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information Maximization Models of Visual Receptive Field Development",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "BxlScrEAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The psychology of animal learning. The psychology of animal learning., 1974",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "BxlScrEAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "BxlScrEAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning Reinforcement learning, 1998",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A particle filtering account of selective attention during learning",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slow, but not fast, escape decisions are swayed by trait anxiety",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sympathetic and parasympathetic involvement in time constrained sequential foraging Abbreviated title: Sympathetic parasympathetic sequential foraging",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Methods",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gary A. Kane1, 2, Aaron M. Bornstein1, 3, Amitai Shenhav4, Robert C. Wilson5",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification: Biological Sciences: Psychology and Cognitive Sciences",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "model-based and TD",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus as a cognitive map The hippocampus as a cognitive map, 1978",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in the neurobiology of anxiety disorders Advances in the neurobiology of anxiety disorders, 1996",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Essential psychopharmacology: Neuroscientific basis and practical applications Essential psychopharmacology: Neuroscientific basis and practical applications, 2000",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Affective neuroscience: The foundations of human and animal emotions Affective neuroscience: The foundations of human and animal emotions, 1998",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural networks and natural intelligence Neural networks and natural intelligence, 1988",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective serotonin reuptake inhibitors (SSRIs): Past, present, and future Selective serotonin reuptake inhibitors (SSRIs): Past, present, and future, 1999",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and theory in experimental psychology Method and theory in experimental psychology, 1953",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in serotonin receptor research: Molecular biology, signal transduction, and therapeutics Advances in serotonin receptor research: Molecular biology, signal \u2026",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrative activity of the brain: An interdisciplinary approach Integrative activity of the brain: An interdisciplinary approach, 1967",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information States versus Rewards: Dissociable Neural Prediction Error Signals Underlying Model-Based and Model-Free Reinforcement Learning",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A rational model of hippocampal experience replay",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-series analysis: a comprehensive introduction for social scientists Time-series analysis: a comprehensive introduction for social scientists, 1981",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applied time series analysis for the social sciences Applied time series analysis for the social sciences, 1980",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The C++ programming language: Special edition The C++ programming language: Special edition, 2000",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electronic Statistics Textbook Electronic Statistics Textbook, 1999",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Methods for Psychology Statistical Methods for Psychology, 1997",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The psychology of animal learning The psychology of animal learning, 1974",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditioning and associative learning Conditioning and associative learning, 1983",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Picoeconomics, 1992",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advantage updating Advantage updating, 1993",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual choice behavior Individual choice behavior, 1959",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Breakdown of will Breakdown of will, 2001",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The mentality of apes The mentality of apes, 1925",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental materials for \u201cWhat\u2019s past is present: Reminders of past choices bias decisions for reward in humans.\u201d",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuron, Volume 58 Supplemental Data Striatal Activity Underlies Novelty-Based Choice in Humans",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine Learning Meets Human Learning",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Article in press: Journal of Cognitive Neuroscience",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental material for \u201cModel-based influences on humans\u2019 choices and striatal prediction errors\u201d",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lecture Abstracts & References",
+                "cites": "0"
+            },
+            "id_citations": "BxlScrEAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=BxlScrEAAAAJ",
+    "brain_inspired": {
+        "id": "736",
+        "link": "https://braininspired.co/podcast/37/",
+        "name": "Nathaniel Daw",
+        "title": "BI 037 Nathaniel Daw: Thinking the Right Thoughts",
+        "text": "Nathaniel and I discuss his work on model-based and model-free reinforcement learning, how replay in the hippocampus can help of conjure appropriate memories to plan actions, neuropsychiatric disorders, and more."
+    }
+}

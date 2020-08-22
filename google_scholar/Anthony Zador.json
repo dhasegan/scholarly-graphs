@@ -1,0 +1,1470 @@
+{
+    "affiliation": "Professor of Biology, CSHL",
+    "cites_per_year": {
+        "1993": 37,
+        "1994": 88,
+        "1995": 82,
+        "1996": 60,
+        "1997": 89,
+        "1998": 134,
+        "1999": 171,
+        "2000": 168,
+        "2001": 216,
+        "2002": 179,
+        "2003": 220,
+        "2004": 304,
+        "2005": 334,
+        "2006": 406,
+        "2007": 449,
+        "2008": 433,
+        "2009": 498,
+        "2010": 484,
+        "2011": 651,
+        "2012": 572,
+        "2013": 692,
+        "2014": 675,
+        "2015": 696,
+        "2016": 680,
+        "2017": 674,
+        "2018": 833,
+        "2019": 891,
+        "2020": 486
+    },
+    "citedby": 11339,
+    "citedby5y": 4267,
+    "coauthors": [],
+    "email": "@cshl.edu",
+    "hindex": 47,
+    "hindex5y": 32,
+    "i10index": 79,
+    "i10index5y": 63,
+    "id": "wM_22hwAAAAJ",
+    "interests": [
+        "neuroscience"
+    ],
+    "name": "Anthony Zador",
+    "publications": [
+        {
+            "bib": {
+                "title": "Balanced inhibition underlies tuning and sharpens spike timing in auditory cortex",
+                "cites": "15462360587087844044",
+                "year": "2003",
+                "url": "https://www.nature.com/articles/nature02116",
+                "author": "Michael Wehr and Anthony M Zador",
+                "journal": "Nature",
+                "volume": "426",
+                "number": "6965",
+                "pages": "442-446",
+                "publisher": "Nature Publishing Group",
+                "abstract": "Neurons in the primary auditory cortex are tuned to the intensity and specific frequencies of sounds, but the synaptic mechanisms underlying this tuning remain uncertain. Inhibition seems to have a functional role in the formation of cortical receptive fields, because stimuli often suppress similar or neighbouring responses 1, 2, 3, and pharmacological blockade of inhibition broadens tuning curves 4, 5. Here we use whole-cell recordings in vivo to disentangle the roles of excitatory and inhibitory activity in the tone-evoked responses of single neurons in the auditory cortex. The excitatory and inhibitory receptive fields cover almost exactly the same areas, in contrast to the predictions of classical lateral inhibition models. Thus, although inhibition is typically as strong as excitation, it is not necessary to establish tuning, even in the receptive field surround. However, inhibition and excitation occurred in a precise and \u2026",
+                "eprint": "http://www.cns.nyu.edu/events/earclub/artfiles/Wehr2003.pdf"
+            },
+            "id_citations": "wM_22hwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Postsynaptic receptor trafficking underlying a form of associative learning",
+                "cites": "727",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural scene statistics at the centre of gaze",
+                "cites": "559",
+                "year": "1999"
+            },
+            "id_citations": "wM_22hwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Input synchrony and the irregular firing of cortical neurons",
+                "cites": "535",
+                "year": "1998"
+            },
+            "id_citations": "wM_22hwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse representation of sounds in the unanesthetized auditory cortex",
+                "cites": "477",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representation and the cortical code",
+                "cites": "467",
+                "year": "2000"
+            },
+            "id_citations": "wM_22hwAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The function of dendritic spines: devices subserving biochemical rather than electrical compartmentalization",
+                "cites": "438",
+                "year": "1993"
+            },
+            "id_citations": "wM_22hwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient discrimination of temporal patterns by motion-sensitive neurons in primate visual cortex",
+                "cites": "432",
+                "year": "1998"
+            },
+            "id_citations": "wM_22hwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic mechanisms of forward suppression in rat auditory cortex",
+                "cites": "400",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binary spiking in auditory cortex",
+                "cites": "392",
+                "year": "2003"
+            },
+            "id_citations": "wM_22hwAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linearity of cortical receptive fields measured with natural sounds",
+                "cites": "284",
+                "year": "2004"
+            },
+            "id_citations": "wM_22hwAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biophysical model of a Hebbian synapse",
+                "cites": "275",
+                "year": "1990"
+            },
+            "id_citations": "wM_22hwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PINP: a new method of tagging neuronal populations for identification during in vivo electrophysiological recording",
+                "cites": "263",
+                "year": "2009"
+            },
+            "id_citations": "wM_22hwAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engaging in an auditory task suppresses responses in auditory cortex",
+                "cites": "259",
+                "year": "2009"
+            },
+            "id_citations": "wM_22hwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of synaptic unreliability on the information transmitted by spiking neurons",
+                "cites": "240",
+                "year": "1998"
+            },
+            "id_citations": "wM_22hwAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Threshold detection of wideband signals: A noise-induced maximum in the mutual information",
+                "cites": "226",
+                "year": "1996"
+            },
+            "id_citations": "wM_22hwAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corticostriatal neurons in auditory cortex drive decisions during auditory discrimination",
+                "cites": "224",
+                "year": "2013"
+            },
+            "id_citations": "wM_22hwAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auditory cortex mediates the perceptual effects of acoustic temporal expectation",
+                "cites": "214",
+                "year": "2010"
+            },
+            "id_citations": "wM_22hwAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic stochastic synapses as computational units",
+                "cites": "171",
+                "year": "1998"
+            },
+            "id_citations": "wM_22hwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Major improvements to the Heliconius melpomene genome assembly used to confirm 10 chromosome fusion events in 6 million years of butterfly evolution",
+                "cites": "167",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The morphoelectrotonic transform: a graphical approach to dendritic function",
+                "cites": "152",
+                "year": "1995"
+            },
+            "id_citations": "wM_22hwAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-Gaussian membrane potential dynamics imply sparse, synchronous activity in auditory cortex",
+                "cites": "149",
+                "year": "2006"
+            },
+            "id_citations": "wM_22hwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampus",
+                "cites": "143",
+                "year": "1990"
+            },
+            "id_citations": "wM_22hwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective corticostriatal plasticity during acquisition of an auditory discrimination task",
+                "cites": "133",
+                "year": "2015"
+            },
+            "id_citations": "wM_22hwAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-throughput mapping of single-neuron projections by sequencing of barcoded RNA",
+                "cites": "131",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sources of PCR-induced distortions in high-throughput sequencing data sets",
+                "cites": "107",
+                "year": "2015"
+            },
+            "id_citations": "wM_22hwAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic spines: convergence of theory and experiment",
+                "cites": "105",
+                "year": "1992"
+            },
+            "id_citations": "wM_22hwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electrotonic architecture of hippocampal CA1 pyramidal neurons based on three-dimensional reconstructions",
+                "cites": "102",
+                "year": "1996"
+            },
+            "id_citations": "wM_22hwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The logic of single-cell projections from visual cortex",
+                "cites": "99",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequencing the connectome",
+                "cites": "94",
+                "year": "2012"
+            },
+            "id_citations": "wM_22hwAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic synapses in the cortex",
+                "cites": "91",
+                "year": "1997"
+            },
+            "id_citations": "wM_22hwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient temporal processing with biologically realistic dynamic synapses",
+                "cites": "88",
+                "year": "2001"
+            },
+            "id_citations": "wM_22hwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Millisecond-scale differences in neural activity in auditory cortex can drive decisions",
+                "cites": "86",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlated connectivity and the distribution of firing rates in the neocortex",
+                "cites": "84",
+                "year": "2009"
+            },
+            "id_citations": "wM_22hwAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linearized models of calcium dynamics: formal equivalence to the cable equation",
+                "cites": "83",
+                "year": "1994"
+            },
+            "id_citations": "wM_22hwAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional asymmetry of auditory cortex is reflected in the organization of local cortical circuits",
+                "cites": "80",
+                "year": "2010"
+            },
+            "id_citations": "wM_22hwAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asymmetric dynamics in optimal variance adaptation",
+                "cites": "77",
+                "year": "1998"
+            },
+            "id_citations": "wM_22hwAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shared and private variability in the auditory cortex",
+                "cites": "76",
+                "year": "2004"
+            },
+            "id_citations": "wM_22hwAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-lasting context dependence constrains neural encoding models in rodent auditory cortex",
+                "cites": "65",
+                "year": "2009"
+            },
+            "id_citations": "wM_22hwAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A critique of pure learning and what artificial neural networks can learn from animal brains",
+                "cites": "63",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse representations for the cocktail party problem",
+                "cites": "63",
+                "year": "2006"
+            },
+            "id_citations": "wM_22hwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic transmission: noisy synapses and noisy neurons",
+                "cites": "52",
+                "year": "1996"
+            },
+            "id_citations": "wM_22hwAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural coding: The enigma of the brain",
+                "cites": "51",
+                "year": "1995"
+            },
+            "id_citations": "wM_22hwAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PTEN regulation of local and long-range connections in mouse auditory cortex",
+                "cites": "50",
+                "year": "2012"
+            },
+            "id_citations": "wM_22hwAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing and learning with dynamic synapses",
+                "cites": "47",
+                "year": "1999"
+            },
+            "id_citations": "wM_22hwAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novel Integrate-and-re-like Model of Repetitive Firing in Cortical Neurons",
+                "cites": "47",
+                "year": "1998"
+            },
+            "id_citations": "wM_22hwAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hebbian computations in hippocampal dendrites and spines",
+                "cites": "47",
+                "year": "1992"
+            },
+            "id_citations": "wM_22hwAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in sensitivity to neural timing among cortical areas",
+                "cites": "42",
+                "year": "2012"
+            },
+            "id_citations": "wM_22hwAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability and representational bandwidth in the auditory cortex",
+                "cites": "39",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mice and rats achieve similar levels of performance in an adaptive decision-making task",
+                "cites": "37",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The basic unit of computation",
+                "cites": "36",
+                "year": "2000"
+            },
+            "id_citations": "wM_22hwAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auditory thalamus and auditory cortex are equally modulated by context during flexible categorization of sounds",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations in auditory cortex",
+                "cites": "35",
+                "year": "2009"
+            },
+            "id_citations": "wM_22hwAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models of hippocampal neurons",
+                "cites": "35",
+                "year": "1992"
+            },
+            "id_citations": "wM_22hwAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "in Hippocampal Neurons",
+                "cites": "35",
+                "year": "1991"
+            },
+            "id_citations": "wM_22hwAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term Cre-mediated retrograde tagging of neurons using a novel recombinant pseudorabies virus",
+                "cites": "34",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Up states are rare in awake auditory cortex",
+                "cites": "34",
+                "year": "2013"
+            },
+            "id_citations": "wM_22hwAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VC dimension of an integrate-and-fire neuron model",
+                "cites": "33",
+                "year": "1996"
+            },
+            "id_citations": "wM_22hwAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear pattern separation in single hippocampal neurons with active dendritic membrane",
+                "cites": "33",
+                "year": "1992"
+            },
+            "id_citations": "wM_22hwAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular barcoding: lineage tracing, screening and beyond",
+                "cites": "32",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monaural source separation using spectral cues",
+                "cites": "32",
+                "year": "2004"
+            },
+            "id_citations": "wM_22hwAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information through a spiking neuron",
+                "cites": "32",
+                "year": "1996"
+            },
+            "id_citations": "wM_22hwAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binary coding in auditory cortex",
+                "cites": "31",
+                "year": "2003"
+            },
+            "id_citations": "wM_22hwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo generation of DNA sequence diversity for cellular barcoding",
+                "cites": "29",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient in situ barcode sequencing using padlock probe-based BaristaSeq",
+                "cites": "28",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using high-throughput barcode sequencing to efficiently map connectomes",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward the mechanisms of auditory attention",
+                "cites": "27",
+                "year": "2007"
+            },
+            "id_citations": "wM_22hwAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Between the primate and \u2018reptilian\u2019brain: Rodent models demonstrate the role of corticostriatal circuits in decision making",
+                "cites": "24",
+                "year": "2015"
+            },
+            "id_citations": "wM_22hwAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectro-temporal receptive fields of subthreshold responses in auditory cortex",
+                "cites": "23",
+                "year": "2003"
+            },
+            "id_citations": "wM_22hwAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When is an integrate-and-fire neuron like a poisson neuron?",
+                "cites": "23",
+                "year": "1996"
+            },
+            "id_citations": "wM_22hwAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-throughput mapping of long-range neuronal projection using in situ sequencing",
+                "cites": "19",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-organization of Hebbian synapses in hippocampal neurons",
+                "cites": "19",
+                "year": "1991"
+            },
+            "id_citations": "wM_22hwAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rosetta brains: A strategy for molecularly-annotated connectomics",
+                "cites": "18",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An international laboratory for systems and computational neuroscience",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-cell molecular connectomics of intracortically-projecting neurons",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new defective helper RNA to produce recombinant sindbis virus that infects neurons but does not propagate",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Conncetome as a DNA Sequencing Problem'",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conneconomics: the economics of large-scale neural connectomics",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "wM_22hwAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biophysics of computation in single hippocampal neurons.",
+                "cites": "10",
+                "year": "1994"
+            },
+            "id_citations": "wM_22hwAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing the connectivity of neural circuits at single-neuron resolution using high-throughput DNA sequencing",
+                "cites": "8",
+                "year": "2011"
+            },
+            "id_citations": "wM_22hwAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for separating multiple sources using directional filtering",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "wM_22hwAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of selective auditory attention in rats",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparsification for monaural source separation",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "wM_22hwAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficiency measures",
+                "cites": "6",
+                "year": "2006"
+            },
+            "id_citations": "wM_22hwAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thalamocortical synapses: sparse but stentorian",
+                "cites": "6",
+                "year": "1999"
+            },
+            "id_citations": "wM_22hwAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A single-cell anatomical blueprint for intracortical information transfer from primary visual cortex",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A self-initiated two-alternative forced choice paradigm for head-fixed mice",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic connectivity and computation",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "wM_22hwAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing of time series by neural circuits with biologically realistic synaptic dynamics",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "wM_22hwAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A standardized and reproducible method to measure decision-making in mice",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "wM_22hwAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational framework for converting high-throughput DNA sequencing data into neural circuit connectivity",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grand challenges for global brain sciences",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse representations for the cocktail party problem",
+                "cites": "4",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient computation of sparse elements of the inverse of a sparse near-tridiagonal matrix with application to the nerve equation",
+                "cites": "4",
+                "year": "1993"
+            },
+            "id_citations": "wM_22hwAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-throughput mapping of mesoscale connectomes in individual mice",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural gallops across auditory streams",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AMPA receptor trafficking and GluR1-Response",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auditory modeling gets an edge",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "wM_22hwAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo whole-cell recording of synaptic responses underlying two-tone interactions in rat auditory cortex",
+                "cites": "3",
+                "year": "2001"
+            },
+            "id_citations": "wM_22hwAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spikes: Exploring the neural code",
+                "cites": "3",
+                "year": "1997"
+            },
+            "id_citations": "wM_22hwAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial organization of projection neurons in the mouse auditory cortex identified by in situ barcode sequencing",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "wM_22hwAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeking goldilocks during evolution of drug resistance",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential sensitivity of different sensory cortices to behaviorally relevant timing differences",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "wM_22hwAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Mechanisms of Selective Auditory Attention in Rats A Dissertation",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AMPA receptor trafficking and GluR1",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse representations for the cocktailparty problem",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "wM_22hwAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network cloning using DNA barcodes",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "26th annual computational neuroscience meeting (CNS* 2017): Part 3",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking stimuli and behavior with fast near-whole brain recordings in adult Drosophila",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trans-splicing ribozymes and silent recombinases",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal circuitry and population activity",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "wM_22hwAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SYNPLA, a method to identify synapses displaying plasticity after learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "wM_22hwAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corticostriatal Plasticity Established by Initial Learning Persists After Behavioral Reversal",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "wM_22hwAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The logic of olfactory bulb outputs revealed by high-throughput single-neuron projection mapping using sequencing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonergic Hyperinnervation in Non-Motor Circuits in the Parkinsonian Rat",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BRICseq bridges brain-wide interregional connectivity to neural activity and gene expression in single animals",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using MAPseq to Assess Serotonergic Hyperinnervation in Non-Motor Circuits in the Parkinsonian Rat",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SYNPLA: A synapse-specific method for identifying learning-induced synaptic plasticity loci",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "wM_22hwAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplexed analysis of neuron projections by sequencing",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trans-splicing transcriptome profiling",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain Connectivity as a DNA Sequencing Problem",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "wM_22hwAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conference Agenda",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "wM_22hwAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory systems: Sound processing takes motor control",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sound processing takes motor control Long-range motor neurons suppress auditory responses during movement",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "wM_22hwAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Talk from Alex Koulakov at the Cold Spring Harbor Laboratory In-House Symposium (2012)",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "wM_22hwAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Essay-Sequencing the Connectome",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "wM_22hwAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-Lasting Context Dependence Constrains Neural",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "wM_22hwAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing in the auditory cortex",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "wM_22hwAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms recruited by attending to the time or frequency of sounds",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "wM_22hwAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional organization of the transcriptome in human brain",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of auditory responses by modality-specific attention in rat primary auditory cortex",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-Lasting Context Dependence Constrains Neural Encoding Models in Rodent Auditory Cortex",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "wM_22hwAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissection of Neurofibromatosis Type 1-Regulated Pathways and its Role in Distinct Phases of Memory",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "wM_22hwAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal predictions of sparse linear representations",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "wM_22hwAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMPUTATIONAL & SYSTEMS NEUROSCIENCE",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "wM_22hwAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Independent Component Analysis and Blind Signal Separation: Fifth International Conference, ICA 2004, Granada, Spain, September 22-24, 2004. Proceedings",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "wM_22hwAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-consistent Models of Cortical Dynamics",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "wM_22hwAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The discriminative power of a dynamical model neuron",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "wM_22hwAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Computation of Sparse Elements of the Inverse of a Generalized Tridiagonal Matrix",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "wM_22hwAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear Pattern Separation in Single Hippocampal Neurons with Active Dendritic Membrane.",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "wM_22hwAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience now",
+                "cites": "0",
+                "year": "1990"
+            },
+            "id_citations": "wM_22hwAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing of Time Series by Neural Circuits",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preprint highlights, selected by the biological community",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Function of Dendritic Spines: Devices Subserving Biochemical Rather Than Electrical Computation",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u2018ZNeuroscience",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Presentation at Computational and Systems Neuroscience Meeeting (Cosyne) 2011 Salt Lake City, February 25, 2011",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Temporal Processing with Biologically Realistic Dynamic Synapses",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shoji Makino Te-Won Lee",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Stochastic Synapses as Computational Units Wolfgang Maass Institute for Theoretical Computer Science Technische Universit/t Graz",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo electrophysiological identification of Channelrhodopsin2-tagged neuronal subpopulations",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Michael Recce Chapter 4",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binary responses are not restricted to anesthetized auditory cortex.",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Computation of Sparse Elements of the Inverse of a Sparse",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-organization of Hebbian Synapses in Hippocampal Neurons Thomas H. Brown, Zachary F. Mainen,* Department of Psychology",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of log-normal distribution in neural nets.",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Stochastic Synapses as",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal role of auditory cortex in mediating attention to moments in time",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CIRCUITS WITH BIOLOGICALLY REALISTIC SYNAPTIC DYNAMICS",
+                "cites": "0"
+            },
+            "id_citations": "wM_22hwAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=wM_22hwAAAAJ",
+    "brain_inspired": {
+        "id": "717",
+        "link": "https://braininspired.co/podcast/34/",
+        "name": "Tony Zador",
+        "title": "BI 034 Tony Zador: How DNA and Evolution Can Inform AI",
+        "text": "Tony and I talk about his idea that AI should take inspiration from DNA. That is, DNA through evolution can be thought of as a compressed bottleneck of innate information for our brains to start with, unlike the tabula rasa deep learning systems in vogue these days. We also talk about his experiences starting the COSYNE conference, his work with auditory decision making in rodents, how he plans to revolutionize neuroscience using DNA barcodes to solve the connectome, and more."
+    }
+}

@@ -1,0 +1,1095 @@
+{
+    "affiliation": "MRC Brain Network Dynamics Unit at the University of Oxford",
+    "cites_per_year": {
+        "2002": 21,
+        "2003": 25,
+        "2004": 22,
+        "2005": 39,
+        "2006": 69,
+        "2007": 114,
+        "2008": 188,
+        "2009": 214,
+        "2010": 248,
+        "2011": 389,
+        "2012": 450,
+        "2013": 414,
+        "2014": 482,
+        "2015": 546,
+        "2016": 610,
+        "2017": 654,
+        "2018": 860,
+        "2019": 887,
+        "2020": 532
+    },
+    "citedby": 6846,
+    "citedby5y": 4093,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Psychology, Co-Director of Princeton Neuroscience Institute, Princeton University",
+            "id": "NCkkQAMAAAAJ",
+            "name": "Jonathan D. Cohen"
+        },
+        {
+            "affiliation": "Professor of Cognitive Neuroscience, University of Bristol",
+            "id": "Wx7Xai8AAAAJ",
+            "name": "Malcolm W. Brown"
+        },
+        {
+            "affiliation": "MRC Brain Network Dynamics Unit at the University of Oxford",
+            "id": "9EvU8t4AAAAJ",
+            "name": "Peter Brown"
+        },
+        {
+            "affiliation": "Applied Mathematics, University of Washington",
+            "id": "GyvbrjcAAAAJ",
+            "name": "Eric Shea-Brown"
+        },
+        {
+            "affiliation": "Associate Professor of Computer Science, Brigham Young University",
+            "id": "jHWj2yYAAAAJ",
+            "name": "Christophe Giraud-Carrier"
+        },
+        {
+            "affiliation": "Professor of Mechanical Engineering, University of California, Santa Barbara",
+            "id": "qDFqGPQAAAAJ",
+            "name": "Jeff Moehlis"
+        },
+        {
+            "affiliation": "University of Amsterdam",
+            "id": "-vJYI3wAAAAJ",
+            "name": "Birte Forstmann"
+        },
+        {
+            "affiliation": "Cardiff University",
+            "id": "7R9MsqsAAAAJ",
+            "name": "Jiaxiang Zhang"
+        },
+        {
+            "affiliation": "Dept of Experimental Psychology, University of Oxford",
+            "id": "zvLXslIAAAAJ",
+            "name": "Nick Yeung"
+        },
+        {
+            "affiliation": "University of Amsterdam",
+            "id": "L_HG640AAAAJ",
+            "name": "Eric-Jan Wagenmakers"
+        },
+        {
+            "affiliation": "Professor of Theoretical & Computational Biology, University of Sheffield",
+            "id": "VNMIqx4AAAAJ",
+            "name": "James A. R. Marshall"
+        },
+        {
+            "affiliation": "MRC Brain Network Dynamics Unit at the University of Oxford",
+            "id": "DjVI6isAAAAJ",
+            "name": "Peter J. Magill"
+        },
+        {
+            "affiliation": "Lead of Bioinformatics, University of Oxford",
+            "id": "fZQMoZoAAAAJ",
+            "name": "Alejo J Nevado-Holgado"
+        },
+        {
+            "affiliation": "Ghent University",
+            "id": "jhuDJYYAAAAJ",
+            "name": "Clay Holroyd"
+        },
+        {
+            "affiliation": "Interdisciplinary Professorial Fellow, University of Birmingham",
+            "id": "az8zf8EAAAAJ",
+            "name": "John Terry"
+        },
+        {
+            "affiliation": "University of Bristol and North Bristol NHS Trust",
+            "id": "w6hNC7MAAAAJ",
+            "name": "Elizabeth Coulthard"
+        },
+        {
+            "affiliation": "Tel-Aviv University",
+            "id": "oUqbSNsAAAAJ",
+            "name": "Marius Usher"
+        },
+        {
+            "affiliation": "",
+            "id": "tlrn2ToAAAAJ",
+            "name": "K N Gurney"
+        },
+        {
+            "affiliation": "School of Psychological Science, University of Bristol",
+            "id": "zSgrHdsAAAAJ",
+            "name": "Casimir Ludwig"
+        },
+        {
+            "affiliation": "Professor of Statistical Learning, Lancaster University",
+            "id": "ev_o35QAAAAJ",
+            "name": "David S. Leslie"
+        }
+    ],
+    "email": "@ndcn.ox.ac.uk",
+    "hindex": 38,
+    "hindex5y": 32,
+    "i10index": 66,
+    "i10index5y": 52,
+    "id": "m02-44gAAAAJ",
+    "interests": [
+        "Computational neuroscience",
+        "Decision making",
+        "Basal ganglia"
+    ],
+    "name": "Rafal Bogacz",
+    "publications": [
+        {
+            "bib": {
+                "title": "The physics of optimal decision making: a formal analysis of models of performance in two-alternative forced-choice tasks.",
+                "cites": "16680774575897638531",
+                "year": "2006",
+                "url": "https://psycnet.apa.org/getdoi.cfm?doi=10.1037/0033-295X.113.4.700",
+                "author": "Rafal Bogacz and Eric Brown and Jeff Moehlis and Philip Holmes and Jonathan D Cohen",
+                "journal": "Psychological review",
+                "volume": "113",
+                "number": "4",
+                "pages": "700",
+                "publisher": "American Psychological Association",
+                "abstract": "In this article, the authors consider optimal decision making in two-alternative forced-choice (TAFC) tasks. They begin by analyzing 6 models of TAFC decision making and show that all but one can be reduced to the drift diffusion model, implementing the statistically optimal algorithm (most accurate for a given speed or fastest for a given accuracy). They prove further that there is always an optimal trade-off between speed and accuracy that maximizes various reward functions, including reward rate (percentage of correct responses per unit time), as well as several other objective functions, including ones weighted for accuracy. They use these findings to address empirical data and make novel predictions about performance under optimality.",
+                "eprint": "https://sites.engineering.ucsb.edu/~moehlis/moehlis_papers/psych.pdf"
+            },
+            "id_citations": "m02-44gAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of the speed\u2013accuracy tradeoff",
+                "cites": "539",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decision-making theories: linking neurobiology with behaviour",
+                "cites": "375",
+                "year": "2007"
+            },
+            "id_citations": "m02-44gAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The basal ganglia and cortex implement optimal decision making between alternative actions",
+                "cites": "367",
+                "year": "2007"
+            },
+            "id_citations": "m02-44gAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortico-striatal connections predict control over speed and accuracy in perceptual decision making",
+                "cites": "342",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of synchronized oscillations in the electroencephalogram: an evaluation of methods",
+                "cites": "242",
+                "year": "2004"
+            },
+            "id_citations": "m02-44gAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditions for the generation of beta oscillations in the subthalamic nucleus\u2013globus pallidus network",
+                "cites": "181",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On optimal decision-making in brains and social insect colonies",
+                "cites": "180",
+                "year": "2009"
+            },
+            "id_citations": "m02-44gAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extending a biologically inspired model of choice: multi-alternatives, nonlinearity and value-based multidimensional choice",
+                "cites": "175",
+                "year": "2007"
+            },
+            "id_citations": "m02-44gAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do humans produce the speed\u2013accuracy trade-off that maximizes reward rate?",
+                "cites": "158",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta phase resetting and the error\u2010related negativity",
+                "cites": "143",
+                "year": "2007"
+            },
+            "id_citations": "m02-44gAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model of familiarity discrimination in the perirhinal cortex",
+                "cites": "134",
+                "year": "2001"
+            },
+            "id_citations": "m02-44gAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simple neural networks that optimize decisions",
+                "cites": "123",
+                "year": "2005"
+            },
+            "id_citations": "m02-44gAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of computational models of familiarity discrimination in the perirhinal cortex",
+                "cites": "117",
+                "year": "2003"
+            },
+            "id_citations": "m02-44gAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action initiation shapes mesolimbic dopamine encoding of future rewards",
+                "cites": "113",
+                "year": "2016"
+            },
+            "id_citations": "m02-44gAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on the free-energy framework for modelling perception and learning",
+                "cites": "106",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mammalian choices: combining fast-but-inaccurate and slow-but-accurate decision-making systems",
+                "cites": "105",
+                "year": "2008"
+            },
+            "id_citations": "m02-44gAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying phase\u2013amplitude coupling in neuronal network oscillations",
+                "cites": "90",
+                "year": "2011"
+            },
+            "id_citations": "m02-44gAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models describing possible mechanisms for generation of excessive beta oscillations in Parkinson\u2019s disease",
+                "cites": "85",
+                "year": "2015"
+            },
+            "id_citations": "m02-44gAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a science of learning games",
+                "cites": "81",
+                "year": "2011"
+            },
+            "id_citations": "m02-44gAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct developmental origins manifest in the specialized encoding of movement by adult neurons of the external globus pallidus",
+                "cites": "80",
+                "year": "2015"
+            },
+            "id_citations": "m02-44gAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term memory traces for action bias in human reinforcement learning",
+                "cites": "75",
+                "year": "2007"
+            },
+            "id_citations": "m02-44gAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of decision thresholds in the human subthalamic nucleus",
+                "cites": "74",
+                "year": "2016"
+            },
+            "id_citations": "m02-44gAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of reinforcement learning and optimal decision-making theories of the basal ganglia",
+                "cites": "71",
+                "year": "2011"
+            },
+            "id_citations": "m02-44gAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effective connectivity of the subthalamic nucleus\u2013globus pallidus network during Parkinsonian oscillations",
+                "cites": "69",
+                "year": "2014"
+            },
+            "id_citations": "m02-44gAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct roles of dopamine and subthalamic nucleus in learning and probabilistic decision making",
+                "cites": "69",
+                "year": "2012"
+            },
+            "id_citations": "m02-44gAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust versus optimal strategies for two-alternative forced choice tasks",
+                "cites": "66",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An approximation of the error backpropagation algorithm in a predictive coding network with local hebbian synaptic plasticity",
+                "cites": "65",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theories of error back-propagation in the brain",
+                "cites": "59",
+                "year": "2019"
+            },
+            "id_citations": "m02-44gAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "57",
+                "year": "2019"
+            },
+            "id_citations": "m02-44gAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved conditions for the generation of beta oscillations in the subthalamic nucleus\u2013globus pallidus network",
+                "cites": "54",
+                "year": "2012"
+            },
+            "id_citations": "m02-44gAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dysfunctional prefrontal cortical network activity and interactions following cannabinoid receptor activation",
+                "cites": "52",
+                "year": "2011"
+            },
+            "id_citations": "m02-44gAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduction of influence of task difficulty on perceptual decision making by STN deep brain stimulation",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "m02-44gAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A canonical circuit for generating phase-amplitude coupling",
+                "cites": "48",
+                "year": "2014"
+            },
+            "id_citations": "m02-44gAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parameterization of connectionist models",
+                "cites": "44",
+                "year": "2004"
+            },
+            "id_citations": "m02-44gAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct mechanisms mediate speed-accuracy adjustments in cortico-subthalamic networks",
+                "cites": "43",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High capacity neural networks far familiarity discrimination",
+                "cites": "42",
+                "year": "1999"
+            },
+            "id_citations": "m02-44gAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural mechanisms of learning from competitors",
+                "cites": "39",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blinking artefact recognition in EEG signal using artificial neural network",
+                "cites": "36",
+                "year": "1999"
+            },
+            "id_citations": "m02-44gAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decisions: From neural spikes, through stochastic differential equations, to behavior",
+                "cites": "33",
+                "year": "2005"
+            },
+            "id_citations": "m02-44gAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The subthalamic nucleus during decision\u2010making with multiple alternatives",
+                "cites": "30",
+                "year": "2015"
+            },
+            "id_citations": "m02-44gAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep brain stimulation abolishes slowing of reactions to unlikely stimuli",
+                "cites": "30",
+                "year": "2014"
+            },
+            "id_citations": "m02-44gAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-varying decision boundaries: insights from optimality analysis",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning reward uncertainty in the basal ganglia",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "m02-44gAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decision-making theories",
+                "cites": "26",
+                "year": "2009"
+            },
+            "id_citations": "m02-44gAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decision making on the basis of evidence represented in spike trains",
+                "cites": "25",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms underlying decision-making as revealed by deep-brain stimulation in patients with Parkinson\u2019s disease",
+                "cites": "24",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overcoming indecision by changing the decision boundary.",
+                "cites": "24",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic integration of sensory evidence in perceptual decision-making",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of dopamine on reinforcement learning and consolidation in Parkinson\u2019s disease",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The restricted influence of sparseness of coding on the capacity of familiarity discrimination networks",
+                "cites": "18",
+                "year": "2002"
+            },
+            "id_citations": "m02-44gAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of bounded diffusion models for choice in time controlled tasks",
+                "cites": "17",
+                "year": "2009"
+            },
+            "id_citations": "m02-44gAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Properties of neurons in external globus pallidus can support optimal action selection",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "m02-44gAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive sampling of information in perceptual decision-making",
+                "cites": "16",
+                "year": "2013"
+            },
+            "id_citations": "m02-44gAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An infomax algorithm can perform both familiarity discrimination and feature extraction in a single network",
+                "cites": "16",
+                "year": "2011"
+            },
+            "id_citations": "m02-44gAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine and consolidation of episodic memory: timing is everything",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "m02-44gAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bounded Ornstein\u2013Uhlenbeck models for two-choice time controlled tasks",
+                "cites": "15",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decision network with distributed representation",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "m02-44gAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive role of the globus pallidus interna; insights from disease states",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to use working memory: a reinforcement learning gating model of rule acquisition in rats",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "m02-44gAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consistent implementation of decisions in the brain",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "m02-44gAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience: impaired decision-making in Parkinson\u2019s disease",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "m02-44gAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Posterior weighted reinforcement learning with state uncertainty",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of movement sensitive neurons' properties by learning a sparse code for natural moving images",
+                "cites": "11",
+                "year": "2001"
+            },
+            "id_citations": "m02-44gAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational modeling and analysis of hippocampal-prefrontal information coding during a spatial decision-making task",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "m02-44gAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models can replicate the capacity of human recognition memory",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "m02-44gAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the effects of deep brain stimulation using a reduced coupled oscillator model",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "m02-44gAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed-Accuracy Trade-Off.",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "m02-44gAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Initiation and termination of integration in a decision process",
+                "cites": "8",
+                "year": "2010"
+            },
+            "id_citations": "m02-44gAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency-based error backpropagation in a cortical network",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "m02-44gAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extending a biologically inspired model of choice: Multi-alternatives, nonlinearity and value-based multidimensional choice",
+                "cites": "6",
+                "year": "2011"
+            },
+            "id_citations": "m02-44gAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models of familiarity discrimination in the perirhinal cortex.",
+                "cites": "6",
+                "year": "2001"
+            },
+            "id_citations": "m02-44gAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BRAINN: A Connectionist Approach to Symbolic Reasoning.",
+                "cites": "6",
+                "year": "1998"
+            },
+            "id_citations": "m02-44gAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning meta-rules of selection in expert systems",
+                "cites": "6",
+                "year": "1998"
+            },
+            "id_citations": "m02-44gAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting beta bursts from local field potentials to improve closed-loop DBS paradigms in Parkinson\u2019s patients",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decision making in the cortico-basal-ganglia circuit",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "m02-44gAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basal Ganglia: Beta Oscillations.",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "m02-44gAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model of co-operation between recency, familiarity and novelty neurons in the perirhinal cortex",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "m02-44gAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A familiarity discrimination algorithm inspired by computations of the perirhinal cortex",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "m02-44gAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the payoffs and costs of actions",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "m02-44gAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep brain stimulation of the subthalamic nucleus does not affect the decrease of decision threshold during the choice process when there is no conflict, time pressure, or reward",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supervised competitive learning for finding positions of radial basis functions",
+                "cites": "4",
+                "year": "1997"
+            },
+            "id_citations": "m02-44gAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective effects of the loss of NMDA or mGluR5 receptors in the reward system on adaptive decision-making",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural circuits trained with standard reinforcement learning can accumulate probabilistic information during decision making",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model of familiarity discrimination in the brain\u2013efficiency, speed and robustness",
+                "cites": "3",
+                "year": "1999"
+            },
+            "id_citations": "m02-44gAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel modular neural architecture for rule-based and similarity-based reasoning",
+                "cites": "3",
+                "year": "1998"
+            },
+            "id_citations": "m02-44gAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory of reinforcement learning and motivation in the basal ganglia",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "m02-44gAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Superior colliculus and basal ganglia control the saccadic response in motion discrimination tasks",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "m02-44gAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capacity of perirhinal cortex network for recognising frequently repeating stimuli",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "m02-44gAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowledge database implemented as a neural network",
+                "cites": "2",
+                "year": "1996"
+            },
+            "id_citations": "m02-44gAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Center for the Study of Brain, Mind & Behavior",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "m02-44gAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-dependence of response curves to deep brain stimulation and their relationship: from essential tremor patient data to a Wilson\u2013Cowan model",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian confidence in optimal decisions",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the effects of motivation on choice and learning in the basal ganglia",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict detection in a sequential decision task is associated with increased cortico-subthalamic coherence and prolonged subthalamic oscillatory response in the beta band.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural signatures of pathological hyperdirect pathway activity in Parkinson's disease",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A normative account of confirmatory biases during reinforcement learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward prediction errors induce risk-seeking",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Average beta burst duration profiles provide a signature of dynamical changes between the ON and OFF medication states in Parkinson's disease",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating the probability of New Zealand regions being free from COVID-19 using a stochastic SEIR model",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian confidence for drift diffusion observers in dynamic stimuli tasks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "m02-44gAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine role in learning and action inference",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "m02-44gAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kuramoto Model Simulation",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nucleus accumbens core dopamine during Go-NoGo task",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "m02-44gAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=m02-44gAAAAJ",
+    "brain_inspired": {
+        "id": "710",
+        "link": "https://braininspired.co/podcast/32/",
+        "name": "Rafal Bogacz",
+        "title": "BI 032 Rafal Bogacz: Back-Propagation in Brains",
+        "text": "Rafal and I discuss many of the ways back-propagation could be approximated in brains as detailed in his recent Trends in Cognitive Sciences review. We also cover how brains and machines learn, the free energy principle with its predictions and implications related to back-prop and understanding brains in general, and more."
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "affiliation": "Postdoctoral Researcher, Carnegie Mellon University",
+    "cites_per_year": {
+        "2015": 6,
+        "2016": 20,
+        "2017": 14,
+        "2018": 27,
+        "2019": 32,
+        "2020": 22
+    },
+    "citedby": 123,
+    "citedby5y": 121,
+    "coauthors": [
+        {
+            "affiliation": "Associate Professor, Dept. Psychology, Carnegie Mellon Neuroscience Institute, & BME (courtesy)",
+            "id": "rjPNIhkAAAAJ",
+            "name": "Timothy Verstynen"
+        },
+        {
+            "affiliation": "Professor and Chair of Psychology, Georgia Institute of Technology",
+            "id": "AEQRI1cAAAAJ",
+            "name": "Mark E. Wheeler"
+        },
+        {
+            "affiliation": "Post-doctoral Researcher, University of Pittsburgh",
+            "id": "f48Ae6wAAAAJ",
+            "name": "Joshua J. Tremel"
+        }
+    ],
+    "email": "@andrew.cmu.edu",
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "id": "o-MJbsUAAAAJ",
+    "interests": [
+        "decision making",
+        "learning",
+        "basal ganglia",
+        "cognitive modeling",
+        "computational neuroscience"
+    ],
+    "name": "Kyle Dunovan",
+    "publications": [
+        {
+            "bib": {
+                "title": "Competing basal ganglia pathways determine the difference between stopping and deciding not to go",
+                "cites": "4727021575593446286",
+                "year": "2015",
+                "url": "https://elifesciences.org/articles/08723",
+                "author": "Kyle Dunovan and Brighid Lynch and Tara Molesworth and Timothy Verstynen",
+                "journal": "Elife",
+                "volume": "4",
+                "pages": "e08723",
+                "publisher": "eLife Sciences Publications Limited",
+                "abstract": "The architecture of corticobasal ganglia pathways allows for many routes to inhibit a planned action: the hyperdirect pathway performs fast action cancellation and the indirect pathway competitively constrains execution signals from the direct pathway. We present a novel model, principled off of basal ganglia circuitry, that differentiates control dynamics of reactive stopping from intrinsic no-go decisions. Using a nested diffusion model, we show how reactive braking depends on the state of an execution process. In contrast, no-go decisions are best captured by a failure of the execution process to reach the decision threshold due to increasing constraints on the drift rate. This model accounts for both behavioral and functional MRI (fMRI) responses during inhibitory control tasks better than alternative models. The advantage of this framework is that it allows for incorporating the effects of context in reactive and proactive control into a single unifying parameter, while distinguishing action cancellation from no-go decisions.",
+                "eprint": "https://elifesciences.org/articles/08723"
+            },
+            "id_citations": "o-MJbsUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prior probability and feature predictability interactively bias perceptual decisions",
+                "cites": "41",
+                "year": "2014"
+            },
+            "id_citations": "o-MJbsUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Believer-Skeptic Meets Actor-Critic: Rethinking the Role of Basal Ganglia Pathways during Decision-Making and Reinforcement Learning",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "o-MJbsUAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-driven changes in striatal pathway competition shape evidence evaluation in decision-making",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "o-MJbsUAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Errors in action timing and inhibition facilitate learning by tuning distinct mechanisms in the underlying decision process",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "o-MJbsUAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corticostriatal synaptic weight evolution in a two-alternative forced choice task: a computational study",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "o-MJbsUAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational and neural signatures of pre and post-sensory expectation bias in inferior temporal cortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "o-MJbsUAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A biologically motivated synthesis of accumulator and reinforcement-learning models for describing adaptive decision-making",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "o-MJbsUAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining Imagination and Heuristics to Learn Strategies that Generalize",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "o-MJbsUAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Better Safe than Sorry: Evidence Accumulation Allows for Safe Reinforcement Learning",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "o-MJbsUAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning model-based strategies in simple environments with hierarchical q-networks",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "o-MJbsUAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value-conflict and volatility influence distinct decision-making processes",
+                "cites": "0"
+            },
+            "id_citations": "o-MJbsUAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Post-Doctoral Fellow 2017-Carnegie Mellon University",
+                "cites": "0"
+            },
+            "id_citations": "o-MJbsUAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing fMRI Data: Blocked Motor Task",
+                "cites": "0"
+            },
+            "id_citations": "o-MJbsUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=o-MJbsUAAAAJ",
+    "brain_inspired": {
+        "id": "861",
+        "link": "https://braininspired.co/podcast/50/",
+        "name": "Kyle Dunovan",
+        "title": "BI 050 Kyle Dunovan: Academia to Industry",
+        "text": "Kyle and I talk about his work modeling the basal ganglia and its circuitry to control whether we take an action and how we select among alternative actions. We also reflect on his experiences in academia, the larger picture of what it\u2019s like in graduate school and after \u2013 at least in a computational neuroscience program \u2013 why he left, what he\u2019s doing now, and how it all fits together."
+    }
+}

@@ -1,0 +1,1662 @@
+{
+    "affiliation": "Professor of Computer Science, Portland State University",
+    "cites_per_year": {
+        "1994": 201,
+        "1995": 180,
+        "1996": 246,
+        "1997": 354,
+        "1998": 490,
+        "1999": 645,
+        "2000": 573,
+        "2001": 769,
+        "2002": 756,
+        "2003": 909,
+        "2004": 919,
+        "2005": 1075,
+        "2006": 1065,
+        "2007": 1239,
+        "2008": 1173,
+        "2009": 1248,
+        "2010": 1521,
+        "2011": 1395,
+        "2012": 1393,
+        "2013": 1582,
+        "2014": 1646,
+        "2015": 1609,
+        "2016": 1574,
+        "2017": 1649,
+        "2018": 1559,
+        "2019": 1607,
+        "2020": 604
+    },
+    "citedby": 28726,
+    "citedby5y": 8611,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Computer Science, Univ. of New Mexico",
+            "id": "rx56n5cAAAAJ",
+            "name": "Stephanie Forrest"
+        },
+        {
+            "affiliation": "FatBrain.io, Persistent Systems, IBM T.J. Watson Research Center, Los Alamos National Laboratory",
+            "id": "RjByQz0AAAAJ",
+            "name": "Rajarshi Das"
+        },
+        {
+            "affiliation": "Staff Scientist, Los Alamos National Laboratory",
+            "id": "Iiawf8YAAAAJ",
+            "name": "Peter Hraber"
+        },
+        {
+            "affiliation": "",
+            "id": "hFQ9i_sAAAAJ",
+            "name": "Payel Ghosh"
+        },
+        {
+            "affiliation": "Los Alamos National Laboratory",
+            "id": "wpc59xQAAAAJ",
+            "name": "Steven P. Brumby"
+        },
+        {
+            "affiliation": "Emeritus professor, UCSD",
+            "id": "vqrY_hgAAAAJ",
+            "name": "Richard K. Belew"
+        },
+        {
+            "affiliation": "Los Alamos National Laboratory",
+            "id": "vlAOaqMAAAAJ",
+            "name": "Garrett T Kenyon"
+        },
+        {
+            "affiliation": "Professor of computational systems biology, Biozentrum, University of Basel",
+            "id": "N24KB1wAAAAJ",
+            "name": "Erik van Nimwegen"
+        },
+        {
+            "affiliation": "IBM T. J. Watson Research Center",
+            "id": "CEtKkQQAAAAJ",
+            "name": "James E. Hanson"
+        },
+        {
+            "affiliation": "Professor of Informatics, Indiana University OR Instituto Gulbenkian de Ci\u00eancia.",
+            "id": "SIouE70AAAAJ",
+            "name": "Luis M. Rocha"
+        },
+        {
+            "affiliation": "Netherlands Cancer Institute",
+            "id": "RzkoGH0AAAAJ",
+            "name": "Ludo Pagie"
+        }
+    ],
+    "email": "@pdx.edu",
+    "hindex": 45,
+    "hindex5y": 25,
+    "i10index": 80,
+    "i10index5y": 46,
+    "id": "k4gbv2AAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Complex Systems",
+        "Evolutionary Computation"
+    ],
+    "name": "Melanie Mitchell",
+    "publications": [
+        {
+            "bib": {
+                "title": "An introduction to genetic algorithms",
+                "cites": "8876186852635021460",
+                "year": "1996",
+                "url": "http://books.google.com/books?hl=en&lr=&id=0eznlz0TF-IC&oi=fnd&pg=PP9&dq=info:lJBNF-qMLnsJ:scholar.google.com&ots=shrD62ZbKg&sig=3VRHmQ50wX1iL2duba7LW7X_zRQ",
+                "author": "Melanie Mitchell",
+                "abstract": "Genetic algorithms have been used in science and engineering as adaptive algorithms for solving practical problems and as computational models of natural evolutionary systems. This brief, accessible introduction describes some of the most interesting research in the field and also enables readers to implement and experiment with genetic algorithms on their own. It focuses in depth on a small set of important and interesting topics--particularly in machine learning, scientific modeling, and artificial life--and reviews a broad span of research, including the work of Mitchell and her colleagues. The descriptions of applications and modeling projects stretch beyond the strict boundaries of computer science to include dynamical systems theory, game theory, molecular biology, ecology, evolutionary biology, and population genetics, underscoring the exciting\" general purpose\" nature of genetic algorithms as search methods that can be employed across disciplines. An Introduction to Genetic Algorithms is accessible to students and researchers in any scientific discipline. It includes many thought and computer exercises that build on and reinforce the reader's understanding of the text. The first chapter introduces genetic algorithms and their terminology and describes two provocative applications in detail. The second and third chapters look at the use of genetic algorithms in machine learning (computer programs, data analysis and prediction, neural networks) and in scientific models (interactions among learning, evolution, and culture; sexual selection; ecosystems; evolutionary activity). Several approaches to the theory of genetic algorithms are \u2026",
+                "eprint": "http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf"
+            },
+            "id_citations": "k4gbv2AAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complexity: A guided tour",
+                "cites": "2941",
+                "year": "2009"
+            },
+            "id_citations": "k4gbv2AAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The royal road for genetic algorithms: Fitness landscapes and GA performance",
+                "cites": "719",
+                "year": "1991"
+            },
+            "id_citations": "k4gbv2AAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revisiting the edge of chaos: Evolving cellular automata to perform computations",
+                "cites": "598",
+                "year": "1993"
+            },
+            "id_citations": "k4gbv2AAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relative building-block fitness and the building-block hypothesis",
+                "cites": "559",
+                "year": "1993"
+            },
+            "id_citations": "k4gbv2AAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When will a genetic algorithm outperform hill climbing",
+                "cites": "502",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving cellular automata to perform computations: Mechanisms and impediments",
+                "cites": "495",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analogy-making as perception: A computer model",
+                "cites": "482",
+                "year": "1993"
+            },
+            "id_citations": "k4gbv2AAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex systems: Network thinking",
+                "cites": "425",
+                "year": "2006"
+            },
+            "id_citations": "k4gbv2AAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolution of emergent computation",
+                "cites": "377",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic algorithms and artificial life",
+                "cites": "351",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What makes a problem hard for a genetic algorithm? Some anomalous results and their explanation",
+                "cites": "349",
+                "year": "1993"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive individuals in evolving populations: models and algorithms",
+                "cites": "303",
+                "year": "2018"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Copycat project: A model of mental fluidity and analogy-making.",
+                "cites": "289",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation in Cellular Automata: A Selected Review.",
+                "cites": "287",
+                "year": "2005"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving cellular automata with genetic algorithms: A review of recent work",
+                "cites": "281",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic algorithms: An overview.",
+                "cites": "244",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving globally synchronized cellular automata",
+                "cites": "230",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A genetic algorithm discovers particle-based computation in cellular automata",
+                "cites": "227",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical dynamics of the royal road genetic algorithm",
+                "cites": "194",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics, computation, and the\" edge of chaos\": A re-examination",
+                "cites": "172",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The copycat project: A model of mental fluidity and analogy-making",
+                "cites": "165",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "X-ray survey of the Small Magellanic Cloud",
+                "cites": "164",
+                "year": "1981"
+            },
+            "id_citations": "k4gbv2AAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finite populations induce metastability in evolutionary search",
+                "cites": "141",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of understanding in a computer model of concepts and analogy-making",
+                "cites": "127",
+                "year": "1990"
+            },
+            "id_citations": "k4gbv2AAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolutionary computation: an overview",
+                "cites": "122",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigation of image feature extraction by a genetic algorithm",
+                "cites": "116",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex systems theory and evolution",
+                "cites": "115",
+                "year": "2002"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segmentation of medical images using a genetic algorithm",
+                "cites": "106",
+                "year": "2006"
+            },
+            "id_citations": "k4gbv2AAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of evolutionary and coevolutionary search",
+                "cites": "98",
+                "year": "2002"
+            },
+            "id_citations": "k4gbv2AAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An introduction to genetic algorithms. A Bradford Book",
+                "cites": "96",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-standard computation",
+                "cites": "90",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolutionary design of collective computation in cellular automata",
+                "cites": "89",
+                "year": "2003"
+            },
+            "id_citations": "k4gbv2AAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An introduction to genetic algorithms mit press",
+                "cites": "86",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resource sharing and coevolution in evolving cellular automata",
+                "cites": "84",
+                "year": "2000"
+            },
+            "id_citations": "k4gbv2AAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of emergent computation in cellular automata",
+                "cites": "78",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving two-dimensional cellular automata to perform density classification: A report on work in progress",
+                "cites": "71",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The performance of genetic algorithms on Walsh polynomials: Some anomalous results and their explanation",
+                "cites": "62",
+                "year": "1991"
+            },
+            "id_citations": "k4gbv2AAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-awareness and control in decentralized systems.",
+                "cites": "60",
+                "year": "2005"
+            },
+            "id_citations": "k4gbv2AAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analogy making as a complex adaptive system",
+                "cites": "55",
+                "year": "2001"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of space in the success of coevolutionary learning",
+                "cites": "54",
+                "year": "2006"
+            },
+            "id_citations": "k4gbv2AAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer arithmetic, chaos and fractals",
+                "cites": "54",
+                "year": "1990"
+            },
+            "id_citations": "k4gbv2AAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting individual classifications of hierarchical networks",
+                "cites": "49",
+                "year": "2013"
+            },
+            "id_citations": "k4gbv2AAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embedded particle computation in evolved cellular automata",
+                "cites": "48",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "B. 2.7. 5: Fitness landscapes: Royal road functions",
+                "cites": "46",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incorporating priors for medical image segmentation using a genetic algorithm",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "k4gbv2AAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Copycat: A computer model of high-level perception and conceptual slippage in analogy-making",
+                "cites": "43",
+                "year": "1992"
+            },
+            "id_citations": "k4gbv2AAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A complex-systems perspective on the \u201ccomputation vs. dynamics\u201d debate in cognitive science",
+                "cites": "41",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the success of spatial coevolution",
+                "cites": "40",
+                "year": "2005"
+            },
+            "id_citations": "k4gbv2AAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Life and evolution in computers",
+                "cites": "36",
+                "year": "2001"
+            },
+            "id_citations": "k4gbv2AAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ubiquity symposium: biological computation",
+                "cites": "35",
+                "year": "2011"
+            },
+            "id_citations": "k4gbv2AAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics, computation, and the\" edge of chaos\": a re-examination",
+                "cites": "33",
+                "year": "1993"
+            },
+            "id_citations": "k4gbv2AAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic algorithms",
+                "cites": "32",
+                "year": "2003"
+            },
+            "id_citations": "k4gbv2AAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is the universe a universal computer?",
+                "cites": "30",
+                "year": "2002"
+            },
+            "id_citations": "k4gbv2AAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fluid concepts and creative analogies: A theory and its computer implementation",
+                "cites": "29",
+                "year": "1987"
+            },
+            "id_citations": "k4gbv2AAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation and the natural sciences",
+                "cites": "21",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of conceptual structure in designing cellular automata to perform collective computation",
+                "cites": "20",
+                "year": "2008"
+            },
+            "id_citations": "k4gbv2AAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a stronger building-blocks hypothesis: Effects of relative building-block fitness on GA performance",
+                "cites": "20",
+                "year": "1991"
+            },
+            "id_citations": "k4gbv2AAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coevolutionary learning with spatially distributed populations",
+                "cites": "18",
+                "year": "2006"
+            },
+            "id_citations": "k4gbv2AAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can evolution explain how the mind works? A review of the evolutionary psychology debates",
+                "cites": "16",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer science application: evolving cellular automata",
+                "cites": "16",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial intelligence: A guide for thinking humans",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "k4gbv2AAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concepts, analogies, and creativity",
+                "cites": "15",
+                "year": "1988"
+            },
+            "id_citations": "k4gbv2AAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial intelligence hits the barrier of meaning",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "k4gbv2AAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving one dimensional cellular automata to perform a non-trivial collective behavior task: One case study",
+                "cites": "14",
+                "year": "2002"
+            },
+            "id_citations": "k4gbv2AAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LD Davis, handbook of genetic algorithms",
+                "cites": "14",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer Models of Complex Adaptive Systems",
+                "cites": "13",
+                "year": "1993"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pathways of human development: Explorations of change",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "k4gbv2AAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An introduction to genetic algorithms-Melanie Mitchell. MIT Press, Cambridge MA, 1996. $30.00 (cloth), 270 pp",
+                "cites": "12",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving cellular automata to perform computations",
+                "cites": "12",
+                "year": "1994"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive computation: The multidisciplinary legacy of John H. Holland",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "k4gbv2AAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LSGA: combining level-sets and genetic algorithms for segmentation",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biological computation",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A genetic algorithm-based level set curve evolution for prostate segmentation on pelvic ct and mri images",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving Cellular Automata.",
+                "cites": "11",
+                "year": "2009"
+            },
+            "id_citations": "k4gbv2AAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combinatorial shape decomposition",
+                "cites": "11",
+                "year": "2007"
+            },
+            "id_citations": "k4gbv2AAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular computation",
+                "cites": "11",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fitness landscapes",
+                "cites": "11",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prostate segmentation on pelvic CT images using a genetic algorithm",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "k4gbv2AAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The copycat project",
+                "cites": "10",
+                "year": "1984"
+            },
+            "id_citations": "k4gbv2AAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives on adaptation in natural and artificial systems",
+                "cites": "9",
+                "year": "2005"
+            },
+            "id_citations": "k4gbv2AAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theories of structure versus theories of change",
+                "cites": "9",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic image retrieval via active grounding of visual situations",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "k4gbv2AAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to complexity",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "k4gbv2AAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic algorithms",
+                "cites": "7",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active object localization in visual situations",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "k4gbv2AAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the role of shape prototypes in hierarchical models of vision",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "k4gbv2AAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic segmentation of the prostate using a genetic algorithm for prostate cancer treatment planning",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding an optimal combination of key training items using genetic algorithms and support vector machines",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is Deception Anyway?: And what Does it Have to Do with GAs?: Some Concerns Inspired by the Tanese Functions",
+                "cites": "5",
+                "year": "1991"
+            },
+            "id_citations": "k4gbv2AAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract",
+                "cites": "5",
+                "year": "1962"
+            },
+            "id_citations": "k4gbv2AAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing classification decisions of hierarchical models of cortex",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random prototypes in hierarchical models of vision",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolutionary computation",
+                "cites": "4",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The theory of quantum computation: an introduction",
+                "cites": "4",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The practicality of algorithms in instructional development",
+                "cites": "4",
+                "year": "1980"
+            },
+            "id_citations": "k4gbv2AAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Interview-Based Study of Pioneering Experiences in Teaching and Learning Complex Systems in Higher Education",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "k4gbv2AAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse coding on stereo video for object detection",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "k4gbv2AAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segmentation of thermographic images of hands using a genetic algorithm",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complexity theory",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "k4gbv2AAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolutionary design of collective computation in cellular automata",
+                "cites": "3",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preface to chapter 25",
+                "cites": "3",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives on copycat: Comparisons with recent work",
+                "cites": "3",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How can the study of complexity transform our understanding of the world",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "k4gbv2AAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast On-Line Kernel Density Estimation for Active Object Localization",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "k4gbv2AAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bringing clarity to complexity",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "k4gbv2AAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced processing for high-bandwidth sensor systems",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "k4gbv2AAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-programming of matter and the evolution of proto-biological organizations",
+                "cites": "2",
+                "year": "1992"
+            },
+            "id_citations": "k4gbv2AAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00bd Introduction",
+                "cites": "2",
+                "year": "1982"
+            },
+            "id_citations": "k4gbv2AAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaussian processes with context-supported priors for active object localization",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "k4gbv2AAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian optimization for refining object proposals",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "k4gbv2AAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shared principles between the computing and biological sciences",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "k4gbv2AAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives on Adaptation in Natural and Artificial Systems: Proceedings Volume in the Santa Fe Institute Studies in the Sciences of Complexity",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "k4gbv2AAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lattice molecular automaton (LMA): A physico-chemical simulation system for constructive molecular dynamics",
+                "cites": "1",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preface to \u2018How learning guides evolution\u2019by GE Hinton & SJ Nowlan",
+                "cites": "1",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relationship between the \u201cstatistical mechanics\u201d supervise learning framework and PAC",
+                "cites": "1",
+                "year": "1992"
+            },
+            "id_citations": "k4gbv2AAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endogenous Nonconvex State-Transition Rules and Cyclical Policies",
+                "cites": "1",
+                "year": "1991"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Institutional investors and industrial relations data: an empirical survey",
+                "cites": "1",
+                "year": "1989"
+            },
+            "id_citations": "k4gbv2AAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An interfilament medium in the Crab Nebula?",
+                "cites": "1",
+                "year": "1981"
+            },
+            "id_citations": "k4gbv2AAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse Coding of Stereo Video for Object Detection",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "k4gbv2AAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revisiting Visual Grounding",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "k4gbv2AAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research Article An Interview-Based Study of Pioneering Experiences in Teaching and Learning Complex Systems in Higher Education",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "k4gbv2AAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object Detection using HoG Features for Visual Situation Recognition",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "k4gbv2AAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Interpretation of Visual Situations",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "k4gbv2AAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Melanie Mitchell",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "k4gbv2AAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complexity is around us a review of Complexity: A Guided Tour",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "k4gbv2AAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding Classification Decisions for Object Detection",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "k4gbv2AAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMMITTEE APPROVALS",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "k4gbv2AAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple guide to partial observability",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "k4gbv2AAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prostate segmentation on pelvic CT images using a genetic algorithm [6914-151]",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "k4gbv2AAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Doi-Peliti methods for non-commuting observables",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolutionary Electronics: Automatic Design of Electronic Circuit and Systems by Genetic Algorithms.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "k4gbv2AAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives on Adaptation in Natural and Artificial Systems: Proceedings Volume in the Santa Fe Institute Studies",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "k4gbv2AAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A performance comparison of TRACA-an incremental on-line learning algorithm",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "k4gbv2AAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospects for Evolutionary Computation",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "k4gbv2AAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conference Papers-Cellular Automata-Evolving One Dimensional Cellular Automata to Perform Non-trivial Collective Behavior Task: One Case Study",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "k4gbv2AAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reviewers of Volume 7",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "k4gbv2AAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RESEARCH EXPERIENCE AND INTERESTS",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resource Sharing and Coevolution",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Introduction to Genetic Algorithms",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "k4gbv2AAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Hierarchical Concept Learner",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to Non\u2010Standard Computation",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving cellular automata to perform computations. Final technical report",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "k4gbv2AAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical Report Incrementally Learning Boolean-Like Nets",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Commentary on T. van Gelder, The Dynamical Hypothesis in Cognitive Science. Submitted to Behavioral and Brain Sciences February 4, 1997",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "David B. Fogel on An Introduction to Genetic algorithms",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Darwin's dangerous idea",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "k4gbv2AAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Off-training-set error for the Gibbs and the Bayes optimal generalizers",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ICGA-95 CONFERENCE ORGANIZATION",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "k4gbv2AAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three Simple Experimental Games",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "k4gbv2AAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acknowledgment to reviewers",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "k4gbv2AAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Royal Commission",
+                "cites": "0",
+                "year": "1976"
+            },
+            "id_citations": "k4gbv2AAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complexity is around us",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Line Offices",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigation of Image Feature Extraction by a",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "s and abstracts for invited speakers",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Grounding of Visual Situations",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Martin Cenek and Melanie Mitchell",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holland, JH (1980). Adaptive algorithms for discovering and using general patterns in growing knowledge bases. In-ternational Journal of Policy Analysis and Information Systems \u2026",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Out of Control: The Rise of Neo-Biological Civilization By Kevin Kelly. Addison-Wesley, 1994. $28.00.",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Teaching Model for Independent Learning",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Review of Darwin's Dangerous Idea by Daniel C. Dennett",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Final Paper Format",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aertsen, A. 103",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Format for Final Paper",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Review of Complexity: A Guided Tour",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u041d Computers and Life",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volume 3 April 1996",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognition in Computation: A Selected History/1 Michael T. Cox Hybrid Dynamical Systems, Dynamical Intelligence, and Meta-Intelligence in Embodied Agents/18",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New York: Van Nostrand Reinhold, 1991. Melanie Mitchell",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding Complexity: Reductionist or Holistic Approach?",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Genetic Algorithm Genetic Algorithm Genetic Algorithm-based Level S based Level S based Level Set Curve Evolution for Prostate Segmentation on Pelvic CT and MRI Images",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "W hen W ill a Genetic Algorithm",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1399 Hyde Park Road Santa Fe, NM 87501 Email: mm@ santafe. edu Mimicking biological evolution and harnessing its power for adaptation are problems that have intrigued computer \u2026",
+                "cites": "0"
+            },
+            "id_citations": "k4gbv2AAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=k4gbv2AAAAAJ",
+    "brain_inspired": {
+        "id": "622",
+        "link": "https://braininspired.co/podcast/22/",
+        "name": "Melanie Mitchell",
+        "title": "BI 022 Melanie Mitchell: Complexity, and AI Shortcomings",
+        "text": "Melanie and I talk about the limitations of artificial intelligence in its current deep learning state (a la her New York Times Op-Ed), what AI needs to proceed toward general AI, what complexity is and how it relates to the fields of AI and neuroscience, and plenty more. "
+    }
+}

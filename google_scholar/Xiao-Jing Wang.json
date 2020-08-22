@@ -1,0 +1,1682 @@
+{
+    "affiliation": "Global Professor of Neural Science, New York University",
+    "cites_per_year": {
+        "1994": 101,
+        "1995": 83,
+        "1996": 88,
+        "1997": 133,
+        "1998": 184,
+        "1999": 240,
+        "2000": 286,
+        "2001": 331,
+        "2002": 373,
+        "2003": 700,
+        "2004": 558,
+        "2005": 678,
+        "2006": 829,
+        "2007": 824,
+        "2008": 891,
+        "2009": 932,
+        "2010": 1027,
+        "2011": 1186,
+        "2012": 1423,
+        "2013": 1956,
+        "2014": 1927,
+        "2015": 2175,
+        "2016": 2488,
+        "2017": 2539,
+        "2018": 2570,
+        "2019": 2780,
+        "2020": 2147
+    },
+    "citedby": 29911,
+    "citedby5y": 14711,
+    "coauthors": [
+        {
+            "affiliation": "Assistant Professor of Psychiatry, Neuroscience, and Physics, Yale University",
+            "id": "LCAIVIUAAAAJ",
+            "name": "John D. Murray"
+        },
+        {
+            "affiliation": "Robert L. McNeil, Jr., Professor of Translational Research, Chair of Psychiatry, Yale University",
+            "id": "Bu-gRtYAAAAJ",
+            "name": "John Krystal"
+        },
+        {
+            "affiliation": "Yale University",
+            "id": "QVS1AfkAAAAJ",
+            "name": "Alan Anticevic"
+        },
+        {
+            "affiliation": "Institut d'Investigacions Biom\u00e8diques August Pi i Sunyer (IDIBAPS)",
+            "id": "WMm3bXUAAAAJ",
+            "name": "Albert Compte"
+        },
+        {
+            "affiliation": "NYU Neuroscience Institute",
+            "id": "DVl9E8YAAAAJ",
+            "name": "Gyorgy Buzsaki"
+        },
+        {
+            "affiliation": "Johns Hopkins University",
+            "id": "iOQ3330AAAAJ",
+            "name": "Daeyeol Lee"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "ojfX4RwAAAAJ",
+            "name": "Stefano Fusi"
+        },
+        {
+            "affiliation": "Associate Professor of Psychology, University of Ljubljana",
+            "id": "faBMKJsAAAAJ",
+            "name": "Grega Repov\u0161"
+        },
+        {
+            "affiliation": "M.D.-Ph.D., Yale University; Research Track Psychiatry Resident at Mount Sinai School of Medicine",
+            "id": "Ry6RUyoAAAAJ",
+            "name": "Genevieve Yang"
+        },
+        {
+            "affiliation": "Research Scientist, University of Cambridge",
+            "id": "n48pFqcAAAAJ",
+            "name": "Alberto Bernacchia"
+        },
+        {
+            "affiliation": "Associate Professor of Neuroscience, Rutgers University",
+            "id": "8FK99kkAAAAJ",
+            "name": "Michael W. Cole"
+        },
+        {
+            "affiliation": "National Tsing Hua University",
+            "id": "zULxPHYAAAAJ",
+            "name": "Chung-Chuan Lo"
+        },
+        {
+            "affiliation": "Assistant Professor, University of California, Davis",
+            "id": "1sVG1IgAAAAJ",
+            "name": "Rishidev Chaudhuri"
+        },
+        {
+            "affiliation": "The University of Chicago",
+            "id": "eegYQdMAAAAJ",
+            "name": "David J. Freedman"
+        },
+        {
+            "affiliation": "Group Leader, Champalimaud Neuroscience Programme, Lisbon, Portugal",
+            "id": "_Z8XqrUAAAAJ",
+            "name": "Alfonso Renart"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "oVF9D6EAAAAJ",
+            "name": "H Francis Song"
+        },
+        {
+            "affiliation": "Professor Bioscience, Professor Computer Science,KAUST, Professor Computational Medicine, KI",
+            "id": "_DUppAgAAAAJ",
+            "name": "Jesper Tegn\u00e9r"
+        },
+        {
+            "affiliation": "Brandeis University",
+            "id": "ZdwhFVYAAAAJ",
+            "name": "Paul Miller"
+        },
+        {
+            "affiliation": "Profesor de Neurociencias, Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+            "id": "tghN5uYAAAAJ",
+            "name": "ranulfo romo"
+        },
+        {
+            "affiliation": "Stem Cell and Brain Research Institut",
+            "id": "74ybQz4AAAAJ",
+            "name": "Henry Kennedy"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 83,
+    "hindex5y": 61,
+    "i10index": 149,
+    "i10index5y": 132,
+    "id": "cv-YgL0AAAAJ",
+    "interests": [
+        "Computational Neuroscience",
+        "Large-scale Modeling",
+        "Working Memory",
+        "Decision Making",
+        "Oscillation"
+    ],
+    "name": "Xiao-Jing Wang",
+    "publications": [
+        {
+            "bib": {
+                "title": "Mechanisms of gamma oscillations",
+                "cites": "1588",
+                "year": "2012"
+            },
+            "id_citations": "cv-YgL0AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gamma oscillation by synaptic inhibition in a hippocampal interneuronal network model",
+                "cites": "1542",
+                "year": "1996"
+            },
+            "id_citations": "cv-YgL0AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurophysiological and computational principles of cortical rhythms in cognition",
+                "cites": "1461",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic decision making by slow reverberation in cortical circuits",
+                "cites": "1033",
+                "year": "2002"
+            },
+            "id_citations": "cv-YgL0AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic reverberation underlying mnemonic persistent activity",
+                "cites": "971",
+                "year": "2001"
+            },
+            "id_citations": "cv-YgL0AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic mechanisms and network dynamics underlying spatial working memory in a cortical network model",
+                "cites": "942",
+                "year": "2000"
+            },
+            "id_citations": "cv-YgL0AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The importance of mixed selectivity in complex cognitive tasks",
+                "cites": "819",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic basis of cortical persistent activity: the importance of NMDA receptors to working memory",
+                "cites": "794",
+                "year": "1999"
+            },
+            "id_citations": "cv-YgL0AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A recurrent network mechanism of time integration in perceptual decisions",
+                "cites": "726",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What determines the frequency of fast network oscillations with irregular neural discharges? I. Synaptic dynamics and excitation-inhibition balance",
+                "cites": "709",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of neuromodulation in a cortical network model of object working memory dominated by recurrent inhibition",
+                "cites": "663",
+                "year": "2001"
+            },
+            "id_citations": "cv-YgL0AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of default network deactivation in cognition and disease",
+                "cites": "632",
+                "year": "2012"
+            },
+            "id_citations": "cv-YgL0AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alternating and synchronous rhythms in reciprocally inhibitory model neurons",
+                "cites": "552",
+                "year": "1992"
+            },
+            "id_citations": "cv-YgL0AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta oscillations in somata and dendrites of hippocampal pyramidal cells in vivo: Activity\u2010dependent phase\u2010precession of action potentials",
+                "cites": "534",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision making in recurrent neuronal circuits",
+                "cites": "512",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular and network mechanisms of slow oscillatory activity (< 1 Hz) and wave propagations in a cortical network model",
+                "cites": "499",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortico\u2013basal ganglia circuit mechanism for a decision threshold in reaction time tasks",
+                "cites": "487",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interneuron diversity series: circuit complexity and axon wiring economy of cortical interneurons",
+                "cites": "463",
+                "year": "2004"
+            },
+            "id_citations": "cv-YgL0AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A role for NMDA-receptor channels in working memory",
+                "cites": "433",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hierarchy of intrinsic timescales across primate cortex",
+                "cites": "365",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a neurobiology of delusions",
+                "cites": "352",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal basis of age-related working memory decline",
+                "cites": "336",
+                "year": "2011"
+            },
+            "id_citations": "cv-YgL0AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NMDA receptors subserve persistent neuronal firing during working memory in dorsolateral prefrontal cortex",
+                "cites": "330",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of visuospatial working memory in prefrontal cortex: recurrent network and cellular bistability",
+                "cites": "313",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Division of labor among distinct subtypes of inhibitory neurons in a cortical microcircuit of working memory",
+                "cites": "309",
+                "year": "2004"
+            },
+            "id_citations": "cv-YgL0AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-frequency adaptation of a generalized leaky integrate-and-fire model neuron",
+                "cites": "297",
+                "year": "2001"
+            },
+            "id_citations": "cv-YgL0AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variance as a signature of neural computations during decision making",
+                "cites": "291",
+                "year": "2011"
+            },
+            "id_citations": "cv-YgL0AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Calcium coding and adaptive temporal computation in cortical pyramidal neurons",
+                "cites": "283",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise, chaos, and (\u03b5, \u03c4)-entropy per unit time",
+                "cites": "258",
+                "year": "1993"
+            },
+            "id_citations": "cv-YgL0AAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Content and context in temporal thalamocortical binding",
+                "cites": "252",
+                "year": "1994"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spindle rhythmicity in the reticularis thalami nucleus: synchronization among mutually inhibitory neurons",
+                "cites": "246",
+                "year": "1993"
+            },
+            "id_citations": "cv-YgL0AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered global brain signal in schizophrenia",
+                "cites": "245",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporally irregular mnemonic persistent activity in prefrontal neurons of monkeys during a delayed response task",
+                "cites": "244",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational psychiatry",
+                "cites": "243",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A large-scale circuit mechanism for hierarchical dynamical processing in the primate cortex",
+                "cites": "241",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sporadicity: between periodic and chaotic dynamical behaviors",
+                "cites": "233",
+                "year": "1988"
+            },
+            "id_citations": "cv-YgL0AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural circuit basis for spatial working memory",
+                "cites": "227",
+                "year": "2004"
+            },
+            "id_citations": "cv-YgL0AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust spatial working memory through homeostatic synaptic scaling in heterogeneous cortical networks",
+                "cites": "222",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A reservoir of time constants for memory traces in cortical neurons",
+                "cites": "215",
+                "year": "2011"
+            },
+            "id_citations": "cv-YgL0AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple forms of short-term plasticity at excitatory synapses in rat medial prefrontal cortex",
+                "cites": "209",
+                "year": "2000"
+            },
+            "id_citations": "cv-YgL0AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronization properties of spindle oscillations in a thalamic reticular nucleus model",
+                "cites": "197",
+                "year": "1994"
+            },
+            "id_citations": "cv-YgL0AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NMDA receptor function in large-scale anticorrelated neural systems with implications for cognition and schizophrenia",
+                "cites": "195",
+                "year": "2012"
+            },
+            "id_citations": "cv-YgL0AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bursting neurons signal input slope",
+                "cites": "193",
+                "year": "2002"
+            },
+            "id_citations": "cv-YgL0AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Propagation of spindle waves in a thalamic slice model",
+                "cites": "191",
+                "year": "1996"
+            },
+            "id_citations": "cv-YgL0AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural circuit dynamics underlying accumulation of time-varying evidence during perceptual decision making",
+                "cites": "187",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pacemaker neurons for the theta rhythm and their synchronization in the septohippocampal reciprocal loop",
+                "cites": "182",
+                "year": "2002"
+            },
+            "id_citations": "cv-YgL0AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Propagating activity patterns in large-scale inhibitory neuronal networks",
+                "cites": "181",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genesis of bursting oscillations in the Hindmarsh-Rose model and homoclinicity to a chaotic saddle",
+                "cites": "178",
+                "year": "1993"
+            },
+            "id_citations": "cv-YgL0AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The stability of a stochastic CaMKII switch: dependence on the number of enzyme molecules and protein turnover",
+                "cites": "177",
+                "year": "2005"
+            },
+            "id_citations": "cv-YgL0AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A specialized NMDA receptor function in layer 5 recurrent microcircuitry of the adult rat prefrontal cortex",
+                "cites": "175",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural circuit model of flexible sensorimotor mapping: learning and forgetting on multiple timescales",
+                "cites": "166",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast burst firing and short-term synaptic plasticity: a model of neocortical chattering neurons",
+                "cites": "165",
+                "year": "1999"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking microcircuit dysfunction to cognitive impairment: effects of disinhibition associated with schizophrenia in a cortical working memory model",
+                "cites": "163",
+                "year": "2012"
+            },
+            "id_citations": "cv-YgL0AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oscillatory and bursting properties of neurons",
+                "cites": "160",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A recurrent network model of somatosensory parametric working memory in the prefrontal cortex",
+                "cites": "155",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions of intrinsic membrane dynamics to fast network oscillations with irregular neuronal discharges",
+                "cites": "152",
+                "year": "2005"
+            },
+            "id_citations": "cv-YgL0AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamical stability of reverberatory neural circuits",
+                "cites": "152",
+                "year": "2002"
+            },
+            "id_citations": "cv-YgL0AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical physics of temporal intermittency",
+                "cites": "151",
+                "year": "1989"
+            },
+            "id_citations": "cv-YgL0AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dissociation of delay and uncertainty in intertemporal choice",
+                "cites": "149",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Angular path integration by moving \u201chill of activity\u201d: a spiking neuron model without recurrent excitation of the head-direction system",
+                "cites": "145",
+                "year": "2005"
+            },
+            "id_citations": "cv-YgL0AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mean-driven and fluctuation-driven persistent activity in recurrent networks",
+                "cites": "143",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity effect and optimal control of multiple-choice decision making",
+                "cites": "141",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation and temporal decorrelation by single neurons in the primary visual cortex",
+                "cites": "138",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mean-field theory of irregularly spiking neuronal populations and working memory in recurrent cortical networks",
+                "cites": "135",
+                "year": "2004"
+            },
+            "id_citations": "cv-YgL0AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mean-field theory of irregularly spiking neuronal populations and working memory in recurrent cortical networks",
+                "cites": "135",
+                "year": "2004"
+            },
+            "id_citations": "cv-YgL0AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stable population coding for working memory coexists with heterogeneous neural dynamics in prefrontal cortex",
+                "cites": "131",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal representation of task rules by recurrent dynamics: the importance of the diversity of neural responses",
+                "cites": "129",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of the T-type calcium current and the low-threshold spike in thalamic neurons",
+                "cites": "128",
+                "year": "1991"
+            },
+            "id_citations": "cv-YgL0AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent spindle oscillations and intermittent burst firing in a thalamic model: specific neuronal mechanisms",
+                "cites": "126",
+                "year": "1995"
+            },
+            "id_citations": "cv-YgL0AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A biophysically based neural model of matching law behavior: melioration by stochastic synapses",
+                "cites": "124",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From distributed resources to limited slots in multiple-item working memory: a spiking network model with normalization",
+                "cites": "116",
+                "year": "2012"
+            },
+            "id_citations": "cv-YgL0AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic computation underlying probabilistic inference",
+                "cites": "114",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proactive inhibitory control and attractor dynamics in countermanding action: a spiking neural circuit model",
+                "cites": "114",
+                "year": "2009"
+            },
+            "id_citations": "cv-YgL0AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking",
+                "cites": "114",
+                "year": "1994"
+            },
+            "id_citations": "cv-YgL0AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics and circuit mechanisms of decision-making",
+                "cites": "109",
+                "year": "2012"
+            },
+            "id_citations": "cv-YgL0AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrated microcircuit model of attentional processing in the neocortex",
+                "cites": "108",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training excitatory-inhibitory recurrent neural networks for cognitive tasks: A simple and flexible framework",
+                "cites": "105",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamical response properties of neocortical neurons to temporally modulated noisy inputs in vitro",
+                "cites": "104",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early-course unmedicated schizophrenia patients exhibit elevated prefrontal connectivity associated with longitudinal change",
+                "cites": "102",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implications of all-or-none synaptic transmission and short-term depression beyond vesicle depletion: a computational study",
+                "cites": "100",
+                "year": "2000"
+            },
+            "id_citations": "cv-YgL0AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ionic basis for intrinsic 40 Hz neuronal oscillations.",
+                "cites": "100",
+                "year": "1993"
+            },
+            "id_citations": "cv-YgL0AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Charting the landscape of priority problems in psychiatry, part 1: classification and diagnosis",
+                "cites": "98",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Homoclinic orbits and mixed-mode oscillations in far-from-equilibrium systems",
+                "cites": "96",
+                "year": "1987"
+            },
+            "id_citations": "cv-YgL0AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory control by an integral feedback signal in prefrontal cortex: a model of discrimination between sequential stimuli",
+                "cites": "84",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impaired Tuning of Neural Ensembles and the Pathophysiology of Schizophrenia: A Translational and Computational Neuroscience Perspective",
+                "cites": "82",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational psychiatry: New perspectives on mental illness",
+                "cites": "82",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task representations in neural networks trained to perform many cognitive tasks",
+                "cites": "79",
+                "year": "2019"
+            },
+            "id_citations": "cv-YgL0AAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedforward and feedback frequency-dependent interactions in a large-scale laminar network of the primate cortex",
+                "cites": "78",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Same or different? A neural circuit mechanism of similarity-based pattern match decision making",
+                "cites": "77",
+                "year": "2011"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity, pharmacology, and computation: toward a mechanistic understanding of neural system dysfunction in schizophrenia",
+                "cites": "76",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical sporadicity and anomalous diffusion in the L\u00e9vy motion",
+                "cites": "76",
+                "year": "1992"
+            },
+            "id_citations": "cv-YgL0AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanism for stochastic behaviour during a competitive game",
+                "cites": "75",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tuning curve shift by attention modulation in cortical neurons: a computational study of its mechanisms",
+                "cites": "69",
+                "year": "2005"
+            },
+            "id_citations": "cv-YgL0AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-based training of recurrent neural networks for cognitive and value-based tasks",
+                "cites": "66",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional hierarchy underlies preferential connectivity disturbances in schizophrenia",
+                "cites": "65",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dendritic disinhibitory circuit mechanism for pathway-specific gating",
+                "cites": "64",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cannabinoid-mediated disinhibition and working memory: dynamical interplay of multiple feedback mechanisms in a continuous attractor model of prefrontal cortex",
+                "cites": "64",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential short-term synaptic plasticity and transmission of complex spike trains: to depress or to facilitate?",
+                "cites": "64",
+                "year": "2000"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-specific versus generalized mnemonic representations in parietal and prefrontal cortices",
+                "cites": "61",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial embedding of structural similarity in the cerebral cortex",
+                "cites": "58",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms for stochastic decision making in the primate frontal cortex: Single-neuron recording and circuit modeling",
+                "cites": "58",
+                "year": "2009"
+            },
+            "id_citations": "cv-YgL0AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of the indirect pathway of the basal ganglia in perceptual decision making",
+                "cites": "57",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconciling Coherent Oscillation with Modulationof Irregular Spiking Activity in Selective Attention: Gamma-Range Synchronization between Sensoryand Executive Cortical Areas",
+                "cites": "55",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of complex bursting in cortical pyramidal neuron models",
+                "cites": "55",
+                "year": "2000"
+            },
+            "id_citations": "cv-YgL0AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bifurcation phenomena in coupled chemical oscillators: normal form analysis and numerical simulations",
+                "cites": "54",
+                "year": "1987"
+            },
+            "id_citations": "cv-YgL0AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing by Robust Transience: How the Fronto-Parietal Network Performs Sequential, Category-Based Decisions",
+                "cites": "52",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal gradients across mouse cortex",
+                "cites": "51",
+                "year": "2019"
+            },
+            "id_citations": "cv-YgL0AAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Working memory and decision-making in a frontoparietal circuit model",
+                "cites": "51",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice-correlated activity fluctuations underlie learning of neuronal category representation",
+                "cites": "51",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a prefrontal microcircuit model for cognitive deficits in schizophrenia",
+                "cites": "50",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anomalous diffusion in dynamical systems: Transport coefficients of all order",
+                "cites": "44",
+                "year": "1993"
+            },
+            "id_citations": "cv-YgL0AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abnormal fluctuations and thermodynamic phase transitions in dynamical systems",
+                "cites": "43",
+                "year": "1989"
+            },
+            "id_citations": "cv-YgL0AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Charting the landscape of priority problems in psychiatry, part 2: pathogenesis and aetiology",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inter-areal balanced amplification enhances signal propagation in a large-scale circuit model of the primate cortex",
+                "cites": "39",
+                "year": "2018"
+            },
+            "id_citations": "cv-YgL0AAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain structure and dynamics across scales: in search of rules",
+                "cites": "39",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A diversity of localized timescales in network activity",
+                "cites": "39",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural oscillations",
+                "cites": "39",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engagement of pulvino-cortical feedforward and feedback pathways in cognitive computations",
+                "cites": "35",
+                "year": "2019"
+            },
+            "id_citations": "cv-YgL0AAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural integrator models",
+                "cites": "33",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Power-law neuronal fluctuations in a recurrent network model of parametric working memory",
+                "cites": "33",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schizophrenia is associated with a pattern of spatial working memory deficits consistent with cortical disinhibition",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory Control in the Cortico-Basal Ganglia-Thalamocortical Loop: Complex Regulation and Interplay with Memory and Decision Processes",
+                "cites": "31",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tweaking principle for executive control: neuronal circuit mechanism for rule-based task switching and conflict resolution",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The prefrontal cortex as a quintessential \u201ccognitive-type\u201d neural circuit",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wave propagation mediated by GABAB synapse and rebound excitation in an inhibitory network: A reduced model approach",
+                "cites": "31",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational Psychiatry and the Challenge of Schizophrenia",
+                "cites": "29",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common cortical circuit mechanism for perceptual categorical discrimination and veridical judgment",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From biophysics to cognition: reward-dependent adaptive choice behavior",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stability of discrete memory states to stochastic fluctuations in neuronal systems",
+                "cites": "27",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dataset and architecture for visual reasoning with a working memory",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "cv-YgL0AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A disinhibitory circuit motif and flexible information routing in the brain",
+                "cites": "24",
+                "year": "2018"
+            },
+            "id_citations": "cv-YgL0AAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confidence estimation as a stochastic process in a neurodynamical system of decision making",
+                "cites": "24",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decorrelation by recurrent inhibition in heterogeneous neural circuits",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A microcircuit model of prefrontal functions: ying and yang of reverberatory neurodynamics in cognition",
+                "cites": "23",
+                "year": "2006"
+            },
+            "id_citations": "cv-YgL0AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning flexible sensori-motor mappings in a complex network",
+                "cites": "22",
+                "year": "2009"
+            },
+            "id_citations": "cv-YgL0AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tradeoff between accuracy and flexibility in a working memory circuit endowed with slow feedback mechanisms",
+                "cites": "20",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation on perceptual decision with balanced inhibition through feedforward and feedback inhibitory neurons",
+                "cites": "19",
+                "year": "2013"
+            },
+            "id_citations": "cv-YgL0AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Paradoxical response reversal of top-down modulation in cortical circuits with three interneuron types",
+                "cites": "18",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random recurrent networks near criticality capture the broadband power distribution of human ECoG dynamics",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed-accuracy tradeoff by a control signal with balanced excitation and inhibition",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attractor network models",
+                "cites": "18",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical and computational neuroscience: Attractor network models",
+                "cites": "18",
+                "year": "2008"
+            },
+            "id_citations": "cv-YgL0AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chen\u2019s attractor\u2014A new chaotic attractor",
+                "cites": "18",
+                "year": "1999"
+            },
+            "id_citations": "cv-YgL0AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Newhouse set has a positive Hausdorff dimension",
+                "cites": "18",
+                "year": "1990"
+            },
+            "id_citations": "cv-YgL0AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simple, distance-dependent formulation of the Watts-Strogatz model for directed and undirected small-world networks",
+                "cites": "17",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering spatial working memory fields in prefrontal cortex",
+                "cites": "17",
+                "year": "2005"
+            },
+            "id_citations": "cv-YgL0AAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict Resolution as Near-Threshold Decision-Making: A Spiking Neural Circuit Model with Two-Stage Competition for Antisaccadic Task",
+                "cites": "15",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Persistent neural activity: experiments and theory",
+                "cites": "14",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mean-field theory of recurrent cortical networks",
+                "cites": "14",
+                "year": "2003"
+            },
+            "id_citations": "cv-YgL0AAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u03b5 entropy for a time series of thermal turbulence",
+                "cites": "13",
+                "year": "1992"
+            },
+            "id_citations": "cv-YgL0AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encyclopedia of Neuroscience",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling delay-period activity in the prefrontal cortex during working memory tasks",
+                "cites": "7",
+                "year": "1997"
+            },
+            "id_citations": "cv-YgL0AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of membrane bistability on dynamical response of neuronal populations",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "cv-YgL0AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Integrators: recurrent mechanisms and models",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural basis of reasoning and thinking",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "cv-YgL0AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of visuospatial short-term memory in prefrontal cortex: Cellular bistability and recurrent network",
+                "cites": "5",
+                "year": "1998"
+            },
+            "id_citations": "cv-YgL0AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chaotic oscillations of cool flames",
+                "cites": "5",
+                "year": "1989"
+            },
+            "id_citations": "cv-YgL0AAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of altered excitation-inhibition balance on decision making in a cortical circuit model",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "cv-YgL0AAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal cortex",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "cv-YgL0AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sporadic chaos in space-time dynamical processes",
+                "cites": "3",
+                "year": "1995"
+            },
+            "id_citations": "cv-YgL0AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transforming the Choice Outcome to an Action Plan in Monkey Lateral Prefrontal Cortex: A Neural Circuit Model",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "cv-YgL0AAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Downstream effect of ramping neuronal activity through synapses with short-term plasticity",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "cv-YgL0AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low threshold spikes and rhythmic oscillations in thalamic neurons",
+                "cites": "2",
+                "year": "1992"
+            },
+            "id_citations": "cv-YgL0AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous activity in a large neural net: between chaos and noise",
+                "cites": "2",
+                "year": "1991"
+            },
+            "id_citations": "cv-YgL0AAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intermittent fluctuations and complexity",
+                "cites": "2",
+                "year": "1990"
+            },
+            "id_citations": "cv-YgL0AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Homoclinicity and multi-modal periodic or chaotic oscillations in chemical kinetics",
+                "cites": "1",
+                "year": "1990"
+            },
+            "id_citations": "cv-YgL0AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum to: Effects of neuromodulation in a cortical network model of object working memory dominated by recurrent inhibition",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "cv-YgL0AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Landscape of the Frontal Lobe: A Tribute to Patricia S. Goldman-Rakic",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "cv-YgL0AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Partial and full synchrony of thalamic spindle oscillations",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "cv-YgL0AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coupled Oscillations in Neural Control of Breathing",
+                "cites": "0"
+            },
+            "id_citations": "cv-YgL0AAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=cv-YgL0AAAAJ"
+}

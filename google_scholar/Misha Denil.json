@@ -1,0 +1,475 @@
+{
+    "affiliation": "DeepMind",
+    "cites_per_year": {
+        "2013": 22,
+        "2014": 60,
+        "2015": 142,
+        "2016": 309,
+        "2017": 530,
+        "2018": 998,
+        "2019": 1152,
+        "2020": 493
+    },
+    "citedby": 3743,
+    "citedby5y": 3643,
+    "coauthors": [
+        {
+            "affiliation": "CIFAR & DeepMind",
+            "id": "nzEluBwAAAAJ",
+            "name": "Nando de Freitas"
+        },
+        {
+            "affiliation": "Research Engineer, DeepMind",
+            "id": "0Dkf68EAAAAJ",
+            "name": "Sergio G\u00f3mez Colmenarejo"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "n2osZaoAAAAJ",
+            "name": "Matthew W. Hoffman"
+        },
+        {
+            "affiliation": "OpenAI",
+            "id": "n9K1v-cAAAAJ",
+            "name": "Marcin Andrychowicz"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "vDimc-4AAAAJ",
+            "name": "Tom Schaul"
+        },
+        {
+            "affiliation": "Deepmind",
+            "id": "Rne0FzEAAAAJ",
+            "name": "Ziyu Wang"
+        },
+        {
+            "affiliation": "Google AI",
+            "id": "h7OHSkoAAAAJ",
+            "name": "Laurent Dinh"
+        },
+        {
+            "affiliation": "University of Oxford",
+            "id": "zeX8KGAAAAAJ",
+            "name": "Marcin Moczulski"
+        },
+        {
+            "affiliation": "Google DeepMind",
+            "id": "Q0YEc-QAAAAJ",
+            "name": "Raia Hadsell"
+        },
+        {
+            "affiliation": "Research Scientist at Deepmind and PhD from MILA",
+            "id": "7hwJ2ckAAAAJ",
+            "name": "Caglar Gulcehre"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "4PqrDv0AAAAJ",
+            "name": "Dimitrios Kotzias"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Dalhousie University",
+            "id": "EwkaTYEAAAAJ",
+            "name": "Thomas Trappenberg"
+        },
+        {
+            "affiliation": "Amazon Web Services",
+            "id": "Tb0ZrYwAAAAJ",
+            "name": "Alex Smola"
+        },
+        {
+            "affiliation": "Research Scientist, DeepMind",
+            "id": "nQ7Ij30AAAAJ",
+            "name": "Peter Battaglia"
+        },
+        {
+            "affiliation": "Professor, Computer Science, University of California Irvine",
+            "id": "OsoQ-dcAAAAJ",
+            "name": "Padhraic Smyth"
+        },
+        {
+            "affiliation": "DeepMind and Oxford University",
+            "id": "eJwbbXEAAAAJ",
+            "name": "Phil Blunsom"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "U89FHq4AAAAJ",
+            "name": "Hugo Larochelle"
+        },
+        {
+            "affiliation": "Computer Vision Scientist, Amazon",
+            "id": "1cdNGL4AAAAJ",
+            "name": "Loris Bazzani"
+        },
+        {
+            "affiliation": "Researcher, DeepMind",
+            "id": "gVFnjOcAAAAJ",
+            "name": "Tom Erez"
+        },
+        {
+            "affiliation": "Professor, University of Montreal (Computer Sc. & Op. Res.), Mila, CIFAR, CRM, IVADO, REPARTI, GRSNC",
+            "id": "kukA0LcAAAAJ",
+            "name": "Yoshua Bengio"
+        }
+    ],
+    "email": "@google.com",
+    "hindex": 20,
+    "hindex5y": 20,
+    "i10index": 24,
+    "i10index5y": 23,
+    "id": "XrKLUO0AAAAJ",
+    "interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Random Forests",
+        "Statistics"
+    ],
+    "name": "Misha Denil",
+    "publications": [
+        {
+            "bib": {
+                "title": "Learning to learn by gradient descent by gradient descent",
+                "cites": "812",
+                "year": "2016"
+            },
+            "id_citations": "XrKLUO0AAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting parameters in deep learning",
+                "cites": "780",
+                "year": "2013"
+            },
+            "id_citations": "XrKLUO0AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to navigate in complex environments",
+                "cites": "411",
+                "year": "2017"
+            },
+            "id_citations": "XrKLUO0AAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep fried convnets",
+                "cites": "221",
+                "year": "2015"
+            },
+            "id_citations": "XrKLUO0AAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From group to individual labels using deep features",
+                "cites": "182",
+                "year": "2015"
+            },
+            "id_citations": "XrKLUO0AAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning where to attend with deep architectures for image tracking",
+                "cites": "166",
+                "year": "2012"
+            },
+            "id_citations": "XrKLUO0AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Narrowing the gap: Random forests in theory and in practice",
+                "cites": "149",
+                "year": "2014"
+            },
+            "id_citations": "XrKLUO0AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noisy activation functions",
+                "cites": "141",
+                "year": "2016"
+            },
+            "id_citations": "XrKLUO0AAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extraction of salient sentences from labelled documents",
+                "cites": "124",
+                "year": "2014"
+            },
+            "id_citations": "XrKLUO0AAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Learn without Gradient Descent by Gradient Descent",
+                "cites": "117",
+                "year": "2017"
+            },
+            "id_citations": "XrKLUO0AAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overlap versus imbalance",
+                "cites": "95",
+                "year": "2010"
+            },
+            "id_citations": "XrKLUO0AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learned optimizers that scale and generalize",
+                "cites": "88",
+                "year": "2017"
+            },
+            "id_citations": "XrKLUO0AAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consistency of online random forests",
+                "cites": "79",
+                "year": "2013"
+            },
+            "id_citations": "XrKLUO0AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acdc: A structured efficient linear layer",
+                "cites": "72",
+                "year": "2015"
+            },
+            "id_citations": "XrKLUO0AAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to perform physics experiments via deep reinforcement learning",
+                "cites": "51",
+                "year": "2016"
+            },
+            "id_citations": "XrKLUO0AAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hyperbolic attention networks",
+                "cites": "41",
+                "year": "2018"
+            },
+            "id_citations": "XrKLUO0AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward the implementation of a quantum RBM",
+                "cites": "38",
+                "year": "2011"
+            },
+            "id_citations": "XrKLUO0AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Programmable agents",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "XrKLUO0AAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear and parallel learning of markov random fields",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "XrKLUO0AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep multi-instance transfer learning",
+                "cites": "21",
+                "year": "2014"
+            },
+            "id_citations": "XrKLUO0AAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning awareness models",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "XrKLUO0AAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The intentional unintentional agent: Learning to solve many continuous control tasks simultaneously",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "XrKLUO0AAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recklessly approximate sparse coding",
+                "cites": "15",
+                "year": "2012"
+            },
+            "id_citations": "XrKLUO0AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep apprenticeship learning for playing video games",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "XrKLUO0AAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed parameter estimation in probabilistic graphical models",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "XrKLUO0AAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-relevant adversarial imitation learning",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making Efficient Use of Demonstrations to Solve Hard Exploration Problems",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of overlap and imbalance on svm classification",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "XrKLUO0AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Framework for Data-Driven Robotics",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A characterization of the combined effects of overlap and imbalance on the SVM classifier",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "XrKLUO0AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Positive-unlabeled reward learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling data-driven robotics with reward sketching and batch reinforcement learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Programmable reinforcement learning systems",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "XrKLUO0AAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environment navigation using reinforcement learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "XrKLUO0AAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environment navigation using reinforcement learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "XrKLUO0AAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making Efficient Use of Demonstrations to Solve Hard Exploration Problems",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training machine learning models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "XrKLUO0AAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parameter Prediction Paper: Learning to Learn by gradient descent by gradient descent",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "XrKLUO0AAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=XrKLUO0AAAAJ"
+}

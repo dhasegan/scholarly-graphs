@@ -1,0 +1,814 @@
+{
+    "affiliation": "New York University School of Medicine",
+    "cites_per_year": {
+        "1994": 40,
+        "1995": 39,
+        "1996": 480,
+        "1997": 106,
+        "1998": 86,
+        "1999": 108,
+        "2000": 122,
+        "2001": 121,
+        "2002": 164,
+        "2003": 194,
+        "2004": 145,
+        "2005": 191,
+        "2006": 160,
+        "2007": 160,
+        "2008": 172,
+        "2009": 186,
+        "2010": 173,
+        "2011": 197,
+        "2012": 160,
+        "2013": 215,
+        "2014": 198,
+        "2015": 144,
+        "2016": 215,
+        "2017": 231,
+        "2018": 221,
+        "2019": 222,
+        "2020": 162
+    },
+    "citedby": 4675,
+    "citedby5y": 1197,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Neuroscience, NYU Medical School",
+            "id": "RR2nf7kAAAAJ",
+            "name": "Rodolfo R. Llinas"
+        },
+        {
+            "affiliation": "University of Bristol",
+            "id": "ATJW_WAAAAAJ",
+            "name": "Nadia Cerminara"
+        },
+        {
+            "affiliation": "Icahn School of Medicine at Mount Sinai",
+            "id": "Q2WSQiEAAAAJ",
+            "name": "Timothy A Blenkinsop"
+        },
+        {
+            "affiliation": "CNRS",
+            "id": "x-MyT34AAAAJ",
+            "name": "Alain Destexhe"
+        },
+        {
+            "affiliation": "ATR",
+            "id": "lc7OkdAAAAAJ",
+            "name": "Mitsuo Kawato"
+        },
+        {
+            "affiliation": "Erasmus",
+            "id": "SScUq-YAAAAJ",
+            "name": "Chris I. De Zeeuw"
+        },
+        {
+            "affiliation": "Associate Professor, University of Southern California",
+            "id": "S7mBXuIAAAAJ",
+            "name": "Nicolas Schweighofer"
+        },
+        {
+            "affiliation": "Professor, Virginia Commonwealth University",
+            "id": "sJU0DzwAAAAJ",
+            "name": "Robert Findling"
+        },
+        {
+            "affiliation": "Department of psychiatry Harvard medical school",
+            "id": "MOitEvkAAAAJ",
+            "name": "Cynthia Wible"
+        },
+        {
+            "affiliation": "RIKEN BSI",
+            "id": "U5N_lC4AAAAJ",
+            "name": "Katsuhiko Mikoshiba"
+        }
+    ],
+    "email": "@nyumc.org",
+    "hindex": 39,
+    "hindex5y": 19,
+    "i10index": 56,
+    "i10index5y": 32,
+    "id": "vHpBo0kAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Psychology",
+        "Motor Control",
+        "Biology"
+    ],
+    "name": "Eric J Lang",
+    "publications": [
+        {
+            "bib": {
+                "title": "Dynamic organization of motor control within the olivocerebellar system",
+                "cites": "652",
+                "year": "1995"
+            },
+            "id_citations": "vHpBo0kAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of spontaneous synaptic activity on the resting properties of cat neocortical pyramidal neurons in vivo",
+                "cites": "462",
+                "year": "1998"
+            },
+            "id_citations": "vHpBo0kAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uniform olivocerebellar conduction time underlies Purkinje cell complex spike synchronicity in the rat cerebellum.",
+                "cites": "228",
+                "year": "1993"
+            },
+            "id_citations": "vHpBo0kAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns of spontaneous Purkinje cell complex spike activity in the awake rat",
+                "cites": "220",
+                "year": "1999"
+            },
+            "id_citations": "vHpBo0kAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GABAergic modulation of complex spike activity by the cerebellar nucleoolivary pathway in rat",
+                "cites": "193",
+                "year": "1996"
+            },
+            "id_citations": "vHpBo0kAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Redefining the cerebellar cortex as an assembly of non-uniform Purkinje cell microcircuits",
+                "cites": "149",
+                "year": "2015"
+            },
+            "id_citations": "vHpBo0kAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mnemonic correlates of unit activity in the hippocampus",
+                "cites": "145",
+                "year": "1986"
+            },
+            "id_citations": "vHpBo0kAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual inhibitory gating of impulse traffic in the intra\u2010amygdaloid network",
+                "cites": "122",
+                "year": "2003"
+            },
+            "id_citations": "vHpBo0kAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin modulation of inferior olivary oscillations and synchronicity: a multiple\u2010electrode study in the rat cerebellum",
+                "cites": "120",
+                "year": "1995"
+            },
+            "id_citations": "vHpBo0kAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic responsiveness of interneurons of the cat lateral amygdaloid nucleus",
+                "cites": "116",
+                "year": "1998"
+            },
+            "id_citations": "vHpBo0kAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The inositol high-polyphosphate series blocks synaptic transmission by preventing vesicular fusion: a squid giant synapse study",
+                "cites": "110",
+                "year": "1994"
+            },
+            "id_citations": "vHpBo0kAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similar inhibitory processes dominate the responses of cat lateral amygdaloid projection neurons to their various afferents",
+                "cites": "108",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Morphological correlates of bilateral synchrony in the rat cerebellar cortex",
+                "cites": "96",
+                "year": "1996"
+            },
+            "id_citations": "vHpBo0kAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Organization of olivocerebellar activity in the absence of excitatory glutamatergic input",
+                "cites": "94",
+                "year": "2001"
+            },
+            "id_citations": "vHpBo0kAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Block of inferior olive gap junctional coupling decreases Purkinje cell complex spike synchrony and rhythmicity",
+                "cites": "92",
+                "year": "2006"
+            },
+            "id_citations": "vHpBo0kAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cerebellum, LTD, and memory: alternative views.",
+                "cites": "91",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GABAergic and glutamatergic modulation of spontaneous and motor-cortex-evoked complex spike activity",
+                "cites": "89",
+                "year": "2002"
+            },
+            "id_citations": "vHpBo0kAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of myelination in the development of a uniform olivocerebellar conduction time",
+                "cites": "75",
+                "year": "2003"
+            },
+            "id_citations": "vHpBo0kAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olivocerebellar modulation of motor cortex ability to generate vibrissal movements in rat",
+                "cites": "72",
+                "year": "2006"
+            },
+            "id_citations": "vHpBo0kAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systematic regional variations in Purkinje cell spiking patterns",
+                "cites": "70",
+                "year": "2014"
+            },
+            "id_citations": "vHpBo0kAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous activity of the perirhinal cortex in behaving cats",
+                "cites": "66",
+                "year": "1999"
+            },
+            "id_citations": "vHpBo0kAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intraolivary injection of picrotoxin causes reorganization of complex spike activity",
+                "cites": "64",
+                "year": "1989"
+            },
+            "id_citations": "vHpBo0kAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential impact of miniature synaptic potentials on the soma and dendrites of pyramidal neurons in vivo",
+                "cites": "62",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution measurement of the time course of calcium-concentration microdomains at squid presynaptic terminals",
+                "cites": "59",
+                "year": "1994"
+            },
+            "id_citations": "vHpBo0kAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lesions of the cerebellar nuclei, but not of the mesencephalic structures, alters the spatial pattern of complex spike synchronicity as demonstrated by multiple electrode \u2026",
+                "cites": "59",
+                "year": "1990"
+            },
+            "id_citations": "vHpBo0kAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronicity, rhythmicity, and movement: The role of the olivocerebellar system in motor coordination.",
+                "cites": "56",
+                "year": "1996"
+            },
+            "id_citations": "vHpBo0kAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of the olivocerebellar pathway in motor learning and motor control. A consensus paper",
+                "cites": "55",
+                "year": "2017"
+            },
+            "id_citations": "vHpBo0kAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The microstructure of coherence in the olivocerebellar system during rhythmic movement in normal and deafierented rats",
+                "cites": "54",
+                "year": "1993"
+            },
+            "id_citations": "vHpBo0kAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ability of motor cortex stimulation to evoke vibrissal movements is modulated by a 10 Hz signal arising in the inferior olive",
+                "cites": "54",
+                "year": "1992"
+            },
+            "id_citations": "vHpBo0kAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rhythmic olivo-cerebellar control of skilled tongue movement in relation to patterned hypoglossal nerve activity",
+                "cites": "53",
+                "year": "1992"
+            },
+            "id_citations": "vHpBo0kAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory control of somatodendritic interactions underlying action potentials in neocortical pyramidal neurons in vivo: an intracellular and computational study",
+                "cites": "50",
+                "year": "1998"
+            },
+            "id_citations": "vHpBo0kAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic action of the olivocerebellar system on cerebellar nuclear spike activity",
+                "cites": "49",
+                "year": "2011"
+            },
+            "id_citations": "vHpBo0kAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of the olivo-cerebellar complex in motor learning and control",
+                "cites": "47",
+                "year": "2013"
+            },
+            "id_citations": "vHpBo0kAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential roles of apamin-and charybdotoxin-sensitive K+ conductances in the generation of inferior olive rhythmicity in vivo",
+                "cites": "47",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic and synaptically activated intrinsic conductances underlie inhibitory potentials in cat lateral amygdaloid projection neurons in vivo",
+                "cites": "47",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kv3. 3 channels at the Purkinje cell soma are necessary for generation of the classical complex spike waveform",
+                "cites": "45",
+                "year": "2008"
+            },
+            "id_citations": "vHpBo0kAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The synaptic organization of the brain",
+                "cites": "45",
+                "year": "2004"
+            },
+            "id_citations": "vHpBo0kAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship of complex spike synchrony bands and climbing fiber projection determined by reference to aldolase C compartments in crus IIa of the rat cerebellar cortex",
+                "cites": "44",
+                "year": "2007"
+            },
+            "id_citations": "vHpBo0kAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local changes in the excitability of the cerebellar cortex produce spatially restricted changes in complex spike synchrony",
+                "cites": "41",
+                "year": "2009"
+            },
+            "id_citations": "vHpBo0kAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered olivocerebellar activity patterns in the connexin36 knockout mouse",
+                "cites": "38",
+                "year": "2007"
+            },
+            "id_citations": "vHpBo0kAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-resolved imaging of Ca2+-dependent aequorin luminescence of microdomains and QEDs in synaptic preterminals",
+                "cites": "32",
+                "year": "1994"
+            },
+            "id_citations": "vHpBo0kAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferior olive oscillations gate transmission of motor cortical activity to the cerebellum",
+                "cites": "31",
+                "year": "2004"
+            },
+            "id_citations": "vHpBo0kAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchrony is key: complex spike inhibition of the deep cerebellar nuclei",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "vHpBo0kAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative modeling of spatio-temporal dynamics of inferior olive neurons with a simple conductance-based model",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "vHpBo0kAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Calcium electrogenesis in neocortical pyramidal neurons in vivo",
+                "cites": "26",
+                "year": "1998"
+            },
+            "id_citations": "vHpBo0kAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heterogeneity of Purkinje cell simple spike\u2013complex spike interactions: zebrin\u2010and non\u2010zebrin\u2010related variations",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "vHpBo0kAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new approach to the analysis of multidimensional neuronal activity: Markov random fields",
+                "cites": "20",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamic relationship between cerebellar Purkinje cell simple spikes and the spikelet number of complex spikes",
+                "cites": "18",
+                "year": "2017"
+            },
+            "id_citations": "vHpBo0kAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control of cerebellar nuclear cells: a direct role for complex spikes?",
+                "cites": "18",
+                "year": "2011"
+            },
+            "id_citations": "vHpBo0kAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of Purkinje cell complex spike waveform by synchrony levels in the olivocerebellar system",
+                "cites": "17",
+                "year": "2014"
+            },
+            "id_citations": "vHpBo0kAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex spike synchrony dependent modulation of rat deep cerebellar nuclear activity",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "vHpBo0kAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Solution to the inverse problem of estimating gap-junctional and inhibitory conductance in inferior olive neurons from spike trains by network model simulation",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "vHpBo0kAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Excitatory afferent modulation of complex spike synchrony",
+                "cites": "15",
+                "year": "2003"
+            },
+            "id_citations": "vHpBo0kAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing a neural coding hypothesis using surrogate data",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "vHpBo0kAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory control of rat lateral amygdaloid projection cells",
+                "cites": "13",
+                "year": "2003"
+            },
+            "id_citations": "vHpBo0kAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Isochrony in the olivocerebellar system underlies complex spike synchrony",
+                "cites": "12",
+                "year": "2006"
+            },
+            "id_citations": "vHpBo0kAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current opinions and consensus for studying tremor in animal models",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "vHpBo0kAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrence plots and the analysis of multiple spike trains",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "vHpBo0kAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coordination of reaching movements: cerebellar interactions with motor cortex",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "vHpBo0kAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Somato-dendritic interactions underlying action potential generation in neocortical pyramidal cells in vivo",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "vHpBo0kAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multielectrode arrays for recording complex spike activity",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "vHpBo0kAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dysmyelination with preservation of transverse bands in a long\u2010lived allele of the quaking mouse",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "vHpBo0kAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electrical coupling controls dimensionality and chaotic firing of inferior olive neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vHpBo0kAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity analysis using both PCA and ANOVA between experimental and simulation data of spike trains from IO",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "vHpBo0kAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olivary electrical coupling may be regulated by GABA release from deep cerebellar nuclei",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "vHpBo0kAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ALCOHOL-INDUCED REDUCTION OF PURKINJE CELL COMPLEX SPIKE SYNCHRONY. A POSSIBLE CAUSE OF ABNORMAL CEREBELLAR OUTPUT LEADING TO MOTOR INCOORDINATION: 103",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "vHpBo0kAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Creating Coordination in the Cerebellum Catania, 2\u20134 October 2003",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "vHpBo0kAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oscillatory Properties of Inferior Olivary Neurons Modulate Transmission of Motor Cortical Activity to the Rat Cerebellum",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "vHpBo0kAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferior olivary rhythmicity and the role of K (Ca) conductances in its generation.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "vHpBo0kAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A study of the olivo-cerebellar system by simultaneous recording from multiple Purkinje cells: 5-HT modulation of oscillation and synchronicity",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "vHpBo0kAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1515 Climbing fiber responses of purkinje cells to retinal image motion in cat cerebellar flocculus",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "vHpBo0kAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principal component analysis (PCA) of complex spike activity recorded simultaneously from multiple Purkinje cells",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "vHpBo0kAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S., Jaeger, D., Bengtsson, F., Heck, DH, Schweighofer, N., & De Zeeuw, CI (2017). The Roles of the Olivocerebellar Pathway in Motor Learning and Motor Control. A consensus \u2026",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regularity, variability and bi-stability in the activity of cerebellar Purkinje cells",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heterogeneity of Purkinje cell simple spike-complex spike interactions: zebrin",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical properties of threshold automata with nearest neighbor interactions on a regular lattice Dynamical properties of threshold automata with nearest neighbor interactions \u2026",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New methods of analysis of neural activity New methods of analysis of neural activity, 102-104, 1986",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of the Olivo-cerebellar Complex in Motor Learning and Control 2",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S.,... De Zeeuw, CI (2017). The Roles of the Olivocerebellar Pathway in Motor Learning and Motor Control. A consensus paper. The Cerebellum, 16 (1), 230-252. DOI: 10.1007 \u2026",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamic relationship between cerebellar Purkinje cell simple spikes and complex spike spikelet number",
+                "cites": "0"
+            },
+            "id_citations": "vHpBo0kAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vHpBo0kAAAAJ"
+}

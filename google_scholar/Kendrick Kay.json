@@ -1,0 +1,668 @@
+{
+    "affiliation": "Assistant Professor, University of Minnesota",
+    "cites_per_year": {
+        "2008": 44,
+        "2009": 91,
+        "2010": 102,
+        "2011": 139,
+        "2012": 177,
+        "2013": 240,
+        "2014": 238,
+        "2015": 353,
+        "2016": 349,
+        "2017": 516,
+        "2018": 623,
+        "2019": 757,
+        "2020": 363
+    },
+    "citedby": 4051,
+    "citedby5y": 2970,
+    "coauthors": [
+        {
+            "affiliation": "University of California at Berkeley",
+            "id": "nSZG-vcAAAAJ",
+            "name": "Jack L. GALLANT"
+        },
+        {
+            "affiliation": "Associate Professor, Neurosciences Dept., Medical University of South Carolina",
+            "id": "9hkEkG0AAAAJ",
+            "name": "Thomas Naselaris"
+        },
+        {
+            "affiliation": "Associate Professor of Psychology and Neural Science",
+            "id": "zGNHlDsAAAAJ",
+            "name": "Jonathan Winawer"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "w2KlBM4AAAAJ",
+            "name": "Brian Wandell"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "ROfIDvQAAAAJ",
+            "name": "Jason D. Yeatman"
+        },
+        {
+            "affiliation": "Edmond and Lily Safra Center for Brain Sciences (ELSC), The Hebrew University",
+            "id": "dNEiy6UAAAAJ",
+            "name": "Aviv Mezer"
+        },
+        {
+            "affiliation": "The University of Washington eScience Institute",
+            "id": "hrBeLVYAAAAJ",
+            "name": "Ariel Rokem"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "ABM0fgcAAAAJ",
+            "name": "Kalanit Grill-Spector"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Columbia University",
+            "id": "w6M4YN4AAAAJ",
+            "name": "Nikolaus Kriegeskorte"
+        },
+        {
+            "affiliation": "Senior Researcher (PI), CiNet, National Institute of Information and Communications Technology",
+            "id": "y1pLEGkAAAAJ",
+            "name": "Shinji Nishimoto"
+        },
+        {
+            "affiliation": "Associate Professor, Indiana University",
+            "id": "gh_KorwAAAAJ",
+            "name": "Franco Pestilli"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "D2P7uGMAAAAJ",
+            "name": "Robert F. Dougherty"
+        },
+        {
+            "affiliation": "Cognetivity Neurosciences",
+            "id": "3HbeiywAAAAJ",
+            "name": "Seyed-Mahdi Khaligh-Razavi"
+        },
+        {
+            "affiliation": "University of Minnesota",
+            "id": "H5XtawsAAAAJ",
+            "name": "Kamil Ugurbil"
+        },
+        {
+            "affiliation": "Center for Magnetic Resonance Research, University of Minnesota",
+            "id": "kERYZ90AAAAJ",
+            "name": "Ru-Yuan Zhang"
+        },
+        {
+            "affiliation": "University Lecturer at Aalto University",
+            "id": "3sp1TEkAAAAJ",
+            "name": "Linda Henriksson"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "tYuXZiEAAAAJ",
+            "name": "Jingyang Zhou"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "ch80vNMAAAAJ",
+            "name": "Noah C. Benson"
+        },
+        {
+            "affiliation": "Princeton University",
+            "id": "Lyz1KU8AAAAJ",
+            "name": "Jesse Gomez"
+        },
+        {
+            "affiliation": "Associate Professor of Biomedical Engineering; Ecole Polytechnique/University of Montreal",
+            "id": "02a5TU8AAAAJ",
+            "name": "Nikola Stikov"
+        }
+    ],
+    "email": "@post.harvard.edu",
+    "hindex": 26,
+    "hindex5y": 24,
+    "i10index": 32,
+    "i10index5y": 32,
+    "id": "hlthz-YAAAAJ",
+    "interests": [
+        "visual neuroscience",
+        "fMRI methods",
+        "computational modeling",
+        "statistics",
+        "cognitive neuroscience"
+    ],
+    "name": "Kendrick Kay",
+    "publications": [
+        {
+            "bib": {
+                "title": "Identifying natural images from human brain activity",
+                "cites": "14950635362343560209",
+                "year": "2008",
+                "url": "https://www.nature.com/articles/nature06713",
+                "author": "Kendrick N Kay and Thomas Naselaris and Ryan J Prenger and Jack L Gallant",
+                "journal": "Nature",
+                "volume": "452",
+                "number": "7185",
+                "pages": "352-355",
+                "publisher": "Nature Publishing Group",
+                "abstract": "A challenging goal in neuroscience is to be able to read out, or decode, mental content from brain activity. Recent functional magnetic resonance imaging (fMRI) studies have decoded orientation 1, 2, position 3 and object category 4, 5 from activity in visual cortex. However, these studies typically used relatively simple stimuli (for example, gratings) or images drawn from fixed categories (for example, faces, houses), and decoding was based on previous measurements of brain activity evoked by those same stimuli or categories. To overcome these limitations, here we develop a decoding method based on quantitative receptive-field models that characterize the relationship between visual stimuli and fMRI activity in early visual areas. These models describe the tuning of individual voxels for space, orientation and spatial frequency, and are estimated directly from responses evoked by natural images. We show that \u2026",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556484/"
+            },
+            "id_citations": "hlthz-YAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding in fMRI",
+                "cites": "539",
+                "year": "2011"
+            },
+            "id_citations": "hlthz-YAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of natural images from human brain activity",
+                "cites": "458",
+                "year": "2009"
+            },
+            "id_citations": "hlthz-YAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation and statistical inference for human connectomes",
+                "cites": "182",
+                "year": "2014"
+            },
+            "id_citations": "hlthz-YAAAAJ:m4fbC6XIj1kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying the local tissue volume and composition in individual brains with magnetic resonance imaging",
+                "cites": "176",
+                "year": "2013"
+            },
+            "id_citations": "hlthz-YAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compressive spatial summation in human visual cortex",
+                "cites": "159",
+                "year": "2013"
+            },
+            "id_citations": "hlthz-YAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic organization in and near human visual area V4",
+                "cites": "154",
+                "year": "2007"
+            },
+            "id_citations": "hlthz-YAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention reduces spatial uncertainty in human ventral temporal cortex",
+                "cites": "120",
+                "year": "2015"
+            },
+            "id_citations": "hlthz-YAAAAJ:4e5Qn2KL_jwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GLMdenoise: a fast, automated technique for denoising task-based fMRI data",
+                "cites": "118",
+                "year": "2013"
+            },
+            "id_citations": "hlthz-YAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asynchronous broadband signals are the principal source of the BOLD response in human visual cortex",
+                "cites": "87",
+                "year": "2013"
+            },
+            "id_citations": "hlthz-YAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward motivation enhances task coding in frontoparietal cortex",
+                "cites": "76",
+                "year": "2016"
+            },
+            "id_citations": "hlthz-YAAAAJ:sfnaS5RM6jYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional neuroanatomy of human face perception",
+                "cites": "65",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:rLGzs9wiiwIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bottom-up and top-down computations in word-and face-selective cortex",
+                "cites": "65",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:KTwcwpFFj4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating the accuracy of diffusion MRI models in white matter",
+                "cites": "62",
+                "year": "2015"
+            },
+            "id_citations": "hlthz-YAAAAJ:R-LXmdHK_14C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A two-stage cascade model of BOLD responses in human visual cortex",
+                "cites": "62",
+                "year": "2013"
+            },
+            "id_citations": "hlthz-YAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "I can see what you see",
+                "cites": "61",
+                "year": "2009"
+            },
+            "id_citations": "hlthz-YAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resolving ambiguities of MVPA using explicit models of representation",
+                "cites": "60",
+                "year": "2015"
+            },
+            "id_citations": "hlthz-YAAAAJ:M0leSnx2MbUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling low\u2010frequency fluctuation and hemodynamic response timecourse in event\u2010related fMRI",
+                "cites": "60",
+                "year": "2008"
+            },
+            "id_citations": "hlthz-YAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual representations are dominated by intrinsic fluctuations correlated between areas",
+                "cites": "46",
+                "year": "2015"
+            },
+            "id_citations": "hlthz-YAAAAJ:qmtmRrLr0tkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixed versus mixed RSA: Explaining visual representations by fixed and mixed feature sets from shallow and deep computational models",
+                "cites": "42",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:WwIwg2wKZ0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding V1 fMRI responses to natural images with sparse nonparametric models",
+                "cites": "37",
+                "year": "2011"
+            },
+            "id_citations": "hlthz-YAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles for models of neural information processing",
+                "cites": "32",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:aEW5N-EHWIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compressive temporal summation in human visual cortex",
+                "cites": "32",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:vnF2_uLGgtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Defining the most probable location of the parahippocampal place area using cortex-based alignment and cross-validation",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:PlWzFYVEG4EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Human Connectome Project 7 Tesla retinotopy dataset: Description and population receptive field analysis",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:rqnDXT1GswoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Haptic fMRI: Combining functional neuroimaging with haptics for studying the brain's motor control representation",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "hlthz-YAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new modular brain organization of the BOLD signal during natural vision",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:9shLKfS_uJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A critical assessment of data quality and venous effects in sub-millimeter fMRI",
+                "cites": "19",
+                "year": "2019"
+            },
+            "id_citations": "hlthz-YAAAAJ:DquSII9TDu4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Computational Neuroscience: a new conference for an emerging discipline",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:idthP5jqfYAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using precise word timing information improves decoding accuracy in a multiband-accelerated multimodal reading experiment",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "hlthz-YAAAAJ:Vr2j17o0sqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational modeling of responses in human visual cortex",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "hlthz-YAAAAJ:yY3RG6sOEgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive smoothing based on Gaussian processes regression increases the sensitivity and specificity of fMRI data",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:rCNdntzdTkkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparatus and method for decoding sensory and cognitive information from brain activity",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "hlthz-YAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Haptic fMRI: Accurately estimating neural responses in motor, pre-motor, and somatosensory cortex during complex motor tasks",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "hlthz-YAAAAJ:wSy_KLzO7YEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An image-computable model for the stimulus selectivity of gamma oscillations",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "hlthz-YAAAAJ:cRMvf6lLvU8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GLMdenoise improves multivariate pattern analysis of fMRI data",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:g_UdREhPGEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding visual representation by developing receptive-field models",
+                "cites": "6",
+                "year": "2011"
+            },
+            "id_citations": "hlthz-YAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "hlthz-YAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appreciating diversity of goals in computational neuroscience",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:j5aT6aphRxQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foreground-background segmentation revealed during natural image viewing",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:sgsej9ZJWHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-invasive, quantitative study of broadband spectral responses in human visual cortex",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:XAp-VaTZjjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unifying Temporal Phenomena in Human Visual Cortex",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "hlthz-YAAAAJ:17ZO-CJnx_8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of perceptual experiences from human brain activity",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "hlthz-YAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible top-down modulation in human ventral temporal cortex",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "hlthz-YAAAAJ:Kqc1aDSOPooC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular Rivalry: A Window into Cortical Competition and Suppression",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:uUvzmPk0f8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional neuroanatomy of face processing: insights from neuroimaging and implications for deep learning",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:natZJ_-F0IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-high-resolution fMRI of human ventral temporal cortex reveals differential representation of categories and domains",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "hlthz-YAAAAJ:wuD5JclIwkYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-invasive, quantitative study of broadband spectral responses in human visual cortex",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:Gpwnp1kGG20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systematic changes in temporal summation across human visual cortex",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:Nw_I7GeUguwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fractional ridge regression: a fast, interpretable reparameterization of ridge regression",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "hlthz-YAAAAJ:3vbIHxFL9FgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appreciating the variety of goals in computational neuroscience",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "hlthz-YAAAAJ:qPeb-qHga9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TDM: a temporal decomposition method for removing venous effects from task-based fMRI",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hlthz-YAAAAJ:G36d5HCDkJYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding multivariate brain activity: evaluating the effect of voxelwise noise correlations on population codes in functional magnetic resonance imaging",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hlthz-YAAAAJ:7VEv-pLvLSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convex Optimized Population Receptive Field (CO-pRF) Mapping",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "hlthz-YAAAAJ:xyvS_IvSCKsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse atomic feature learning via gradient regularization: With applications to finding sparse representations of fMRI activity patterns",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "hlthz-YAAAAJ:iyewoVqAXLQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Encoding of Natural Images in Human Visual Cortex",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "hlthz-YAAAAJ:JH5k92_tO-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Resolution of the Problem of Causal Exclusion",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "hlthz-YAAAAJ:CMvovTBb2okC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=hlthz-YAAAAJ",
+    "brain_inspired": {
+        "id": "638",
+        "link": "https://braininspired.co/podcast/26/",
+        "name": "Kendrick Kay",
+        "title": "BI 026 Kendrick Kay: A Model By Any Other Name",
+        "text": "Kendrick and I discuss his models that predict how the human brain responds to pictures of faces and words, how we make decisions about those pictures, and how our brain gears up for such tasks. We also discuss models in general- what they are, how we should judge them, and so on, plus a few of his other projects and\u2026. wait for it\u2026 lots more."
+    }
+}

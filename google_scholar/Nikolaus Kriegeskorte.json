@@ -1,0 +1,1777 @@
+{
+    "affiliation": "Professor of Psychology and Neuroscience, Columbia University",
+    "cites_per_year": {
+        "2004": 42,
+        "2005": 53,
+        "2006": 75,
+        "2007": 118,
+        "2008": 139,
+        "2009": 268,
+        "2010": 417,
+        "2011": 682,
+        "2012": 820,
+        "2013": 950,
+        "2014": 1047,
+        "2015": 1210,
+        "2016": 1564,
+        "2017": 2011,
+        "2018": 2088,
+        "2019": 2524,
+        "2020": 1510
+    },
+    "citedby": 15682,
+    "citedby5y": 10931,
+    "coauthors": [
+        {
+            "affiliation": "Western University",
+            "id": "Eo6JfS8AAAAJ",
+            "name": "Marieke Mur"
+        },
+        {
+            "affiliation": "Chief, Section on Functional Imaging Methods, National Institute of Mental Health",
+            "id": "X9OdRnYAAAAJ",
+            "name": "Peter A. Bandettini"
+        },
+        {
+            "affiliation": "Professor of Cognitive Neuroscience, Maastricht University",
+            "id": "FOi2cEYAAAAJ",
+            "name": "Rainer Goebel"
+        },
+        {
+            "affiliation": "Postdoctoral researcher at University Medical Center Hamburg-Eppendorf",
+            "id": "ZmFz_lIAAAAJ",
+            "name": "Arjen Alink"
+        },
+        {
+            "affiliation": "Cognetivity Neurosciences",
+            "id": "3HbeiywAAAAJ",
+            "name": "Seyed-Mahdi Khaligh-Razavi"
+        },
+        {
+            "affiliation": "Laureate Institute for Brain Research, Chief Technology Officer, Director MRI-EEG Facility",
+            "id": "fIu76mkAAAAJ",
+            "name": "Jerzy Bodurka"
+        },
+        {
+            "affiliation": "School of Psychology, University of Birmingham",
+            "id": "qGTxEsMAAAAJ",
+            "name": "Ian Charest"
+        },
+        {
+            "affiliation": "Professor, Institute of Neuroscience and Psychology, University of Glasgow",
+            "id": "2VgRQOEAAAAJ",
+            "name": "Lars Muckli"
+        },
+        {
+            "affiliation": "Postdoctoral Research Associate, FMRIB, University of Oxford",
+            "id": "QBgOje0AAAAJ",
+            "name": "Hamed Nili"
+        },
+        {
+            "affiliation": "Professor f\u00fcr Neuroscience, Max Planck Institute",
+            "id": "Ho8cFO8AAAAJ",
+            "name": "Wolf Singer"
+        },
+        {
+            "affiliation": "Machine Learning Team, National Institute of Mental Health",
+            "id": "8TKyUl4AAAAJ",
+            "name": "Patrick McClure"
+        },
+        {
+            "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen",
+            "id": "JXcWFkgAAAAJ",
+            "name": "Tim C Kietzmann"
+        },
+        {
+            "affiliation": "Maastricht Brain Imaging Center, Maastricht University",
+            "id": "WTnN8C0AAAAJ",
+            "name": "elia formisano"
+        },
+        {
+            "affiliation": "Associate Professor, Maastricht University",
+            "id": "ORHYCr8AAAAJ",
+            "name": "Bettina Sorger"
+        },
+        {
+            "affiliation": "Senior Investigator, NIMH",
+            "id": "RTtshYYAAAAJ",
+            "name": "Chris Baker"
+        },
+        {
+            "affiliation": "Associate Professor, University of Sydney",
+            "id": "6dfA060AAAAJ",
+            "name": "Thomas A Carlson"
+        },
+        {
+            "affiliation": "Western University, Canada",
+            "id": "mF72dYoAAAAJ",
+            "name": "J\u00f6rn Diedrichsen"
+        },
+        {
+            "affiliation": "Medical Research Council, Cognition and Brain Sciences Unit",
+            "id": "ejIwr6AAAAAJ",
+            "name": "Courtney Spoerer"
+        },
+        {
+            "affiliation": "MRC Cognition and Brain Sciences Unit, Cambridge, UK",
+            "id": "hybIdeIAAAAJ",
+            "name": "Johan D Carlin"
+        },
+        {
+            "affiliation": "Sir Henry Wellcome  postdoctoral fellow, MIT, University of Cambridge",
+            "id": "oEifmSgAAAAJ",
+            "name": "Kamila Jozwik"
+        }
+    ],
+    "email": "@columbia.edu",
+    "hindex": 50,
+    "hindex5y": 44,
+    "i10index": 83,
+    "i10index5y": 81,
+    "id": "w6M4YN4AAAAJ",
+    "interests": [
+        "vision",
+        "neural networks",
+        "fMRI",
+        "neuronal recordings",
+        "pattern-information analysis"
+    ],
+    "name": "Nikolaus Kriegeskorte",
+    "publications": [
+        {
+            "bib": {
+                "title": "Circular analysis in systems neuroscience: the dangers of double dipping",
+                "cites": "6923450410624512318",
+                "year": "2009",
+                "url": "https://www.nature.com/articles/nn.2303.pdf?origin=ppub",
+                "author": "Nikolaus Kriegeskorte and W Kyle Simmons and Patrick SF Bellgowan and Chris I Baker",
+                "volume": "12",
+                "number": "5",
+                "pages": "535",
+                "publisher": "Nature Publishing Group",
+                "abstract": "A neuroscientific experiment typically generates a large amount of data, of which only a small fraction is analyzed in detail and presented in a publication. However, selection among noisy measurements can render circular an otherwise appropriate analysis and invalidate results. Here we argue that systems neuroscience needs to adjust some widespread practices to avoid the circularity that can arise from selection. In particular,'double dipping', the use of the same dataset for selection and selective analysis, will give distorted descriptive statistics and invalid statistical inference whenever the results statistics are not inherently independent of the selection criteria under the null hypothesis. To demonstrate the problem, we apply widely used analyses to noise data known to not contain the experimental effects in question. Spurious effects can appear in the context of both univariate activation analysis and multivariate \u2026",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841687/"
+            },
+            "id_citations": "w6M4YN4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information-based functional brain mapping",
+                "cites": "1762",
+                "year": "2006"
+            },
+            "id_citations": "w6M4YN4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational similarity analysis-connecting the branches of systems neuroscience",
+                "cites": "1657",
+                "year": "2008"
+            },
+            "id_citations": "w6M4YN4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching categorical object representations in inferior temporal cortex of man and monkey",
+                "cites": "957",
+                "year": "2008"
+            },
+            "id_citations": "w6M4YN4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation",
+                "cites": "597",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:tsQ8sfJ2mf4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual faces elicit distinct response patterns in human anterior temporal cortex",
+                "cites": "474",
+                "year": "2007"
+            },
+            "id_citations": "w6M4YN4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational geometry: integrating cognition, computation, and the brain",
+                "cites": "431",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks: a new framework for modeling biological vision and brain information processing",
+                "cites": "396",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:kFM4V80Y5EsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A toolbox for representational similarity analysis",
+                "cites": "392",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of multivariate classifiers and response normalizations for pattern-information fMRI",
+                "cites": "385",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of trust",
+                "cites": "379",
+                "year": "2007"
+            },
+            "id_citations": "w6M4YN4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revealing representational content with pattern-information fMRI\u2014an introductory guide",
+                "cites": "353",
+                "year": "2009"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical capacity constraints for visual working memory: dissociation of fMRI load effects in a fronto-parietal network",
+                "cites": "353",
+                "year": "2003"
+            },
+            "id_citations": "w6M4YN4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Best practices in data analysis and sharing in neuroimaging using MRI",
+                "cites": "286",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:OP2qWFMeUpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing for information, not activation, to exploit high-resolution fMRI",
+                "cites": "273",
+                "year": "2007"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary visual cortex activity along the apparent-motion trace reflects illusory perception",
+                "cites": "240",
+                "year": "2005"
+            },
+            "id_citations": "w6M4YN4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An efficient algorithm for topologically correct segmentation of the cortical sheet in anatomical MR volumes",
+                "cites": "239",
+                "year": "2001"
+            },
+            "id_citations": "w6M4YN4AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational dynamics of object vision: the first 1000 ms",
+                "cites": "203",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability of dissimilarity measures for multi-voxel pattern analysis",
+                "cites": "179",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:p7qoFRH4VUUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population coding of affect across stimuli, modalities and individuals",
+                "cites": "173",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Nb0HLiwjfsIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic reinstatement in the medial temporal lobe",
+                "cites": "173",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern-information analysis: from stimulus decoding to computational-model testing",
+                "cites": "163",
+                "year": "2011"
+            },
+            "id_citations": "w6M4YN4AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Everything you never wanted to know about circular analysis, but were afraid to ask",
+                "cites": "163",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How does an fMRI voxel sample the neuronal activity pattern: compact-kernel or complex spatiotemporal filter?",
+                "cites": "160",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retrieval induces adaptive forgetting of competing memories via cortical pattern suppression",
+                "cites": "152",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:lAj_JhtUatoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-level visual object representations are constrained by position",
+                "cites": "142",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparent motion: event-related functional magnetic resonance imaging of perceptual switches and states",
+                "cites": "139",
+                "year": "2002"
+            },
+            "id_citations": "w6M4YN4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Awake reactivation predicts memory in humans",
+                "cites": "126",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational models: A common framework for understanding encoding, pattern-component, and representational-similarity analysis",
+                "cites": "116",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:rlwtDmSc194C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inverse MDS: Inferring Dissimilarity Structure from Multiple Item Arrangements",
+                "cites": "98",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A head view-invariant representation of gaze direction in anterior superior temporal sulcus",
+                "cites": "95",
+                "year": "2011"
+            },
+            "id_citations": "w6M4YN4AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unique semantic space in the brain of each beholder predicts perceived similarity",
+                "cites": "94",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:YnriW4MgZhwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive computational neuroscience",
+                "cites": "92",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Itmi1h0dExoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human object-similarity judgments reflect and transcend the primate-IT object representation",
+                "cites": "91",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Open evaluation: a vision for entirely transparent post-publication peer review and rating for science",
+                "cites": "88",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating population-code representations between man, monkey, and computational models",
+                "cites": "83",
+                "year": "2009"
+            },
+            "id_citations": "w6M4YN4AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent convolutional neural networks: a better model of biological object recognition",
+                "cites": "74",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:MRFs4rWx_PcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human cortical object recognition from a visual motion flowfield",
+                "cites": "73",
+                "year": "2003"
+            },
+            "id_citations": "w6M4YN4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract encoding of auditory objects in cortical activity patterns",
+                "cites": "70",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face-identity change activation outside the face system:\u201crelease from adaptation\u201d may not always indicate neuronal selectivity",
+                "cites": "69",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of semantic meaning in the ventral temporal pathway",
+                "cites": "67",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial independent component analysis of functional magnetic resonance imaging time-series: characterization of the cortical components",
+                "cites": "61",
+                "year": "2002"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auditory motion direction encoding in auditory cortex and high\u2010level visual cortex",
+                "cites": "59",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "57",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:SQZOXlr1FBsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual similarity of visual patterns predicts dynamic neural activation patterns measured with MEG",
+                "cites": "57",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:F-1HeU7gMOYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI orientation decoding in V1 does not require global maps or globally coherent orientation stimuli",
+                "cites": "57",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining the tools: activation-and information-based fMRI analysis",
+                "cites": "57",
+                "year": "2007"
+            },
+            "id_citations": "w6M4YN4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Faciotopy\u2014A face-feature map with face-like topology in the human occipital face area",
+                "cites": "56",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:-A4928QJj7oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern\u2010information fMRI: New questions which it opens up and challenges which face it",
+                "cites": "52",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorical, yet graded\u2013single-image activation profiles of human category-selective cortical regions",
+                "cites": "51",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reaction time for object categorization is predicted by representational distance",
+                "cites": "50",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choosing the rules: distinct and overlapping frontoparietal representations of task rules for perceptual decisions",
+                "cites": "49",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual representations are dominated by intrinsic fluctuations correlated between areas",
+                "cites": "44",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:zBCjByih94YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgments",
+                "cites": "42",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:UO8fSLLLPykC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixed versus mixed RSA: Explaining visual representations by fixed and mixed feature sets from shallow and deep computational models",
+                "cites": "42",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:WMj-6b1RDO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual features as stepping stones toward semantics: Explaining object similarity in IT and perception with non-negative least squares",
+                "cites": "41",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:o_fBUN_Or78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An emerging consensus for open evaluation: 18 visions for the future of scientific publishing",
+                "cites": "41",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception and processing of faces in the human brain is tuned to typical feature locations",
+                "cites": "40",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:1W67FsDfIBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal searchlight representational similarity analysis in EMEG source space",
+                "cites": "38",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks in computational neuroscience",
+                "cites": "36",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:dY-VugTTHzcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational similarity mapping of distributional semantics in left inferior frontal, middle temporal, and motor cortex",
+                "cites": "35",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:N2osnxbUuuUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direction-sensitive codes for observed head turns in human superior temporal sulcus",
+                "cites": "34",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting encoding and decoding models",
+                "cites": "30",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Et1yZiPVzsMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring brain-computational mechanisms with models of activity measurements",
+                "cites": "29",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:XyWThvt29VcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing patterns through the hemodynamic veil\u2014the future of pattern-information fMRI",
+                "cites": "28",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Population Codes: Toward a Common Multivariate Framework for Cell Recording and Functionalimaging",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "w6M4YN4AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjudicating between face-coding models with individual-face fMRI responses",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:6jAoOr-ogVAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrence is required to capture the representational dynamics of the human visual system",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:c2LjitseEfMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational distance learning for deep neural networks",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:aXwx4OqTWR4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks in computational neuroscience",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:p9YawgimX9oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic structure of visual exemplar and category representations in macaque brain",
+                "cites": "22",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artifactual time\u2010course correlations in echo\u2010planar fMRI with implications for studies of brain function",
+                "cites": "19",
+                "year": "2008"
+            },
+            "id_citations": "w6M4YN4AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Utilizing temporal information in fMRI decoding: classifier using kernel regression methods",
+                "cites": "18",
+                "year": "2011"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Computational Neuroscience: a new conference for an emerging discipline",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:9AucIJLffosC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The brain of the beholder: honouring individual representational idiosyncrasies",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:z0_F5_TITjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity, not complexity, determines visual working memory performance.",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:JVJ6OkSwpHsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To err is human: correlating fMRI decoding and behavioral errors to probe the neural representation of natural scene categories",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:mqcSLZKRP28C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid invariant encoding of scene layout in human OPA",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:in81wS_EFI4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatiotemporal neural dynamics underlying perceived similarity for real-world objects",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:7XCffrwrS2sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct representations of basic taste qualities in human gustatory cortex",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:TPlbvKeUp3cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mind the drift-improving sensitivity to fMRI pattern information by accounting for temporal pattern drift",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:_09KEOFGu60C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural network models and deep learning",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:tUtwDVdCwjgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks trained on ecologically relevant categories better explain human IT",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Zp9IZb6oESQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrence required to capture the dynamic computations of the human ventral visual stream",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:WYleWgRJor0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of uncertainty in deep neural networks through sampling",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:VglVhKISWcQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local opposite orientation preferences in V1: fMRI sensitivity to fine-grained pattern information",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:aSKcRT6rTsQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics of real-world object vision that guide behaviour",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:D_25heFg6JwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grid cells for conceptual spaces?",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:vJdfVD8-6ZYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controversial stimuli: pitting neural networks against each other as models of human recognition",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:w2Aknop99M4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Faces and voices in the brain: a modality-general person-identity representation in superior temporal sulcus",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:vNwWLMROEM0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peeling the onion of brain representations",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:whNN5KpgZFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning for cognitive neuroscience",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:l2sC-qQILUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GLMdenoise improves multivariate pattern analysis of fMRI data",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:bczYY1dZPtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robustly representing uncertainty in deep neural networks through sampling",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:SEmTV4UfSqwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring exemplar discriminability in brain representations",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:bxbQgRQgr4sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crossvalidation in brain imaging analysis",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:P--cqP0FnSgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond open access: visions for open evaluation of scientific papers by post-publication peer review",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:KD63RgGzVVoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What's there, distinctly, when and where?",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distance-based partial least squares analysis",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "w6M4YN4AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospective motion correction improves the sensitivity of fMRI pattern decoding",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:-152x6qmK5kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing inferential uncertainty in deep neural networks through sampling",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:CzVmvSWNoUEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational similarity analysis of object population codes in humans, monkeys, and models",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting brain images: reflections on an adolescent field",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "w6M4YN4AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional magnetic resonance imaging of the human object-vision system",
+                "cites": "4",
+                "year": "2004"
+            },
+            "id_citations": "w6M4YN4AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Going in circles is the way forward: the role of recurrence in visual inference",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:hEp1lTclR2YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From categories to dimensions: spatio-temporal dynamics of the cerebral representations of emotion in voice",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:5bFWG3eDk9wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks trained with heavier data augmentation learn features closer to representations in hIT",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:GjXqcohcbckC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building machines that adapt and compute like brains",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:PbrqR9PZhrEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robustly representing uncertainty through sampling in deep neural networks",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:BQCiT8P4igIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual population codes",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:23Hg5vt_rPQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic cortical dynamics dominate population responses to natural images across human visual cortex",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:-rwTIRUNLawC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional neuroanatomy of the visual system in a prosopagnosic: TU 369",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Pm-n7EBaiV4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent networks can recycle neural resources to flexibly trade speed for accuracy in visual recognition",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:zEYdoEEwLqEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysing linear multivariate pattern transformations in neuroimaging data",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:AUmYgNQ2pq4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual similarity of visual patterns predicts the similarity of their dynamic neural activation patterns measured with meg",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:lR2ECBI0YV4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational similarity analysis-a framework for relating computational theory to behavioral and brain-activity data",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "w6M4YN4AAAAJ:eHo_KFcuhuIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuroscientific exploitation of high-resolution functional magnetic resonance imaging",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "w6M4YN4AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014)",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Es-9c2L5hKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep convolutional neural networks, features, and categories perform similarly at explaining primate high-level visual representations",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ewB7xoWXMOgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Animacy dimensions ratings and approach for decorrelating stimuli dimensions",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:2ZctHUgIzyAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beware of the beginnings: intermediate and higherlevel representations in deep neural networks are strongly affected by weight initialization",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ysWPWRY3VgcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category-specialised neural networks best explain representations in category-selective visual areas",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Xc8JtHQmRf8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Architecture matters: How well neural networks explain it representation does not depend on depth and performance alone",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:PN3Jufe71OMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meaningful feedback to occluded V1 is improved by increasing local information in the surround",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:0Tn0GYh_KFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sudden emergence of categoricality at the lateral-occipital stage of ventral visual processing",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:r655XaDZu5IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The selfish scientist\u2019s guide to preprint posting",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:H2XcuePHLsAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of recurrent dynamics on ventral-stream representational geometry",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:IaRkJ05COeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FaciotopydA face-feature map with face-like topology in the human occipital face area",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:w2Gke83ceDMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-object-image response patterns in human inferotemporal cortex: Poster number: 1482",
+                "cites": "1",
+                "year": "2003"
+            },
+            "id_citations": "w6M4YN4AAAAJ:zxqBrjVgvjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring exemplar discriminability in brain representations",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:q1ZQJjUA47MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid event-related, BOLD fMRI, non-human primates (NHP): choose two out of three",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:0aNKY9CYzMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial Multi-Arrangement for Clustering and Multi-way Similarity Dataset Construction",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:aFwNBOTKqaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FFA and OFA encode distinct types of face identity information",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:PbVfkCSoiPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diverse deep neural networks all predict human IT well, after training and fitting",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:njp6nI0QjqAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceived ambiguity of social interactions increases coupling between frontal and temporal nodes of the social brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:MDBbo4b0KHEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid event-related, BOLD, NHP: choose two out of three",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:QNfnWKgKwv8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences among deep neural network models",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "w6M4YN4AAAAJ:fGgrif5g-LMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of scene layout in human OPA is fast and invariant to surface-texture",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:5Klqo5HVOaoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do responses in nonhuman primate inferior temporal cortex reflect external variables or internal dynamics?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:6HoeAlFIZOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing representational dynamics with multidimensional scaling alignment",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Cd1N8iHLSCsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving DNNs as Models of the Human Ventral Stream: A Better Visual Diet and Recurrent Computations",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:d4Uf0zfqV5IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Architecture Matters: Training and Structure Both Affect How Well Deep Networks Predict Cortical Representations of Objects, Places and Faces",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:MreiaWo1ERkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised clustering method to detect microsaccades",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "w6M4YN4AAAAJ:A1VvXmYcXXgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Independence Tests with Geo-Topological Transformation",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:HygtOXotxAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Retrieval induces adaptive forgetting of competing memories via cortical pattern suppression\": Correction.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:dhZ1Wuf5EGsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author Correction: Retrieval induces adaptive forgetting of competing memories via cortical pattern suppression",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:PWMd_Z0sy-4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Recurrent convolutional neural networks: A better model of biological object recognition\": Corrigendum.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:eCFM_hdDfssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition (vol 8, 1551, 2017)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:A7-hzOuI2KQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:1AS7WB7zg6gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Faces and voices in the brain: RSA reveals modality-general person-identity representations in the STS",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "w6M4YN4AAAAJ:YDt8mvgFZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional readout analysis reveals nonlinear representational transformation from early visual to category-selective regions",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:PFhWnMnuT1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing the spatio-temporal dynamics of behavior-related neural activity during human visual object perception",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:FGHlONkF9GcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorical selectivity in the visual pathway revealed by fMRI in awake macaques",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:kuq-04jA658C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent convolutional neural networks: a better model",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:TniZHWc1JwoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixed versus mixed RSA",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:BZGggv0hN9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Presentations and notes from the Helping STEM Researchers Publish event on 8 February 2017",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "w6M4YN4AAAAJ:FkBsMxS_Bp0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual features versus categories: Explaining object representations in primate IT and deep neural networks with weighted representational modeling",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:5s9rAH04UEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational Dynamics: The Temporal Evolution of Neural Population Coding in Nonhuman Primate Inferior Temporal Cortex",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:ZVmBtQ9RJaQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixing deep neural network features to explain brain representations",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:KxdiYzj_eL0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback signals from the local surround are combined with feedforward information in human V1",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:6DzZfY3qH5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting how similar two faces look, using deep neural networks and optimised stimuli",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:WmQWPPBrFVcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks: a new framework for modeling biological vision and brain information processing",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "w6M4YN4AAAAJ:EfTNjLFZ3b0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting face dissimilarity judgements from Basel Face Space",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:AbS6eEh_b9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Near-perfect prediction of reaction time for face gender judgments based on activity in ventral temporal cortex",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:hKmHnHMtuq0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crossvalidation",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:4_yl7nwqy4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementation of the TRONCO package for TRanslational ONCOlogy",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:LwieBGrN4GEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intersubject information mapping: revealing canonical representations of complex natural stimuli",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "w6M4YN4AAAAJ:M3hCyctIOBoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The geometry of high-level visual representations",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "w6M4YN4AAAAJ:_WP0DvM6eX8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The arrow of time: how does the brain represent natural temporal structure?",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "w6M4YN4AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is there a face-exemplar representation in human anterior inferotemporal cortex?: TU 255",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Ns2bVKt8YxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking an illusion: cortical activation along the apparent motion trace: Poster number: 1498",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "w6M4YN4AAAAJ:wsDUewC2rQsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling Human Visual Uncertainty using Bayesian Deep Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:LYSM3I27WpsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational dynamics in the human ventral stream captured in deep recurrent neural nets",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:6TexfgwXQfYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PLOS Computational Biology would like to thank all those who served on the Editorial Board in 2017: Mark Alber Samuel Alizon",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:oYc2ogjtvagC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual similarity of visual patterns predicts the similarity of their dynamic neural activation patterns measured with MEG",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:PQ1NLOpCoVAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mokset: A shared stimulus set for ob ect vision research",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:XdYaqolBBq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing uncertainty in visual perception using pre-synaptic noise and sampling",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:Dh4RK7yvr34C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent Convolutional Neural Networks Suppress Occluders and Enhance Targets in Occluded Ob ect Recognition",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:It3QlvBKHbMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Faciotopy\u2014human occipital face area",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:XK2cf6JOk9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of uncertainty through sampling in Bayesian neural networks",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:F_tUKv7nyWgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unique semantic space in the brain of each beholder predicts perceived similarity",
+                "cites": "0"
+            },
+            "id_citations": "w6M4YN4AAAAJ:GWiaReNCd0YC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=w6M4YN4AAAAJ",
+    "brain_inspired": {
+        "id": "572",
+        "link": "https://braininspired.co/podcast/12/",
+        "name": "Niko Kriegeskorte",
+        "title": "BI 012 Niko Kriegeskorte: Black Box, White Box",
+        "text": "Niko and I discuss cognitive computational neuroscience as an emerging fusion between cognitive science, computational neuroscience, and artificial intelligence \u2013 and how it all fits together. Plus we talk about the conference by that name."
+    }
+}

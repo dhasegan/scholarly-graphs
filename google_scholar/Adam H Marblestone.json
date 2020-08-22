@@ -1,0 +1,625 @@
+{
+    "affiliation": "DeepMind, MIT",
+    "cites_per_year": {
+        "2009": 8,
+        "2010": 9,
+        "2011": 27,
+        "2012": 42,
+        "2013": 80,
+        "2014": 161,
+        "2015": 202,
+        "2016": 275,
+        "2017": 378,
+        "2018": 452,
+        "2019": 555,
+        "2020": 337
+    },
+    "citedby": 2549,
+    "citedby5y": 2204,
+    "coauthors": [
+        {
+            "affiliation": "Harvard Medical School",
+            "id": "SfDzdgEAAAAJ",
+            "name": "George Church"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "q2rHA5QAAAAJ",
+            "name": "Ed Boyden"
+        },
+        {
+            "affiliation": "University Professor (PIK), bioengineering and neuroscience, UPenn",
+            "id": "MiFqJGcAAAAJ",
+            "name": "Konrad Paul Kording"
+        },
+        {
+            "affiliation": "Harvard University",
+            "id": "o_xIYNUAAAAJ",
+            "name": "Evan R. Daugharthy"
+        },
+        {
+            "affiliation": "Johns Hopkins University",
+            "id": "aynAoP8AAAAJ",
+            "name": "Reza Kalhor"
+        },
+        {
+            "affiliation": "Fellow, Broad Institute of Technology",
+            "id": "473HRugAAAAJ",
+            "name": "Fei Chen"
+        },
+        {
+            "affiliation": "University of California, San Francisco",
+            "id": "ObBAroQAAAAJ",
+            "name": "Shawn Douglas"
+        },
+        {
+            "affiliation": "Network Coding and Reliable Communications at RLE, MIT",
+            "id": "sf04nqgAAAAJ",
+            "name": "Surat Teerapittayanon"
+        },
+        {
+            "affiliation": "Pfizer Internal Medicine",
+            "id": "faL3pc4AAAAJ",
+            "name": "Shoh Asano"
+        },
+        {
+            "affiliation": "X, the moonshot factory",
+            "id": "r-V-R3YAAAAJ",
+            "name": "Brad Zamft"
+        },
+        {
+            "affiliation": "Cold spring harbor laboratory",
+            "id": "DjdxZ24AAAAJ",
+            "name": "Je Hyuk Lee"
+        },
+        {
+            "affiliation": "Media Lab and McGovern Institute, MIT",
+            "id": "BJ02tcMAAAAJ",
+            "name": "Shahar Alon"
+        },
+        {
+            "affiliation": "Postdoc, Columbia University",
+            "id": "tbfWCDgAAAAJ",
+            "name": "Joshua I. Glaser"
+        },
+        {
+            "affiliation": "Resident Physician, Northwestern University - Internal Medicine, PSTP",
+            "id": "T8W-5LsAAAAJ",
+            "name": "Thaddeus R. Cybulski MD, PhD"
+        },
+        {
+            "affiliation": "Professor of Electrical Engineering and Neuroscience, University of California, Berkeley",
+            "id": "qyF6UhQAAAAJ",
+            "name": "Jose Carmena"
+        },
+        {
+            "affiliation": "Assistant Professor, Bioengineering Department, UCSD",
+            "id": "blY0ilIAAAAJ",
+            "name": "Prashant Mali"
+        },
+        {
+            "affiliation": "Wyss Institute, Harvard University",
+            "id": "RKvrOZ8AAAAJ",
+            "name": "Samuel A. Inverso"
+        },
+        {
+            "affiliation": "",
+            "id": "vXeqlo8AAAAJ",
+            "name": "Amy Bernard"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Harvard Medical School",
+            "id": "P6uWxCwAAAAJ",
+            "name": "Ryoji Amamoto"
+        },
+        {
+            "affiliation": "Harvard",
+            "id": "hEvk2HMAAAAJ",
+            "name": "Joyce L. Yang"
+        }
+    ],
+    "email": "@media.mit.edu",
+    "hindex": 15,
+    "hindex5y": 14,
+    "i10index": 19,
+    "i10index5y": 18,
+    "id": "pRTuNPsAAAAJ",
+    "interests": [
+        "Brain Science"
+    ],
+    "name": "Adam H Marblestone",
+    "publications": [
+        {
+            "bib": {
+                "title": "Rapid prototyping of 3D DNA-origami shapes with caDNAno",
+                "cites": "765",
+                "year": "2009"
+            },
+            "id_citations": "pRTuNPsAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Highly multiplexed subcellular RNA sequencing in situ",
+                "cites": "558",
+                "year": "2014"
+            },
+            "id_citations": "pRTuNPsAAAAJ:sbeIDTyQOFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward an integration of deep learning and neuroscience",
+                "cites": "323",
+                "year": "2016"
+            },
+            "id_citations": "pRTuNPsAAAAJ:yIeBiWEAh44C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nanoscale imaging of RNA with expansion microscopy",
+                "cites": "173",
+                "year": "2016"
+            },
+            "id_citations": "pRTuNPsAAAAJ:SrKkpNFED5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physical principles for scalable neural recording",
+                "cites": "161",
+                "year": "2013"
+            },
+            "id_citations": "pRTuNPsAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Four ethical priorities for neurotechnologies and AI",
+                "cites": "102",
+                "year": "2017"
+            },
+            "id_citations": "pRTuNPsAAAAJ:DquSII9TDu4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplexed in Vivo His-Tagging of Enzyme Pathways for in Vitro Single-Pot Multienzyme Catalysis",
+                "cites": "77",
+                "year": "2012"
+            },
+            "id_citations": "pRTuNPsAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Atoms of Neural Computation",
+                "cites": "64",
+                "year": "2014"
+            },
+            "id_citations": "pRTuNPsAAAAJ:0ngZmJvimKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signal-to-pump back action and self-oscillation in double-pump Josephson parametric amplifier",
+                "cites": "58",
+                "year": "2009"
+            },
+            "id_citations": "pRTuNPsAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring cation dependent DNA polymerase fidelity landscapes by deep sequencing",
+                "cites": "50",
+                "year": "2012"
+            },
+            "id_citations": "pRTuNPsAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3D nanofabrication by volumetric deposition and controlled shrinkage of patterned scaffolds",
+                "cites": "33",
+                "year": "2018"
+            },
+            "id_citations": "pRTuNPsAAAAJ:hefNtdE4IMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Future of the Brain: Essays by the World's Leading Neuroscientists",
+                "cites": "25",
+                "year": "2014"
+            },
+            "id_citations": "pRTuNPsAAAAJ:c1AJUTjuCtUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical analysis of molecular signal recording",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "pRTuNPsAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rosetta brains: A strategy for molecularly-annotated connectomics",
+                "cites": "18",
+                "year": "2014"
+            },
+            "id_citations": "pRTuNPsAAAAJ:e84hm74t-eoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene Assembly from Chip\u2010Synthesized Oligonucleotides",
+                "cites": "18",
+                "year": "2012"
+            },
+            "id_citations": "pRTuNPsAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feasibility of 3D reconstruction of neural morphology using expansion microscopy and barcode-guided agglomeration",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "pRTuNPsAAAAJ:PVqtIyvKoSUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conneconomics: the economics of large-scale neural connectomics",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "pRTuNPsAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Malthusian reinforcement learning",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "pRTuNPsAAAAJ:j5aT6aphRxQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial information in large-scale neural recordings",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "pRTuNPsAAAAJ:hHIA4WEVY-EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expansion microscopy of lipid membranes",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:wGzT3bKASkAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution mapping of DNA polymerase fidelity using nucleotide imbalances and next-generation sequencing",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "pRTuNPsAAAAJ:w2UhwfzvF0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular threading: Mechanical extraction, stretching and placement of DNA molecules from a liquid-air Interface",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "pRTuNPsAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DNA binding strength increases the processivity and activity of a Y-Family DNA polymerase",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "pRTuNPsAAAAJ:gV6rEsy15s0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing tools for assumption-proof brain mapping",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "pRTuNPsAAAAJ:qsWQJNntlusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for simultaneously detecting phase modulated optical signals",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:Nw_I7GeUguwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for quasi-ballistic photon optical coherence tomography in diffusive scattering media using a lock-in camera detector",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:d4tt_xEv1X8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three-dimensional nanofabrication by patterning of hydrogels",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "pRTuNPsAAAAJ:u3T1itk59dMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grand challenges for global brain sciences",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "pRTuNPsAAAAJ:DQNrXyjhriIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developing Next-Generation Brain Sensing Technologies\u2014A Review",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:G36d5HCDkJYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theoretical analysis of single molecule protein sequencing via weak binding spectra",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:yJjnfzR0HrkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplexed neural recording along a single optical fiber via optical reflectometry",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "pRTuNPsAAAAJ:lK9BDNCuzFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Product Kanerva Machines: Factorized Bayesian Memory",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "pRTuNPsAAAAJ:wBLCggQE-ToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive optical detection system and method",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:cSdaV2aYdYsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exponential quantum enhancement for distributed addition with local nonlinearity",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "pRTuNPsAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaussian Gated Linear Networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "pRTuNPsAAAAJ:oYLFIHfuHKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-of-flight optical measurement and decoding of fast-optical signals",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "pRTuNPsAAAAJ:ShjGdcaqzI0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In situ nucleic acid sequencing of expanded biological samples",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "pRTuNPsAAAAJ:8uzoZH4hB9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expansion Sequencing: Spatially Precise In Situ Transcriptomics in Intact Biological Systems",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "pRTuNPsAAAAJ:S2WlVNSe3u4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive frequency domain optical spectroscopy for neural decoding",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:K4-iKlO5MD4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive optical detection system and method of multiple-scattered light with swept source illumination",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:BW2nPTmhBn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive optical detection systems and methods in highly scattering medium",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:rFyVMFCKTwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optical detection system for determining neural activity in brain based on water concentration",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:inmFHauC9wsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrasound modulating optical tomography using reduced laser pulse duration",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:Gpwnp1kGG20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Devices and methods to convert conventional imagers into lock-in cameras",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:qPeb-qHga9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pulsed ultrasound modulated optical tomography using lock-in camera",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:Oo1CbQkBAzEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pulsed ultrasound modulated optical tomography with increased optical/ultrasound pulse ratio",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:nWoA1JPTheMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Architecting Discovery: A Model for How Engineers Can Help Invent Tools for Neuroscience",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "pRTuNPsAAAAJ:hfzGNhXhx5MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplexed Signal Amplified FISH via Splinted Ligation Amplification and Sequencing",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "pRTuNPsAAAAJ:X5YyAB84Iw4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How thalamic relays might orchestrate supervised deep training and symbolic computation in the brain",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "pRTuNPsAAAAJ:qCpRzq7zkD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understand the cogs to understand cognition",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "pRTuNPsAAAAJ:tBlTYpvFGQIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing Scalable Biological Interfaces",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "pRTuNPsAAAAJ:RfUwGJFMQ-0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design and self-assembly of DNA into nanoscale 3D shapes",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "pRTuNPsAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developing Next-generation Brain Sensing Technologies\u2013A",
+                "cites": "0"
+            },
+            "id_citations": "pRTuNPsAAAAJ:ojlX30-wUrgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensor Applications Developing Next-Generation Brain Sensing Technologies\u2014A Review................... JT Robinson, E. Pohlmeyer",
+                "cites": "0"
+            },
+            "id_citations": "pRTuNPsAAAAJ:cB__R-XWw9UC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=pRTuNPsAAAAJ",
+    "brain_inspired": {
+        "id": "564",
+        "link": "https://braininspired.co/podcast/10/",
+        "name": "Adam Marblestone",
+        "title": "BI 010 Adam Marblestone: Brain Cost Functions",
+        "text": "Adam and I discuss the possibility there are cost functions optimized in the brain, where and how it might work, Marvin Minsky\u2019s Society of Mind, and lots more."
+    }
+}

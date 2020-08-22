@@ -1,0 +1,701 @@
+{
+    "affiliation": "Senior Researcher (PI), CiNet, National Institute of Information and Communications Technology",
+    "cites_per_year": {
+        "2006": 12,
+        "2007": 6,
+        "2008": 9,
+        "2009": 7,
+        "2010": 12,
+        "2011": 27,
+        "2012": 94,
+        "2013": 188,
+        "2014": 225,
+        "2015": 298,
+        "2016": 265,
+        "2017": 431,
+        "2018": 428,
+        "2019": 421,
+        "2020": 220
+    },
+    "citedby": 2692,
+    "citedby5y": 2065,
+    "coauthors": [
+        {
+            "affiliation": "University of California at Berkeley",
+            "id": "nSZG-vcAAAAJ",
+            "name": "Jack L. GALLANT"
+        },
+        {
+            "affiliation": "Assistant Professor CS & Neuroscience UT Austin",
+            "id": "JNXWWkIAAAAJ",
+            "name": "Alexander Huth"
+        },
+        {
+            "affiliation": "Associate Professor, Neurosciences Dept., Medical University of South Carolina",
+            "id": "9hkEkG0AAAAJ",
+            "name": "Thomas Naselaris"
+        },
+        {
+            "affiliation": "Professor, Osaka University",
+            "id": "wSOtDZkAAAAJ",
+            "name": "Izumi Ohzawa"
+        },
+        {
+            "affiliation": "Professor of Electrical Engineering",
+            "id": "5GLKJvwAAAAJ",
+            "name": "Tolga Cukur"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Minnesota",
+            "id": "hlthz-YAAAAJ",
+            "name": "Kendrick Kay"
+        },
+        {
+            "affiliation": "Hebrew University of Jerusalem",
+            "id": "UDTmds0AAAAJ",
+            "name": "Yuval Benjamini"
+        },
+        {
+            "affiliation": "Professor of Statistics and EECS, UC Berkeley",
+            "id": "xT19Jc0AAAAJ",
+            "name": "Bin YU"
+        },
+        {
+            "affiliation": "University of Houston",
+            "id": "D3-M5GkAAAAJ",
+            "name": "Yuzo Chino"
+        },
+        {
+            "affiliation": "University of Tokyo, Department of Arts and Sciences",
+            "id": "6ACz_fgAAAAJ",
+            "name": "Tomoya Nakai"
+        },
+        {
+            "affiliation": "Intel",
+            "id": "xwGIuw4AAAAJ",
+            "name": "Tyler Lee"
+        },
+        {
+            "affiliation": "National Institute of Advanced Industrial Science and Technology",
+            "id": "5w2dv0UAAAAJ",
+            "name": "Hideki Asoh"
+        },
+        {
+            "affiliation": "Assistant Professor, Kansai Medical University",
+            "id": "vr3VqzkAAAAJ",
+            "name": "Takahisa M. Sanada"
+        },
+        {
+            "affiliation": "Professor of Optometry, College of Optometry, University of Houston",
+            "id": "lwGgWJgAAAAJ",
+            "name": "Earl Smith"
+        },
+        {
+            "affiliation": "Osaka University Graduate School of Frontier Biosciences & CiNet",
+            "id": "amerMDcAAAAJ",
+            "name": "Ichiro Fujita"
+        },
+        {
+            "affiliation": "Associate Professor, Kyoto Sangyo University",
+            "id": "n4QryNQAAAAJ",
+            "name": "HIROKI TANAKA"
+        },
+        {
+            "affiliation": "Assistant professor of Cognitive & Brain Sciences, UN Reno",
+            "id": "HSuy6TQAAAAJ",
+            "name": "Mark Lescroart"
+        },
+        {
+            "affiliation": "Graduate Student Researcher, UC Berkeley",
+            "id": "oY7AJUgAAAAJ",
+            "name": "Dustin Stansbury"
+        },
+        {
+            "affiliation": "Lecture",
+            "id": "o_tl1pgAAAAJ",
+            "name": "Haruhiko Kishima"
+        },
+        {
+            "affiliation": "Kyoto University & ATR",
+            "id": "m5wNiJ4AAAAJ",
+            "name": "Yukiyasu Kamitani"
+        }
+    ],
+    "email": "@nict.go.jp",
+    "hindex": 13,
+    "hindex5y": 12,
+    "i10index": 14,
+    "i10index5y": 12,
+    "id": "y1pLEGkAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Neurophysiology",
+        "Natural vision",
+        "Brain decoding"
+    ],
+    "name": "Shinji Nishimoto",
+    "publications": [
+        {
+            "bib": {
+                "title": "Reconstructing visual experiences from brain activity evoked by natural movies",
+                "cites": "769",
+                "year": "2011"
+            },
+            "id_citations": "y1pLEGkAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A continuous semantic space describes the representation of thousands of object and action categories across the human brain",
+                "cites": "635",
+                "year": "2012"
+            },
+            "id_citations": "y1pLEGkAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding in fMRI",
+                "cites": "540",
+                "year": "2011"
+            },
+            "id_citations": "y1pLEGkAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention during natural vision warps semantic representation across the human brain",
+                "cites": "247",
+                "year": "2013"
+            },
+            "id_citations": "y1pLEGkAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A three-dimensional spatiotemporal receptive field model explains responses of area MT neurons to naturalistic movies",
+                "cites": "107",
+                "year": "2011"
+            },
+            "id_citations": "y1pLEGkAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the semantic content of natural movies from human brain activity",
+                "cites": "68",
+                "year": "2016"
+            },
+            "id_citations": "y1pLEGkAAAAJ:mWEH9CqjF64C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accuracy of subspace mapping of spatiotemporal frequency domain visual receptive fields",
+                "cites": "62",
+                "year": "2005"
+            },
+            "id_citations": "y1pLEGkAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive field properties of neurons in the early visual cortex revealed by local spectral reverse correlation",
+                "cites": "55",
+                "year": "2006"
+            },
+            "id_citations": "y1pLEGkAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional subdomains within human FFA",
+                "cites": "51",
+                "year": "2013"
+            },
+            "id_citations": "y1pLEGkAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding naturalistic experiences from human brain activity via distributed representations of words",
+                "cites": "31",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:HJSXoJQnj-YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early monocular defocus disrupts the normal development of receptive-field structure in V2 neurons of macaque monkeys",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "y1pLEGkAAAAJ:An6A6Jpfc1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional subdomains within scene-selective cortex: parahippocampal place area, retrosplenial complex, and occipital place area",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "y1pLEGkAAAAJ:QUX0mv85b1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local sensitivity to stimulus orientation and spatial frequency within the receptive fields of neurons in visual area 2 of macaque monkeys",
+                "cites": "17",
+                "year": "2012"
+            },
+            "id_citations": "y1pLEGkAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System identification, encoding models, and decoding models: a powerful new approach to fMRI research",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "y1pLEGkAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movement-invariant representations in the human visual system",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "y1pLEGkAAAAJ:SnGPuo6Feq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating natural language descriptions for semantic representations of human brain activity",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "y1pLEGkAAAAJ:eO3_k5sD8BwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lining up brains via a common representational space",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "y1pLEGkAAAAJ:DkZNVXde3BIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping stimulus feature selectivity in macaque V1 by two-photon Ca2+ imaging: Encoding-model analysis of fluorescence responses to natural movies",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding human visual cortical activity evoked by continuous time-varying movies",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "y1pLEGkAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of object contour features in intermediate visual areas in the human brain",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "y1pLEGkAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of perceptual experiences from human brain activity",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "y1pLEGkAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding of music-genre representations in the human brain",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:aIdbFUkbNIkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Describing Semantic Representations of Brain Activity Evoked by Visual Stimuli",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct dimensions of emotion in the human brain and their representation on the cortical surface",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:Hck25ST_3aIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supranormal orientation selectivity of visual neurons in orientation-restricted animals",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "y1pLEGkAAAAJ:2l5NCbZemmgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-Mediated Transfer Learning of Convolutional Neural Networks.",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "y1pLEGkAAAAJ:UmS_249rOGwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Viewing material evaluating method, viewing material evaluating system, and program",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:k_7cPK9k7w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic representation in the cerebral cortex with sparse coding",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "y1pLEGkAAAAJ:rbm3iO8VlycC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human visual areas invariant to eye movements during natural vision",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "y1pLEGkAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "(5) Decoding Perceptual and Cognitive Contents from Brain Activity: A Review",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "y1pLEGkAAAAJ:X9ykpCP0fEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative models reveal the organization of diverse cognitive functions in the brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "y1pLEGkAAAAJ:27LrP4qxOz0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convergence of modality invariance and attention selectivity in the cortical semantic circuit",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "y1pLEGkAAAAJ:zdjWy_NXXwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced intra-and inter-individual diversity of semantic representations in the brains of schizophrenia patients",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "y1pLEGkAAAAJ:YlPif8NxrbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expert programmers have fine-tuned cortical representations of source code",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "y1pLEGkAAAAJ:v6i8RKmR8ToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic contribution to inter-individual differences in human natural audio-visual experiences",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "y1pLEGkAAAAJ:hSRAE-fF4OAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S8-2. Brain mapping using brain-machine interface technology based on magnetoencephalographic and electrocorticographic signals",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "y1pLEGkAAAAJ:qe6vwMD2xtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Establishing a Massive-Report Paradigm to Reveal the Richness of Consciousness",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "y1pLEGkAAAAJ:8Xgff_V0N9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational Network of People Constructed on the Basis of Similarity of Brain Activities",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "y1pLEGkAAAAJ:CYCckWUYoCcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic preservation of functional connectivity among the association areas in the human cerebral cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "y1pLEGkAAAAJ:SIv7DqKytYAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data-driven models reveal the organization of diverse cognitive functions in the brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "y1pLEGkAAAAJ:sA9dB-pw3HoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material evaluating method and material evaluating apparatus",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:LXmCCkuhhTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding Visual Stimulus in Semantic Space from Electrocorticography Signals",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:Xl6nMSl579sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A brain-mediated computational model to estimate perceptual experiences evoked by arbitrary naturalistic visual scenes",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:UuEBAcK4md4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method for estimating perceptual semantic content by analysis of brain activity",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:IsPWOBWtZBwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of music genres based on the spectro-temporal modulation responses of the human brain",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "y1pLEGkAAAAJ:QsaTk4IG4EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deciphering brain activity during natural vision",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "y1pLEGkAAAAJ:Xz60mAmATU4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling and decoding of natural visual cognition",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "y1pLEGkAAAAJ:TlpoogIpr_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intermediate human visual areas represent the locations of silhouette edges in natural movies",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "y1pLEGkAAAAJ:EPG8bYD4jVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P1-28: Supranormal orientation selectivity of visual neurons in orientation-restricted animals",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "y1pLEGkAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category-based attention shifts tuning toward the target object category during natural visual search",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "y1pLEGkAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (November 23, 2011). doi: 10.1152/jn. 00640.2011",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "y1pLEGkAAAAJ:silx2ntsSuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does functional columnar organization extend across hemispheric boundaries?",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "y1pLEGkAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spinogenesis and pruning of layer III pyramidal cells in the ventral visual pathway of the macaque monkey",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "y1pLEGkAAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses of V1 neurons are faster when two eyes are used than one",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "y1pLEGkAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive field structure of visual cortical neurons in cats reared with restricted orientations",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "y1pLEGkAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local spectral reverse correlation [LSRC]: A new method for simultaneously studying multiple high-order visual neurons",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "y1pLEGkAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of Specific Genes Involved in Cellular Senescence by Using Human Lung Adenocarcinoma Derived Cells",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "y1pLEGkAAAAJ:rTD5ala9j4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of Correspondence Relationship between Brain Activity and Semantic Representation",
+                "cites": "0"
+            },
+            "id_citations": "y1pLEGkAAAAJ:-DxkuPiZhfEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u03c7\u03e1\u0294\u03e5\u03e7\u03c9\u03bf\u03c4\u03eb\u0294\u03ab\u039b\u0f3b \u034d\u0368 \u03ce\u03c4\u0377\u0cf4\u05c6 \u0c88\u0354\u0392\u0377\u0c88\u0c24\u08b9\u05ae\u0897 \u0739\u0377\u0836 \u07cf\u0a52",
+                "cites": "0"
+            },
+            "id_citations": "y1pLEGkAAAAJ:qwy9JoKyICEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Material Brain-mediated Transfer Learning of Convolutional Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "y1pLEGkAAAAJ:g5Ck-dwhA_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling human visual responses with a U-shaped deep neural network for motion flow-field estimation",
+                "cites": "0"
+            },
+            "id_citations": "y1pLEGkAAAAJ:2v_ZtQDX9iAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sarah Brosnan",
+                "cites": "0"
+            },
+            "id_citations": "y1pLEGkAAAAJ:DrR-2ekChdkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding visual experiences: toward a quantitative basis for vision-based BCI",
+                "cites": "0"
+            },
+            "id_citations": "y1pLEGkAAAAJ:SGW5VrABaM0C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=y1pLEGkAAAAJ"
+}

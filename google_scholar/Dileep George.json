@@ -1,0 +1,922 @@
+{
+    "affiliation": "Co-founder at Vicarious AI",
+    "cites_per_year": {
+        "2005": 12,
+        "2006": 30,
+        "2007": 42,
+        "2008": 80,
+        "2009": 146,
+        "2010": 137,
+        "2011": 229,
+        "2012": 368,
+        "2013": 279,
+        "2014": 336,
+        "2015": 248,
+        "2016": 238,
+        "2017": 255,
+        "2018": 243,
+        "2019": 421,
+        "2020": 159
+    },
+    "citedby": 3273,
+    "citedby5y": 1570,
+    "coauthors": [],
+    "email": "@vicarious.com",
+    "hindex": 28,
+    "hindex5y": 18,
+    "i10index": 48,
+    "i10index5y": 45,
+    "id": "0hmE5AUAAAAJ",
+    "interests": [
+        "artificial intelligence",
+        "machine learning",
+        "neuroscience",
+        "robotics."
+    ],
+    "name": "Dileep George",
+    "publications": [
+        {
+            "bib": {
+                "title": "Towards a mathematical theory of cortical micro-circuits",
+                "cites": "10857377123872617724",
+                "year": "2009",
+                "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000532",
+                "author": "Dileep George and Jeff Hawkins",
+                "journal": "PLoS Comput Biol",
+                "volume": "5",
+                "number": "10",
+                "pages": "e1000532",
+                "publisher": "Public Library of Science",
+                "abstract": "The theoretical setting of hierarchical Bayesian inference is gaining acceptance as a framework for understanding cortical computation. In this paper, we describe how Bayesian belief propagation in a spatio-temporal hierarchical model, called Hierarchical Temporal Memory (HTM), can lead to a mathematical model for cortical circuits. An HTM node is abstracted using a coincidence detector and a mixture of Markov chains. Bayesian belief propagation equations for such an HTM node define a set of functional constraints for a neuronal implementation. Anatomical data provide a contrasting set of organizational constraints. The combination of these two constraints suggests a theoretically derived interpretation for many anatomical and physiological features and predicts several others. We describe the pattern recognition capabilities of HTM networks and demonstrate the application of the derived circuits for modeling the subjective contour effect. We also discuss how the theory and the circuit can be extended to explain cortical features that are not explained by the current model and describe testable predictions that can be derived from the model.",
+                "eprint": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000532"
+            },
+            "id_citations": "0hmE5AUAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory: Concepts, theory and terminology",
+                "cites": "352",
+                "year": "2006"
+            },
+            "id_citations": "0hmE5AUAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hierarchical Bayesian model of invariant pattern recognition in the visual cortex",
+                "cites": "318",
+                "year": "2005"
+            },
+            "id_citations": "0hmE5AUAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the brain might work: A hierarchical and temporal model for learning and recognition",
+                "cites": "214",
+                "year": "2008"
+            },
+            "id_citations": "0hmE5AUAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The HTM learning algorithms",
+                "cites": "137",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schema networks: Zero-shot transfer with a generative causal model of intuitive physics",
+                "cites": "129",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs",
+                "cites": "128",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence memory for prediction, inference and behaviour",
+                "cites": "112",
+                "year": "2009"
+            },
+            "id_citations": "0hmE5AUAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory (htm) system deployed as web service",
+                "cites": "70",
+                "year": "2014"
+            },
+            "id_citations": "0hmE5AUAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trainable hierarchical memory system and method",
+                "cites": "70",
+                "year": "2010"
+            },
+            "id_citations": "0hmE5AUAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal learning algorithms in hierarchical temporal networks",
+                "cites": "61",
+                "year": "2011"
+            },
+            "id_citations": "0hmE5AUAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Invariant pattern recognition using Bayesian inference on hierarchical sequences",
+                "cites": "60",
+                "year": "2004"
+            },
+            "id_citations": "0hmE5AUAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical computing modules for performing spatial pattern and temporal sequence recognition",
+                "cites": "52",
+                "year": "2009"
+            },
+            "id_citations": "0hmE5AUAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directed behavior using a hierarchical temporal memory based system",
+                "cites": "51",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory system with enhanced inference capability",
+                "cites": "48",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extensible hierarchical temporal memory based system",
+                "cites": "48",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence learning in a hierarchical temporal memory based system",
+                "cites": "47",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Upright step-cycle with elliptical motion pedalling",
+                "cites": "45",
+                "year": "2003"
+            },
+            "id_citations": "0hmE5AUAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Architecture of a hierarchical temporal memory based system",
+                "cites": "44",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pooling in a hierarchical temporal memory based system",
+                "cites": "42",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive diversity combining for Wide Band Code Division Multiple Access (W-CDMA) based on iterative channel estimation",
+                "cites": "42",
+                "year": "2006"
+            },
+            "id_citations": "0hmE5AUAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention in a hierarchical temporal memory based system",
+                "cites": "41",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FFT and FHT engine",
+                "cites": "39",
+                "year": "2005"
+            },
+            "id_citations": "0hmE5AUAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trainable hierarchical memory system and method",
+                "cites": "36",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for detecting spatial patterns",
+                "cites": "36",
+                "year": "2011"
+            },
+            "id_citations": "0hmE5AUAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Temporal Memory (HTM) System Deployed as Web Service",
+                "cites": "36",
+                "year": "2008"
+            },
+            "id_citations": "0hmE5AUAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical computing modules for performing recognition using spatial distance and temporal sequences",
+                "cites": "31",
+                "year": "2009"
+            },
+            "id_citations": "0hmE5AUAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical based system for identifying object using spatial and temporal patterns",
+                "cites": "29",
+                "year": "2009"
+            },
+            "id_citations": "0hmE5AUAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback in group based hierarchical temporal memory system",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "0hmE5AUAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Belief propagation in a hierarchical temporal memory based system",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "0hmE5AUAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Teaching compositionality to cnns",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supervision based grouping of patterns in hierarchical temporal memory (HTM)",
+                "cites": "27",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods, architecture, and apparatus for implementing machine intelligence and hierarchical memory systems",
+                "cites": "27",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for automatic topology determination in a hierarchical-temporal network",
+                "cites": "27",
+                "year": "2009"
+            },
+            "id_citations": "0hmE5AUAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory system with higher-order temporal pooling capability",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "0hmE5AUAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback in group based hierarchical temporal memory system",
+                "cites": "26",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic memory with a hierarchical temporal memory based system",
+                "cites": "25",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust induction of process models from time-series data",
+                "cites": "25",
+                "year": "2003"
+            },
+            "id_citations": "0hmE5AUAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal learning algorithms in hierarchical temporal networks",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "0hmE5AUAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trainable hierarchical memory system and method",
+                "cites": "24",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods, architecture, and apparatus for implementing machine intelligence and hierarchical memory systems",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action based learning",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "0hmE5AUAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond imitation: Zero-shot task transfer on robots by learning concepts as cognitive programs",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Group-Based Temporal Pooling",
+                "cites": "21",
+                "year": "2008"
+            },
+            "id_citations": "0hmE5AUAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Letter to the editor: Research priorities for robust and beneficial artificial intelligence: An open letter",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "0hmE5AUAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Belief propagation and wiring length optimization as organizing principles for cortical microcircuits",
+                "cites": "14",
+                "year": "2006"
+            },
+            "id_citations": "0hmE5AUAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical compositional feature learning",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavior is everything: Towards representing concepts with sensorimotor contingencies",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "0hmE5AUAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with inter-spike interval codes in networks of integrate and fire neurons",
+                "cites": "8",
+                "year": "2005"
+            },
+            "id_citations": "0hmE5AUAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative shape models: Joint text recognition and segmentation with very little training data",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence learning in a hierarchical temporal memory based system",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "0hmE5AUAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to make computers that work like the brain",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "0hmE5AUAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning higher-order sequential structure with cloned HMMs",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for recognizing objects visually using a recursive cortical network",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering ecosystem models from time-series data",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "0hmE5AUAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pre-oriented yarn package",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "0hmE5AUAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory: Theory and applications",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "0hmE5AUAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can the brain teach us about building artificial intelligence?",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical Microcircuits from a Generative Vision Model",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "0hmE5AUAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for a recursive cortical network",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Architecture of a hierarchical temporal memory based system",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "0hmE5AUAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive diversity combining for wide band code division multiple access (W-CDMA) based on iterative channel estimation",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "0hmE5AUAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning cognitive maps for vicarious evaluation",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A backward pass through a CNN using a generative model of its activations",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directed behavior in hierarchical temporal memory based system",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FFT and FHT engine",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "0hmE5AUAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interference cancellation schemes for wideband CDMA downlink",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "0hmE5AUAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Query Training: Learning and inference for directed and undirected graphical models",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From proprioception to long-horizon planning in novel environments: A hierarchical RL model",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "408 Neuroscience, Cognition, and Computation: Linking Hypotheses",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for event prediction using schema networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning a generative model for robot control using visual feedback",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system for machine concept understanding",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model of Fast Concept Inference with Object-Factorized Cognitive Programs",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0hmE5AUAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for event prediction using schema networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory (HTM) system deployed as web service",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning undirected models via query training",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning undirected models via query training",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for generating data explanations for neural networks and related systems",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for teaching compositionality to convolutional neural networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memorize-Generalize: An online algorithm for learning higher-order sequential structure with cloned Hidden Markov Models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Different clones for different contexts: Hippocampal cognitive maps as higher-order graphs of a cloned HMM",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0hmE5AUAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining Visual Cortex Phenomena using Recursive Cortical Network",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "0hmE5AUAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for a recursive cortical network",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical temporal memory (HTM) system deployed as web service",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for a recursive cortical network",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for a recursive cortical network",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "0hmE5AUAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for a recursive cortical network",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "0hmE5AUAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directed behavior in hierarchical temporal memory based system",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "0hmE5AUAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inducing biological models from temporal gene expression data",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "0hmE5AUAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning cognitive maps as structured graphs for vicarious evaluation",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low Complexity Schemes for Long Term Memory Motion Compensation",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sole-mate: A Smart Assistant for Personal Productivity Management",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term Constant Velocity Motion Prediction Applied to Long Term Motion Compensation",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CROSS-REFERENCE TO RELATED APPLICATIONS",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IPM: Discovering Process Models From Time-Series Data",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CROSS-REFERENCE TO RELATED APPLICATIONS",
+                "cites": "0"
+            },
+            "id_citations": "0hmE5AUAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=0hmE5AUAAAAJ",
+    "brain_inspired": {
+        "id": "576",
+        "link": "https://braininspired.co/podcast/13/",
+        "name": "Dileep George",
+        "title": "BI 013 Dileep George: Vicarious Robot AI",
+        "text": "Dileep and I talk about how his company, Vicarious, aims to create general artificial intelligence for robots, using tons of inspiration from brain structure and function. We also discuss his recent graphical model that, among other things, breaks CAPTCHAs with very few training examples."
+    }
+}

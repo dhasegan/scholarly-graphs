@@ -1,0 +1,824 @@
+{
+    "affiliation": "Google DeepMind",
+    "cites_per_year": {
+        "2006": 38,
+        "2007": 62,
+        "2008": 91,
+        "2009": 107,
+        "2010": 134,
+        "2011": 101,
+        "2012": 129,
+        "2013": 148,
+        "2014": 172,
+        "2015": 288,
+        "2016": 558,
+        "2017": 1061,
+        "2018": 1970,
+        "2019": 3069,
+        "2020": 1671
+    },
+    "citedby": 9712,
+    "citedby5y": 8660,
+    "coauthors": [
+        {
+            "affiliation": "Research Scientist at Google DeepMind",
+            "id": "eSPY8LwAAAAJ",
+            "name": "Razvan Pascanu"
+        },
+        {
+            "affiliation": "Chief AI Scientist at Facebook & Silver Professor at the Courant Institute, New York University",
+            "id": "WLN3QrAAAAAJ",
+            "name": "Yann LeCun"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "n_7ggqIAAAAJ",
+            "name": "Andrei A. Rusu"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "sGFyDIUAAAAJ",
+            "name": "koray kavukcuoglu"
+        },
+        {
+            "affiliation": "Imagen Technologies",
+            "id": "ETU-ePAAAAAJ",
+            "name": "Sumit Chopra"
+        },
+        {
+            "affiliation": "Research Scientist, Google",
+            "id": "0nPi5YYAAAAJ",
+            "name": "Pierre Sermanet"
+        },
+        {
+            "affiliation": "Staff Research Scientist at DeepMind",
+            "id": "uKXVH54AAAAJ",
+            "name": "Piotr Mirowski"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "Yxv1EwcAAAAJ",
+            "name": "Guillaume Desjardins"
+        },
+        {
+            "affiliation": "Twitter",
+            "id": "spAJDzYAAAAJ",
+            "name": "Ayse Naz Erkan"
+        },
+        {
+            "affiliation": "Google DeepMind",
+            "id": "_jkvGEUAAAAJ",
+            "name": "Dharshan Kumaran"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "AgUYQMwAAAAJ",
+            "name": "Neil Rabinowitz"
+        },
+        {
+            "affiliation": "Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind",
+            "id": "y-nUzMwAAAAJ",
+            "name": "Yee Whye Teh"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "QD-sf3IAAAAJ",
+            "name": "Andrea Banino"
+        },
+        {
+            "affiliation": "Google DeepMind",
+            "id": "_iYrAxEAAAAJ",
+            "name": "Joel Veness"
+        },
+        {
+            "affiliation": "Bioengineering, Imperial College London",
+            "id": "jy5yBV4AAAAJ",
+            "name": "Prof. Claudia Clopath"
+        },
+        {
+            "affiliation": "Google DeepMind",
+            "id": "2H5lbrAAAAAJ",
+            "name": "Tiago Ramalho"
+        },
+        {
+            "affiliation": "Technical Director, SRI International",
+            "id": "aXdFKxIAAAAJ",
+            "name": "Bogdan Matei"
+        },
+        {
+            "affiliation": "Technical Director - Vision and Robotics Lab, SRI International",
+            "id": "IVWS51sAAAAJ",
+            "name": "Supun Samarasekera"
+        },
+        {
+            "affiliation": "Google DeepMind",
+            "id": "0kVh58wAAAAJ",
+            "name": "Laurent Sifre"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "XrKLUO0AAAAJ",
+            "name": "Misha Denil"
+        }
+    ],
+    "email": "@google.com",
+    "hindex": 28,
+    "hindex5y": 23,
+    "i10index": 41,
+    "i10index5y": 36,
+    "id": "Q0YEc-QAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Robotics"
+    ],
+    "name": "Raia Hadsell",
+    "publications": [
+        {
+            "bib": {
+                "title": "Learning a similarity metric discriminatively, with application to face verification",
+                "cites": "10178630580325244294",
+                "year": "2005",
+                "url": "https://ieeexplore.ieee.org/abstract/document/1467314/",
+                "author": "Sumit Chopra and Raia Hadsell and Yann LeCun",
+                "volume": "1",
+                "pages": "539-546",
+                "publisher": "IEEE",
+                "abstract": "We present a method for training a similarity metric from data. The method can be used for recognition or verification applications where the number of categories is very large and not known during training, and where the number of training samples for a single category is very small. The idea is to learn a function that maps input patterns into a target space such that the L/sub 1/ norm in the target space approximates the \"semantic\" distance in the input space. The method is applied to a face verification task. The learning process minimizes a discriminative loss function that drives the similarity metric to be small for pairs of faces from the same person, and large for pairs from different persons. The mapping from raw to the target space is a convolutional network whose architecture is designed for robustness to geometric distortions. The system is tested on the Purdue/AR face database which has a very high degree of \u2026",
+                "eprint": "http://www.cs.utoronto.ca/~hinton/csc2535_06/readings/chopra-05.pdf"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dimensionality reduction by learning an invariant mapping",
+                "cites": "1608",
+                "year": "2006"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overcoming catastrophic forgetting in neural networks",
+                "cites": "1143",
+                "year": "2017"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progressive neural networks",
+                "cites": "689",
+                "year": "2016"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on energy-based learning",
+                "cites": "560",
+                "year": "2006"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to navigate in complex environments",
+                "cites": "411",
+                "year": "2016"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning long\u2010range vision for autonomous off\u2010road driving",
+                "cites": "339",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sim-to-real robot learning from pixels with progressive nets",
+                "cites": "267",
+                "year": "2017"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Policy distillation",
+                "cites": "260",
+                "year": "2015"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vector-based navigation using grid-like representations in artificial agents",
+                "cites": "224",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning with latent embedding optimization",
+                "cites": "211",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distral: Robust multitask reinforcement learning",
+                "cites": "188",
+                "year": "2017"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Graph networks as learnable physics engines for inference and control",
+                "cites": "136",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progress & compress: A scalable framework for continual learning",
+                "cites": "136",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The limits and potentials of deep learning for robotics",
+                "cites": "128",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement and imitation learning for diverse visuomotor skills",
+                "cites": "103",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved global routing through congestion estimation",
+                "cites": "103",
+                "year": "2003"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to navigate in cities without a map",
+                "cites": "101",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep belief net learning in a long-range vision system for autonomous off-road driving",
+                "cites": "93",
+                "year": "2008"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for real-time pedestrian detection for urban driving",
+                "cites": "81",
+                "year": "2014"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sim-to-real via sim-to-sim: Data-efficient robotic grasping via randomized-to-canonical adaptation networks",
+                "cites": "74",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online learning for offroad robots: Using spatial label propagation to learn long-range traversability",
+                "cites": "53",
+                "year": "2007"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Space-carving kernels for accurate rough terrain estimation",
+                "cites": "48",
+                "year": "2010"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A multirange architecture for collision\u2010free off\u2010road robot navigation",
+                "cites": "47",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping and planning under uncertainty in mobile robots with long-range perception",
+                "cites": "47",
+                "year": "2008"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accurate rough terrain estimation with space-carving kernels.",
+                "cites": "44",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time system for multi-modal 3D geospatial mapping, object recognition, scene annotation and analytics",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time system for multi-modal 3D geospatial mapping, object recognition, scene annotation and analytics",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot reinforcement learning for robot navigation with interactive replay",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive long range vision in unstructured terrain",
+                "cites": "21",
+                "year": "2007"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning deployable navigation policies at kilometer scale from a single traversal",
+                "cites": "19",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A multi-range vision strategy for autonomous offroad navigation",
+                "cites": "19",
+                "year": "2007"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to follow directions in street view",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-range pedestrian detection using stereo and a cascade of convolutional network classifiers",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From pixels to percepts: Highly robust edge perception and contour following using deep learning and an optical biomimetic tactile sensor",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time system for multi-modal 3D geospatial mapping, object recognition, scene annotation and analytics",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning with warped gradient descent",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship Between Water Migration and Quality Changes of Yellowfin Tuna (Thunnus albacares) During Storage at 0\u00b0C and 4\u00b0C by LF-NMR",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-precision localization using visual landmarks fused with range data",
+                "cites": "11",
+                "year": "2011"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning gentle object manipulation with curiosity-driven deep reinforcement learning",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The streetlearn environment and dataset",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual unsupervised representation learning",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to Husz\u00e1r: The elastic weight consolidation penalty is empirically valid",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural execution of graph algorithms",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value constrained model-free continuous control",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed-range dilemmas for vision-based navigation in unstructured terrain",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Audio based robot control and navigation",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting leadership and cohesion in spoken interactions",
+                "cites": "7",
+                "year": "2012"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stabilizing transformers for reinforcement learning",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distral: Robust multitask reinforcement learning",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-line learning of long-range obstacle detection for off-road robots",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention privileged reinforcement learning for domain transfer",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex terrain mapping with multi-camera visual odometry and realtime drift correction",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual unsupervised representation learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disentangled Cumulants Help Successor Representations Transfer to New Tasks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-modal pedestrian detection on the move",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised topic modeling for leader detection in spoken discourse",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning long-range vision for an offroad robot",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Distributional View on Multi-Objective Policy Optimization",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environment navigation using reinforcement learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Performing navigation tasks using grid codes",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-task neural network systems with task-specific policies and a shared policy",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environment navigation using reinforcement learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention-Privileged Reinforcement Learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Success at any cost: value constrained model-free continuous control",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vector-based Navigation using Grid-like Representations in Artificial Agents.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Reinforcement Learning for Biomimetic Touch: Learning to Type Braille",
+                "cites": "0"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Leveraging Physical Models for Gentle Manipulation",
+                "cites": "0"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Achieving Gentle Manipulation with Deep Reinforcement Learning",
+                "cites": "0"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Invariant Feature Learning on a Mobile Robot",
+                "cites": "0"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-Supervised Learning in Off-Road Robots: Robust Scene Understanding for Autonomous Navigation",
+                "cites": "0"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autonomous Learning for Long Range Vision in Mobile Robots",
+                "cites": "0"
+            },
+            "id_citations": "Q0YEc-QAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Q0YEc-QAAAAJ"
+}

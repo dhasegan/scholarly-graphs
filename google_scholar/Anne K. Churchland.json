@@ -1,0 +1,979 @@
+{
+    "affiliation": "Cold Spring Harbor Laboratory",
+    "cites_per_year": {
+        "2003": 24,
+        "2004": 32,
+        "2005": 39,
+        "2006": 29,
+        "2007": 46,
+        "2008": 63,
+        "2009": 102,
+        "2010": 144,
+        "2011": 191,
+        "2012": 198,
+        "2013": 222,
+        "2014": 287,
+        "2015": 316,
+        "2016": 389,
+        "2017": 403,
+        "2018": 582,
+        "2019": 563,
+        "2020": 322
+    },
+    "citedby": 4001,
+    "citedby5y": 2581,
+    "coauthors": [
+        {
+            "affiliation": "HHMI",
+            "id": "Q0kenzsAAAAJ",
+            "name": "michael shadlen"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "vVhnHm4AAAAJ",
+            "name": "Roozbeh Kiani"
+        },
+        {
+            "affiliation": "Assistant Professor at University of Chicago",
+            "id": "hEXY2ysAAAAJ",
+            "name": "Matthew T Kaufman"
+        },
+        {
+            "affiliation": "Professor, Gatsby Computational Neuroscience Unit, UCL",
+            "id": "wmqntyEAAAAJ",
+            "name": "peter latham"
+        },
+        {
+            "affiliation": "University of California-Davis",
+            "id": "a2nnsrAAAAAJ",
+            "name": "Tim Hanks"
+        },
+        {
+            "affiliation": "Google DeepMind, Champalimaud Neuroscience Programme, Cold Spring Harbor Laboratory",
+            "id": "4iINIzkAAAAJ",
+            "name": "David Raposo"
+        },
+        {
+            "affiliation": "Duke University",
+            "id": "RJE1lmUAAAAJ",
+            "name": "Jeff Beck"
+        },
+        {
+            "affiliation": "University of Illinois at Chicago",
+            "id": "YGEB-RwAAAAJ",
+            "name": "Jamie Roitman"
+        },
+        {
+            "affiliation": "University Pompeu Fabra, Barcelona",
+            "id": "dk4k91QAAAAJ",
+            "name": "Ruben Moreno-Bote"
+        },
+        {
+            "affiliation": "Professor of Visual Neuroscience, University College London",
+            "id": "R3PGFHsAAAAJ",
+            "name": "Matteo Carandini"
+        },
+        {
+            "affiliation": "Assistant Professor, Harvard Medical School",
+            "id": "fCUx98wAAAAJ",
+            "name": "Jan Drugowitsch"
+        },
+        {
+            "affiliation": "University of Minnesota",
+            "id": "_IIpR0EAAAAJ",
+            "name": "Paul Schrater"
+        },
+        {
+            "affiliation": "Assistant Professor, University of California, Davis",
+            "id": "1sVG1IgAAAAJ",
+            "name": "Rishidev Chaudhuri"
+        },
+        {
+            "affiliation": "Global Professor of Neural Science, New York University",
+            "id": "cv-YgL0AAAAJ",
+            "name": "Xiao-Jing Wang"
+        },
+        {
+            "affiliation": "Johns Hopkins University Applied Physics Laboratory",
+            "id": "8LD6kXEAAAAJ",
+            "name": "Kachi Odoemene"
+        },
+        {
+            "affiliation": "Associate Professor, Centre for Brain and Cognitive Development, Dept of Psychological Sciences",
+            "id": "sNXI4hIAAAAJ",
+            "name": "Natasha Kirkham"
+        },
+        {
+            "affiliation": "Institute of Neuroscience, Shanghai",
+            "id": "p-a2_YIAAAAJ",
+            "name": "Tianming Yang"
+        },
+        {
+            "affiliation": "Brandeis University, CERN, Boston University, Columbia University, Stanford Linear Accelerator",
+            "id": "ca_O-WQAAAAJ",
+            "name": "L F Abbott"
+        },
+        {
+            "affiliation": "Assistant Professor, Stanford University",
+            "id": "0V3yo3UAAAAJ",
+            "name": "Justin L Gardner"
+        },
+        {
+            "affiliation": "University of Texas at Austin",
+            "id": "uUsacasAAAAJ",
+            "name": "Nicholas Priebe"
+        }
+    ],
+    "email": "@cshl.edu",
+    "hindex": 27,
+    "hindex5y": 23,
+    "i10index": 34,
+    "i10index5y": 31,
+    "id": "iuFT994AAAAJ",
+    "interests": [
+        "Decision-making and multisensory integration"
+    ],
+    "name": "Anne K. Churchland",
+    "publications": [
+        {
+            "bib": {
+                "title": "Probabilistic population codes for Bayesian decision making",
+                "cites": "7021802044797161546",
+                "year": "2008",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0896627308008039",
+                "author": "Jeffrey M Beck and Wei Ji Ma and Roozbeh Kiani and Tim Hanks and Anne K Churchland and Jamie Roitman and Michael N Shadlen and Peter E Latham and Alexandre Pouget",
+                "journal": "Neuron",
+                "volume": "60",
+                "number": "6",
+                "pages": "1142-1152",
+                "publisher": "Cell Press",
+                "abstract": "When making a decision, one must first accumulate evidence, often over time, and then select the appropriate action. Here, we present a neural model of decision making that can perform both evidence accumulation and action selection optimally. More specifically, we show that, given a Poisson-like distribution of spike counts, biological neural networks can accumulate evidence without loss of information through linear integration of neural activity and can select the most likely action through attractor dynamics. This holds for arbitrary correlations, any tuning curves, continuous and discrete variables, and sensory evidence whose reliability varies over time. Our model predicts that the neurons in the lateral intraparietal cortex involved in evidence accumulation encode, on every trial, a probability distribution which predicts the animal's performance. We present experimental evidence consistent with this prediction \u2026",
+                "eprint": "https://www.sciencedirect.com/science/article/pii/S0896627308008039"
+            },
+            "id_citations": "iuFT994AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making with multiple alternatives",
+                "cites": "565",
+                "year": "2008"
+            },
+            "id_citations": "iuFT994AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cost of accumulating evidence in perceptual decision making",
+                "cites": "355",
+                "year": "2012"
+            },
+            "id_citations": "iuFT994AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variance as a signature of neural computations during decision making",
+                "cites": "286",
+                "year": "2011"
+            },
+            "id_citations": "iuFT994AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A category-free neural population supports evolving demands during decision-making",
+                "cites": "275",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing perceptual decisions in rodents",
+                "cites": "199",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Partial ablations of the flocculus and ventral paraflocculus in monkeys cause linked deficits in smooth pursuit eye movements and adaptive modification of the VOR",
+                "cites": "179",
+                "year": "2002"
+            },
+            "id_citations": "iuFT994AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory and space: towards an understanding of the cognitive map",
+                "cites": "172",
+                "year": "2015"
+            },
+            "id_citations": "iuFT994AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multisensory decision-making in rats and humans",
+                "cites": "144",
+                "year": "2012"
+            },
+            "id_citations": "iuFT994AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of instrumental learning in primary auditory cortex",
+                "cites": "126",
+                "year": "2002"
+            },
+            "id_citations": "iuFT994AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An intentional framework",
+                "cites": "125",
+                "year": "2008"
+            },
+            "id_citations": "iuFT994AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The speed and accuracy of a simple perceptual decision: a mathematical primer",
+                "cites": "92",
+                "year": "2006"
+            },
+            "id_citations": "iuFT994AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Posterior parietal cortex guides visual decisions in rats",
+                "cites": "75",
+                "year": "2017"
+            },
+            "id_citations": "iuFT994AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial neural dynamics are dominated by richly varied movements",
+                "cites": "70",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gain control in human smooth-pursuit eye movements",
+                "cites": "68",
+                "year": "2002"
+            },
+            "id_citations": "iuFT994AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New advances in understanding decisions among multiple alternatives",
+                "cites": "60",
+                "year": "2012"
+            },
+            "id_citations": "iuFT994AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic weighting of multisensory stimuli shapes decision-making in rats and humans",
+                "cites": "57",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early developments in the ability to understand the relation between stimulus and reward.",
+                "cites": "57",
+                "year": "1999"
+            },
+            "id_citations": "iuFT994AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directional anisotropies reveal a functional segregation of visual motion processing for perception and action",
+                "cites": "46",
+                "year": "2003"
+            },
+            "id_citations": "iuFT994AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of direction cues is invariant to the temporal gap between them",
+                "cites": "42",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Movement-related activity dominates cortex during sensory-guided decision making",
+                "cites": "41",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making behaviors: weighing ethology, complexity, and sensorimotor compatibility",
+                "cites": "33",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discharge properties of MST neurons that project to the frontal pursuit area in macaque monkeys",
+                "cites": "31",
+                "year": "2005"
+            },
+            "id_citations": "iuFT994AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Onacid: Online analysis of calcium imaging data in real time",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "iuFT994AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three challenges for connecting model to mechanism in decision-making",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "iuFT994AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship between extraretinal component of firing rate and eye speed in area MST of macaque monkeys",
+                "cites": "28",
+                "year": "2005"
+            },
+            "id_citations": "iuFT994AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Better than conscious? Decision making, the human mind, and implications for institutions",
+                "cites": "27",
+                "year": "2008"
+            },
+            "id_citations": "iuFT994AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual evidence accumulation guides decision-making in unrestrained mice",
+                "cites": "24",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conceptual and technical advances define a key moment for theoretical neuroscience",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "iuFT994AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses of neurons in the medial superior temporal visual area to apparent motion stimuli in macaque monkeys",
+                "cites": "18",
+                "year": "2007"
+            },
+            "id_citations": "iuFT994AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An international laboratory for systems and computational neuroscience",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "iuFT994AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual decision-making: a field in the midst of a transformation",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronically implanted Neuropixels probes enable high-yield recordings in freely moving mice",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive neuroscience: sensory noise drives bad decisions",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision Activity in Parietal Cortex\u2013Leader or Follower?",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "iuFT994AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multisensory decisions provide support for probabilistic number representations",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "iuFT994AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Excitatory and inhibitory subnetworks are equally selective during decision-making and emerge simultaneously during learning",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Excitatory and inhibitory subnetworks are equally selective during decision-making and emerge simultaneously during learning",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A standardized and reproducible method to measure decision-making in mice",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: Decision-making with multiple alternatives.",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "iuFT994AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harnessing behavioral diversity to understand neural computations for cognition",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dataset from\" Farzaneh Najafi, Gamaleldin F Elsayed, Robin Cao, Eftychios Pnevmatikakis, Peter E. Latham, John P Cunningham, Anne K Churchland (bioRxiv, 2018); Excitatory and \u2026",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lapses in perceptual decisions reflect exploration",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-throughput mapping of mesoscale connectomes in individual mice",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience: incepting associations",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "iuFT994AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localized semi-nonnegative matrix factorization (LocaNMF) of widefield calcium imaging data",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions from different model organisms to brain research",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "iuFT994AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory noise drives bad decisions: the philosopher Albert Camus once said,\" Life is the sum of all your choices\". work using an innovative experimental design in humans and \u2026",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data architecture for a large-scale neuroscience collaboration",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harnessing behavioral diversity to understand circuits for cognition",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Many paths from state to state",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "iuFT994AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetic stimulation of visual inputs to posterior parietal cortex biases choice behavior of rats on a multisensory decision task.",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normalizing relations between the senses",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "iuFT994AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-Making and Vision",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "iuFT994AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-Scale, Projection-Specific Functional Representations of Cognitive Decisions",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dataset from: Lapses in perceptual decisions reflect exploration.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dataset from: Visual evidence accumulation guides decision-making in unrestrained mice.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Citric Acid Water as an Alternative to Water Restriction for High-Yield Mouse Behavior",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Citric Acid water as an alternative to water scheduling in behaving mice",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "iuFT994AAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dataset from: Single-trial neural dynamics are dominated by richly varied movements.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronically-implanted Neuropixels probes enable high yield recordings in freely moving mice: dataset",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An approach for efficient brain-wide projection-specific gene transfer",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BRICseq bridges brain-wide interregional connectivity to neural activity and gene expression in single animals",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "iuFT994AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Churchland birthday data cake",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Datasets from\" Najafi, Farzaneh and Elsayed, Gamaleldin F and Pnevmatikakis, Eftychios and Cunningham, John P and Churchland, Anne K (2018) Inhibitory and excitatory \u2026",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3D design files for chronically-implanted Neuropixels probes from\" Juavinett, Ashley and Bekheet, George and Churchland, Anne K.(2018) bioRxiv\"",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "iuFT994AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolutionary Analysis of Candidate Non-Coding Elements Regulating Neurodevelopmental Genes in Vertebrates",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "iuFT994AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anne Churchland",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "iuFT994AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory and Space: Towards an Understanding of the Cognitive Map (vol 35, pg 13904, 2015)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "iuFT994AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" The cost of accumulating evidence in perceptual decision making\": Correction.",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "iuFT994AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u201cMemory and space: Towards an understanding of the cognitive map\u201d: Correction.",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "iuFT994AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Induced to cure: Using iPS cells to develop autologous cell therapy for degenerative eye diseases",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rodents as a platform for understanding visually-guided decisions",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Listening for the Right Sounds",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curriculum Vitae for Anne Churchland",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Datasets from\" Raposo, David and Kaufman, Matthew T. and Churchland, Anne K.(2014) A category-free neural population supports evolving demands during decision-making. Nature \u2026",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matlab code for running the PAIRS and Variance Alignment Analyses from\" Raposo, David and Kaufman, Matthew T. and Churchland, Anne K.(2014) A category-free neural population \u2026",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "iuFT994AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise in decision making",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic weighting of multisensory stimuli shapes decision",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tutorial and data for\" Sheppard, JP and Raposo, D. and Churchland, AK (2013) Dynamic weighting of multisensory stimuli shapes decision-making in rats and humans. Journal of \u2026",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrections to: Dynamic weighting of multisensory stimuli shapes decision-making in rats and humans",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "iuFT994AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal integration for estimating event rates",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "iuFT994AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Talk from Anne Churchland at the Cold Spring Harbor Laboratory In-House Symposium (2011)",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "iuFT994AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE RAT PACK",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "iuFT994AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Decision-making with multiple alternatives\": Corrigendum.",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "iuFT994AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations of Eye and Image Velocity in Motion Sensitive Cortex",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "iuFT994AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implanting and Recycling Neuropixels Probes for Recordings in Freely Moving Mice",
+                "cites": "0"
+            },
+            "id_citations": "iuFT994AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Churchland lab",
+                "cites": "0"
+            },
+            "id_citations": "iuFT994AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preprint highlights, selected by the biological community",
+                "cites": "0"
+            },
+            "id_citations": "iuFT994AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early Developments in the Ability to Understand the Relation",
+                "cites": "0"
+            },
+            "id_citations": "iuFT994AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Note: Probabilistic Population Codes for Bayesian Decision Making",
+                "cites": "0"
+            },
+            "id_citations": "iuFT994AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=iuFT994AAAAJ",
+    "brain_inspired": {
+        "id": "749",
+        "link": "https://braininspired.co/podcast/39/",
+        "name": "Anne Churchland",
+        "title": "BI 039 Anne Churchland: Decisions, Lapses, and Fidgets",
+        "text": "Anne and I discuss her work elucidating how populations of neurons underly decision-making in mouse brains. We talk about how movement related activity dominates neural activity during decisions, how lapses may reflect exploration of options, a rubric for characterizing animal experiments, her Anne\u2019s List repository to help all of us invite female systems neuroscientists to speak at conferences, and a lot more"
+    }
+}

@@ -1,0 +1,2033 @@
+{
+    "affiliation": "Ecole Normale Superieure",
+    "cites_per_year": {
+        "2001": 10,
+        "2002": 30,
+        "2003": 57,
+        "2004": 44,
+        "2005": 88,
+        "2006": 89,
+        "2007": 109,
+        "2008": 125,
+        "2009": 121,
+        "2010": 181,
+        "2011": 193,
+        "2012": 214,
+        "2013": 254,
+        "2014": 222,
+        "2015": 255,
+        "2016": 321,
+        "2017": 351,
+        "2018": 377,
+        "2019": 443,
+        "2020": 262
+    },
+    "citedby": 3797,
+    "citedby5y": 2012,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Mathematics, Univ of Pittsburgh",
+            "id": "E73icgUAAAAJ",
+            "name": "Bard Ermentrout"
+        },
+        {
+            "affiliation": "Director, Max Planck Institute for Mathematics in the Sciences",
+            "id": "hoY8se8AAAAJ",
+            "name": "J\u00fcrgen  Jost"
+        },
+        {
+            "affiliation": "Saints-P\u00e8res Paris Institute for the Neurosciences, CNRS UMR 8003, Universit\u00e9 Paris Descartes",
+            "id": "HkTh0pIAAAAJ",
+            "name": "Michael Graupner, PhD"
+        },
+        {
+            "affiliation": "MaxPlanck Centre for Computational Psychiatry, UCL",
+            "id": "RTIN6VIAAAAJ",
+            "name": "Mehdi Keramati"
+        },
+        {
+            "affiliation": "Neurolinx Institute",
+            "id": "USFIXY0AAAAJ",
+            "name": "Klaus Stiefel"
+        },
+        {
+            "affiliation": "Senior Investigator, LBM, NIDDK, NIH",
+            "id": "L4iOmOAAAAAJ",
+            "name": "Carson C Chow"
+        },
+        {
+            "affiliation": "Professor of Computational Neuroscience, Department of Engineering, University of Cambridge",
+            "id": "WvgoL14AAAAJ",
+            "name": "M\u00e1t\u00e9 Lengyel"
+        },
+        {
+            "affiliation": "Humboldt-Universit\u00e4t zu Berlin, Germany",
+            "id": "7LUzNNwAAAAJ",
+            "name": "Michiel Remme"
+        },
+        {
+            "affiliation": "Emeritus professor, Pasteur Institute",
+            "id": "Bq3F8iIAAAAJ",
+            "name": "Jean-Pierre Changeux"
+        },
+        {
+            "affiliation": "Centre de Recerca Matem\u00e0tica, Barcelona",
+            "id": "gTse62wAAAAJ",
+            "name": "Alexandre Hyafil"
+        },
+        {
+            "affiliation": "Indiana University Purdue University Indianapolis",
+            "id": "8WW1puAAAAAJ",
+            "name": "Christopher Lapish"
+        },
+        {
+            "affiliation": "",
+            "id": "PCzuQX8AAAAJ",
+            "name": "Sophie Deneve"
+        },
+        {
+            "affiliation": "Directeur de recherche CNRS",
+            "id": "BCUyq2MAAAAJ",
+            "name": "Serge H. Ahmed  / Twitter: @SergeAh..."
+        },
+        {
+            "affiliation": "Postdoctoral Researcher, Janelia Research Campus",
+            "id": "01jqJYoAAAAJ",
+            "name": "Lorenzo Fontolan"
+        },
+        {
+            "affiliation": "Directeur de Recherche au CNRS / Universit\u00e9 de Gen\u00e8ve",
+            "id": "Dm6TIosAAAAJ",
+            "name": "Anne-Lise Giraud"
+        },
+        {
+            "affiliation": "Professor of Nonlinear Mathematics, Massey University",
+            "id": "hE5QqGIAAAAJ",
+            "name": "Carlo Laing"
+        },
+        {
+            "affiliation": "Francis Crick Professor, Salk Institute, Distingished Professor, UC San Diego",
+            "id": "m1qAiOUAAAAJ",
+            "name": "Terrence Sejnowski"
+        },
+        {
+            "affiliation": "Professor of Computational Neuroscience, University of Nottingham",
+            "id": "AKR7P-4AAAAJ",
+            "name": "Mark D Humphries"
+        },
+        {
+            "affiliation": "INRIA Sophia-Antipolis",
+            "id": "DNZKaMkAAAAJ",
+            "name": "maciej krupa"
+        },
+        {
+            "affiliation": "DR CNRS",
+            "id": "ym9IlFQAAAAJ",
+            "name": "philippe faure"
+        }
+    ],
+    "email": "@ens.fr",
+    "hindex": 30,
+    "hindex5y": 25,
+    "i10index": 69,
+    "i10index5y": 52,
+    "id": "Q2aFVoYAAAAJ",
+    "interests": [
+        "computational neuroscience",
+        "theoretical neuroscience",
+        "mathematical neuroscience",
+        "addiction",
+        "reinforcement learning"
+    ],
+    "name": "B Gutkin",
+    "publications": [
+        {
+            "bib": {
+                "title": "Multiple bumps in a neuronal model of working memory",
+                "cites": "266",
+                "year": "2002"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of spike frequency adaptation and negative feedback on the synchronization of neural oscillators",
+                "cites": "257",
+                "year": "2001"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of membrane excitability determine interspike interval variability: a link between spike generation mechanisms and cortical spike train statistics",
+                "cites": "233",
+                "year": "1998"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-response curves give the responses of neurons to transient inputs",
+                "cites": "215",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Turning on and off with excitation: the role of spike-timing asynchrony and synchrony in sustained neural activity",
+                "cites": "186",
+                "year": "2001"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine modulation in the basal ganglia locks the gate to working memory",
+                "cites": "170",
+                "year": "2006"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural cross-frequency coupling: connecting architectures, mechanisms, and functions",
+                "cites": "164",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Co-activation of VTA DA and GABA neurons mediates nicotine reinforcement",
+                "cites": "116",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nicotine reverses hypofrontality in animal models of addiction and schizophrenia",
+                "cites": "111",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cholinergic neuromodulation changes phase response curve shape and type in cortical pyramidal neurons",
+                "cites": "109",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of cholinergic neuromodulation on neuronal phase-response curves of modeled cortical neurons",
+                "cites": "95",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech encoding by coupled cortical theta and gamma oscillations",
+                "cites": "94",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neurocomputational hypothesis for nicotine addiction",
+                "cites": "94",
+                "year": "2006"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible frequency control of cortical oscillations enables computations required for working memory",
+                "cites": "79",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike generating dynamics and the conditions for spike-time precision in cortical neurons",
+                "cites": "73",
+                "year": "2003"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Democracy-independence trade-off in oscillating dendrites and its implications for grid cells",
+                "cites": "69",
+                "year": "2010"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mathematical neuroscience: from neurons to circuits to systems",
+                "cites": "61",
+                "year": "2003"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Homeostatic reinforcement learning for integrating reward collection and physiological stability",
+                "cites": "57",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of ongoing dendritic oscillations in single-neuron dynamics",
+                "cites": "54",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibition and modulation of rhythmic neuronal spiking by noise",
+                "cites": "52",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibition of rhythmic neural spiking by noise: the occurrence of a minimum in activity with increasing noise",
+                "cites": "48",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Passive dendrites enable single neurons to compute linearly non-separable functions",
+                "cites": "47",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity\u2010dependent intracellular chloride accumulation and diffusion controls GABAA receptor\u2010mediated synaptic transmission",
+                "cites": "44",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contribution of sublinear and supralinear dendritic integration to neuronal computations",
+                "cites": "43",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational disease modeling\u2013fact or fiction?",
+                "cites": "43",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchrony of neuronal oscillations controlled by GABAergic reversal potentials",
+                "cites": "41",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical control of VTA function and influence on nicotine reward",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Layer 3 patchy recurrent excitatory connections may determine the spatial organization of sustained activity in the primate prefrontal cortex",
+                "cites": "34",
+                "year": "2000"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imbalanced decision hierarchy in addicts emerging from drug-hijacked dopamine spiraling circuit",
+                "cites": "33",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and Models in Neurophysics: Lecture Notes of the Les Houches Summer School 2003",
+                "cites": "33",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical pyramidal cells as non-linear oscillators: experiment and spike-generation theory",
+                "cites": "30",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inverse stochastic resonance in cerebellar purkinje cells",
+                "cites": "29",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural oscillations as a signature of efficient coding in the presence of synaptic delays",
+                "cites": "29",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A reinforcement learning theory for homeostatic regulation",
+                "cites": "29",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational approaches to the neurobiology of drug addiction",
+                "cites": "29",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced efficacy of the KCC2 cotransporter promotes epileptic oscillations in a subiculum network model",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling nicotinic neuromodulation from global functional and network levels to nAChR based mechanisms",
+                "cites": "27",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transient termination of spiking by noise in coupled neurons",
+                "cites": "26",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endogenous cholinergic inputs and local circuit mechanisms govern the phasic mesolimbic dopamine response to nicotine",
+                "cites": "23",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of prefrontal cortex in nicotine-induced excitation of ventral tegmental area dopamine neurons in anesthetized rats",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cocaine addiction as a homeostatic reinforcement learning disorder.",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation and shunting inhibition leads to pyramidal/interneuron gamma with sparse firing of pyramidal cells",
+                "cites": "20",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A reduced model of DA neuronal dynamics that displays quiescence, tonic firing and bursting",
+                "cites": "19",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Macroscopic phase-resetting curves for spiking neural networks",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The simulation of addiction: pharmacological and neurocomputational models of drug self-administration.",
+                "cites": "17",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-timing dependent plasticity and feed-forward input oscillations produce precise and invariant spike phase-locking",
+                "cites": "16",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlations in background activity control persistent state stability and allow execution of working memory tasks",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comprehensive mathematical modeling in drug addiction sciences.",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spikes too kinky in the cortex?",
+                "cites": "15",
+                "year": "2006"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding activity in electrically coupled networks using PRCs and the theory of weakly coupled oscillators",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine neurons change the type of excitability in response to stimuli",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms for multiple activity modes of VTA dopamine neurons",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A review of methods for identifying stochastic resonance in simulations of single neuron models",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking and saturating dendrites differentially expand single neuron computation capacity",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational neuroscience of drug addiction",
+                "cites": "13",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase dependent sign changes of GABAergic synaptic input explored in-silicio and in-vitro",
+                "cites": "13",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling working memory operations by selective gating: the roles of oscillations and synchrony",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike frequency adaptation",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clustering of periodic orbits in chaotic systems",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise delays onset of sustained firing in a minimal model of persistent activity",
+                "cites": "12",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Splay states in finite pulse-coupled networks of excitable neurons",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Note on converse quantum ergodicity",
+                "cites": "11",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random perturbations of spiking activity in a pair of coupled neurons",
+                "cites": "11",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Macroscopic phase resetting-curves determine oscillatory coherence and signal transfer in inter-coupled neural circuits",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implications of cellular models of dopamine neurons for disease",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contribution of synchronized GABAergic neurons to dopaminergic neuron firing and bursting",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding the role \u03b17 nicotinic receptors play in dopamine efflux in nucleus accumbens",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analytical insights on theta-gamma coupled neural oscillators",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity-dependent transmission in neocortical synapses",
+                "cites": "10",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of dopaminergic modulation of persistent sodium currents on the excitability of prefrontal cortical neurons: A computational study",
+                "cites": "9",
+                "year": "1999"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical ventral tegmental area circuit mechanisms of alcohol\u2010dependent dopamine release",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Misdeed of the need: towards computational accounts of transition to addiction",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular correlates of apparent motion in the association field of cat area 17 neurons",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robustness of persistent spiking to partial synchronization in a minimal model of synaptically driven self-sustained activity",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clustering of periodic orbits and ensembles of truncated unitary matrices",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collective vs. single-particle motion in quantum many-body systems: Spreading and its semiclassical interpretation in the perturbative regime",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collective versus single-particle motion in quantum many-body systems from the perspective of an integrable model",
+                "cites": "7",
+                "year": "2010"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalized Cross-Frequency Decomposition: A Method for the Extraction of Neuronal Components Coupled at Different Frequencies",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory noise predicts divisive reshaping of receptive fields",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synergy of AMPA and NMDA receptor currents in dopaminergic neurons: a modeling study",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta-Neuron Model.",
+                "cites": "6",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Study on the role of GABAergic synapses in synchronization",
+                "cites": "6",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditions for noise reduction and stable encoding of spatial structure by cortical neural networks",
+                "cites": "6",
+                "year": "2000"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating the information extracted by a single spiking neuron from a continuous input time series",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral problem of block-rectangular hierarchical matrices",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concomitance of inverse stochastic resonance and stochastic resonance in a minimal bistable spiking neural circuit",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A bright future for financial agent-based models",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cholinergic neuromodulation controls PRC type in cortical pyramidal neurons",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nicotine control of dopamine signaling in the Ventral Tegmental Area",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A minimal model for metabotropic modulation of fast synaptic transmission and firing properties in bullfrog sympathetic B neurons",
+                "cites": "4",
+                "year": "1999"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocomputational theories of homeostatic control",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimal circuit model of reward prediction error computations and effects of nicotinic modulations",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal integration and 1/f power scaling in a circuit model of cerebellar interneurons",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendrites enhance both single neuron and network computation",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral statistics of \u2018cellular\u2019billiards",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine Modulation in a Basal Ganglio-Cortical Network of Working Memory",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation and inhibition control pathological synchronization in a model of focal epileptic seizure",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of beta and gamma oscillations in working memory functions",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic Neurons in the Ventral Tegmental Area and Their Dysregulation in Nicotine Addiction",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional interpretation of biophysical properties of spiking neurons",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling local circuit mechanisms for nicotine control of dopamine activity",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theoretical exploration of speech/neural oscillation alignment for speech parsing",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical\" breaking\" of time reversal symmetry and converse quantum ergodicity",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stable encoding of spatial structure by a recurrent neural network in the presence of noisy data",
+                "cites": "2",
+                "year": "1996"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the stochastic stability of a neural network model of somatosensory information processing",
+                "cites": "2",
+                "year": "1995"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling dopaminergic modulation of clustered gamma rhythms",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activity classification with machine learning models trained on interspike interval series data",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nicotinic and Cholinergic Modulation of Reward Prediction Error Computations in the Ventral Tegmental Area: a Minimal Circuit Model",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nicotinic modulation of hierarchal inhibitory control over prefrontal cortex resting state dynamics: modeling of genetic modification and schizophreniarelated pathology",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "26th annual computational neuroscience meeting (CNS* 2017): part 1",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "26th Annual Computational Neuroscience Meeting (CNS* 2017): Part 2",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Control Theory Model of Smoking",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of a reduced efficacy of the KCC2 co-transporter in temporal lobe epilepsy: single neuron and network study",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral statistics of nearly unidirectional quantum graphs",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of VTA GABAergic interneurons on \u03b22-containing nAChR-mediated dopamine neuron activity at baseline and during nicotine application: A modeling study",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A trade-off between dendritic democracy and independence in neurons with intrinsic subthreshold membrane potential oscillations",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching encoding and decoding with spiking neurons",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementing entorhinal grid fields in biophysical neuronal models",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network: Computation in Neural Systems",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-Resetting Curves and Neuromodulation of Action Potential Dynamics in the Cortex",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "R\u00f4les des synapses \u00e9lectriques dans la synchronisation neuronale: Une \u00e9tude th\u00e9orique",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u03b8-neuron, a one dimensional spiking model that reproduces in vitro and in vivo spiking characteristics of cortical neurons",
+                "cites": "1",
+                "year": "1998"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal Interneuronal \u03b17 nAChRs Modulate Theta Oscillations in Freely Moving Mice",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of synaptic nonlinearity in persistent firing rate shifts caused by external periodic forcing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progressive alignment of inhibitory and excitatory delay may drive a rapid developmental switch in cortical network dynamics",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interaction between PFC neural networks ultraslow fluctuations and brain oscillations",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INFLUENCE OF INPUT OSCILLATIONS ON BEHAVIOR OF SPIKING NETWORK OF WORKING MEMORY",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stock market microstructure inference via multi-agent reinforcement learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mesoscale impact of trader psychology on stock markets: a multi-agent AI approach",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stock price formation: useful insights from a multi-agent reinforcement learning model",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action in auctions: neural and computational mechanisms of bidding behaviour",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-agent reinforcement learning for market microstructure statistical inference",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in neuronal oscillations account for working memory dynamics: EEG-tACS study",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using computational models to understand endogenous and exogenous control over Dopamine cell activity: when inhibition leads to bursting",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LONG-RANGE TEMPORAL CORRELATIONS IN THE AMPLITUDE OF ALPHA OSCILLATIONS PREDICT WORKING MEMORY PERFORMANCE",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE ROLE OF ALPHA OSCILLATIONS IN THE INHIBITION PROCESS DURING WORKING MEMORY: AN EEG-TACS STUDY",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient and robust coding in heterogeneous recurrent networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of NMDA conductance in average firing rate shifts caused by external periodic forcing",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-frequency forced oscillations in neuronlike elements",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cross-Frequency Synchrony Analysis",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of inhibitory synaptic delay drives maturation of thalamocortical network dynamics",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit-level Mechanisms of EtOH-dependent dopamine release",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit-level Mechanisms of EtOH-dependent dopamine release.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RTI Press",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ALCOHOL MODULATION OF INTERNEURON ACTIVITY IN MESOCORTICAL CIRCUITS",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking Network Model of Working Memory Trace Erasure by Externally Applied Alpha-Band Oscillations",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMPUTATIONAL APPROACH TO THE EFFECTS OF ETHANOL ON VTA LOCAL CIRCUIT DYNAMICS AND DA NEURON FIRING",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MODELLING APPROACHES TO CIRCUIT LEVEL EFFECTS OF ADDICTIVE DRUGS IN THE MID-BRAIN DOPAMINERGIC CIRCUITRY: CASE OF NICOTINE AND ALCOHOL",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cocaine addiction as a homeostatic reinforcement learning disorder",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulations of chloride pathology as a mechanism for generation of abnormal neural activity",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Euclidean distance as a measure of ventral and dorsal white matter connectivity",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A role of local VTA GABAergic neurons in mediating dopamine neuron response to nicotine",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech encoding by coupled cortical theta and gamma oscillations",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of Reduced Ef\ufb01cacy of KCC2 Co-Transporter in Single Neuron Model: Implications for Epilepsy",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of dendritic non-linearities in single neuron computation",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic Cell Models.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A difficult classification for neurons without dendrites",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frame Transformations for Fermions",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of dopamine release by \u03b17-type nicotinic acetylcholine receptors",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DAergic Neuronal Dynamics: intrinsic properties, receptor dynamics, and network effects",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endogenous Cholinergic Inputs and Local Circuit Mechanisms Govern the Phasic Mesolimbic Dopamine Response",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S. 08.04 Mathematical models of nicotine-induced neuroadaptations",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drug-dominated dopamine circuits spiral addicts down to a cognitive/behavioral conflict: a neurocomputational theory",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Marginally Stable States and Quasi-periodic minor attractors in excitable pulse-coupled networks",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of computational capacity of neurons due to dendritic synaptic interactions.",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "of Drug Addiction",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Counting of Sieber-Richter pairs of periodic orbits",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic dendritic plasticity maximally increases the computational power of CA1 pyramidal neurons",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Constructing dopaminergic signals in response to transient inputs in the ventral tegmental area",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From computation to biophysics: functional theory of adaptive neural excitability",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of ongoing dendritic oscillations in single-neuron dynamics",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Requirements for a single cell mechanism of entorhinal\" grid field\" activity: role of dendritic oscillators and coupling",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inverse stochastic resonance in neuronal models: modulation and inhibition of rhythmic spiking by noise",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a biophysical basis of spike based inference",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise induced tuned decrease in firing in neural models: inverse stochastic resonance",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nicotine and the dopaminergic output of the ventral tegmental area",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The silencing of neuronal activity by noise and the phenomenon of inverse stochastic resonance",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cholinergic Neuromodulation Changes Phase Response Curve Shape and Type in Cortical Pyramidal",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transient termination of synaptically sustained spiking by stochastic inputs in a pair of coupled Type 1 neurons",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Networks Referees in 2006",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-Response Curves Give the Responses of",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuro-computational network for Nicotine Addiction.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Role of GABA Reversal Potential in Synchrony",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond the threshold",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase Response Curves Determine the Responses of Neurons to Transient",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Teaching assistants",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Course 5 Some useful numerical techniques for simulating integrate-and-fire networks",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "H. Sompolinsky\u201d and OL White\u201d",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M. Tsodyks",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "C. van Vreeswijk\" and H. Sompolinsky",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matem\u00e1tica da neuroci\u00eancia: de neur\u00f3nios a circuitos e de circuitos a sistemas",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic enhancement of spatial working memory through single-unit modulation in a basal ganglio-cortical network model",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Relationship between Firing Rate, Spike Timing and Spike Generating Dynamics in Cortical Neurons",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MR1815024 (2001k: 37053) 37D50",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral Statistics of Instantaneous Normal Modes in Liquids and Random Matrices",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise delays bifurcation in a positively coupled neural circuit",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of Spike Generation May Underly in Vivo Spike Train Statistics",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "University, Raleigh, NC 27695.",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of the effects of random noise on a neural network model of somatosensory information processing",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational modeling of intracellular chloride accumulation and diffusion",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S 2824 Spike-Rate Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Co-occurrence of Inverse Stochastic Resonance and Stochastic Resonance in a Neural Circuit.",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FOR PEER REVIEW-CONFIDENTIAL",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase Locking States of Bidirectionally Coupled Spiking Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PLOS Computational Biology would like to thank all those who served on the Editorial Board in 2017: Mark Alber Samuel Alizon",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding the role 7 nicotinic receptors play in dopamine efflux in nucleus accumbens",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory noise predicts divisive reshaping of receptive fields Supplementary text",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine 2016",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information Democracy-Independence Trade-Off in Oscillating Dendrites and Its Implications for Grid Cells",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00c1\u00ba \u00c1\u00c6\u00cc\u00ca\u00c7 \u00cd \u00cc\u00c1\u00c7\u00c6",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Group for neural theory",
+                "cites": "0"
+            },
+            "id_citations": "Q2aFVoYAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Q2aFVoYAAAAJ"
+}

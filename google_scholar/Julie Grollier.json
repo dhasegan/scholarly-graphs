@@ -1,0 +1,1436 @@
+{
+    "affiliation": "CNRS/Thales Lab",
+    "cites_per_year": {
+        "2002": 31,
+        "2003": 82,
+        "2004": 129,
+        "2005": 166,
+        "2006": 209,
+        "2007": 234,
+        "2008": 216,
+        "2009": 194,
+        "2010": 232,
+        "2011": 343,
+        "2012": 395,
+        "2013": 559,
+        "2014": 729,
+        "2015": 836,
+        "2016": 919,
+        "2017": 1070,
+        "2018": 1143,
+        "2019": 1460,
+        "2020": 907
+    },
+    "citedby": 9919,
+    "citedby5y": 6342,
+    "coauthors": [],
+    "email": "@cnrs-thales.fr",
+    "hindex": 49,
+    "hindex5y": 42,
+    "i10index": 96,
+    "i10index5y": 82,
+    "id": "eAgYj1IAAAAJ",
+    "interests": [
+        "spintronics",
+        "nanodevices",
+        "memristors",
+        "neuromorphic computing"
+    ],
+    "name": "Julie Grollier",
+    "publications": [
+        {
+            "bib": {
+                "title": "A ferroelectric memristor",
+                "cites": "15000391299600700575",
+                "year": "2012",
+                "url": "https://www.nature.com/articles/nmat3415",
+                "author": "Andr\u00e9 Chanthbouala and Vincent Garcia and Ryan O Cherifi and Karim Bouzehouane and St\u00e9phane Fusil and Xavier Moya and St\u00e9phane Xavier and Hiroyuki Yamada and Cyrile Deranlot and Neil D Mathur and Manuel Bibes and Agn\u00e8s Barth\u00e9l\u00e9my and Julie Grollier",
+                "journal": "Nature materials",
+                "volume": "11",
+                "number": "10",
+                "pages": "860-864",
+                "publisher": "Nature Publishing Group",
+                "abstract": "Memristors are continuously tunable resistors that emulate biological synapses 1, 2. Conceptualized in the 1970s, they traditionally operate by voltage-induced displacements of matter, although the details of the mechanism remain under debate 3, 4, 5. Purely electronic memristors based on well-established physical phenomena with albeit modest resistance changes have also emerged 6, 7. Here we demonstrate that voltage-controlled domain configurations in ferroelectric tunnel barriers 8, 9, 10 yield memristive behaviour with resistance variations exceeding two orders of magnitude and a 10 ns operation speed. Using models of ferroelectric-domain nucleation and growth 11, 12, we explain the quasi-continuous resistance variations and derive a simple analytical expression for the memristive effect. Our results suggest new opportunities for ferroelectrics as the hardware basis of future neuromorphic \u2026",
+                "eprint": "https://arxiv.org/pdf/1206.3397"
+            },
+            "id_citations": "eAgYj1IAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-polarized current induced switching in Co/Cu/Co pillars",
+                "cites": "612",
+                "year": "2001"
+            },
+            "id_citations": "eAgYj1IAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-torque building blocks",
+                "cites": "454",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Switching a spin valve back and forth by current-induced domain wall motion",
+                "cites": "435",
+                "year": "2003"
+            },
+            "id_citations": "eAgYj1IAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Solid-state memories based on ferroelectric tunnel junctions",
+                "cites": "399",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic computing with nanoscale spintronic oscillators",
+                "cites": "379",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interface-induced phenomena in magnetism",
+                "cites": "337",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching domain-wall configuration and spin-orbit torques for efficient domain-wall motion",
+                "cites": "323",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large microwave generation from current-driven magnetic vortex oscillators in magnetic tunnel junctions",
+                "cites": "322",
+                "year": "2010"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-locking of magnetic vortices mediated by antivortices",
+                "cites": "301",
+                "year": "2009"
+            },
+            "id_citations": "eAgYj1IAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronization of spin-transfer oscillators driven by stimulated microwave currents",
+                "cites": "267",
+                "year": "2006"
+            },
+            "id_citations": "eAgYj1IAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Field dependence of magnetization reversal by spin transfer",
+                "cites": "239",
+                "year": "2003"
+            },
+            "id_citations": "eAgYj1IAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spintronic nanodevices for bioinspired computing",
+                "cites": "235",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shaped angular dependence of the spin-transfer torque and microwave generation without magnetic field",
+                "cites": "189",
+                "year": "2007"
+            },
+            "id_citations": "eAgYj1IAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning through ferroelectric domain dynamics in solid-state synapses",
+                "cites": "180",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Giant Electroresistance of Super-tetragonal BiFeO3-Based Ferroelectric Tunnel Junctions",
+                "cites": "173",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coupling efficiency for phase locking of a spin transfer nano-oscillator to a microwave current",
+                "cites": "171",
+                "year": "2008"
+            },
+            "id_citations": "eAgYj1IAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Plasticity in memristive devices for spiking neural networks",
+                "cites": "155",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vertical-current-induced domain-wall motion in MgO-based magnetic tunnel junctions with low current densities",
+                "cites": "155",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Switching the magnetic configuration of a spin valve by current-induced domain wall motion",
+                "cites": "148",
+                "year": "2002"
+            },
+            "id_citations": "eAgYj1IAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain wall displacement induced by subnanosecond pulsed current",
+                "cites": "139",
+                "year": "2004"
+            },
+            "id_citations": "eAgYj1IAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of the electrical connection of spin transfer nano-oscillators on their synchronization: an analytical study",
+                "cites": "134",
+                "year": "2008"
+            },
+            "id_citations": "eAgYj1IAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of two coupled vortices in a spin valve nanopillar excited by spin transfer torque",
+                "cites": "128",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vowel recognition with four coupled spin-torque nano-oscillators",
+                "cites": "125",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High domain wall velocities due to spin currents perpendicular to the plane",
+                "cites": "120",
+                "year": "2009"
+            },
+            "id_citations": "eAgYj1IAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A magnetic synapse: multilevel spin-torque memristor with perpendicular anisotropy",
+                "cites": "116",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vortex oscillations induced by spin-polarized current in a magnetic nanopillar: Analytical versus micromagnetic calculations",
+                "cites": "115",
+                "year": "2009"
+            },
+            "id_citations": "eAgYj1IAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetization reversal by injection and transfer of spin: experiments and theory",
+                "cites": "114",
+                "year": "2004"
+            },
+            "id_citations": "eAgYj1IAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase locking of vortex based spin transfer oscillators to a microwave current",
+                "cites": "99",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-transfer torques generated by the anomalous Hall effect and anisotropic magnetoresistance",
+                "cites": "98",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Commensurability and chaos in magnetic vortex oscillations",
+                "cites": "98",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase locking dynamics of dipolarly coupled vortex-based spin transfer oscillators",
+                "cites": "91",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification and selection rules of the spin-wave eigenmodes in a normally magnetized nanopillar",
+                "cites": "87",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-performance ferroelectric memory based on fully patterned tunnel junctions",
+                "cites": "79",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Field dependence of spin-transfer-induced vortex dynamics in the nonlinear regime",
+                "cites": "77",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient synchronization of dipolarly coupled vortex-based spin transfer nano-oscillators",
+                "cites": "76",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonuniformity of a planar polarizer for spin-transfer-induced vortex oscillations at zero field",
+                "cites": "70",
+                "year": "2010"
+            },
+            "id_citations": "eAgYj1IAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural-like computing with populations of superparamagnetic basis functions",
+                "cites": "67",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetoresistance and spin electronics",
+                "cites": "67",
+                "year": "2002"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Skyrmion gas manipulation for probabilistic computing",
+                "cites": "66",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Origin of the spectral linewidth in nonlinear spin-transfer oscillators based on MgO tunnel junctions",
+                "cites": "65",
+                "year": "2009"
+            },
+            "id_citations": "eAgYj1IAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response to noise of a vortex based spin transfer nano-oscillator",
+                "cites": "63",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards oxide electronics: a roadmap",
+                "cites": "59",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High emission power and Q factor in spin torque vortex oscillator consisting of FeB free layer",
+                "cites": "56",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current-induced motion and pinning of domain walls in spin-valve nanowires studied by XMCD-PEEM",
+                "cites": "54",
+                "year": "2010"
+            },
+            "id_citations": "eAgYj1IAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise-enhanced synchronization of stochastic magnetic oscillators",
+                "cites": "53",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutual synchronization of spin torque nano-oscillators through a long-range and tunable electrical coupling scheme",
+                "cites": "52",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Numerical and analytical investigation of the synchronization of dipolarly coupled vortex spin-torque nano-oscillators",
+                "cites": "51",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High domain wall velocities via spin transfer torque using vertical current injection",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Review of recent results on spin polarized tunneling and magnetic switching by spin injection",
+                "cites": "49",
+                "year": "2001"
+            },
+            "id_citations": "eAgYj1IAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low-energy truly random number generation with superparamagnetic tunnel junctions for unconventional computing",
+                "cites": "48",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Critical velocity for the vortex core reversal in perpendicular bias magnetic field",
+                "cites": "46",
+                "year": "2010"
+            },
+            "id_citations": "eAgYj1IAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversible and irreversible current induced domain wall motion in CoFeB based spin valves stripes",
+                "cites": "45",
+                "year": "2007"
+            },
+            "id_citations": "eAgYj1IAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding of phase noise squeezing under fractional synchronization of a nonlinear spin transfer vortex oscillator",
+                "cites": "42",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-torque-induced switching and precession in fully epitaxial Fe/MgO/Fe magnetic tunnel junctions",
+                "cites": "41",
+                "year": "2009"
+            },
+            "id_citations": "eAgYj1IAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A nanotechnology-ready computing scheme based on a weakly coupled oscillator network",
+                "cites": "38",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perfect and robust phase-locking of a spin transfer vortex nano-oscillator to an external microwave source",
+                "cites": "36",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large amplitude spin torque vortex oscillations at zero external field using a perpendicular spin polarizer",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microwave spectroscopy on magnetization reversal dynamics of nanomagnets with electronic detection",
+                "cites": "35",
+                "year": "2006"
+            },
+            "id_citations": "eAgYj1IAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Critical current and linewidth reduction in spin-torque nano-oscillators by delayed self-injection",
+                "cites": "34",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-injection locking of a vortex spin torque oscillator by delayed feedback",
+                "cites": "32",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversal process of a magnetic vortex core under the combined action of a perpendicular field and spin transfer torque",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetic domain wall motion by spin transfer",
+                "cites": "30",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear behavior and mode coupling in spin-transfer nano-oscillators",
+                "cites": "29",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spintronic devices as key elements for energy-efficient neuroinspired architectures",
+                "cites": "28",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Origin of spectral purity and tuning sensitivity in a spin transfer vortex nano-oscillator",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-torque diode measurements of MgO-based magnetic tunnel junctions with asymmetric electrodes",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling the phase locking of stochastic magnetic bits for ultra-low power computation",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric excitation of magnetic vortex gyrations in spin-torque nano-oscillators",
+                "cites": "27",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temperature dependence of microwave voltage emission associated to spin-transfer induced vortex oscillation in magnetic tunnel junction",
+                "cites": "27",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Isolating the dynamic dipolar interaction between a pair of nanoscale ferromagnetic disks",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autonomous and forced dynamics in a spin-transfer nano-oscillator: Quantitative magnetic-resonance force microscopy",
+                "cites": "25",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of geometry on current-driven vortex oscillations in nanocontact devices",
+                "cites": "25",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microwave excitations associated with a wavy angular dependence of the spin transfer torque: Model and experiments",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-transfer-induced domain wall motion in a spin valve",
+                "cites": "22",
+                "year": "2004"
+            },
+            "id_citations": "eAgYj1IAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetic stochastic oscillators: Noise-induced synchronization to underthreshold excitation and comprehensive compact model",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin transfer torque with spin diffusion in magnetic tunnel junctions",
+                "cites": "21",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin Transfer Torque: a new method to excite or reverse a magnetization",
+                "cites": "21",
+                "year": "2005"
+            },
+            "id_citations": "eAgYj1IAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimizing magnetodipolar interactions for synchronizing vortex based spin-torque nano-oscillators",
+                "cites": "20",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling up electrically synchronized spin torque oscillator networks",
+                "cites": "19",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reservoir computing with the frequency, phase, and amplitude of spin-torque nano-oscillators",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resonant translational, breathing, and twisting modes of transverse magnetic domain walls pinned at notches",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spintronic device with control by domain wall displacement induced by a current of spin-polarized carriers",
+                "cites": "16",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unified description of bulk and interface-enhanced spin pumping",
+                "cites": "16",
+                "year": "2006"
+            },
+            "id_citations": "eAgYj1IAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronization detection in networks of coupled oscillators for pattern recognition",
+                "cites": "15",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin torque nanodevices for bio-inspired computing",
+                "cites": "15",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bottom-up approach for the fabrication of spin torque nano-oscillators",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "eAgYj1IAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Silicon neuron dedicated to memristive spiking neural networks",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bottom up magnonics: magnetization dynamics of individual nanomagnets",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-resolved observation of fast domain-walls driven by vertical spin currents in short tracks",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing phase coupling between two spin-torque nano-oscillators with an external source",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling the synchronization properties of two dipolarly coupled vortex based spin-torque nano-oscillators by the intermediate of a third one",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spintronic nano-oscillators: Towards nanoscale and tunable frequency devices",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of shape imperfection on dynamics of vortex Spin-Torque Nano-Oscillator",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "eAgYj1IAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current-induced resonant depinning of a transverse magnetic domain wall in a spin valve nanostrip",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "eAgYj1IAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High frequency magnetic eigen excitations in a spin valve submitted to CPP DC current",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "eAgYj1IAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal pattern recognition with delayed-feedback spin-torque nano-oscillators",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ferroelectric device with adjustable resistance",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "eAgYj1IAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency converter based on nanoscale MGO magnetic tunnel junctions",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "eAgYj1IAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancing the injection locking range of spin torque oscillators through mutual coupling",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increased magnetic damping of a single domain wall and adjacent magnetic domains detected by spin torque diode in a nanostripe",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memristor device with resistance adjustable by moving a magnetic wall by spin transfer and use of said memristor in a neural network",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved Spectral Stability in Spin-Transfer Nano-Oscillators: Single Vortex Versus Coupled Vortices Dynamics",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic spintronics",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time switching dynamics of ferroelectric tunnel junctions under single-shot voltage pulses",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nano-oscillator-based classification with a machine learning-compatible architecture",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spintronic oscillator, and use thereof in radiofrequency devices",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronization of electrically coupled stochastic magnetic oscillators induced by thermal and electrical noise",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chaos and relaxation oscillations in spin-torque windmill spiking oscillators",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building brain-inspired computing",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Updates of equilibrium prop match gradients of backprop through time in an rnn with static input",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic computing through time-multiplexing with a spin-torque nano-oscillator",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain wall motion in nanostructures",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Renversement d\u2019aimantation par injection d\u2019un courant polaris\u00e9 en spin",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "eAgYj1IAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of non-linear data processing on speech recognition task in the framework of reservoir computing",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using memristors for robust local learning of hardware restricted Boltzmann machines",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preface to Special Topic: New physics and materials for neuromorphic computation",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overcoming device unreliability with continuous learning in a population coding based computing system",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit-level evaluation of the generation of truly random bits with superparamagnetic tunnel junctions",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spin-transfer torque in ferromagnetic bilayers generated by anomalous Hall effect and anisotropic magnetoresistance",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of spin-transfer torques on synchronization and resonance phenomena in stochastic magnetic oscillators",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain wall displacement by remote spin-current injection",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Equilibrium propagation with continual weight updates",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective control of vortex polarities by microwave field in two robustly synchronized spin-torque nano-oscillators",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spintronic nanoscillators for unconventional circuits",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Twist in the bias dependence of spin torques in magnetic tunnel junctions",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vortex-based spin transfer oscillator compact model for IC design",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "eAgYj1IAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From spin torque nano-oscillators to memristors: Multi-functional nanodevices for advanced computing",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "eAgYj1IAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control device for reversing the direction of magnetisation without an external magnetic field",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "eAgYj1IAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nanodevices for bio-inspired computing",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Driven energy transfer between coupled modes in spin-torque oscillators",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "eAgYj1IAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dispositif de g\u00e9n\u00e9ration d\u2019un signal \u00e9lectrique al\u00e9atoire et architecture associ\u00e9e",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Spin Torque Lego-from spin torque nano-devices to advanced computing architectures",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of pinning centres in high Tc superconducting thin films by AC susceptibility",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "eAgYj1IAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The 2020 Magnetism Roadmap",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling Equilibrium Propagation to Deep ConvNets by Drastically Reducing its Gradient Estimator Bias",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual Weight Updates and Convolutional Architectures for Equilibrium Propagation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of the Microwave Emission from a Spin-Torque Oscillator by a Spin Diode",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physics for Neuromorphic Computing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing large arrays of interacting spin-torque nano-oscillators for microwave information processing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular stochastic machine and related method",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of flicker noise and nonlinearity on the frequency spectrum of spin torque nano-oscillators",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binding events through the mutual synchronization of spintronic nano-neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eAgYj1IAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory-Centric Neuromorphic Computing With Nanodevices",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Device for Generating A Random Electrical Signal and Associated Architecture",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromimetic circuit and method of fabrication",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Verilog-A model of ferroelectric memristors dedicated to neuromorphic design",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microwave neural processing and broadcasting with spintronic nano-oscillators",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-Inspired Computing with Spintronics Devices",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eAgYj1IAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine stochastique modulaire et proc\u00e9d\u00e9 associ\u00e9",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "eAgYj1IAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced stability in spin transfer nanopillars due to a Fe/Gd/Fe trilayer",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Giant electroresistance controlled by ferroelectric domain switching in BiFeO3-based ferroelectric tunnel junctions",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "eAgYj1IAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intermag Europe 2008 Publication Committee",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "eAgYj1IAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=eAgYj1IAAAAJ",
+    "brain_inspired": {
+        "id": "608",
+        "link": "https://braininspired.co/podcast/19/",
+        "name": "Julie Grollier",
+        "title": "BI 019 Julie Grollier: Spintronic Neuromorphic Nano-Oscillators!",
+        "text": "Julie and I discuss her work using spintronic nano-devices to implement bio-inspired computing and neural networks in hardware. We talk about neuromorphic chips in general, their history, how they could solve the energy efficiency problem, where it\u2019s all headed, some of the physics behind her nano-oscillators, and more."
+    }
+}

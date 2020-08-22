@@ -1,0 +1,1004 @@
+{
+    "affiliation": "Center for Information and Neural Networks (CiNet)",
+    "cites_per_year": {
+        "2006": 7,
+        "2007": 12,
+        "2008": 12,
+        "2009": 38,
+        "2010": 39,
+        "2011": 67,
+        "2012": 67,
+        "2013": 92,
+        "2014": 84,
+        "2015": 76,
+        "2016": 103,
+        "2017": 141,
+        "2018": 145,
+        "2019": 146,
+        "2020": 100
+    },
+    "citedby": 1136,
+    "citedby5y": 713,
+    "coauthors": [
+        {
+            "affiliation": "NTT",
+            "id": "bxhQU8EAAAAJ",
+            "name": "Shin'ya Nishida"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "w2KlBM4AAAAJ",
+            "name": "Brian Wandell"
+        },
+        {
+            "affiliation": "ATR",
+            "id": "lc7OkdAAAAAJ",
+            "name": "Mitsuo Kawato"
+        },
+        {
+            "affiliation": "University of Hong Kong / UCLA",
+            "id": "RGBSG7EAAAAJ",
+            "name": "Hakwan Lau"
+        },
+        {
+            "affiliation": "Associate Professor of Psychology and Neural Science",
+            "id": "zGNHlDsAAAAJ",
+            "name": "Jonathan Winawer"
+        },
+        {
+            "affiliation": "Spinoza Centre & Utrecht University & VU University",
+            "id": "pcOGvjcAAAAJ",
+            "name": "Serge O. Dumoulin"
+        },
+        {
+            "affiliation": "Center for Information and Neural Networks (CiNet), NICT, Japan",
+            "id": "ac6b5c8AAAAJ",
+            "name": "Hiromasa Takemura"
+        },
+        {
+            "affiliation": "Computational Neuroscience Labs, ATR, Kyoto, Japan",
+            "id": "yXdc_rwAAAAJ",
+            "name": "Aurelio Cortese"
+        },
+        {
+            "affiliation": "Human Vision Laboratory, School of Psychology, The University of Western Australia",
+            "id": "JJNUC7MAAAAJ",
+            "name": "David R. Badcock"
+        },
+        {
+            "affiliation": "The Australian National University",
+            "id": "YtxSTowAAAAJ",
+            "name": "Mark Edwards"
+        },
+        {
+            "affiliation": "Ophthalmology, Jikei Univ. School of Medicine",
+            "id": "0G5nd3IAAAAJ",
+            "name": "Hiroshi Horiguchi"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "7yX9fdIAAAAJ",
+            "name": "Alan Johnston"
+        },
+        {
+            "affiliation": "Center for Brain Science, RIKEN",
+            "id": "MtolH1MAAAAJ",
+            "name": "Kazuhisa Shibata"
+        },
+        {
+            "affiliation": "Researcher, Google",
+            "id": "ebpx7LAAAAAJ",
+            "name": "Rory Sayres"
+        },
+        {
+            "affiliation": "National Institute for Physiological Sciences",
+            "id": "SFfeDTkAAAAJ",
+            "name": "Naokazu Goda"
+        },
+        {
+            "affiliation": "NTT Communication Science Labs.",
+            "id": "ga97h1AAAAAJ",
+            "name": "Kazushi Maruya"
+        },
+        {
+            "affiliation": "Associate Professor, Research Institute of Elecrical Communication, Tohoku Universiity",
+            "id": "uahT5JUAAAAJ",
+            "name": "Ichiro Kuriki"
+        },
+        {
+            "affiliation": "Computational and Biological Learning Lab, University of Cambridge",
+            "id": "KDtSFaQAAAAJ",
+            "name": "Ben Seymour"
+        },
+        {
+            "affiliation": "Osaka University Graduate School of Frontier Biosciences & CiNet",
+            "id": "amerMDcAAAAJ",
+            "name": "Ichiro Fujita"
+        },
+        {
+            "affiliation": "NTT Communication Science Labs.",
+            "id": "BmhDOFkAAAAJ",
+            "name": "Hiroaki Gomi"
+        }
+    ],
+    "email": "@nict.go.jp",
+    "hindex": 15,
+    "hindex5y": 12,
+    "i10index": 20,
+    "i10index5y": 13,
+    "id": "CtdMuZ0AAAAJ",
+    "interests": [
+        "Visual neuroscience",
+        "Visual perception",
+        "Neuroscience"
+    ],
+    "name": "Kaoru Amano",
+    "publications": [
+        {
+            "bib": {
+                "title": "Visual field maps, population receptive field sizes, and visual field coverage in the human MT+ complex",
+                "cites": "282",
+                "year": "2009"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping hV4 and ventral occipital cortex: the venous eclipse",
+                "cites": "198",
+                "year": "2010"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of the timing of human visual perception from magnetoencephalography",
+                "cites": "91",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive pooling of visual motion signals by the human visual system revealed with a novel multi-element stimulus",
+                "cites": "88",
+                "year": "2009"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multivoxel neurofeedback selectively modulates confidence without changing perceptual performance",
+                "cites": "76",
+                "year": "2016"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fear reduction without fear through reinforcement of neural activity that bypasses conscious exposure",
+                "cites": "75",
+                "year": "2016"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to associate orientation with color in early visual areas by associative decoded fMRI neurofeedback",
+                "cites": "62",
+                "year": "2016"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory Jitter Perceived at the Frequency of Alpha Oscillations",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoded fMRI neurofeedback can induce bidirectional confidence changes within single participants",
+                "cites": "21",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two mechanisms underlying the effect of angle of motion direction change on colour\u2013motion asynchrony",
+                "cites": "21",
+                "year": "2007"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human neural responses involved in spatial pooling of locally ambiguous motion signals",
+                "cites": "20",
+                "year": "2012"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of induced motion perception in the human brain",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial-frequency tuning in the pooling of one-and two-dimensional motion signals",
+                "cites": "17",
+                "year": "2009"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEG responses correlated with the visual perception of velocity change",
+                "cites": "17",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direction-specific adaptation of magnetic responses to motion onset",
+                "cites": "16",
+                "year": "2005"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microstructural properties of the vertical occipital fasciculus explain the variability in human stereoacuity",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alpha band amplification during illusory jitter perception",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Close similarity between spatiotemporal frequency tunings of human cortical responses and involuntary manual following responses to visual motion",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional modulation of power-law distribution in visual perception",
+                "cites": "12",
+                "year": "2007"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual mismatch response evoked by a perceptually indistinguishable oddball",
+                "cites": "11",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional spatial-frequency selective pooling of one-dimensional motion signals into global two-dimensional motion",
+                "cites": "7",
+                "year": "2010"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global motion with multiple Gabors-A tool to investigate motion integration across orientation and space",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced neural responses correlated with perceptual binding of color and motion",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of the time marker for the perception of event timing",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-invasive, quantitative study of broadband spectral responses in human visual cortex",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEG responses for color-motion asynchrony",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of a generative model of magnetoencephalography noise that enables brain signal extraction from single-epoch data",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative population receptive field estimates in human visual cortex",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial frequency tuning of motion integration across space and orientation",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-invasive, quantitative study of broadband spectral responses in human visual cortex",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Broadband spectral responses in visual cortex revealed by a new MEG denoising algorithm",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phenomenal consciousness created by decoded neurofeedback",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of spatial integration of visual motion on the quick manual response and related brain activity",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain Activity during the Motion Aftereffect Analyzed by Magnetoencephalog-ram",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atypical spatial frequency dependence of visual metacognition among schizophrenia patients",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting neural response latency of the human early visual cortex from MRI-based tissue measurements of the optic radiation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inter-individual differences in occipital alpha oscillations correlate with white matter tissue properties of the optic radiation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Threat anticipation in pulvinar and in superficial layers of primary visual cortex (V1). Evidence from layer-specific ultra-high field 7T fMRI",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The face narrowing caused by the Mona Lisa effect",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Macromolecular Tissue Volume Mapping to Identify Subdivisions in Human Lateral Geniculate Nucleus",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Oscillations and Behavioral Oscillations",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory Jitter Perceived at the Frequency of Alpha Oscillations",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural oscillation frequency modulation device",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial Spread of Visual Attention Measured Using Steady-State Visually Evoked Fields",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serial dependence fluctuates at alpha rhythms",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S9-3. Associative learning between orientation and color created by decoded fMRI neurofeedback",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Layer-specific ultra-high field 7T fMRI showing that threat anticipation is mediated by the pulvinar input to the superficial layers of primary visual cortex (V1)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of Metacognition with Decoded Neurofeedback",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human white matter structural properties correlate with individual difference in stereoacuity",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional roles of alpha oscillations underlying the communication between dorsal and ventral visual areas",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-dependent modulation of BOLD responses reveals distinct roles of dorsal and ventral pathways in stereoscopic depth perception",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Associative Learning between Orientation and Color in Early Visual Areas",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u4f4e\u6b21\u8996\u899a\u76ae\u8cea\u306b\u304a\u3051\u308b\u65b9\u4f4d\u3068\u8272\u306e\u9023\u5408\u5b66\u7fd2",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory jitter perceived at the frequency of intrinsic alpha oscillation",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Creation of no-aftereffect-based associative learning of color and orientation without presenting color by decoded fMRI neurofeedback.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Field Maps, Population Receptive Field Sizes",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-modal measurement of the visual cortex",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of time marker for simultaneity judgment",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population receptive field estimates in V1 lesion projection zone of patients with macular degeneration onset at different ages",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An explicit method for the magnetoencephalography inverse problem based on data continuation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of induced motion revealed by fMRI.",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural responses involved in adaptation-induced blindness",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intelligent motion integration across multiple stimulus dimensions",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation of multipole moments from incomplete boundary data for Magnetoencphalography inverse problem",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compensation signal space separation for extracting single trial brain activities in gradiometer only MEG system",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting evoked responses from single trial MEG data with sequential Bayesian filtering",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of induced motion in the human brain",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural responses involved in 1D motion spatial pooling",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task decoding based on the change in functional connectivity",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual field coverage of human V4",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual field maps in the human MT+ complex",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alpha band amplification during illusory jitter",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An MEG study on stream/bounce illusion",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A. Knopfmacher, RF Tichy, S. Wagner and V. Ziegler Graphs, partitions and Fibonacci numbers 1175",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Watching the brain oscillating: A neural correlate of illusory jitter",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of illusory jitter perception: Watching the brain oscillate?",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural oscillations and illusory jitter",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Watching the brain oscillate",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Watching the brain oscillate: Identifying the neural correlates of illusory jitter",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting manual reaction time to visual motion by temporal integrator model of meg response",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation between magnetoencephalogram (MEG) evoked by changes in motion velocity and reaction times or discrimination thresholds",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increase of brain activity during the motion aftereffect investigated by magnetoencephalogram",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characteristics of MEG related to motion aftereffect",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SUCCESSFUL BALLOON DILATION FOR ANTRAL CIRCUMFERENTIAL STENOSIS DUE TO GASTRIC ULCER COMPL ICATED BY COLLAGEN DISEASEREPORT OF A CASE",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beclomethasone through artificial cecocutaneous fistula for ulcerative colitis: A case report",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control of a two-dimensional unimolecular reaction by a locally optimized laser field",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of grazing flow on sound attenuation in a flow duct",
+                "cites": "0",
+                "year": "1984"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noninvasive evaluation of cardiac involvements and left ventricular function in schoolchildren with the history of mucocutaneous lymph node syndrome",
+                "cites": "0",
+                "year": "1982"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fever, erythema and lymphadenopathy: Hodgkin's granuloma",
+                "cites": "0",
+                "year": "1975"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoded fMRI neurofeedback can induce bidirectional behavioral changes within single participants",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The 15th Asia-Pacific Conference on Vision (APCV), 2019",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "APCV 2014, 19\u201322 July 2014, Takamatsu, Japan SYMPOSIA",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to associate",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain activity related to velocity perception during the motion after-effect investigated by magnetoencephalogram (MEG)",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship between magnitude of perceptual velocity and magnetoencephalogram",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusion news 11",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u932f\u899a\u30cb\u30e5\u30fc\u30b9 11",
+                "cites": "0"
+            },
+            "id_citations": "CtdMuZ0AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=CtdMuZ0AAAAJ"
+}

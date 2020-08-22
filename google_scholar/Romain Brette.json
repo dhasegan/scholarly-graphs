@@ -1,0 +1,1267 @@
+{
+    "affiliation": "Research Director in Computational Neuroscience",
+    "cites_per_year": {
+        "2006": 21,
+        "2007": 62,
+        "2008": 115,
+        "2009": 193,
+        "2010": 192,
+        "2011": 311,
+        "2012": 351,
+        "2013": 391,
+        "2014": 453,
+        "2015": 485,
+        "2016": 480,
+        "2017": 552,
+        "2018": 654,
+        "2019": 679,
+        "2020": 388
+    },
+    "citedby": 5398,
+    "citedby5y": 3241,
+    "coauthors": [
+        {
+            "affiliation": "Imperial College London",
+            "id": "2HiNqI4AAAAJ",
+            "name": "Dan F M Goodman"
+        },
+        {
+            "affiliation": "CNRS",
+            "id": "x-MyT34AAAAJ",
+            "name": "Alain Destexhe"
+        },
+        {
+            "affiliation": "Postdoctoral fellow, Institut Pasteur, Paris",
+            "id": "9EWn7ukAAAAJ",
+            "name": "Victor Benichoux"
+        },
+        {
+            "affiliation": "Chief Data Scientist at Sentiance",
+            "id": "rAVkCiQAAAAJ",
+            "name": "Bertrand Fontaine"
+        },
+        {
+            "affiliation": "Professor of Computer Science, EPFL, Brain Mind Institute, Ecole Polytechnique Federale de Lausanne",
+            "id": "dqBH37QAAAAJ",
+            "name": "Wulfram GERSTNER"
+        },
+        {
+            "affiliation": "Institut de la Vision, Sorbonne Universit\u00e9, Paris",
+            "id": "KJs3XswAAAAJ",
+            "name": "Marcel Stimberg"
+        },
+        {
+            "affiliation": "Staff Researcher at CNRS",
+            "id": "wflV7cMAAAAJ",
+            "name": "Michelle Rudolph-Lilith"
+        },
+        {
+            "affiliation": "postdoctoral fellow, Digregorio lab, Institut Pasteur",
+            "id": "kVF6mIEAAAAJ",
+            "name": "Zuzanna Piwkowska"
+        }
+    ],
+    "email": "@inserm.fr",
+    "hindex": 32,
+    "hindex5y": 26,
+    "i10index": 56,
+    "i10index5y": 49,
+    "id": "lEHiPU4AAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Computational neuroscience",
+        "Theoretical neuroscience",
+        "Auditory system",
+        "Hearing"
+    ],
+    "name": "Romain Brette",
+    "publications": [
+        {
+            "bib": {
+                "title": "Adaptive exponential integrate-and-fire model as an effective description of neuronal activity",
+                "cites": "955",
+                "year": "2005"
+            },
+            "id_citations": "lEHiPU4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation of networks of spiking neurons: a review of tools and strategies",
+                "cites": "808",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian: a simulator for spiking neural networks in Python",
+                "cites": "483",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The brian simulator",
+                "cites": "420",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic I-V Curves Are Reliable Predictors of Naturalistic Pyramidal-Neuron Voltage Traces",
+                "cites": "209",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A threshold equation for action potential initiation",
+                "cites": "160",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Equation-oriented specification of neural models for simulations",
+                "cites": "134",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics and bifurcations of the adaptive exponential integrate-and-fire model",
+                "cites": "124",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Philosophy of the spike: rate-based vs. spike-based theories of the brain",
+                "cites": "123",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing with neural synchrony",
+                "cites": "116",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handbook of neural activity measurement",
+                "cites": "86",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of fast sodium channel inactivation on spike threshold dynamics and synaptic integration",
+                "cites": "80",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic fitting of spiking neuron models to electrophysiological recordings",
+                "cites": "76",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fitting neuron models to spike trains",
+                "cites": "75",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability of spike timing is a general property of spiking model neurons",
+                "cites": "74",
+                "year": "2003"
+            },
+            "id_citations": "lEHiPU4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact simulation of integrate-and-fire models with synaptic conductances",
+                "cites": "70",
+                "year": "2006"
+            },
+            "id_citations": "lEHiPU4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-threshold adaptation predicted by membrane potential dynamics in vivo",
+                "cites": "68",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution intracellular recordings using a real-time computational model of the electrode",
+                "cites": "68",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generation of correlated spike trains",
+                "cites": "67",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Late emergence of the vibrissa direction selectivity map in the rat barrel cortex",
+                "cites": "60",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating spiking neural networks on GPU",
+                "cites": "59",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking dynamics of bidimensional integrate-and-fire neurons",
+                "cites": "59",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is the most realistic single-compartment model of spike initiation?",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sharpness of spike initiation in neurons explained by compartmentalization",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensitivity of noisy neurons to coincident inputs",
+                "cites": "49",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding neural responses to temporal cues for sound localization",
+                "cites": "48",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact simulation of integrate-and-fire models with exponential currents",
+                "cites": "47",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing synaptic conductance fluctuations in cortical neurons and their influence on spike generation",
+                "cites": "46",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Covariation of axon initial segment location and dendritic tree normalizes the somatic action potential",
+                "cites": "45",
+                "year": "2016"
+            },
+            "id_citations": "lEHiPU4AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive exponential integrate-and-fire model",
+                "cites": "44",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of one-dimensional spiking neuron models",
+                "cites": "44",
+                "year": "2004"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vectorized algorithms for spiking neural network simulation",
+                "cites": "42",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of early reflections on binaural cues",
+                "cites": "31",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is coding a relevant metaphor for the brain?",
+                "cites": "28",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian 2, an intuitive and efficient neural simulator",
+                "cites": "27",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rotation numbers of discontinuous orientation-preserving circle maps",
+                "cites": "25",
+                "year": "2003"
+            },
+            "id_citations": "lEHiPU4AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the variation of interaural time differences with frequency",
+                "cites": "24",
+                "year": "2016"
+            },
+            "id_citations": "lEHiPU4AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-timing-based computation in sound localization",
+                "cites": "24",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-parametric electrode model for intracellular recording",
+                "cites": "22",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian hears: online auditory processing using vectorization over channels",
+                "cites": "21",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian simulator",
+                "cites": "20",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The electrical significance of axon location diversity",
+                "cites": "19",
+                "year": "2018"
+            },
+            "id_citations": "lEHiPU4AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intracellular recording",
+                "cites": "18",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of instantaneous frequency glides on interaural time difference processing by auditory coincidence detectors",
+                "cites": "18",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mobility as the purpose of postural control",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "lEHiPU4AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast learning with weak synaptic plasticity",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-timing dependent plasticity and feed-forward input oscillations produce precise and invariant spike phase-locking",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian 2: neural simulations on a variety of computational hardware",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting spike timing in highly synchronous auditory neurons at different sound levels",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian 2-the second coming: spiking neural network simulation in Python with code generation",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Code generation in computational neuroscience: a review of tools and techniques",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "lEHiPU4AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural development of binaural tuning through Hebbian learning predicts frequency-dependent best delays",
+                "cites": "13",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural tuning matches frequency-dependent time differences between the ears",
+                "cites": "12",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the interpretation of sensitivity analyses of neural responses",
+                "cites": "12",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions to direct methods of estimation and control from visual data",
+                "cites": "12",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A structural theory of pitch",
+                "cites": "11",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The basis of sharp spike onset in standard biophysical models",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "lEHiPU4AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Cauchy problem for one-dimensional spiking neuron models",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relation between pitch and level",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "lEHiPU4AAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of the low-frequency components of the head-related transfer functions of animals from photographs",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to localise sounds with spiking neural networks",
+                "cites": "8",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the design of script languages for neural simulation",
+                "cites": "7",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Neuron\u2013Glia Interactions with the Brian 2 Simulator",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subjective physics",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking models for level-invariant encoding",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to emulate double-electrode recordings with a single-electrode? A new method of active electrode compensation.",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "lEHiPU4AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Postural adjustments in anticipation of predictable perturbations allow elderly fallers to achieve a balance recovery performance equivalent to elderly non-fallers",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A calibration-free electrode compensation method",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contribution of the axon initial segment to action potentials recorded extracellularly",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "lEHiPU4AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory adjustments of posture allow elderly fallers to achieve a balance recovery performance equivalent to elderly non-fallers",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "lEHiPU4AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unifying theory of ITD-based sound azimuth localization at the behavioral and neural levels",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Calcium imaging",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the variations of inter-aural time differences (ITDs) with frequency",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian: a simple and flexible simulator for spiking neural networks",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Clamp with High-Resistance Electrodes Using Active Electrode Compensation In Vitro and In Vivo",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise dynamic-clamp injection of stochastic conductances using active electrode compensation.",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "lEHiPU4AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Event-driven simulation of integrate-and-fire neurons with exponential synaptic conductances",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "lEHiPU4AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Axonal Na+ channels detect and transmit levels of input synchrony in local brain circuits",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "lEHiPU4AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical relation between axon initial segment geometry and excitability",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "lEHiPU4AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "26th annual computational neuroscience meeting (CNS* 2017): part 1",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "lEHiPU4AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory of action potentials",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slow feature analysis with spiking neurons and its application to audio stimuli",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "lEHiPU4AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-compartmental modeling in Brian 2",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-based models of neural computation",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution intracellular recordings using a real-time interaction between the neuron and a computational model of the electrode",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting Neuronal Activity with Simple Models of the Threshold Type",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple device to immobilize protists for electrophysiology and microinjection",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory coadaptation of ankle stiffness and sensorimotor gain for standing balance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural coding: the bureaucratic model of the brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian 2",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory coadaptation of ankle stiffness and neural feedback for standing balance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory coadaptation of ankle stiffness and sensorimotor gain for standing balance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lEHiPU4AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory adjustment of mechanical properties for motor stabilisation",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "lEHiPU4AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The world is complex, not just noisy",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "lEHiPU4AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian 2.0 simulator",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "lEHiPU4AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of ITD tuning in the MSO with a realistic periphery model",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Origin of the kink of somatic action potentials",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The compartmentalization of spike initiation",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lEHiPU4AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking models of interaural level difference encoding-beyond the rate subtraction code",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hebbian learning in the MSO: emergence of interaural tuning",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brian Spiking Neural Network Simulator.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lEHiPU4AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An ecological approach to neural computation",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "lEHiPU4AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Archives de cat\u00e9gorie: Reader\u2019s digest",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special issue on \u201cNeural Network Simulation\u201d",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "lEHiPU4AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding the pitch of sounds using synchrony receptive fields",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A functional spiking model of the ITD processing pathway of the barn owl",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A developmental explanation of the dependence of binaural best delays on characteristic frequency",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Late Emergence of the Vibrissa Direction Selectivity Map in the Rat Barrel Cortex (vol 31, pg 10689, 2011)",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamique du seuil d\u2019excitabilit\u00e9 des neurones",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online auditory filter processing using vectorization along channels",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "lEHiPU4AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal codes for processing interaural time differences.",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coincidence detection in neurons with in vivo-like synaptic activity",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coincidence detection in active neurons",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "lEHiPU4AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sound localization with spiking neural networks",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "lEHiPU4AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Spike-and-reset dynamics for non-linear integrate-and-fire neuron models",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Electrode Compensation for high-resolution intracellular recordings in vitro and in vivo.",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Cauchy Problem for Spiking Neuron Models",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "lEHiPU4AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dynamical system analysis of the adaptive spike threshold",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Exponential Integrate-and-Fire Model as an",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of synaptic conductances from intracellular recordings.",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lEHiPU4AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Un mod\u00e8le non-param\u00e9trique d'\u00e9lectrode pour les enregistrements intracellulaires.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lEHiPU4AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reproducing in-vivo-like synaptic inputs to a neuron with Active Electrode Compensation-a new technique allowing high temporal resolution in single-electrode dynamic-clamp.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lEHiPU4AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: Spiking Dynamics of Bidimensional Integrate-and-Fire Neurons",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Text S1",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CNS 2015 Prague: Tutorials",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CNS 2013 Paris: Tutorials Program",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geometrical aspects of action potential initiation",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Archives mensuelles: d\u00e9cembre 2012",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meeting the memory challenges of brain-scale network",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wulfram Gerstner and Romain Brette (2009), Scholarpedia, 4 (6): 8427. doi: 10.4249/scholarpedia. 8427 revision# 90723 [link to/cite this article]",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "8. Enseignements d\u2019informatique du dipl\u00f4me de l\u2019ENS (hors fili\u00e8re informatique)",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Journ\u00e9e du 20 janvier 2006, IHP, Paris Neurones et r\u00e9seaux de neurones biologiques: Comment les mod\u00e9liser?",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is the Role of Thalamic Synchronization in Thalamocortical Processing? A Model Study in the Context of Orientation Selectivity in the Primary Visual Cortex",
+                "cites": "0"
+            },
+            "id_citations": "lEHiPU4AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=lEHiPU4AAAAJ"
+}

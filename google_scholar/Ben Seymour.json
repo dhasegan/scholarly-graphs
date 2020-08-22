@@ -1,0 +1,1403 @@
+{
+    "affiliation": "Computational and Biological Learning Lab, University of Cambridge",
+    "cites_per_year": {
+        "2005": 130,
+        "2006": 293,
+        "2007": 610,
+        "2008": 905,
+        "2009": 1129,
+        "2010": 1284,
+        "2011": 1543,
+        "2012": 1628,
+        "2013": 1879,
+        "2014": 1840,
+        "2015": 1878,
+        "2016": 1813,
+        "2017": 1949,
+        "2018": 1859,
+        "2019": 1894,
+        "2020": 992
+    },
+    "citedby": 21960,
+    "citedby5y": 10388,
+    "coauthors": [
+        {
+            "affiliation": "University College London",
+            "id": "0iy8RTMAAAAJ",
+            "name": "Raymond J Dolan"
+        },
+        {
+            "affiliation": "Professor of Psychology, California Institute of Technology",
+            "id": "sxfWyk8AAAAJ",
+            "name": "John P. O'Doherty"
+        },
+        {
+            "affiliation": "Professor of Neurocience and Psychology, Princeton University",
+            "id": "BxlScrEAAAAJ",
+            "name": "Nathaniel D. Daw"
+        },
+        {
+            "affiliation": "UCL",
+            "id": "0YEXoMMAAAAJ",
+            "name": "Chris Frith"
+        },
+        {
+            "affiliation": "UCL",
+            "id": "eYe8cYQAAAAJ",
+            "name": "Martin Koltzenburg"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "q_4u0aoAAAAJ",
+            "name": "Karl Friston"
+        },
+        {
+            "affiliation": "Assistant Professor of Cognitive Neuroscience - Caltech",
+            "id": "oaSo1NAAAAAJ",
+            "name": "Dean Mobbs PhD"
+        },
+        {
+            "affiliation": "Associate Professor, Institute of Cognitive Neuroscience - University College London",
+            "id": "eItt1JEAAAAJ",
+            "name": "Benedetto De Martino"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Princeton University",
+            "id": "5NUNoKwAAAAJ",
+            "name": "Yael Niv"
+        },
+        {
+            "affiliation": "Professor, EPFL & CHUV; Emeritus professor UCL",
+            "id": "4nu1zCsAAAAJ",
+            "name": "Richard Frackowiak"
+        },
+        {
+            "affiliation": "Google DeepMind",
+            "id": "_jkvGEUAAAAJ",
+            "name": "Dharshan Kumaran"
+        },
+        {
+            "affiliation": "Lecturer, Department of Psychology, University of Cambridge",
+            "id": "A6A8ykoAAAAJ",
+            "name": "Deborah Talmi"
+        },
+        {
+            "affiliation": "National University of Singapore",
+            "id": "t-_bM5sAAAAJ",
+            "name": "Rongjun Yu"
+        },
+        {
+            "affiliation": "Andrew J Calder (1965-2013), MRC Cognition and Brain Sciences Unit, Cambridge",
+            "id": "HJCQIRsAAAAJ",
+            "name": "Andrew J Calder"
+        },
+        {
+            "affiliation": "Associate Professor, University of East Anglia",
+            "id": "-dnWjn8AAAAJ",
+            "name": "Thomas FitzGerald"
+        },
+        {
+            "affiliation": "Brain & Spine Institute (ICM), Piti\u00e9-Salp\u00eatri\u00e8re Hospital, Paris",
+            "id": "SKyTxCwAAAAJ",
+            "name": "Mathias Pessiglione"
+        },
+        {
+            "affiliation": "Brighton and Sussex Medical School;  University of  Sussex; University of Brighton",
+            "id": "5jA5GcAAAAAJ",
+            "name": "Hugo Critchley"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "Universidad de Valparaiso, Chile",
+            "id": "m6IbAvkAAAAJ",
+            "name": "Wael El-Deredy"
+        },
+        {
+            "affiliation": "Max Planck - UCL / Computer Science UCL",
+            "id": "8TdtxFAAAAAJ",
+            "name": "Maria J. Rosa"
+        }
+    ],
+    "email": "@cam.ac.uk",
+    "hindex": 51,
+    "hindex5y": 46,
+    "i10index": 70,
+    "i10index5y": 68,
+    "id": "KDtSFaQAAAAJ",
+    "interests": [
+        "Neuroscience"
+    ],
+    "name": "Ben Seymour",
+    "publications": [
+        {
+            "bib": {
+                "title": "Empathy for pain involves the affective but not sensory components of pain",
+                "cites": "4424",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empathic neural responses are modulated by the perceived fairness of others",
+                "cites": "1997",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical substrates for exploratory decisions in humans",
+                "cites": "1800",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frames, biases, and rational decision-making in the human brain",
+                "cites": "1696",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine-dependent prediction errors underpin reward-seeking behaviour in humans",
+                "cites": "1336",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based influences on humans' choices and striatal prediction errors",
+                "cites": "1015",
+                "year": "2011"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When fear is near: threat imminence elicits prefrontal-periaqueductal gray shifts in humans",
+                "cites": "733",
+                "year": "2007"
+            },
+            "id_citations": "KDtSFaQAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal difference models describe higher-order learning in humans",
+                "cites": "595",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context-dependent human extinction memory is mediated by a ventromedial prefrontal and hippocampal network",
+                "cites": "464",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential encoding of losses and gains in the human striatum",
+                "cites": "435",
+                "year": "2007"
+            },
+            "id_citations": "KDtSFaQAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Opponent appetitive-aversive neural processes underlie predictive learning of pain relief",
+                "cites": "377",
+                "year": "2005"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From threat to fear: the neural organization of defensive fear systems in humans",
+                "cites": "348",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive neural coding of reward preference involves dissociable responses in human ventral midbrain and ventral striatum",
+                "cites": "348",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anxiety reduction through detachment: subjective, physiological, and neural effects",
+                "cites": "334",
+                "year": "2005"
+            },
+            "id_citations": "KDtSFaQAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neurobiology of punishment",
+                "cites": "318",
+                "year": "2007"
+            },
+            "id_citations": "KDtSFaQAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The misbehavior of value and the discipline of the will",
+                "cites": "290",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of human orbitofrontal cortex in value comparison for incommensurable objects",
+                "cites": "287",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A key role for similarity in vicarious reward",
+                "cites": "287",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human Pavlovian\u2013instrumental transfer",
+                "cites": "284",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine, time, and impulsivity in humans",
+                "cites": "279",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotion, decision making, and the amygdala",
+                "cites": "274",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choosing to make an effort: the role of striatum in signaling physical effort of a chosen action",
+                "cites": "236",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A genetically mediated bias in decision making driven by failure of amygdala control",
+                "cites": "230",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal activity underlies novelty-based choice in humans",
+                "cites": "213",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding of marginal utility across time in the human brain",
+                "cites": "202",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of belief inference during cooperative games",
+                "cites": "174",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does temporal discounting explain unhealthy behavior? A systematic review and reinforcement learning perspective",
+                "cites": "170",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:bKwnt0rjkrwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of pain ratings by expectation and uncertainty: Behavioral characteristics and anticipatory neural correlates",
+                "cites": "162",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin selectively modulates reward value in human decision-making",
+                "cites": "158",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of pain processing in hyperalgesia by cognitive demand",
+                "cites": "158",
+                "year": "2005"
+            },
+            "id_citations": "KDtSFaQAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anchors, scales and the relative coding of value in the brain",
+                "cites": "144",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine and performance in a reinforcement learning task: evidence from Parkinson\u2019s disease",
+                "cites": "135",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary antibody deficiency and diagnostic delay",
+                "cites": "134",
+                "year": "2005"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contingency awareness in human aversive conditioning involves the middle frontal gyrus",
+                "cites": "133",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activity associated with the passive prediction of ambiguity and risk for aversive events",
+                "cites": "123",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blocking central opiate function modulates hedonic impact and anterior cingulate response to rewards and losses",
+                "cites": "121",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choking on the money: reward-based performance decrements are associated with midbrain activity",
+                "cites": "106",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disrupted habenula function in major depression",
+                "cites": "95",
+                "year": "2017"
+            },
+            "id_citations": "KDtSFaQAAAAJ:0lma3NU_mqEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The habenula encodes negative motivational value associated with primary punishment in humans",
+                "cites": "93",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Vu1dURnyNv8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty increases pain: evidence for a novel mechanism of pain modulation involving the periaqueductal gray",
+                "cites": "85",
+                "year": "2013"
+            },
+            "id_citations": "KDtSFaQAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confidence in beliefs about pain predicts expectancy effects on pain perception and anticipatory processing in right anterior insula",
+                "cites": "84",
+                "year": "2008"
+            },
+            "id_citations": "KDtSFaQAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fear reduction without fear through reinforcement of neural activity that bypasses conscious exposure",
+                "cites": "73",
+                "year": "2017"
+            },
+            "id_citations": "KDtSFaQAAAAJ:rKOGDx9nJ1EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The price of pain and the value of suffering",
+                "cites": "72",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable learning processes underlie human pain conditioning",
+                "cites": "67",
+                "year": "2016"
+            },
+            "id_citations": "KDtSFaQAAAAJ:PXxrOWvQdDgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Converging evidence for central 5-HT effects in acute tryptophan depletion",
+                "cites": "67",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural signature of escalating frustration in humans",
+                "cites": "60",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:bO_hriczGZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insula and striatum mediate the default bias",
+                "cites": "56",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Values and actions in aversion",
+                "cites": "54",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulating the pain network\u2014neurostimulation for central poststroke pain",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:qjuL_XCUnM8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dread and the disvalue of future pain",
+                "cites": "51",
+                "year": "2013"
+            },
+            "id_citations": "KDtSFaQAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differentiable neural substrates for learned and described value and risk",
+                "cites": "51",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Induced sensorimotor brain plasticity controls pain in phantom limb patients",
+                "cites": "48",
+                "year": "2016"
+            },
+            "id_citations": "KDtSFaQAAAAJ:D52hNgOu9GcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct contributions of ventromedial and dorsolateral subregions of the human substantia nigra to appetitive and aversive learning",
+                "cites": "45",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:QLZAdv6BrvsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the matrix: benefits and limitations of applying machine learning algorithms to pain neuroimaging",
+                "cites": "41",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:jkTRWqoJ8oAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relative valuation of pain in human orbitofrontal cortex",
+                "cites": "31",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:I8ubwoE7ciMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of motivation on movement: a study of bradykinesia in Parkinson\u2019s disease",
+                "cites": "29",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain: a distributed brain information network?",
+                "cites": "26",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:0MsrIDK0EWAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification and characterisation of brain network changes in chronic back pain: A multicenter study",
+                "cites": "23",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:LAaCg2gyLagC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accounting for behavior in treatment effects: new applications for blind trials",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:YK4ucWkmU_UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain relativity in motor control",
+                "cites": "20",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A prediction model of working memory across health and psychiatric disease using whole-brain functional connectivity",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:_V0JUKP8578C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When is a loss a loss? Excitatory and inhibitory processes in loss-related decision-making",
+                "cites": "16",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:P76ttB97BVgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altruistic learning",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotion, motivation, and pain",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "KDtSFaQAAAAJ:yY8dUDjMDt8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can, and should, behavioural neuroscience influence public policy?",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep brain stimulation of the subthalamic nucleus modulates sensitivity to decision outcome value in Parkinson\u2019s disease",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "KDtSFaQAAAAJ:SGnGYi2HwEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain: a precision signal for reinforcement learning and control",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "KDtSFaQAAAAJ:P1qO8dLd1z8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thermosensory perceptual learning is associated with structural brain changes in parietal\u2013opercular (SII) Cortex",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "KDtSFaQAAAAJ:dpaHy1TF288C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel Reward and Punishment Control in Humans and Robots: Safe Reinforcement Learning Using the MaxPain Algorithm.",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "KDtSFaQAAAAJ:9Pw2l-cN0AIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technology for chronic pain",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:22I2CSi1iVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value generalization in human avoidance learning",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:-mAZECE-jN4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based and model-free pain avoidance learning",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:K_uVUG1YJAoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The control of tonic pain by active relief learning",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:MIZpzCdxGj0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate cortex connectivity is associated with suppression of behaviour in a rat model of chronic pain",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:8LfMcXwVQboC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipation and choice heuristics in the dynamic consumption of pain relief",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Q3_nmhWTCy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prices need no preferences: Social trends determine decisions in experimental markets for pain relief.",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Carry on eating: neural pathways mediating conditioned potentiation of feeding",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "KDtSFaQAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expected and unexpected uncertainties control allocation of attention in a novel attentional learning task.",
+                "cites": "4",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:N4e_798Z1OgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making in brains and robots\u2014the case for an interdisciplinary approach",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "KDtSFaQAAAAJ:E9iozgzfyhkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary functional brain connections associated with melancholic major depressive disorder and modulation by antidepressants",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "KDtSFaQAAAAJ:5qu0sgD3nvwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward high-performance, memory-efficient, and fast reinforcement learning\u2014Lessons from decision neuroscience",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "KDtSFaQAAAAJ:xwIxJehhd2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endogenous controllability of closed-loop brain-machine interfaces for pain",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:JtjtGO9FvpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain and Self-Preservation in Autonomous Robots.",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "KDtSFaQAAAAJ:EpJ50YjRFhcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding acute pain with combined EEG and physiological data",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "KDtSFaQAAAAJ:zxzvZ9-XIW8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "State-dependent value representation: evidence from the striatum",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:9xhnSCvx0jcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisions about decisions",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The maladaptive brain: excitable pathways to chronic pain",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using a BCI Prosthetic Hand to Control Phantom Limb Pain",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "KDtSFaQAAAAJ:oEW5MyxtvQ4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEG\u2013BMI to control phantom limb pain",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:WIVIxizkzXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response heterogeneity: Challenges for personalised medicine and big data approaches in psychiatry and chronic pain",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Ui6Ig_dFDbcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hodgkin and Huxley\u2019s legacy: the science of neural supercomputing",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aversive reinforcement learning",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary functional brain connections associated with melancholic major depressive disorder and modulation by antidepressants",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "KDtSFaQAAAAJ:ZLdq17c_vQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resting-state Amplitude of Low-frequency Fluctuation is a Potentially Useful Prognostic Functional Biomarker in Cervical Myelopathy",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "KDtSFaQAAAAJ:M0jDNLgoRFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Evolutionarily Threat-Relevant Odor Strengthens Human Fear Memory",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "KDtSFaQAAAAJ:J6qkoyn5ZssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: An Evolutionarily Threat-Relevant Odor Strengthens Human Fear Memory",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "KDtSFaQAAAAJ:nvAonm6-wpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "towards prognostic functional brain biomarkers for cervical myelopathy: A resting-state fMRI study",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "KDtSFaQAAAAJ:gxL4SBlKZTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial overview: Pain and aversive motivation",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "KDtSFaQAAAAJ:9i1gB6tY3MIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "chronic back pain: A multicenter study [version 1; referees",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:QaBZMoE9kVYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification and characterisation of brain network changes in chronic back pain: A multicenter study [version 1; referees: 3 approved]",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:3Jzcn9274UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From Networks of the Brain to Information Networks Inspired by the Brain",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "KDtSFaQAAAAJ:QppYajJO_VYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain network theories of chronic pain: bottom-up meets top-down",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Rc-B-9qnGaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: Dread and the Disvalue of Future Pain",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "KDtSFaQAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Punishment-based decision making",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "KDtSFaQAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotion, motivation and pain",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "KDtSFaQAAAAJ:K5ggCqHMkpcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Punishment-based decision",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "KDtSFaQAAAAJ:9hNLEifDsrsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "445 \u2018There is nothing paranormal about near-death experiences\u2019 revisited: comment on Mobbs and Watt 446 Response to Greyson et al.: there is nothing paranormal about near-death \u2026",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expertise related disparity in prefrontal cortical excitation associated with intra-operative decision making",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "KDtSFaQAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choosing to Make an Effort: The Role of Striatum in",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "KDtSFaQAAAAJ:E8M3ZPqbjf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of motivation on movement: A study of bradykinesia in Parkinson's disease: 478",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "KDtSFaQAAAAJ:uCYQzKCmtZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of motivation on movement: A study of bradykinesia in Parkinson's disease",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "KDtSFaQAAAAJ:AdUz3-SiDfgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine, fotoana, ary fahavoazana amin'ny olona (2010)",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:jD_Q_A4-jPwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New insights into the role of the subthalamic nucleus in learning and decision making",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "KDtSFaQAAAAJ:LSkeIYDkhQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement Learning Reinforcement Learning, 1998",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:bCDyRX4i8-MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin modulates choice stickiness through an outcome-independent striatal mechanism",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "KDtSFaQAAAAJ:ujJXPdh5xs4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research loses in hasty changes to medical training",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "KDtSFaQAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empathy for Pain: Shared and Unique Networks Associated to Pain in Self and Others: MO 230",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:nIr65G9GQVgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The computational basis for higher order pain prediction: MO 229",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:H6myOybQgeYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics in the attentional modulation of pain: TU 328",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:l07DEcJES74C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Opponent temporal difference models describe learning in tonic pain",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "KDtSFaQAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipation of Pain-an ERP Study: Poster number: 74",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "KDtSFaQAAAAJ:qmyJBmpVKbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning Reinforcement learning, 1998",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:fZtrMt_Z7PsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Computational and Neurobiological Account of Theory of Mind",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:q2Dn1KgioksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamien, tyd en impulsiwiteit by mense (2010)",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:8VbLR7ExW8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response to Commentaries",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:bzhzIcV5SW4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus as a cognitive map The hippocampus as a cognitive map, 1978",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:-R_Z4shfoosC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The control of tonic pain by active",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:GpOSJs1ZbLkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thermal interfaces: reduction in discriminative accuracy despite enhanced subjective confidence after topical application of menthol.",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:e3UXjaW_PBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The psychology of animal learning The psychology of animal learning, 1974",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:0KZCP5UExFUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditioning and associative learning Conditioning and associative learning, 1983",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:bQkGhl1z2hUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Picoeconomics, 1992",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:nyUGVxR7BcAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advantage updating Advantage updating, 1993",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:QbuKDewGlxwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual choice behavior Individual choice behavior, 1959",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:tDdgxD0hSQMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Breakdown of will Breakdown of will, 2001",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:auQHJw8QJBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The mentality of apes The mentality of apes, 1925",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:Wu2CBzYYpfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empathy for pain: Shared and unique networks associated to pain in self and others",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:ZnWe2zbntUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fear reduction without fear through reinforcement of neural activity that bypasses conscious exposure",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:HiznBx5RP3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuron, Volume 58 Supplemental Data Striatal Activity Underlies Novelty-Based Choice in Humans",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:fTLh7q_iUBEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information Differentiable Neural Substrates for Learned and Described Value and Risk",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:8NHCvSvNRCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Dorsal Striatum Encodes and Integrates Marginal Utility with Other Subcomponents of Value to Drive Choice",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental material for \u201cModel-based influences on humans\u2019 choices and striatal prediction errors\u201d",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Polar exploration: An anterior prefrontal substrate for exploratory decisions in humans",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relative Coding Of Value In The Brain Ivo Vlaev1*, Ben Seymour2*, Raymond J. Dolan2 & Nick Chater1",
+                "cites": "0"
+            },
+            "id_citations": "KDtSFaQAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=KDtSFaQAAAAJ"
+}

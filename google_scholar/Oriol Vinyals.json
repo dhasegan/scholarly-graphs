@@ -1,0 +1,1394 @@
+{
+    "affiliation": "Research Scientist at Google DeepMind",
+    "cites_per_year": {
+        "2013": 228,
+        "2014": 489,
+        "2015": 1634,
+        "2016": 4940,
+        "2017": 10745,
+        "2018": 19451,
+        "2019": 26584,
+        "2020": 13122
+    },
+    "citedby": 78356,
+    "citedby5y": 76850,
+    "coauthors": [],
+    "email": "@google.com",
+    "hindex": 71,
+    "hindex5y": 69,
+    "i10index": 113,
+    "i10index5y": 102,
+    "id": "NkzyCvUAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Speech",
+        "Vision"
+    ],
+    "name": "Oriol Vinyals",
+    "publications": [
+        {
+            "bib": {
+                "title": "TensorFlow: Large-scale machine learning on heterogeneous systems, 2015",
+                "cites": "20193"
+            },
+            "id_citations": "NkzyCvUAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence to sequence learning with neural networks",
+                "cites": "11459",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distilling the knowledge in a neural network",
+                "cites": "3807",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decaf: A deep convolutional activation feature for generic visual recognition",
+                "cites": "3706",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Show and tell: A neural image caption generator",
+                "cites": "3667",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Google's neural machine translation system: Bridging the gap between human and machine translation",
+                "cites": "2885",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wavenet: A generative model for raw audio",
+                "cites": "2743",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding deep learning requires rethinking generalization",
+                "cites": "1816",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent neural network regularization",
+                "cites": "1654",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching networks for one shot learning",
+                "cites": "1652",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond short snippets: Deep networks for video classification",
+                "cites": "1604",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural conversational model",
+                "cites": "1342",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Listen, attend and spell: A neural network for large vocabulary conversational speech recognition",
+                "cites": "1231",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pointer networks",
+                "cites": "1230",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural message passing for quantum chemistry",
+                "cites": "1160",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating sentences from a continuous space",
+                "cites": "1085",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional image generation with pixelcnn decoders",
+                "cites": "1007",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scheduled sampling for sequence prediction with recurrent neural networks",
+                "cites": "900",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grammar as a foreign language",
+                "cites": "811",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional, long short-term memory, fully connected deep neural networks",
+                "cites": "789",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the limits of language modeling",
+                "cites": "752",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational inductive biases, deep learning, and graph networks",
+                "cites": "647",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Addressing the rare word problem in neural machine translation",
+                "cites": "619",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-task sequence to sequence learning",
+                "cites": "551",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speaker diarization: A review of recent research",
+                "cites": "537",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Show and tell: Lessons learned from the 2015 mscoco image captioning challenge",
+                "cites": "459",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the speech front-end with raw waveform CLDNNs",
+                "cites": "369",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Order matters: Sequence to sequence for sets",
+                "cites": "357",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural discrete representation learning",
+                "cites": "354",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical representations for efficient architecture search",
+                "cites": "336",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Starcraft ii: A new challenge for reinforcement learning",
+                "cites": "336",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel wavenet: Fast high-fidelity speech synthesis",
+                "cites": "309",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lip reading sentences in the wild",
+                "cites": "304",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent neural networks for noise reduction in robust ASR",
+                "cites": "301",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation learning with contrastive predictive coding",
+                "cites": "285",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise indoor localization using smart phones",
+                "cites": "277",
+                "year": "2010"
+            },
+            "id_citations": "NkzyCvUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction errors of molecular machine learning models lower than hybrid DFT error",
+                "cites": "274",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Qualitatively characterizing neural network optimization problems",
+                "cites": "265",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Video pixel networks",
+                "cites": "235",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population based training of neural networks",
+                "cites": "232",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TensorFlow: large-scale machine learning on heterogeneous systems. Software available from tensorflow. org. 2015",
+                "cites": "221",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:MhiOAD_qIWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sentence compression by deletion with lstms",
+                "cites": "219",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning with latent embedding optimization",
+                "cites": "211",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural scene representation and rendering",
+                "cites": "202",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+                "cites": "196",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alphastar: Mastering the real-time strategy game starcraft ii",
+                "cites": "188",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning deep generative models of graphs",
+                "cites": "177",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoupled neural interfaces using synthetic gradients",
+                "cites": "176",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universal transformers",
+                "cites": "170",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multilingual language processing from bytes",
+                "cites": "159",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagination-augmented agents for deep reinforcement learning",
+                "cites": "157",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:7H_MAutzIkAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems. CoRR abs/1603.04467 (2016)",
+                "cites": "151",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:WHdLCjDvYFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual lstm (clstm) models for large scale nlp tasks",
+                "cites": "145",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagination-augmented agents for deep reinforcement learning",
+                "cites": "144",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensorflow: large-scale machine learning on heterogeneous distributed systems (2016)",
+                "cites": "144",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revisiting recurrent neural networks for robust ASR",
+                "cites": "142",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence discriminative distributed training of long short-term memory recurrent neural networks",
+                "cites": "134",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overlapped speech detection for improved speaker diarization in multiparty meetings",
+                "cites": "133",
+                "year": "2008"
+            },
+            "id_citations": "NkzyCvUAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational deep reinforcement learning",
+                "cites": "131",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural episodic control",
+                "cites": "127",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Strategic attentive writer for learning macro-actions",
+                "cites": "125",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An online sequence-to-sequence model using partial conditioning",
+                "cites": "123",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep audio-visual speech recognition",
+                "cites": "107",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Krylov subspace descent for deep learning",
+                "cites": "106",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A study on overfitting in deep reinforcement learning",
+                "cites": "104",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connecting generative adversarial networks and actor-critic methods",
+                "cites": "101",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian recurrent neural networks",
+                "cites": "100",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating diverse high-fidelity images with vq-vae-2",
+                "cites": "93",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prosodic and other long-term features for speaker diarization",
+                "cites": "90",
+                "year": "2009"
+            },
+            "id_citations": "NkzyCvUAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational recurrent neural networks",
+                "cites": "77",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synthesizing programs for images using reinforced adversarial learning",
+                "cites": "76",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning with recursive perceptual representations",
+                "cites": "68",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing multilayer perceptron to deep belief network tandem features for robust ASR",
+                "cites": "67",
+                "year": "2011"
+            },
+            "id_citations": "NkzyCvUAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning model-based planning from scratch",
+                "cites": "66",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacontrol for adaptive imagination-based optimization",
+                "cites": "55",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentive neural processes",
+                "cites": "51",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ICSI RT-09 speaker diarization system",
+                "cites": "51",
+                "year": "2011"
+            },
+            "id_citations": "NkzyCvUAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal location estimation",
+                "cites": "49",
+                "year": "2010"
+            },
+            "id_citations": "NkzyCvUAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A fast-match approach for robust, faster than real-time speaker diarization",
+                "cites": "48",
+                "year": "2007"
+            },
+            "id_citations": "NkzyCvUAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two's a crowd: Improving speaker diarization by automatically identifying and excluding overlapped speech",
+                "cites": "47",
+                "year": "2008"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Graph matching networks for learning the similarity of graph structured objects",
+                "cites": "46",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adversarial evaluation of dialogue models",
+                "cites": "44",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards principled unsupervised learning",
+                "cites": "43",
+                "year": "2015"
+            },
+            "id_citations": "NkzyCvUAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sample efficient adaptive text-to-speech",
+                "cites": "40",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Few-shot autoregressive density estimation: Towards learning to learn distributions",
+                "cites": "40",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory-based parameter adaptation",
+                "cites": "39",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to search with MCTSnets",
+                "cites": "37",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved overlapped speech handling for speaker diarization",
+                "cites": "37",
+                "year": "2011"
+            },
+            "id_citations": "NkzyCvUAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Live speaker identification in conversations",
+                "cites": "37",
+                "year": "2008"
+            },
+            "id_citations": "NkzyCvUAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preventing posterior collapse with delta-vaes",
+                "cites": "33",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are sparse representations rich enough for acoustic modeling?",
+                "cites": "33",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding synthetic gradients and decoupled neural interfaces",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discriminative pronounciation learning using phonetic decoder and minimum-classification-error criterion",
+                "cites": "32",
+                "year": "2009"
+            },
+            "id_citations": "NkzyCvUAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hardware-independent fast logarithm approximation with adjustable accuracy",
+                "cites": "29",
+                "year": "2008"
+            },
+            "id_citations": "NkzyCvUAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards semantic analysis of conversations: A system for the live identification of speakers in meetings",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "NkzyCvUAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification accuracy score for conditional generative models",
+                "cites": "26",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning kernel expansions for image classification",
+                "cites": "25",
+                "year": "2007"
+            },
+            "id_citations": "NkzyCvUAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dark knowledge",
+                "cites": "20",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid learning or feature reuse? towards understanding the effectiveness of maml",
+                "cites": "19",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hybrid approach to online speaker diarization",
+                "cites": "19",
+                "year": "2010"
+            },
+            "id_citations": "NkzyCvUAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System output combination for improved speaker diarization",
+                "cites": "19",
+                "year": "2010"
+            },
+            "id_citations": "NkzyCvUAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal modeling using dilated convolution and gating for voice-activity-detection",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation spectrogram features for improved speaker diarization",
+                "cites": "17",
+                "year": "2008"
+            },
+            "id_citations": "NkzyCvUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning speaker, addressee and overlap detection models from multimodal streams",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fusing short term and long term features for improved speaker diarization",
+                "cites": "16",
+                "year": "2009"
+            },
+            "id_citations": "NkzyCvUAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning implicit generative models with the method of learned moments",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pooling-invariant image feature learning",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "NkzyCvUAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low bit-rate speech coding with VQ-VAE and a WaveNet decoder",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regal: Transfer learning for fast optimization of computation graphs",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A picture is worth a thousand (coherent) words: building a natural description of images",
+                "cites": "11",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chasing the metric: Smoothing learning algorithms for keyword detection",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "NkzyCvUAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep vs. wide: depth on a budget for robust speech recognition.",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "NkzyCvUAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal indoor localization: an audio-wireless-based approach",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "NkzyCvUAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Keyword detection without decoding",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DeepMind and Blizzard to release Starcraft II as an AI research environment (2016)",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On compact codes for spatially pooled features",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised doodling and painting with improved spiral",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "NkzyCvUAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Fast Optimizers for Contextual Stochastic Integer Programs.",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic-based sequence modeling neural networks",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond Deep Learning: Scalable Methods and Models for Learning",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "NkzyCvUAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u201cModel vs optimization meta learning",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "NkzyCvUAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature learning using generalized extreme value distribution based k-means clustering",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "NkzyCvUAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The MineRL Competition on Sample-Efficient Reinforcement Learning Using Human Priors: A Retrospective",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating diverse programs with instruction conditioned reinforced adversarial learning",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual imitation with a minimal adversary",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "NkzyCvUAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tree-structured variational autoencoder",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why Size Matters: Feature Coding as Nystrom Sampling",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "NkzyCvUAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discriminative training for hierarchical clustering in speaker diarization",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "NkzyCvUAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating discrete latent representations of input data items",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:wKETBy42zhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pointer Graph Networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:IaI1MmNe2tcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Committed information rate variational autoencoders",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:LdasjJ6CEcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training distilled machine learning models",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional, long short-term memory, fully connected deep neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sample-efficient adaptive text-to-speech",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPEECH RECOGNITION USING CONVOLUTIONAL NEURAL NETWORKS",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:MpfHP-DdYjUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech recognition with attention-based recurrent neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning observation representations by predicting the future in latent space",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action selection neural network training using imitation learning in latent space",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagination-based agent neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:v1_lew4L6wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagination-based agent neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech recognition using convolutional neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:1taIhTC69MYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating target sequences from input sequences using partial conditioning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:WC23djZS0W4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Message Passing Neural Networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "NkzyCvUAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Talk 2: Recurrent neural nets and differentiable memory mechanism",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pioneers",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "NkzyCvUAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "rules. In Proc. 20th Int. Conf. Very Large Data Bases, VLDB, volume 1215, pages 487\u2013499, 1994.[5] Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman. Compilers: Principles \u2026",
+                "cites": "0",
+                "year": "1990"
+            },
+            "id_citations": "NkzyCvUAAAAJ:PYBJJbyH-FwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u4f7f\u7528 NLP \u9884\u6d4b\u7535\u5f71\u7c7b\u578b-\u591a\u6807\u7b7e...",
+                "cites": "0"
+            },
+            "id_citations": "NkzyCvUAAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zero-Shot Learning for Fast Optimization of Computation Graphs",
+                "cites": "0"
+            },
+            "id_citations": "NkzyCvUAAAAJ:kw52XkFRtyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Understanding the Effectiveness of MAML",
+                "cites": "0"
+            },
+            "id_citations": "NkzyCvUAAAAJ:7BrZ7Jt4UNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowledge Distillation",
+                "cites": "0"
+            },
+            "id_citations": "NkzyCvUAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating Diverse High-Fidelity Images with VQ-VAE-2 (Supplementary Material)",
+                "cites": "0"
+            },
+            "id_citations": "NkzyCvUAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appendices: Episodic Memory in Lifelong Language Learning",
+                "cites": "0"
+            },
+            "id_citations": "NkzyCvUAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=NkzyCvUAAAAJ"
+}

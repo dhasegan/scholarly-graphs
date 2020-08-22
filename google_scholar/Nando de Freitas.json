@@ -1,0 +1,2753 @@
+{
+    "affiliation": "CIFAR & DeepMind",
+    "cites_per_year": {
+        "2001": 92,
+        "2002": 254,
+        "2003": 532,
+        "2004": 824,
+        "2005": 1157,
+        "2006": 1320,
+        "2007": 1572,
+        "2008": 1705,
+        "2009": 1883,
+        "2010": 1857,
+        "2011": 1788,
+        "2012": 1823,
+        "2013": 1803,
+        "2014": 2006,
+        "2015": 1951,
+        "2016": 2473,
+        "2017": 2764,
+        "2018": 3891,
+        "2019": 4534,
+        "2020": 2182
+    },
+    "citedby": 36867,
+    "citedby5y": 17854,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Statistics, University of Oxford & Research Scientist, Google DeepMind",
+            "id": "W4SZGV8AAAAJ",
+            "name": "Arnaud Doucet"
+        },
+        {
+            "affiliation": "Deepmind",
+            "id": "Rne0FzEAAAAJ",
+            "name": "Ziyu Wang"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "XrKLUO0AAAAJ",
+            "name": "Misha Denil"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "n2osZaoAAAAJ",
+            "name": "Matthew W. Hoffman"
+        },
+        {
+            "affiliation": "Professor of Computer Science, University of Arizona",
+            "id": "fKESO6sAAAAJ",
+            "name": "Kobus Barnard"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "Vwas7kAAAAAJ",
+            "name": "Bobak Shahriari"
+        },
+        {
+            "affiliation": "Professor of Computer Science, University of Illinois, Urbana Champaign",
+            "id": "5H0arvkAAAAJ",
+            "name": "David Forsyth"
+        },
+        {
+            "affiliation": "Prof. , Department of Computer Engineering, Hacettepe University, Ankara, Turkey",
+            "id": "1KEMrHkAAAAJ",
+            "name": "Pinar Duygulu Sahin"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "IrixA8MAAAAJ",
+            "name": "Kevin Swersky"
+        },
+        {
+            "affiliation": "Research Scientist, Google DeepMind",
+            "id": "DwHtHE8AAAAJ",
+            "name": "Yannis Assael"
+        },
+        {
+            "affiliation": "Research Computing Center, University of Chicago",
+            "id": "ghacqrQAAAAJ",
+            "name": "Peter Carbonetto"
+        },
+        {
+            "affiliation": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
+            "id": "yxUduqMAAAAJ",
+            "name": "Michael I. Jordan"
+        },
+        {
+            "affiliation": "Computer Science, University of British Columbia",
+            "id": "a0za4V8AAAAJ",
+            "name": "James Little"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Zaragoza, Spain",
+            "id": "qFjif58AAAAJ",
+            "name": "Ruben Martinez-Cantin"
+        },
+        {
+            "affiliation": "Research Scientist, DeepMind",
+            "id": "fAWKizAAAAAJ",
+            "name": "Yutian Chen"
+        },
+        {
+            "affiliation": "Professor of Statistics and Computer Science, Columbia University",
+            "id": "8OYE6iEAAAAJ",
+            "name": "David Blei"
+        },
+        {
+            "affiliation": "College of Information and Computer Sciences, UMass Amherst",
+            "id": "ey960FIAAAAJ",
+            "name": "Benjamin M. Marlin"
+        },
+        {
+            "affiliation": "University of Southampton",
+            "id": "3kuILUIAAAAJ",
+            "name": "Mahesan Niranjan"
+        },
+        {
+            "affiliation": "Facebook",
+            "id": "NbXF7T8AAAAJ",
+            "name": "Marc'Aurelio Ranzato"
+        },
+        {
+            "affiliation": "Research Scientist, Google",
+            "id": "MxxZkEcAAAAJ",
+            "name": "Kevin Murphy"
+        }
+    ],
+    "email": "@google.com",
+    "hindex": 61,
+    "hindex5y": 52,
+    "i10index": 144,
+    "i10index5y": 108,
+    "id": "nzEluBwAAAAJ",
+    "interests": [
+        "Machine Learning & Artificial Intelligence"
+    ],
+    "name": "Nando de Freitas",
+    "publications": [
+        {
+            "bib": {
+                "title": "Sequential Monte Carlo methods in practice",
+                "cites": "45039564440100780",
+                "year": "2001",
+                "author": "Arnaud Doucet and Nando De Freitas and Neil Gordon",
+                "publisher": "Springer Verlag"
+            },
+            "id_citations": "nzEluBwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An introduction to MCMC for machine learning",
+                "cites": "2526",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The unscented particle filter",
+                "cites": "2215",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object recognition as machine translation: learning a lexicon for a fixed image vocabulary Leture Noyes in Computer Science",
+                "cites": "2058",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching words and pictures",
+                "cites": "1938",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rao-Blackwellised particle filtering for dynamic Bayesian networks",
+                "cites": "1463",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A boosted particle filter: Multitarget detection and tracking",
+                "cites": "1392",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on Bayesian optimization of expensive cost functions, with application to active user modeling and hierarchical reinforcement learning",
+                "cites": "1323",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking the human out of the loop: A review of Bayesian optimization",
+                "cites": "1312",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dueling network architectures for deep reinforcement learning",
+                "cites": "1172",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to learn by gradient descent by gradient descent",
+                "cites": "812",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting parameters in deep learning",
+                "cites": "780",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to communicate with deep multi-agent reinforcement learning",
+                "cites": "527",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sample efficient actor-critic with experience replay",
+                "cites": "356",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A statistical model for general contextual object recognition",
+                "cites": "333",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural programmer-interpreters",
+                "cites": "311",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rao-Blackwellised particle filtering for fault diagnosis",
+                "cites": "267",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential Monte Carlo methods to train neural network models",
+                "cites": "257",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust visual tracking for multiple targets",
+                "cites": "249",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep fried convnets",
+                "cites": "221",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian optimization in high dimensions via random embeddings",
+                "cites": "211",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From group to individual labels using deep features",
+                "cites": "182",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast particle smoothing: If I had a million particles",
+                "cites": "181",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for the existence of adaptive thermogenesis during weight loss",
+                "cites": "181",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:F9fV5C73w3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian exploration-exploitation approach for optimal online sensing and planning with a visually guided mobile robot",
+                "cites": "180",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian optimization in a billion dimensions via random embeddings",
+                "cites": "176",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning where to attend with deep architectures for image tracking",
+                "cites": "166",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential MCMC for Bayesian model selection",
+                "cites": "164",
+                "year": "1999"
+            },
+            "id_citations": "nzEluBwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inductive principles for restricted Boltzmann machine learning",
+                "cites": "155",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active policy learning for robot planning and exploration under uncertainty.",
+                "cites": "153",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Portfolio Allocation for Bayesian Optimization.",
+                "cites": "150",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:7H_MAutzIkAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Narrowing the gap: Random forests in theory and in practice",
+                "cites": "149",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward practical N2 Monte Carlo: The marginal particle filter",
+                "cites": "142",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active preference learning with discrete choice data",
+                "cites": "130",
+                "year": "2008"
+            },
+            "id_citations": "nzEluBwAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diagnosis by a waiter and a mars explorer",
+                "cites": "123",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian methods for neural networks",
+                "cites": "119",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lipnet: End-to-end sentence-level lipreading",
+                "cites": "118",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to learn without gradient descent by gradient descent",
+                "cites": "117",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust full Bayesian learning for radial basis networks",
+                "cites": "110",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian interactive optimization approach to procedural animation design",
+                "cites": "109",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement and imitation learning for diverse visuomotor skills",
+                "cites": "103",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Playing hard exploration games by watching youtube",
+                "cites": "103",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:jL-93Qbq4QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive hamiltonian and riemann manifold monte carlo",
+                "cites": "102",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning about individuals from group statistics",
+                "cites": "99",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Bayesian models for regularization in sequential learning",
+                "cites": "99",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel multiscale autoregressive density estimation",
+                "cites": "98",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational mcmc",
+                "cites": "97",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lipnet: Sentence-level lipreading",
+                "cites": "96",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:jFemdcug13IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learned optimizers that scale and generalize",
+                "cites": "88",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust imitation of diverse behaviors",
+                "cites": "85",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exponential regret bounds for Gaussian process bandits with deterministic observations",
+                "cites": "84",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On autoencoders and score matching for energy based models",
+                "cites": "82",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to communicate to solve riddles with deep distributed recurrent q-networks",
+                "cites": "77",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From fields to trees",
+                "cites": "76",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consistency of online random forests",
+                "cites": "73",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on stochastic approximation algorithms for training restricted Boltzmann machines and deep belief nets",
+                "cites": "73",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acdc: A structured efficient linear layer",
+                "cites": "72",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On correlation and budget constraints in model-based bandit optimization with application to automatic machine learning",
+                "cites": "71",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive MCMC with Bayesian optimization",
+                "cites": "70",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time monitoring of complex industrial processes with particle filters",
+                "cites": "68",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special issue on sequential state estimation",
+                "cites": "66",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian multi-scale optimistic optimization",
+                "cites": "61",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning of invariant spatio-temporal features from video",
+                "cites": "59",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to recognize objects with little supervision",
+                "cites": "59",
+                "year": "2008"
+            },
+            "id_citations": "nzEluBwAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extraction of salient sentences from labelled documents",
+                "cites": "55",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling, visualising and summarising documents with a single convolutional neural network",
+                "cites": "55",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of particle methods for simultaneous robot localization and mapping and a new algorithm: Marginal-slam",
+                "cites": "55",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "N. d. Freitas, and N. Gordon",
+                "cites": "52",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to perform physics experiments via deep reinforcement learning",
+                "cites": "51",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Krylov methods for N-body learning",
+                "cites": "45",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Name That Song!\" A Probabilistic Approach to Querying on Music and Text",
+                "cites": "45",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential Monte Carlo methods in practice",
+                "cites": "45",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep architecture for semantic parsing",
+                "cites": "43",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning attentional policies for tracking and recognition in video with deep networks",
+                "cites": "43",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential support vector machines",
+                "cites": "43",
+                "year": "1999"
+            },
+            "id_citations": "nzEluBwAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical analysis of Bayesian optimisation with unknown Gaussian process hyper-parameters",
+                "cites": "42",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hyperbolic attention networks",
+                "cites": "41",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Few-shot autoregressive density estimation: Towards learning to learn distributions",
+                "cites": "40",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:5icHVeHT4IsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversible jump MCMC simulated annealing for neural networks",
+                "cites": "40",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social influence as intrinsic motivation for multi-agent deep reinforcement learning",
+                "cites": "39",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:PYBJJbyH-FwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An entropy search portfolio for Bayesian optimization",
+                "cites": "39",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward the implementation of a quantum RBM",
+                "cites": "38",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target-directed attention: Sequential decision-making for gaze planning",
+                "cites": "38",
+                "year": "2008"
+            },
+            "id_citations": "nzEluBwAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating interpretable images with controllable structure",
+                "cites": "37",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Programmable agents",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical microcircuits as gated-recurrent neural networks",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New inference strategies for solving Markov decision processes using reversible jump MCMC",
+                "cites": "36",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian policy learning with trans-dimensional MCMC",
+                "cites": "36",
+                "year": "2008"
+            },
+            "id_citations": "nzEluBwAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SMC samplers for Bayesian optimal nonlinear design",
+                "cites": "36",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale visual speech recognition",
+                "cites": "35",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric bayesian logic",
+                "cites": "35",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sample efficient adaptive text-to-speech",
+                "cites": "34",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian feature weighting for unsupervised learning, with application to object recognition",
+                "cites": "34",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An expectation maximization algorithm for continuous Markov decision processes with arbitrary reward",
+                "cites": "31",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical testing of fast kernel density estimation algorithms",
+                "cites": "31",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositional obverter communication learning from raw visual input",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct ECG phenotypes identified in hypertrophic cardiomyopathy using machine learning associate with arrhythmic risk markers",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:LgRImbQfgY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rao-Blackwellised particle filtering via data augmentation",
+                "cites": "30",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A constrained semi-supervised learning approach to data association",
+                "cites": "29",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sound of an album cover: Probabilistic multimedia and information retrieval",
+                "cites": "29",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust full Bayesian learning for neural networks",
+                "cites": "28",
+                "year": "1999"
+            },
+            "id_citations": "nzEluBwAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A machine learning perspective on predictive coding with PAQ8",
+                "cites": "27",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why can't Jos\u00e9 read?-The problem of learning semantic associations in a robot environment",
+                "cites": "27",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic social motivation via causal influence in multi-agent RL",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hot coupling: A particle approach to inference and normalization on pairwise undirected graphs",
+                "cites": "25",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast computational methods for visually guided robots",
+                "cites": "25",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics for engineering and information science",
+                "cites": "25",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian optimization in alphago",
+                "cites": "24",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-line probabilistic classification with particle filters",
+                "cites": "24",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unbounded Bayesian optimization via regularization",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear and parallel learning of markov random fields",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-avoiding random dynamics on integer complex systems",
+                "cites": "23",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural networks for pneumatic actuator fault detection",
+                "cites": "23",
+                "year": "1999"
+            },
+            "id_citations": "nzEluBwAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beat tracking the graphical model way",
+                "cites": "22",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep multi-instance transfer learning",
+                "cites": "21",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning awareness models",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The intentional unintentional agent: Learning to solve many continuous control tasks simultaneously",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asymptotic efficiency of deterministic estimators for discrete energy-based models: Ratio matching and pseudolikelihood",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast maximum a posteriori inference in Monte Carlo state spaces",
+                "cites": "19",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation and control of industrial processes with particle filters",
+                "cites": "19",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic learning with the EM algorithm for neural networks",
+                "cites": "19",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A semi-supervised learning approach to object recognition with spatial integration of local features and segmentation cues",
+                "cites": "17",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian analysis of continuous time Markov chains with application to phylogenetic modelling",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heteroscedastic treed bayesian optimisation",
+                "cites": "15",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recklessly approximate sparse coding",
+                "cites": "15",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An interior-point stochastic approximation method and an L1-regularized delta rule",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object recognition as machine translation-part 2: Exploiting image data-base clustering models",
+                "cites": "15",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regularisation in sequential learning algorithms",
+                "cites": "15",
+                "year": "1998"
+            },
+            "id_citations": "nzEluBwAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building machines that learn and think for themselves",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep apprenticeship learning for playing video games",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction and fault detection of environmental signals with uncharacterised faults",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On sparse, spectral and other parameterizations of binary probabilistic models",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trans-dimensional MCMC for Bayesian policy learning",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional mean field",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Models for Massive Multimedia Databases: a New Frontier \u0403",
+                "cites": "13",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wan,\u201c",
+                "cites": "13",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning of sequential strategies",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:wKETBy42zhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Herded gibbs sampling",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive adaptation of hybrid Monte Carlo with Bayesian parametric bandits",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complement objective training",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting correlation and budget constraints in bayesian multi-armed bandit optimization",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-robot marginal-slam",
+                "cites": "11",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep architecture for semantic parsing",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regret bounds for deterministic gaussian process bandits",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot high-fidelity imitation: Training large-scale deep nets with rl",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "nzEluBwAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed parameter estimation in probabilistic graphical models",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Portfolio allocation for Bayesian optimization",
+                "cites": "8",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning attentional mechanisms for simultaneous object tracking and recognition with deep networks",
+                "cites": "8",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian learning for weakly supervised object classification",
+                "cites": "8",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning compositional neural programs with recursive tree search and planning",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:jU7OWUQzBzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building machines that learn and think for themselves: Commentary on lake et al., behavioral and brain sciences, 2017",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "nzEluBwAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Herded Gibbs Sampling",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference and learning for active sensing, experimental design and control",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Feature Weighting for Unsupervised Learning, with Application to Object Recognition.",
+                "cites": "6",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential Bayesian estimation and model selection for dynamic kernel machines",
+                "cites": "6",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motiontransformer: Transferring neural inertial tracking between domains",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New directions in vector space models of meaning",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intracluster moves for constrained discrete-space MCMC",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A machine learning approach to pattern detection and prediction for environmental monitoring and water sustainability",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An introduction to Markov chain Monte Carlo for machine learning",
+                "cites": "5",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real\u2212 Time Monitoring of Complex Industrial Processes with Particle Filters",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential Monte Carlo for model selection and estimation of neural networks",
+                "cites": "5",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-relevant adversarial imitation learning",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:yxmsSjX2EkcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making Efficient Use of Demonstrations to Solve Hard Exploration Problems",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:XUvXOeBm_78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian optimization with an empirical hardness model for approximate nearest neighbour search",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "kTowards practical n&squared monte carlo: The marginal particle filterl",
+                "cites": "4",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic modelling and control of industrial processes with particle filtering algorithms",
+                "cites": "4",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A blessing of dimensionality: measure concentration and probabilistic inference",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Framework for Data-Driven Robotics",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:-mN3Mh-tlDkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-flip importance sampling",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hedging strategies for bayesian optimization",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preference galleries for material design.",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On solving general state-space sequential decision problems using inference algorithms",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation and control of industrial processes with particle filters",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:LdasjJ6CEcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning for computer games",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unscented particle filter",
+                "cites": "3",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Learn and Compositionality with Deep Recurrent Neural Networks: Learning to Learn and Compositionality",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extraction of morphological QRS-based biomarkers in hypertrophic cardiomyopathy for risk stratification using L1 regularized logistic regression",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Best arm identification via Bayesian gap-based exploration",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decentralized, adaptive, look-ahead particle filtering",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparsity priors and boosting for learning localized distributed feature representations",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high precision selective harmonic compensation scheme for active power filters",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Marginal-SLAM: A convergent particle method for simultaneous robot localization and mapping",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information theory tools to rank MCMC algorithms on probabilistic graphical models",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insights on fast kernel density estimation algorithms",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching words and pictures",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rao\u2212 Blackwellised Particle Filtering for Dynamic Bayesian Networks",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling data-driven robotics with reward sketching and batch reinforcement learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient learning of practical Markov random fields with exact inference",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference strategies for solving semi-Markov decision processes",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian optimization for adaptive MCMC",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "N\u2212 Body Games",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From Fields to Trees",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real\u2212 Time Monitoring of Complex Industrial Processes with Particle Filters",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal estimation of non-stationary phase and amplitude processes",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RL Unplugged: Benchmarks for Offline Reinforcement Learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "nzEluBwAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acme: A Research Framework for Distributed Reinforcement Learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "nzEluBwAAAAJ:q-HalDI95KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making Efficient Use of Demonstrations to Solve Hard Exploration Problems",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "nzEluBwAAAAJ:AXkvAH5U_nMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk stratification in hypertrophic cardiomyopathy based on QRS and T wave morphological biomarkers identifies three phenotypic subgroups",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Optimization in a Billion Dimensions via Random Embeddings",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:DBa1UEJaJKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ACDC: A Structured Efficient Linear Layer",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognition of noncanonical poly (A) sites in human genes",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q\u2212 Networks",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Programmer\u2212 Interpreters",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "nzEluBwAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Apprenticeship Learning for Playing Video Games",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dueling Network Architectures for Deep Reinforcement Learning",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:MhiOAD_qIWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Fried Convnets",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking the Human Out of the Loop: A Review of Bayesian Optimization",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From Group to Individual Labels using Deep Features",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "nzEluBwAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Optimization with a Fixed Function Evaluation Budget",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On correlation and budget constraints in model\u2212 based bandit optimization with application to automatic machine learning",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear and Parallel Learning for Markov Random Fields",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Optimization with an Empirical Hardness Model for Approximate Nearest Neighbour Search",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical Analysis of Bayesian Optimisation with Unknown Gaussian Process Hyper\u2212 Parameters",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling \u201aVisualising and Summarising Documents with a Single Convolutional Neural Network",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Entropy Search Portfolio for Bayesian Optimization",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On correlation and budget constraints in model\u2212 based bandit optimization with application to automatic machine learning",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed Parameter Estimation in Probabilistic Graphical Models",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Multi\u2212 Scale Optimistic Optimization",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nzEluBwAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence (2012)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting correlation and budget constraints in Bayesian multi\u2212 armed bandit optimization",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:hsZV8lGYWTMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self\u2212 Avoiding Random Dynamics on Integer Complex Systems",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Learning of Practical Markov Random Fields with Exact Inference",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consistency of Online Random Forests",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Optimization in High Dimensions via Random Embeddings",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting Parameters in Deep Learning",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Hamiltonian and Riemann Manifold Monte Carlo Samplers",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Herded Gibbs Sampling",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nzEluBwAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive MCMC for high dimensional and high complexity problems",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Machine Learning Perspective on Predictive Coding with PAQ8",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:WHdLCjDvYFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning where to attend with deep architectures for image tracking",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction and Fault Detection of Environmental Signals with Uncharacterised Faults",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive MCMC with Bayesian Optimization",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference Strategies for Solving Semi\u2212 Markov Decision Processes",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On Sparse \u201aSpectral and Other Parameterizations of Binary Probabilistic Models",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nzEluBwAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward the Implementation of a Quantum RBM",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "nzEluBwAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where do priors and causal models come from? An experimental design perspective",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on stochastic approximation algorithms for training Restricted Boltzmann Machines and Deep Belief Nets",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inductive Principles for Restricted Boltzmann Machine Learning",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Learning of Invariant Spatio\u2212 Temporal Features from Video",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "nzEluBwAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions \u201awith Application to Active User Modeling and Hierarchical Reinforcement Learning",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:7BrZ7Jt4UNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference and Learning for Active Sensing \u201aExperimental Design and Control",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New inference strategies for solving Markov Decision Processes using reversible jump MCMC",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Expectation Maximization Algorithm for Continuous Markov Decision Processes with Arbitrary Reward",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "nzEluBwAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target\u2212 directed attention: Sequential decision\u2212 making for gaze planning",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "nzEluBwAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Preference Learning with Discrete Choice Data",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Policy Learning for Robot Planning and Exploration under Uncertainty",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Policy Learning with Trans\u2212 Dimensional MCMC",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "nzEluBwAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "III Recognition of Object Categories-A Semi-supervised Learning Approach to Object Recognition with Spatial Integration of Local Features and Segmentation Cues",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional mean field",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SMC Samplers for Bayesian Optimal Nonlinear Design",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information Theory Tools to Rank MCMC Algorithms on Probabilistic Graphical Models",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "nzEluBwAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast Computational Methods for Visually Guided Robots",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:1taIhTC69MYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "N\u2212 Body Games",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hot Coupling: A Particle Approach to Inference and Normalization on Pairwise Undirected Graphs",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical Testing of Fast Kernel Density Estimation Algorithms",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast maximum a posteriori inference in Monte Carlo state spaces",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward Practical N 2 Monte Carlo: the Marginal Particle Filter",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric Bayesian Logic",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nzEluBwAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scanning the issue-Special issue on sequential state estimation",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:WC23djZS0W4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Statistical Model for General Contextual Object Recognition",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Boosted Particle Filter: Multitarget Detection and Tracking",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:IaI1MmNe2tcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Constrained Semi\u2212 supervised Learning Approach to Data Association",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beat Tracking the Graphical Model Way",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "nzEluBwAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why can't read?: the problem of learning semantic associations in a robot environment",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:kw52XkFRtyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation and control of industrial processes with particle filters",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:MpfHP-DdYjUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Markov Chain Monte Carlo Methods for Machine Learning",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Books for review If you would like to review a book, and thereby to retain it for your collection, please contact the Book Reviews Editor, whose details can be found by \u2026",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Feature Weighting for Unsupervised Learning \u201awith Application to Object Recognition",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Blessing of Dimensionality: Measure Concentration and Probabilistic Inference",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nzEluBwAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential Monte Carlo Methods in Practice",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "nzEluBwAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rao\u2212 Blackwellised Particle Filtering via Data Augmentation",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "nzEluBwAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversible Jump MCMC Simulated Annealing for Neural Networks",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "nzEluBwAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential MCMC for Bayesian model selection",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "nzEluBwAAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overview: Machine Learning",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:Br1UauaknNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning of Sequential Strategies Meta-learning of Sequential Strategies",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:CB2v5VPnA5kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LipNet",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User Adaptive Image Ranking for Search Engines",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:lvd772isFD0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Papers were reviewed by a Program Committee, consisting of 150 experts in a wide variety of sub-disciplines within Artificial Intelligence and Statistics. Each paper was re \u2026",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TEXT-AND STRUCTURE-CONDITIONAL PIXELCNN",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Communicate with Deep Multi-Agent Reinforcement Learning Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geofeasibility scores",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On Autoencoders and Score Matching for Energy Based Models Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BIG DATA: THEORETICAL ASPECTS",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time monitoring of complex industrial processes with particle filters",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object Recognition as Multimedia Translation",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayes. Policy Learning with Transdimensional MCMC",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric BLOG",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volume 13 By Author",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preference Galleries for Material Design (sap 0537)",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regret Bounds for Gaussian Process Bandits Without Observation Noise",
+                "cites": "0"
+            },
+            "id_citations": "nzEluBwAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=nzEluBwAAAAJ",
+    "brain_inspired": {
+        "id": "753",
+        "link": "https://braininspired.co/podcast/40/",
+        "name": "Nando de Freitas",
+        "title": "BI 040 Nando de Freitas: Enlightenment, Compassion, Survival",
+        "text": "Nando is a principal scientist at Deepmind and has an appointment at CIFAR, the Canadian Institute for Advanced Research. We talk about why he studies artificial intelligence, many of his current projects advancing machine learning in modern challenging areas like meta-learning, teaching machines how to program other machines, training networks using few training examples, and more. "
+    }
+}

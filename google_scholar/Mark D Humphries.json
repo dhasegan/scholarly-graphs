@@ -1,0 +1,698 @@
+{
+    "affiliation": "Professor of Computational Neuroscience, University of Nottingham",
+    "cites_per_year": {
+        "2003": 10,
+        "2004": 22,
+        "2005": 26,
+        "2006": 46,
+        "2007": 106,
+        "2008": 61,
+        "2009": 126,
+        "2010": 154,
+        "2011": 179,
+        "2012": 235,
+        "2013": 273,
+        "2014": 358,
+        "2015": 400,
+        "2016": 398,
+        "2017": 347,
+        "2018": 337,
+        "2019": 384,
+        "2020": 202
+    },
+    "citedby": 3705,
+    "citedby5y": 2070,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Cognitive Robotics, University of Sheffield, UK",
+            "id": "u2T4wjgAAAAJ",
+            "name": "Tony J Prescott"
+        },
+        {
+            "affiliation": "Ecole Normale Superieure",
+            "id": "Q2aFVoYAAAAJ",
+            "name": "B Gutkin"
+        },
+        {
+            "affiliation": "Data scientist, Peak",
+            "id": "HyAj22UAAAAJ",
+            "name": "Abhinav Singh"
+        },
+        {
+            "affiliation": "CNRS researcher, Sorbonne Universit\u00e9",
+            "id": "rdNSb-QAAAAJ",
+            "name": "Mehdi Khamassi"
+        },
+        {
+            "affiliation": "Assistant Professor, Montreal Neurological Institute, McGill University",
+            "id": "jVfpGDwAAAAJ",
+            "name": "Adrien Peyrache"
+        }
+    ],
+    "email": "@nottingham.ac.uk",
+    "hindex": 25,
+    "hindex5y": 20,
+    "i10index": 39,
+    "i10index5y": 28,
+    "id": "AKR7P-4AAAAJ",
+    "interests": [
+        "Theoretical neuroscience",
+        "computational neuroscience",
+        "systems neuroscience",
+        "networks",
+        "basal ganglia"
+    ],
+    "name": "Mark D Humphries",
+    "publications": [
+        {
+            "bib": {
+                "title": "Network \u2018small-world-ness\u2019: a quantitative method for determining canonical network equivalence",
+                "cites": "2015998102616016634",
+                "year": "2008",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002051",
+                "author": "Mark D Humphries and Kevin Gurney",
+                "journal": "PloS one",
+                "volume": "3",
+                "number": "4",
+                "pages": "e0002051",
+                "publisher": "Public Library of Science",
+                "abstract": "BackgroundMany technological, biological, social, and information networks fall into the broad class of \u2018small-world\u2019 networks: they have tightly interconnected clusters of nodes, and a shortest mean path length that is similar to a matched random graph (same number of nodes and edges). This semi-quantitative definition leads to a categorical distinction (\u2018small/not-small\u2019) rather than a quantitative, continuous grading of networks, and can lead to uncertainty about a network's small-world status. Moreover, systems described by small-world networks are often studied using an equivalent canonical network model \u2013 the Watts-Strogatz (WS) model. However, the process of establishing an equivalent WS model is imprecise and there is a pressing need to discover ways in which this equivalence may be quantified.Methodology/Principal FindingsWe defined a precise measure of \u2018small-world-ness\u2019 S based on the trade off between high local clustering and short path length. A network is now deemed a \u2018small-world\u2019 if S>1 - an assertion which may be tested statistically. We then examined the behavior of S on a large data-set of real-world systems. We found that all these systems were linked by a linear relationship between their S values and the network size n. Moreover, we show a method for assigning a unique Watts-Strogatz (WS) model to any real-world network, and show analytically that the WS models associated with our sample of networks also show linearity between S and n. Linearity between S and n is not, however, inevitable, and neither is S maximal for an arbitrary network of given size. Linearity may, however, be explained by a common \u2026",
+                "eprint": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002051"
+            },
+            "id_citations": "AKR7P-4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The brainstem reticular formation is a small-world, not scale-free, network",
+                "cites": "561",
+                "year": "2006"
+            },
+            "id_citations": "AKR7P-4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A physiologically plausible model of action selection and oscillatory activity in the basal ganglia",
+                "cites": "317",
+                "year": "2006"
+            },
+            "id_citations": "AKR7P-4AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ventral basal ganglia, a selection mechanism at the crossroads of space, strategy, and reward.",
+                "cites": "299",
+                "year": "2010"
+            },
+            "id_citations": "AKR7P-4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A robot model of the basal ganglia: behavior and intrinsic processing",
+                "cites": "203",
+                "year": "2006"
+            },
+            "id_citations": "AKR7P-4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic control of the exploration-exploitation trade-off via the basal ganglia",
+                "cites": "129",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine-modulated dynamic cell assemblies generated by the GABAergic striatal microcircuit",
+                "cites": "113",
+                "year": "2009"
+            },
+            "id_citations": "AKR7P-4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of intra-thalamic and thalamocortical circuits in action selection",
+                "cites": "86",
+                "year": "2002"
+            },
+            "id_citations": "AKR7P-4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new framework for cortico-striatal plasticity: behavioural theory meets in vitro data at the reinforcement-action interface",
+                "cites": "74",
+                "year": "2015"
+            },
+            "id_citations": "AKR7P-4AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-train communities: finding groups of similar spike trains",
+                "cites": "68",
+                "year": "2011"
+            },
+            "id_citations": "AKR7P-4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is there a brainstem substrate for action selection?",
+                "cites": "66",
+                "year": "2007"
+            },
+            "id_citations": "AKR7P-4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating cortico-limbic-basal ganglia architectures for learning model-based and model-free navigation strategies",
+                "cites": "63",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population-wide distributions of neural activity during perceptual decision-making",
+                "cites": "61",
+                "year": "2013"
+            },
+            "id_citations": "AKR7P-4AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capturing dopaminergic modulation and bimodal membrane behaviour of striatal medium spiny neurons in accurate, reduced models",
+                "cites": "55",
+                "year": "2009"
+            },
+            "id_citations": "AKR7P-4AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing computational hypotheses of brain systems function: a case study with the basal ganglia",
+                "cites": "51",
+                "year": "2004"
+            },
+            "id_citations": "AKR7P-4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An embodied model of action selection mechanisms in the vertebrate brain",
+                "cites": "48",
+                "year": "2000"
+            },
+            "id_citations": "AKR7P-4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Passive dendrites enable single neurons to compute linearly non-separable functions",
+                "cites": "47",
+                "year": "2013"
+            },
+            "id_citations": "AKR7P-4AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular deconstruction reveals the dynamical and physical building blocks of a locomotion motor program",
+                "cites": "45",
+                "year": "2015"
+            },
+            "id_citations": "AKR7P-4AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Onset of pup locomotion coincides with loss of NR2C/D-mediated cortico-striatal EPSCs and dampening of striatal network immature activity",
+                "cites": "45",
+                "year": "2011"
+            },
+            "id_citations": "AKR7P-4AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstructing the three-dimensional GABAergic microcircuit of the striatum",
+                "cites": "43",
+                "year": "2010"
+            },
+            "id_citations": "AKR7P-4AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network effects of subthalamic deep brain stimulation drive a unique mixture of responses in basal ganglia output",
+                "cites": "41",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A pulsed neural network model of bursting in the basal ganglia",
+                "cites": "31",
+                "year": "2001"
+            },
+            "id_citations": "AKR7P-4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BRAHMS: Novel middleware for integrated systems computation",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "AKR7P-4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The robot basal ganglia: action selection by an embedded model of the basal ganglia",
+                "cites": "27",
+                "year": "2002"
+            },
+            "id_citations": "AKR7P-4AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transient and steady-state selection in the striatal microcircuit",
+                "cites": "26",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is there an integrative center in the vertebrate brain-stem? A robotic evaluation of a model of the reticular formation viewed as an action selection device",
+                "cites": "25",
+                "year": "2005"
+            },
+            "id_citations": "AKR7P-4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insights into Parkinson\u2019s disease from computational models of the basal ganglia",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "AKR7P-4AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal disorders dissociate mechanisms of enhanced and impaired response selection\u2014evidence from cognitive neurophysiology and computational modelling",
+                "cites": "15",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of choice in the primate brain: a quick look at positive feedback",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "AKR7P-4AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dual-route hypothesis: Evaluating a neurocomputational model of fear conditioning in rats",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "AKR7P-4AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A spiral attractor network drives rhythmic locomotion",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "AKR7P-4AAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding communities in sparse networks",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "AKR7P-4AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking and saturating dendrites differentially expand single neuron computation capacity",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical integration of hippocampus, basal ganglia and physical models for spatial navigation",
+                "cites": "13",
+                "year": "2009"
+            },
+            "id_citations": "AKR7P-4AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A means to an end: validating models by fitting experimental data",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "AKR7P-4AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early hypersynchrony in juvenile PINK1\u2212/\u2212 motor cortex is rescued by antidromic stimulation",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The basal ganglia and action selection: a computational study at multiple levels of description",
+                "cites": "12",
+                "year": "2002"
+            },
+            "id_citations": "AKR7P-4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic, distributed, recursive mechanism for decision-making in the brain",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "AKR7P-4AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical networks: finding, measuring, and tracking neural population activity using network science",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "AKR7P-4AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Solution methods for a new class of simple model neurons",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "AKR7P-4AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction of choice from competing mechanosensory and choice-memory cues during active tactile decision making",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "AKR7P-4AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medial prefrontal cortex population activity is plastic irrespective of learning",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "AKR7P-4AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An ensemble code in medial prefrontal cortex links prior events to outcomes during learning",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "AKR7P-4AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monitoring spiking activity of many individual neurons in invertebrate ganglia",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "AKR7P-4AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model of action selection in the basal ganglia: thalamic and cortical interactions",
+                "cites": "5",
+                "year": "2000"
+            },
+            "id_citations": "AKR7P-4AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maladaptive striatal plasticity and abnormal reward\u2010learning in cervical dystonia",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "AKR7P-4AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor Networks: The Goldilocks zone in neural circuits",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "AKR7P-4AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The interaction of recurrent axon collateral networks in the basal ganglia",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "AKR7P-4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendrites enhance both single neuron and network computation",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How degrading networks can increase cognitive functions",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methodological issues in modelling at multiple levels of description",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed action selection by a brainstem neural substrate: An embodied evaluation",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "AKR7P-4AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action selection in a macroscopic model of the brainstem reticular formation",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "AKR7P-4AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slaves to the rhythm: coupling of the subthalamic nucleus\u2013globus pallidus network in Parkinsonian oscillations",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Who dominates who in the dark basements of the brain?",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "AKR7P-4AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A spiking neuron model of basal ganglia for action selection can account for dopamine-modulated oscillatory phenomena",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "AKR7P-4AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basal Ganglia: Mechanisms for Action Selection.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "J07 Increased cognitive functioning in manifest HD\u2014empirical evidence and computational modelling",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "AKR7P-4AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How Degrading Networks Can Increase Select Cognitive Functions",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "AKR7P-4AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral rejection for testing hypotheses of structure in networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "AKR7P-4AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the use of calcium deconvolution algorithms in practical contexts",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "AKR7P-4AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Independent population coding of the present and the past in prefrontal cortex during learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "AKR7P-4AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Goldilocks zone in neural circuits How do networks of neurons remain both stable and sensitive to new inputs?",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "AKR7P-4AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of dendritic non-linearities in single neuron computation",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "AKR7P-4AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A difficult classification for neurons without dendrites",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "AKR7P-4AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "14 The medial reticular formation",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "AKR7P-4AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "17 Mechanisms of choice in the",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "AKR7P-4AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High level modeling of tonic dopamine mechanisms in striatal neurons",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "AKR7P-4AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural circuitry necessary for decision making by evidence accumulation",
+                "cites": "0"
+            },
+            "id_citations": "AKR7P-4AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=AKR7P-4AAAAJ"
+}

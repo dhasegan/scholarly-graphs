@@ -1,0 +1,478 @@
+{
+    "affiliation": "Assistant Professor at University of Chicago",
+    "cites_per_year": {
+        "2006": 28,
+        "2007": 71,
+        "2008": 74,
+        "2009": 79,
+        "2010": 93,
+        "2011": 152,
+        "2012": 205,
+        "2013": 305,
+        "2014": 356,
+        "2015": 439,
+        "2016": 497,
+        "2017": 581,
+        "2018": 779,
+        "2019": 854,
+        "2020": 496
+    },
+    "citedby": 5056,
+    "citedby5y": 3655,
+    "coauthors": [
+        {
+            "affiliation": "Stanford & HHMI",
+            "id": "r1S7uvEAAAAJ",
+            "name": "Krishna V Shenoy"
+        },
+        {
+            "affiliation": "Palo Alto Medical Foundation / Stanford University",
+            "id": "F4N8FgIAAAAJ",
+            "name": "Stephen Ryu"
+        },
+        {
+            "affiliation": "Associate Professor, Columbia University",
+            "id": "88cU_4UAAAAJ",
+            "name": "John Cunningham"
+        },
+        {
+            "affiliation": "Cold Spring Harbor Laboratory",
+            "id": "iuFT994AAAAJ",
+            "name": "Anne K. Churchland"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "Y-u55cgAAAAJ",
+            "name": "Paul Nuyujukian"
+        },
+        {
+            "affiliation": "University of California, Los Angeles",
+            "id": "9Pu0NtAAAAAJ",
+            "name": "Jonathan Kao"
+        },
+        {
+            "affiliation": "University of Freiburg",
+            "id": "cc3pjiwAAAAJ",
+            "name": "Ilka Diester"
+        },
+        {
+            "affiliation": "Bioengineering and Psychiatry, Stanford University",
+            "id": "WhhC4LwAAAAJ",
+            "name": "Karl Deisseroth"
+        },
+        {
+            "affiliation": "Senior Research Scientist @ Google Brain, Adjunct Professor @ Stanford",
+            "id": "ebBgMSkAAAAJ",
+            "name": "David Sussillo"
+        },
+        {
+            "affiliation": "University of Michigan",
+            "id": "36sxAZEAAAAJ",
+            "name": "Cynthia Chestek"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Stanford University",
+            "id": "f6BjsyAAAAAJ",
+            "name": "Brian Knutson"
+        },
+        {
+            "affiliation": "Carnegie Mellon University",
+            "id": "Fz3_tukAAAAJ",
+            "name": "Byron Yu"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "VEMio4gAAAAJ",
+            "name": "Daniel J O'Shea"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Stanford University",
+            "id": "Bh9jZggAAAAJ",
+            "name": "Sergey D. Stavisky"
+        },
+        {
+            "affiliation": "Professor of Radiology, Stanford University",
+            "id": "aUWuwJ8AAAAJ",
+            "name": "Gary Glover"
+        },
+        {
+            "affiliation": "Google DeepMind, Champalimaud Neuroscience Programme, Cold Spring Harbor Laboratory",
+            "id": "4iINIzkAAAAJ",
+            "name": "David Raposo"
+        },
+        {
+            "affiliation": "Neurobiology Department, Weizmann Institute of Science",
+            "id": "lcSKNHUAAAAJ",
+            "name": "Ofer Yizhar"
+        },
+        {
+            "affiliation": "Facebook",
+            "id": "hnTDmigAAAAJ",
+            "name": "Jeffrey S. Seely"
+        },
+        {
+            "affiliation": "Brandeis University, CERN, Boston University, Columbia University, Stanford Linear Accelerator",
+            "id": "ca_O-WQAAAAJ",
+            "name": "L F Abbott"
+        },
+        {
+            "affiliation": "Asst. Prof. of Biomedical Engineering, Emory University and Georgia Tech",
+            "id": "M3-z9G4AAAAJ",
+            "name": "Chethan Pandarinath"
+        }
+    ],
+    "email": "@uchicago.edu",
+    "hindex": 23,
+    "hindex5y": 23,
+    "i10index": 24,
+    "i10index5y": 24,
+    "id": "hEXY2ysAAAAJ",
+    "interests": [
+        "Neuroscience"
+    ],
+    "name": "Matthew T Kaufman",
+    "publications": [
+        {
+            "bib": {
+                "title": "Distributed neural representation of expected value",
+                "cites": "1070",
+                "year": "2005"
+            },
+            "id_citations": "hEXY2ysAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural population dynamics during reaching",
+                "cites": "859",
+                "year": "2012"
+            },
+            "id_citations": "hEXY2ysAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An optogenetic toolbox designed for primates",
+                "cites": "421",
+                "year": "2011"
+            },
+            "id_citations": "hEXY2ysAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-performance neural prosthesis enabled by control algorithm design",
+                "cites": "375",
+                "year": "2012"
+            },
+            "id_citations": "hEXY2ysAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical activity in the null space: permitting preparation without movement",
+                "cites": "316",
+                "year": "2014"
+            },
+            "id_citations": "hEXY2ysAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical preparatory activity: representation of movement or first cog in a dynamical machine?",
+                "cites": "283",
+                "year": "2010"
+            },
+            "id_citations": "hEXY2ysAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A category-free neural population supports evolving demands during decision-making",
+                "cites": "275",
+                "year": "2014"
+            },
+            "id_citations": "hEXY2ysAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term stability of neural prosthetic control signals from silicon cortical arrays in rhesus macaque motor cortex",
+                "cites": "244",
+                "year": "2011"
+            },
+            "id_citations": "hEXY2ysAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network that finds a naturalistic solution for the production of muscle activity",
+                "cites": "215",
+                "year": "2015"
+            },
+            "id_citations": "hEXY2ysAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring single-trial neural population dynamics using sequential auto-encoders",
+                "cites": "138",
+                "year": "2018"
+            },
+            "id_citations": "hEXY2ysAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial neural dynamics are dominated by richly varied movements",
+                "cites": "136",
+                "year": "2019"
+            },
+            "id_citations": "hEXY2ysAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reorganization between preparatory and movement population responses in motor cortex",
+                "cites": "115",
+                "year": "2016"
+            },
+            "id_citations": "hEXY2ysAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Roles of monkey premotor neuron classes in movement preparation and execution",
+                "cites": "90",
+                "year": "2010"
+            },
+            "id_citations": "hEXY2ysAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vacillation, indecision and hesitation in moment-by-moment decoding of monkey motor cortex",
+                "cites": "89",
+                "year": "2015"
+            },
+            "id_citations": "hEXY2ysAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Posterior parietal cortex guides visual decisions in rats",
+                "cites": "75",
+                "year": "2017"
+            },
+            "id_citations": "hEXY2ysAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dynamical systems view of motor preparation: implications for neural prosthetic system design",
+                "cites": "65",
+                "year": "2011"
+            },
+            "id_citations": "hEXY2ysAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The largest response component in the motor cortex reflects movement timing but not movement type",
+                "cites": "53",
+                "year": "2016"
+            },
+            "id_citations": "hEXY2ysAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of monkey M1 neuron classes in movement preparation and execution",
+                "cites": "45",
+                "year": "2013"
+            },
+            "id_citations": "hEXY2ysAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accurate estimation of neural population dynamics without spike sorting",
+                "cites": "44",
+                "year": "2019"
+            },
+            "id_citations": "hEXY2ysAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DataHigh: graphical user interface for visualizing and interacting with high-dimensional neural activity",
+                "cites": "32",
+                "year": "2013"
+            },
+            "id_citations": "hEXY2ysAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives on classical controversies about the motor cortex",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "hEXY2ysAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Onacid: Online analysis of calcium imaging data in real time",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "hEXY2ysAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensor analysis reveals distinct population structure that parallels the different computational roles of areas M1 and V1",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "hEXY2ysAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive neuroscience: sensory noise drives bad decisions",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "hEXY2ysAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of an optogenetic toolkit for neural circuit dissection in squirrel monkeys",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "hEXY2ysAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A recurrent neural network that produces EMG from rhythmic dynamics",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "hEXY2ysAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BRICseq bridges brain-wide interregional connectivity to neural activity and gene expression in single animals",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "hEXY2ysAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural population dynamics in motor cortex are different for reach and grasp",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "hEXY2ysAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical preparatory activity avoids causing movement by remaining in a muscle-neutral space",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "hEXY2ysAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Facial EMG discriminates gain and loss anticipation and outcome in a monetary incentive delay task",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "hEXY2ysAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Many paths from state to state",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "hEXY2ysAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dataset from: Single-trial neural dynamics are dominated by richly varied movements.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hEXY2ysAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adapting Fine with a Little Help from the Null Space",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "hEXY2ysAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise Estimates of Single-Trial Dynamics in Motor Cortex using Deep Learning Techniques",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "hEXY2ysAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing visual and motor cortex: representational coding versus dynamical systems",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "hEXY2ysAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Mechanisms and Dynamics Underlying Reaching and Decision Making",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "hEXY2ysAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preparatory tuning in premotor cortex relates most closely to the population movement-epoch response",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "hEXY2ysAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical Report: A High-Performance Neural Prosthesis Enabled by Control Algorithm Design",
+                "cites": "0"
+            },
+            "id_citations": "hEXY2ysAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=hEXY2ysAAAAJ"
+}

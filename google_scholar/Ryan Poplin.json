@@ -1,0 +1,470 @@
+{
+    "affiliation": "Google, Inc.",
+    "cites_per_year": {
+        "2011": 755,
+        "2012": 1471,
+        "2013": 2401,
+        "2014": 3321,
+        "2015": 3933,
+        "2016": 4783,
+        "2017": 6613,
+        "2018": 7243,
+        "2019": 8018,
+        "2020": 4312
+    },
+    "citedby": 43257,
+    "citedby5y": 34964,
+    "coauthors": [],
+    "email": "@google.com",
+    "hindex": 28,
+    "hindex5y": 28,
+    "i10index": 32,
+    "i10index5y": 32,
+    "id": "yUzMq60AAAAJ",
+    "interests": [],
+    "name": "Ryan Poplin",
+    "publications": [
+        {
+            "bib": {
+                "title": "A framework for variation discovery and genotyping using next-generation DNA sequencing data",
+                "cites": "4035323650711877053",
+                "year": "2011",
+                "url": "https://www.nature.com/articles/ng.806.pdf?origin=ppub",
+                "author": "Mark A DePristo and Eric Banks and Ryan Poplin and Kiran V Garimella and Jared R Maguire and Christopher Hartl and Anthony A Philippakis and Guillermo Del Angel and Manuel A Rivas and Matt Hanna and Aaron McKenna and Tim J Fennell and Andrew M Kernytsky and Andrey Y Sivachenko and Kristian Cibulskis and Stacey B Gabriel and David Altshuler and Mark J Daly",
+                "journal": "Nature genetics",
+                "volume": "43",
+                "number": "5",
+                "pages": "491",
+                "publisher": "Nature Publishing Group",
+                "abstract": "Recent advances in sequencing technology make it possible to comprehensively catalog genetic variation in population samples, creating a foundation for understanding human disease, ancestry and evolution. The amounts of raw data produced are prodigious, and many computational steps are required to translate this output into high-quality variant calls. We present a unified analytic framework to discover and genotype variation among multiple samples simultaneously that achieves sensitive and specific results across five sequencing technologies and three distinct, canonical experimental designs. Our process includes (i) initial read mapping;(ii) local realignment around indels;(iii) base quality score recalibration;(iv) SNP discovery and genotyping to find all potential variants; and (v) machine learning to separate true segregating variation from machine artifacts common to next-generation sequencing \u2026",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3083463/"
+            },
+            "id_citations": "yUzMq60AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A map of human genome variation from population-scale sequencing",
+                "cites": "7033",
+                "year": "2010"
+            },
+            "id_citations": "yUzMq60AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrated map of genetic variation from 1,092 human genomes",
+                "cites": "6502",
+                "year": "2012"
+            },
+            "id_citations": "yUzMq60AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of protein-coding genetic variation in 60,706 humans",
+                "cites": "6396",
+                "year": "2016"
+            },
+            "id_citations": "yUzMq60AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A global reference for human genetic variation",
+                "cites": "6035",
+                "year": "2015"
+            },
+            "id_citations": "yUzMq60AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From FastQ data to high\u2010confidence variant calls: the genome analysis toolkit best practices pipeline",
+                "cites": "2909",
+                "year": "2013"
+            },
+            "id_citations": "yUzMq60AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns and rates of exonic de novo mutations in autism spectrum disorders",
+                "cites": "1575",
+                "year": "2012"
+            },
+            "id_citations": "yUzMq60AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrated map of structural variation in 2,504 human genomes",
+                "cites": "1184",
+                "year": "2015"
+            },
+            "id_citations": "yUzMq60AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The genetic architecture of type 2 diabetes",
+                "cites": "691",
+                "year": "2016"
+            },
+            "id_citations": "yUzMq60AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variation in genome-wide mutation rates within and between human families",
+                "cites": "527",
+                "year": "2011"
+            },
+            "id_citations": "yUzMq60AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction of cardiovascular risk factors from retinal fundus photographs via deep learning",
+                "cites": "396",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Loss-of-function mutations in SLC30A8 protect against type 2 diabetes",
+                "cites": "364",
+                "year": "2014"
+            },
+            "id_citations": "yUzMq60AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating sequence and array data to create an improved 1000 Genomes Project haplotype reference panel",
+                "cites": "230",
+                "year": "2014"
+            },
+            "id_citations": "yUzMq60AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional spectrum of low-frequency coding variation",
+                "cites": "219",
+                "year": "2011"
+            },
+            "id_citations": "yUzMq60AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A universal SNP and small-indel variant caller using deep neural networks",
+                "cites": "194",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of predicted protein-truncating genetic variants on the human transcriptome",
+                "cites": "176",
+                "year": "2015"
+            },
+            "id_citations": "yUzMq60AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The 1000 Genomes Project: data management and community access",
+                "cites": "175",
+                "year": "2012"
+            },
+            "id_citations": "yUzMq60AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In silico labeling: predicting fluorescent labels in unlabeled images",
+                "cites": "157",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating empirical bounds on complex disease genetic architecture",
+                "cites": "131",
+                "year": "2013"
+            },
+            "id_citations": "yUzMq60AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling accurate genetic variant discovery to tens of thousands of samples",
+                "cites": "115",
+                "year": "2017"
+            },
+            "id_citations": "yUzMq60AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The power of gene-based rare variant methods to detect disease-associated variation and test hypotheses about complex disease",
+                "cites": "112",
+                "year": "2015"
+            },
+            "id_citations": "yUzMq60AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rare variants in PPARG with decreased activity in adipocyte differentiation are associated with increased risk of type 2 diabetes",
+                "cites": "111",
+                "year": "2014"
+            },
+            "id_citations": "yUzMq60AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of rare, exonic variation amongst subjects with autism spectrum disorders and population controls",
+                "cites": "87",
+                "year": "2013"
+            },
+            "id_citations": "yUzMq60AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current protocols in bioinformatics",
+                "cites": "80",
+                "year": "2002"
+            },
+            "id_citations": "yUzMq60AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification and functional characterization of G6PC2 coding variants influencing glycemic traits define an effector transcript at the G6PC2-ABCB11 locus",
+                "cites": "73",
+                "year": "2015"
+            },
+            "id_citations": "yUzMq60AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human genomic regions with exceptionally high levels of population differentiation identified from 911 whole-genome sequences",
+                "cites": "61",
+                "year": "2014"
+            },
+            "id_citations": "yUzMq60AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Likelihood ratios for out-of-distribution detection",
+                "cites": "37",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning for predicting refractive error from retinal fundus images",
+                "cites": "31",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A low-frequency inactivating AKT2 variant enriched in the Finnish population is associated with fasting insulin levels and type 2 diabetes risk",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "yUzMq60AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation of Finnish population history, guided by empirical genetic data, to assess power of rare-variant tests in Finland",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "yUzMq60AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence data and association statistics from 12,940 type 2 diabetes cases and controls",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "yUzMq60AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying viruses from metagenomic data using deep learning",
+                "cites": "10",
+                "year": "2020"
+            },
+            "id_citations": "yUzMq60AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning approach to pattern recognition for short DNA sequences",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The distribution and mutagenesis of short coding INDELs from 1,128 whole exomes",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "yUzMq60AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Numenta\u201f s hierarchical temporal memory to recognize CAPTCHAs",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "yUzMq60AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DeepVariant: highly accurate genomes with deep neural networks",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "yUzMq60AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CrowdVariant: a crowdsourcing approach to classify copy number variants.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing fundus images using machine learning models",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to count mosquitoes for the Sterile Insect Technique",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "yUzMq60AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular disparity in the surround biases V1 responses to ambiguous binocular stimuli within the classical receptive field",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "yUzMq60AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal interactions reduce local feature uncertainty",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "yUzMq60AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GenomeWarp: an alignment-based variant coordinate transformation",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning analysis pipeline for next generation sequencing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CrowdVariant: a crowdsourcing approach to curate copy number variants",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "yUzMq60AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting refractive error from retinal fundus images using deep learning",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Sequence data and association statistics from 12,940 type 2 diabetes cases and controls",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deepvariant--a Universal SNP and Indel Variant Caller Using Deep Neural Networks",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "yUzMq60AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Low-Frequency Inactivating Variant Enriched in the Finnish Population Is Associated With Fasting Insulin Levels and Type 2 Diabetes Risk.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "yUzMq60AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=yUzMq60AAAAJ"
+}

@@ -1,0 +1,2297 @@
+{
+    "affiliation": "Professor of Artificial Cognitive Systems, Donders Institute for Brain, Cognition and Behaviour",
+    "cites_per_year": {
+        "2009": 33,
+        "2010": 93,
+        "2011": 152,
+        "2012": 203,
+        "2013": 207,
+        "2014": 275,
+        "2015": 281,
+        "2016": 347,
+        "2017": 525,
+        "2018": 754,
+        "2019": 906,
+        "2020": 490
+    },
+    "citedby": 4349,
+    "citedby5y": 3321,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Computer Science and Artificial Intelligence, Radboud University Nijmegen",
+            "id": "3jUymSMAAAAJ",
+            "name": "Tom Heskes"
+        },
+        {
+            "affiliation": "School of Psychology, University of Birmingham",
+            "id": "ADvWcoUAAAAJ",
+            "name": "Ole Jensen"
+        },
+        {
+            "affiliation": "Assistant Professor at Radboud University, Donders Institute for Brain, Cognition and Behaviour",
+            "id": "X2vDok4AAAAJ",
+            "name": "Ya\u011fmur G\u00fc\u00e7l\u00fct\u00fcrk"
+        },
+        {
+            "affiliation": "Postdoctoral researcher, Donders Centre for Cognition",
+            "id": "yLpaR48AAAAJ",
+            "name": "Sander Erik Bosch"
+        },
+        {
+            "affiliation": "AMC Amsterdam & University of Amsterdam",
+            "id": "ythtuiMAAAAJ",
+            "name": "Ali Bahramisharif"
+        },
+        {
+            "affiliation": "Assistant professor, Radboud University Nijmegen",
+            "id": "oEtR-fkAAAAJ",
+            "name": "Max Hinne"
+        },
+        {
+            "affiliation": "Donder's institute of Cognition",
+            "id": "J9IABpQAAAAJ",
+            "name": "Luca Ambrogioni"
+        },
+        {
+            "affiliation": "Associate PI; Donders Institute for Brain, Cognition and Behaviour",
+            "id": "eEbaa0UAAAAJ",
+            "name": "Robert Oostenveld"
+        },
+        {
+            "affiliation": "University of Twente, Leiden University",
+            "id": "OBncCoEAAAAJ",
+            "name": "Peter Lucas"
+        },
+        {
+            "affiliation": "Principal Investigator at Donders Institute, Radboud University Nijmegen, Netherlands",
+            "id": "5z1S51MAAAAJ",
+            "name": "Floris de Lange"
+        },
+        {
+            "affiliation": "Radboud University, Donders Institute",
+            "id": "UIDkb5EAAAAJ",
+            "name": "Irina Simanova"
+        },
+        {
+            "affiliation": "Assistant Professor at Eindhoven University of Technology, the Netherlands",
+            "id": "sCrkurkAAAAJ",
+            "name": "sanne schoenmakers"
+        },
+        {
+            "affiliation": "Donders Institute, for Brain, Cognition and Behaviour. Radboud University.",
+            "id": "YnX5NBQAAAAJ",
+            "name": "Eric Maris"
+        },
+        {
+            "affiliation": "Donders Institute, Radboud University Nijmegen",
+            "id": "6SDclmEAAAAJ",
+            "name": "Jason Farquhar"
+        },
+        {
+            "affiliation": "Professor of artificial intelligence, Radboud University Nijmegen",
+            "id": "4majuREAAAAJ",
+            "name": "Peter Desain"
+        },
+        {
+            "affiliation": "Hoogleraar Biofysica, Radboud Universiteit Nijmegen",
+            "id": "0KRYDe8AAAAJ",
+            "name": "Stan Gielen"
+        },
+        {
+            "affiliation": "Associate Professor, Donders Institute for Brain, Cognition, and Behaviour, Radboud University",
+            "id": "IVB-WTkAAAAJ",
+            "name": "Pim Haselager"
+        },
+        {
+            "affiliation": "Department of Biomedical Engineering, Carnegie Mellon University",
+            "id": "eVQr6d0AAAAJ",
+            "name": "Haiteng Jiang"
+        },
+        {
+            "affiliation": "Professor of Artificial Intelligence, Universidad Nacional de Educaci\u00f3n a Distancia (UNED)",
+            "id": "r89niD4AAAAJ",
+            "name": "Francisco Javier D\u00edez"
+        },
+        {
+            "affiliation": "Independent Senior Research Fellow, Wellcome Centre for Human Neuroimaging, University College",
+            "id": "oxeunkoAAAAJ",
+            "name": "Peter Kok"
+        }
+    ],
+    "email": "@donders.ru.nl",
+    "hindex": 37,
+    "hindex5y": 32,
+    "i10index": 76,
+    "i10index5y": 72,
+    "id": "sX0ZypwAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Cognitive Neuroscience",
+        "Computational Neuroscience",
+        "Statistical Machine Learning"
+    ],
+    "name": "Marcel van Gerven",
+    "publications": [
+        {
+            "bib": {
+                "title": "Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream",
+                "cites": "11957718034208653427",
+                "year": "2015",
+                "url": "https://www.jneurosci.org/content/35/27/10005.short",
+                "author": "Umut G\u00fc\u00e7l\u00fc and Marcel AJ van Gerven",
+                "journal": "Journal of Neuroscience",
+                "volume": "35",
+                "number": "27",
+                "pages": "10005-10014",
+                "publisher": "Society for Neuroscience",
+                "abstract": "Converging evidence suggests that the primate ventral visual pathway encodes increasingly complex stimulus features in downstream areas. We quantitatively show that there indeed exists an explicit gradient for feature complexity in the ventral pathway of the human brain. This was achieved by mapping thousands of stimulus features of increasing complexity across the cortical sheet using a deep neural network. Our approach also revealed a fine-grained functional specialization of downstream areas of the ventral stream. Furthermore, it allowed decoding of representations from human brain activity at an unsurpassed degree of accuracy, confirming the quality of the developed approach. Stimulus features that successfully explained neural responses indicate that population receptive fields were explicitly tuned for object categorization. This provides strong support for the hypothesis that object categorization is a \u2026",
+                "eprint": "https://www.jneurosci.org/content/jneuro/35/27/10005.full.pdf"
+            },
+            "id_citations": "sX0ZypwAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The brain\u2013computer interface cycle",
+                "cites": "359",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial neural networks as models of neural information processing",
+                "cites": "205",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:uQrt9rju91QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prior expectations bias sensory representations in visual cortex",
+                "cites": "167",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention modulations of posterior alpha as a control signal for two-dimensional brain\u2013computer interfaces",
+                "cites": "151",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Bayesian networks as prognostic models for clinical patient management",
+                "cites": "114",
+                "year": "2008"
+            },
+            "id_citations": "sX0ZypwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying object categories from event-related EEG: toward decoding of conceptual representations",
+                "cites": "112",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Iconic and multi-stroke gesture recognition",
+                "cites": "97",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear reconstruction of perceived images from human brain activity",
+                "cites": "96",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-computer interfacing using modulations of alpha activity induced by covert shifts of attention",
+                "cites": "94",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Bayesian multivariate fMRI analysis using a sparsifying spatio-temporal prior",
+                "cites": "93",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modality-independent decoding of semantic information from the human brain",
+                "cites": "85",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vividness of visual imagery depends on the neural overlap with perception in visual areas",
+                "cites": "79",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:FXgMSCUEOHUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Covert attention allows for continuous control of brain\u2013computer interfaces",
+                "cites": "79",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring directionality between neuronal oscillations of different frequencies",
+                "cites": "70",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Propagating neocortical gamma bursts are coordinated by traveling alpha waves",
+                "cites": "69",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinguishing between target and nontarget fixations in a visual search task using fixation-related potentials",
+                "cites": "69",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the use of interaction error potentials for adaptive brain computer interfaces",
+                "cites": "65",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selecting features for BCI control based on a covert spatial attention paradigm",
+                "cites": "61",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasingly complex representations of natural movies across the dorsal stream are shared between subjects",
+                "cites": "60",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using brain\u2013computer interfaces and brain-state dependent stimulation as tools in cognitive neuroscience",
+                "cites": "58",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian source localization with the multivariate Laplace prior",
+                "cites": "53",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explanation methods in deep learning: Users, values, concerns and challenges",
+                "cites": "52",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:ECJ25tEN_EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the dynamics of human brain activity with recurrent neural networks",
+                "cites": "52",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Q4B7mEBXgMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEG-based decoding of the spatiotemporal dynamics of visual category perception",
+                "cites": "52",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct top-down and bottom-up brain connectivity during visual perception and imagery",
+                "cites": "50",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:1yhUMift6wIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting single trial data using groupwise regularisation",
+                "cites": "50",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brains on beats",
+                "cites": "49",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:M8Ejg5y-C14C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting carcinoid heart disease with the noisy-threshold classifier",
+                "cites": "49",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural decoding with hierarchical generative models",
+                "cites": "48",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional sketch inversion",
+                "cites": "47",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:8PKVFmgK5mUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised feature learning improves prediction of human brain activity in response to natural images",
+                "cites": "44",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional neural network-based encoding and decoding of visual object recognition in space and time",
+                "cites": "43",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:QAsQKsfVUN4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian inference of structural brain networks",
+                "cites": "41",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal neurodynamics underlying internally and externally driven temporal prediction: a high spatial resolution ERP study",
+                "cites": "40",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:CYCz2uKfkRAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structurally-informed Bayesian functional connectivity analysis",
+                "cites": "40",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep impression: Audiovisual deep residual networks for multimodal apparent personality trait recognition",
+                "cites": "39",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:LWUVeqegjeYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic model-based functional parcellation reveals a robust, fine-grained subdivision of the striatum",
+                "cites": "34",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A primer on encoding models in sensory neuroscience",
+                "cites": "33",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:5Hlrm_bZEgcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational foundations of natural intelligence",
+                "cites": "29",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:9QTmwX2E1jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative adversarial networks for reconstructing natural images from brain activity",
+                "cites": "28",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:NzUpm4bhSXQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic clustering of the human connectome identifies communities and hubs",
+                "cites": "27",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential temporal dynamics during visual imagery and perception",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:sAujV351FBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shared neural mechanisms of visual perception and imagery",
+                "cites": "25",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:uSQurnFbQXsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaussian mixture models and semantic gating improve reconstructions from human brain activity",
+                "cites": "25",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selecting treatment strategies with dynamic limited-memory influence diagrams",
+                "cites": "25",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining first impressions: Modeling, recognizing, and explaining apparent personality from videos",
+                "cites": "23",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:hMwNgRnlwaMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parkinsonian rest tremor can be detected accurately based on neuronal oscillations recorded from the subthalamic nucleus",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:YbLjypsZzowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "First impressions: A survey on computer vision-based apparent personality trait analysis",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:FKJBpZmfD-IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstructing perceived faces from brain activations with deep adversarial neural decoding",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:ktX0m338QuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep disentangled representations for volumetric reconstruction",
+                "cites": "20",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:sk-5v2XeZBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the decoding of intracranial data using sparse orthonormalized partial least squares",
+                "cites": "20",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictability of depression severity based on posterior alpha oscillations",
+                "cites": "19",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:io2GbE6LpKQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modality-specific alpha modulations facilitate long-term memory encoding in the presence of distracters",
+                "cites": "19",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the memorization of individual stimuli with direct human brain recordings",
+                "cites": "19",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design of an explainable machine learning challenge for video interviews",
+                "cites": "18",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:VfMbra648c4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the impact of target eccentricity and task difficulty on covert visual spatial attention and its implications for brain computer interfacing",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting semantic priming at the single-trial level",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal first impression analysis with deep residual networks",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:WxjA8IQWSGYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:bB6ab1qDjH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian estimation of conditional independence graphs improves functional connectivity estimates",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wasserstein variational inference",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:7_FrD3gH8REC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abnormal connectivity in the sensorimotor network predicts attention deficits in traumatic brain injury",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:lvi_KyGYEDoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lateralized responses during covert attention are modulated by target eccentricity",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A generic qualitative characterization of independence of causal influence",
+                "cites": "15",
+                "year": "2008"
+            },
+            "id_citations": "sX0ZypwAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural tuning to low-level features of speech throughout the perisylvian cortex",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:8igAKu_hPxwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian sparse partial least squares",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "McGurk illusion recalibrates subsequent auditory perception",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:gmhHX4scLhsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying uncertainty in brain network measures using Bayesian connectomics",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explainable and interpretable models in computer vision and machine learning",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:8Fucociq1QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic decoding of ongoing perception",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resting-state subcortical functional connectivity in HIV-infected patients on long-term cART",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:U6twwk6Vgq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the semantic category of internally generated words from neuromagnetic recordings",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movements explain decodability during perception and cued attention in MEG",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Sx7WuSFExYwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations of naturalistic stimulus complexity in early and associative visual and auditory cortices",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:QUYzkoTeugQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep adversarial neural decoding",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:COU-sansr_wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The kernel mixture network: A nonparametric method for conditional density estimation of continuous random variables",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:lg5bARUibhcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online decoding of object\u2010based attention using real\u2010time f MRI",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:WCOPUGKhX9IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse orthonormalized partial least squares",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualizing apparent personality analysis with deep residual networks",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:6lhY8CtEloYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A linear Gaussian framework for decoding of perceived images",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GP CaKe: Effective brain connectivity with causal kernels",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:2Zz6vCQtBj4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preference for audiovisual speech congruency in superior temporal cortex",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:pPdjnrZQtPEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cnn-based encoding and decoding of visual object recognition in space and time",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:vct99db0rDQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic vector space models predict neural responses to complex visual stimuli",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic LIMIDs",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic decomposition of spatiotemporal neural signals",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:AOgtTcItT4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The missing link: Predicting connectomes from noisy and partially observed tract tracing data",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:de6HPdfwrHoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal dynamics of cortical representations during and after stimulus presentation",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:x78xNeCKx3UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slice-sampled Bayesian PRF mapping",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:gqMmJtG4vxUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept classification with Bayesian multi-task learning",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian networks for clinical decision support",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selecting Strategies for Infinite-Horizon Dynamic LIMIDS.",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "sX0ZypwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using background knowledge to construct Bayesian classifiers for data-poor domains",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "sX0ZypwAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Employing maximum mutual information for Bayesian classification",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "sX0ZypwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent mechanisms of evidence integration in recurrent neural networks",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:2hfDYGh-f1UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New advances in encoding and decoding of brain signals.",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:71XFh8zZwT8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding of task-relevant and task-irrelevant intracranial EEG representations",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:R6aXIXmdpM0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regularizing solutions to the MEG inverse problem using space-time separable covariance functions",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:0t1ZDozeHsAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatiotemporal dynamics of binocular rivalry: evidence for increased top-down flow prior to a perceptual switch",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:XX7pGhTe5MgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamic beamformer",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selecting and identifying regions of interest using groupwise regularization",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "sX0ZypwAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forward amortized inference for likelihood-free variational marginalization",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:1QvrP69o8OkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating nonlinear dynamics with the ConvNet smoother",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:KaRcLhEUy5UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spreading codes enables the blind estimation of the hemodynamic response with short-events sequences",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaussian mixture models improve fMRI-based image reconstruction",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient sampling of Gaussian graphical models using conditional Bayes factors",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised learning of features for Bayesian decoding in functional magnetic resonance imaging",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:PBZ9sWDp-nEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Markov random field approach to neural encoding and decoding",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Posterior alpha activity modulated by covert attention used as a control signal for BCI",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Bayesian inference by factorizing conditional probability distributions",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "sX0ZypwAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explainable deep learning: A field guide for the uninitiated",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Cx2ibDnldiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional role of cue-driven feature-based feedback in object recognition",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:RVsengBWOnMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end neural system identification with neural information flow",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:3YIFwf-X_CwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in the influence of mental imagery on conscious perception",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:zDMysJqCCKgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "No evidence for confounding orientation-dependent fixational eye movements under baseline conditions",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Uha2Xg-6WXIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New fMRI methods for the study of language",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:vpzZMdrIWDEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification of mouse ultrasonic vocalizations using deep learning",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:KFIQUvoPKFAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian estimation of directed functional coupling from brain recordings",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:10ZmGoIvuzkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: The missing link: Predicting connectomes from noisy and partially observed tract tracing data",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:3ERjdSgnfPsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting and visualizing psychological attributions with a deep neural network",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:mmBnJtEBTSAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling cognitive processes with neural reinforcement learning",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:LoiWQfKZB3kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "L1/Lp regularization of differences",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "sX0ZypwAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensor decompositions for probabilistic classification",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approximate inference in graphical models using tensor decompositions",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Role of Background Knowledge in Bayesian Classification",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-Timing-Dependent Inference of Synaptic Weights",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:5ScXqYzV9GEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling, Recognizing, and Explaining Apparent Personality from Videos",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:CcPklOTAPUcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for confounding eye movements under attempted fixation and active viewing in cognitive neuroscience",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:N3SpgoQaeaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Between-subject variability in the influence of mental imagery on conscious perception",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:RIrVDUe1hjoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating neuroprosthetic vision for emotion recognition",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:CREiCvMVTUAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "k-GANs: Ensemble of Generative Models with Semi-Discrete Optimal Transport",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:OTBXYDkIvNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroimaging findings on amodal completion: A review",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:oJBA3oede64C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive time scales in recurrent neural networks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:BPyjDV4UkSoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural dynamics of perceptual inference and its reversal during imagery",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:9qGwjJavaBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing human brain function with artificial neural networks",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Lmuc1furtc4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling brain responses to perceived speech with lstm networks",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:H8BRrGBkN7cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Let\u2019s not waste time: Using temporal information in clustered activity estimation with spatial adjacency restrictions (caesar) for parcellating fMRI data",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:8RJSsxxtMAkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving semantic video segmentation by dynamic scene integration",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Yj1HztTP_LkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparent Personality Trait Prediction with Audiovisual Deep Residual Networks",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:_8B_re9sV0EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving Semantic Video Segmentation by Dynamic Scene Integration",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:zVd9Rc0DoukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surface-based searchlight mapping of modality-independent responses to semantic categories using high-resolution fMRI",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:i_ypWuZoRC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowledge Representation and Reasoning Logic meets Probability Theory",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Covert attention as a paradigm for subject-independent brain-computer interfacing",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design issues for pen-centric interactive maps",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the impact of alternative feature representations on BCI classification.",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure and parameters of a Bayesian network for carcinoid prognosis",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "sX0ZypwAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prognosis of high-grade carcinoid tumor patients using dynamic limited-memory influence diagrams",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "sX0ZypwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classifying sex and strain from mouse ultrasonic vocalizations using deep learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Q5bjhRmoBfUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GAIT-prop: A biologically plausible learning rule derived from backpropagation of error",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:4JjQL45tqTYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct directional couplings between slow and fast gamma power to the phase of theta oscillations in the rat hippocampus",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:qkvbYSGtNvkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Virtual staining for mitosis detection in Breast Histopathology",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:bUkhZ_yRbTwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning improves automated rodent behavior recognition within a specific experimental setup",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:6syOTa9L3GQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic structured variational inference",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:0z-ogHnYXbUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Indian Chefs Process",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:7cqQt8SKcR0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classifying sex and strain from mouse ultrasonic vocalizations using deep learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:-Iwc2SO-hmoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting neural state transitions underlying event segmentation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:u76CbRzuV8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Attention Through Uncertainty Minimization in Recurrent Generative Models",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:6CdnuHuKHxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Validation of structural brain connectivity networks: The impact of scanning parameters",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "sX0ZypwAAAAJ:dXBh7-90p_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Background Hardly Matters: Understanding Personality Attribution in Deep Residual Networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:MKvDIwB-zewC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal factorization of 3D convolutional kernels",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Ln2xPWQ6zl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal inference using Bayesian non-parametric quasi-experimental design",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:zQyJfvL_HJsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotion recognition with simulated phosphene vision",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:VPl5zSG_J1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Large Single-Participant Functional Magnetic Resonance Imaging Data Set for Probing Brain Responses to Naturalistic Stimuli in Space and Time",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:DPkBdyRpVwQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of early visual processing alleviates capacity limits\\\\in solving multiple tasks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:rblf-tZpB2YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SpikeCaKe: Semi-Analytic Nonparametric Bayesian Inference for Spike-Spike Neuronal Connectivity",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:rq4rw-O2q6QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for Amodal Completion of Low-Level Detail in Visual Cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:SDNreWq1RjYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perturbative estimation of stochastic gradients",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:q-jS9JxWzv0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "First impressions: A survey on computer vision-based apparent personality trait analysis",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:8Z0Dsp3hPRYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-dependent attention allocation through uncertainty minimization in deep recurrent generative models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:6nNZn6i0kyMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural information flow: Learning neural information processing systems from brain activity",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:JO0bfRJr_gQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual imagery strength and sensory ambiguity",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:flnLHN-H2asC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mind the eye: Confounding eye movements in cognitive neuroscience",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:VHymtrwLyIYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current advances in neural decoding",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:h-fwNd0rmTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DeepRF: Ultrafast population receptive field mapping with deep learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:TaWRl4-rBxwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:VdWZULf8Gq0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population codes of prior knowledge learned through environmental regularities",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:BeIT3YV5QzEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movement effects in MEG",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:cnT3a81PI4sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural System Identification with Cortical Information Flow",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "sX0ZypwAAAAJ:_wawhP5Vwy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Driving the locus coeruleus: relating pupil diameter to performance on a naturalistic highway driving task",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:753uPZTt4RUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalization of an upper bound on the number of nodes needed to achieve linear separability",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Sipo1f_CKiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining First Impressions: Modeling, Recognizing, and Explaining Apparent Personality from Videos",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:rjBKtydo3wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handwritten characters in fMRI ('BRAINS'data set)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:WMsFzbFqK_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of visual imagery and perception",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Efx6ZPdPmuEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handwritten digits in fMRI ('69'data set)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:kAoMiUvgv_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Menselijke machines",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:T_m5ky3rny8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-Analytic Nonparametric Bayesian Inference for Spike-Spike Neuronal Connectivity",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "sX0ZypwAAAAJ:1QLOHW2CHAAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial: Artificial Neural Networks as Models of Neural Information Processing. Front. Comput. Neurosci. 11: 114. doi: 10.3389/fncom. 2017.00114 Editorial: Artificial Neural \u2026",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:CaJTFBI5vqAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIPS 2016 Workshop on Representation Learning in Artificial and Biological Neural Networks (MLINI 2016)",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:D8wXzuvKacYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI measurements of visual imagery and perception of different categories.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:gDB6RRZydyMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring the presence of Parkinsonian rest tremor from subthalamic local field potential recordings",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:cNepPnSnVCgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian model ensembling using meta-trained recurrent neural networks",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:L8oS6_awjPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Algorithmic composition of polyphonic music with the WaveCRF",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "sX0ZypwAAAAJ:EupYgYwc-6gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SP 1. Parkinsonian rest tremor can be detected based on frequency domain features of the cerebral tremor network",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:nZgPvcLaoyMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00d4\u00d8 \u00c5 \u00d2\u00d9\u00d7 \u00d6 \u00d4\u00d8",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "sX0ZypwAAAAJ:QBJtjoHflPwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting psychological attributions from face photographs with a deep neural network",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Spatiotemporal Dynamics of Binocular Rivalry: Evidence for Increased Top-Down Flow Prior to a Perceptual Switch",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:qVBRRHSSJ04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hidden Markov models for reading words from the human brain",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clustered Activity Estimation with Spatial Adjacency Restrictions (CAESAR): functional parcellation applied to striatum",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "sX0ZypwAAAAJ:czIYXmO0riYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and comparison of visual feature representations",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beating the market, using linear regression to outperform the market average",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tutorials",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "sX0ZypwAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sampler Convergence for Inference of Structural Brain Networks",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity-Based Parcellation of the Brain using the In nite Relational Model and Bayesian Community Detection",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods to Identify Semantic Content Differences",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinguishing between target",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:gNsIjQZ6FscC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the Impact of Target Eccentricity and Task Difficulty on Covert Visual Spatial",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:XepLwY2JfocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding semantic information during internally guided word production",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "sX0ZypwAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of semantic category in temporal and spatial dynamics of brain activation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence learning induces stimulus specific changes in resting-state brain connectivity on multiple timescales",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internship report",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "sX0ZypwAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding semantic categories from pictures, words and natural Sounds",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "sX0ZypwAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The FieldTrip Multivariate Module",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Covert attention allows for continuous control of BCI",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Markovian Model for Carcinoid Tumors",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "sX0ZypwAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulations in alpha activity by covert attention: a new 2D control signal for BCI",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "sX0ZypwAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stability Conditions for L1/Lp Regularization",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "sX0ZypwAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian networks for clinical decision support: A rational approach to dynamic decision-making under uncertainty",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "sX0ZypwAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the development of carcinoid heart disease using a novel classification technique",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "sX0ZypwAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prognosis of High-Grade Carcinoid Tumors using Dynamic Limited Memory Influence Diagrams",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "sX0ZypwAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A qualitative characterisation of causal independence models using boolean polynomials",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "sX0ZypwAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compact factorizations of probability distributions",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "sX0ZypwAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Guidelines for Probabilistic Model Qualification.",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "sX0ZypwAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Indian Chefs Process",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:TlqgXrSKREMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary material for:\u2018Individual differences in the influence of mental imagery on conscious perception\u2019",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:lw-us_wcTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstructing perceived faces from brain activations with deep adversarial neural decoding (supplementary material)",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:D0NosnH9lYgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying uncertainty in graph statistics",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:JjPkQosUWiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ICA Allows Rapid Identi  ication of Functional ROIs in Task-Based fMRI Data at 3T and 7T",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:TA1nTKmGtTgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ob ect Recognition as Evidence Integration in Recurrent Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:yKZlB_2wKysC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic decomposition of temporal and spatiotemporal neural signals",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:H8Dy_DhitWcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowledge Representation and Reasoning",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:Tt9yUAN0l-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "10: 50\u201311: 20 Coffee Break 11: 20\u201312: 30 Inference II (Propagation) Chair: Jos\u00e9 A. G\u00e1mez",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:H7P4rdOtXtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Workshop Organization",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Organizing Committee PRNI 2014",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian Approach to Medical Reasoning",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PRNI 2012",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does the immune system have an influence on malaria parasite gene expression?",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CLASSIFICATION TECHNIQUES FOR BCI",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Qualitative Characterization of Causal Independence Models",
+                "cites": "0"
+            },
+            "id_citations": "sX0ZypwAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=sX0ZypwAAAAJ",
+    "brain_inspired": {
+        "id": "625",
+        "link": "https://braininspired.co/podcast/23/",
+        "name": "Marcel van Gerven",
+        "title": "BI 023 Marcel van Gerven: Mind Decoding with GANs",
+        "text": "Marcel and I discuss his recent work using generative adversarial networks to decode brain activity to reconstruct images people saw, his work to restore vision to blind humans by stimulating early visual cortex, general AI, and even \u2014 shutter \u2014 consciousness a bit."
+    }
+}

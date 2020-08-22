@@ -1,0 +1,971 @@
+{
+    "affiliation": "Stanford University, Google",
+    "cites_per_year": {
+        "2015": 44,
+        "2016": 258,
+        "2017": 704,
+        "2018": 1679,
+        "2019": 3301,
+        "2020": 2735
+    },
+    "citedby": 8833,
+    "citedby5y": 8814,
+    "coauthors": [
+        {
+            "affiliation": "UC Berkeley, Google",
+            "id": "8R35rCwAAAAJ",
+            "name": "Sergey Levine"
+        },
+        {
+            "affiliation": "UC Berkeley | Covariant.AI",
+            "id": "vtwH6GkAAAAJ",
+            "name": "Pieter Abbeel"
+        },
+        {
+            "affiliation": "Professor of Computer Science, U.C. Berkeley",
+            "id": "bh-uRFMAAAAJ",
+            "name": "Trevor Darrell"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "5VaXUQsAAAAJ",
+            "name": "Tianhe Yu"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "id": "OFlBL2kAAAAJ",
+            "name": "Frederik Ebert"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "3Y4egcYAAAAJ",
+            "name": "Mohammad Babaeizadeh"
+        },
+        {
+            "affiliation": "Staff Research Scientist, Google Brain",
+            "id": "wfGiqXEAAAAJ",
+            "name": "Dumitru Erhan"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "lns9LUsAAAAJ",
+            "name": "Annie Xie"
+        },
+        {
+            "affiliation": "Carnegie Mellon University",
+            "id": "NpOg5soAAAAJ",
+            "name": "Sudeep Dasari"
+        },
+        {
+            "affiliation": "",
+            "id": "iYN86KEAAAAJ",
+            "name": "Ian Goodfellow"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "id": "DkUUhXEAAAAJ",
+            "name": "Anusha Nagabandi"
+        },
+        {
+            "affiliation": "PhD student of Computer Science, University of California, Berkeley",
+            "id": "8-p9CLsAAAAJ",
+            "name": "Alex X. Lee"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "Ivot3fkAAAAJ",
+            "name": "Coline Devin"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "yy0UFOwAAAAJ",
+            "name": "Karol Hausman"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "EHSuFcwAAAAJ",
+            "name": "Suraj Nair"
+        },
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "University of Washington",
+            "id": "_EJrRVAAAAAJ",
+            "name": "Aravind Rajeswaran"
+        },
+        {
+            "affiliation": "University of Washington",
+            "id": "wb-DKCIAAAAJ",
+            "name": "Sham M Kakade"
+        },
+        {
+            "affiliation": "UC Berkeley",
+            "id": "e1P1rNkAAAAJ",
+            "name": "Kate Rakelly"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "6S9C8XoAAAAJ",
+            "name": "Allan Zhou"
+        }
+    ],
+    "email": "@cs.stanford.edu",
+    "hindex": 34,
+    "hindex5y": 34,
+    "i10index": 55,
+    "i10index5y": 55,
+    "id": "vfPE6hgAAAAJ",
+    "interests": [
+        "machine learning",
+        "robotics",
+        "reinforcement learning"
+    ],
+    "name": "Chelsea Finn",
+    "publications": [
+        {
+            "bib": {
+                "title": "Model-agnostic meta-learning for fast adaptation of deep networks",
+                "cites": "2056",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end training of deep visuomotor policies",
+                "cites": "1910",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised learning for physical interaction through video prediction",
+                "cites": "596",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Guided cost learning: Deep inverse optimal control via policy optimization",
+                "cites": "408",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep visual foresight for planning robot motion",
+                "cites": "345",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep spatial autoencoders for visuomotor learning",
+                "cites": "328",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot visual imitation learning via meta-learning",
+                "cites": "211",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic variational video prediction",
+                "cites": "188",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recasting gradient-based meta-learning as hierarchical bayes",
+                "cites": "170",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic model-agnostic meta-learning",
+                "cites": "164",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic adversarial video prediction",
+                "cites": "148",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models",
+                "cites": "148",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot imitation from observing humans via domain-adaptive meta-learning",
+                "cites": "132",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to adapt in dynamic, real-world environments through meta-reinforcement learning",
+                "cites": "129",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based reinforcement learning for atari",
+                "cites": "123",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-supervised visual planning with temporal skip connections",
+                "cites": "119",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universal planning networks",
+                "cites": "107",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning and universality: Deep representations and gradient descent can approximate any learning algorithm",
+                "cites": "98",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient off-policy meta-reinforcement learning via probabilistic context variables",
+                "cites": "83",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards adapting deep visuomotor representations from simulated to real environments",
+                "cites": "77",
+                "year": "2015"
+            },
+            "id_citations": "vfPE6hgAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual foresight: Model-based deep reinforcement learning for vision-based robotic control",
+                "cites": "76",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep reinforcement learning for vision-based robotic grasping: A simulated comparative evaluation of off-policy methods",
+                "cites": "69",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online meta-learning",
+                "cites": "68",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning with implicit gradients",
+                "cites": "65",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adapting deep visuomotor representations with weak pairwise constraints",
+                "cites": "64",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active one-shot learning",
+                "cites": "59",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised learning via meta-learning",
+                "cites": "55",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reasoning about physical interactions with object-oriented prediction and planning",
+                "cites": "54",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep online learning via meta-learning: Continual adaptation for model-based RL",
+                "cites": "54",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VideoFlow: A flow-based generative model for video",
+                "cites": "48",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning deep neural network policies with continuous memory states",
+                "cites": "47",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-End Robotic Reinforcement Learning without Reward Engineering",
+                "cites": "45",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalizing skills with semi-supervised reinforcement learning",
+                "cites": "41",
+                "year": "2016"
+            },
+            "id_citations": "vfPE6hgAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-world: A benchmark and evaluation for multi-task and meta reinforcement learning",
+                "cites": "36",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sloop: A pattern retrieval engine for individual animal identification",
+                "cites": "34",
+                "year": "2015"
+            },
+            "id_citations": "vfPE6hgAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised meta-learning for reinforcement learning",
+                "cites": "33",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Manipulation by feel: Touch-based control with deep predictive models",
+                "cites": "31",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robustness via retrying: Closed-loop robotic manipulation with self-supervised learning",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised Visuomotor Control through Distributional Planning Networks",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot hierarchical imitation learning of compound visuomotor tasks",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning a prior over intent via meta-inverse reinforcement learning",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to learn with gradients",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Guided Meta-Policy Search",
+                "cites": "21",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Few-shot goal inference for visuomotor learning and planning",
+                "cites": "21",
+                "year": "2018"
+            },
+            "id_citations": "vfPE6hgAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Language as an Abstraction for Hierarchical Deep Reinforcement Learning",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-Learning without Memorization",
+                "cites": "16",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RoboNet: Large-Scale Multi-Robot Learning",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entity abstraction in visual model-based reinforcement learning",
+                "cites": "14",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Norml: No-reward meta learning",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Policy learning with continuous memory states for partially observed robotic control",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "vfPE6hgAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gradient surgery for multi-task learning",
+                "cites": "11",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bridging text spotting and slam with junction features",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "vfPE6hgAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised curricula for visual meta-reinforcement learning",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation",
+                "cites": "9",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time reversal as self-supervision",
+                "cites": "7",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning methods and apparatus related to predicting motion (s) of object (s) in a robot's environment based on image (s) capturing the object (s) and based on \u2026",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision-based biometrics for conservation",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "vfPE6hgAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continuous meta-learning without tasks",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VideoFlow: A conditional flow-based model for stochastic video generation",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevance feedback in biometric retrieval of animal photographs",
+                "cites": "6",
+                "year": "2014"
+            },
+            "id_citations": "vfPE6hgAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Watch, Try, Learn: Meta-Learning from Demonstrations and Reward",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Interactively Learn and Assist",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SMiRL: Surprise Minimizing RL in Dynamic Environments",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond lowest-warping cost action selection in trajectory transfer",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "vfPE6hgAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-inverse reinforcement learning with probabilistic context variables",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning symmetries by reparameterization",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OmniTact: A Multi-Directional High Resolution Touch Sensor",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Multi-Task Imitation Learning with Autonomous Improvement",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Predictive Models From Observation and Interaction",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-Reinforcement Learning Robust to Distributional Shift via Model Identification and Experience Relabeling",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Weakly-Supervised Reinforcement Learning for Controllable Behavior",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapidly Adaptable Legged Robots via Evolutionary Meta-Learning",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept acquisition through meta-learning",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "vfPE6hgAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning compact convolutional neural networks with nested dropout",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "vfPE6hgAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explore then Execute: Adapting without Rewards via Factorized Meta-Reinforcement Learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-Aware Prediction: Learning to Model What Matters",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Risk Minimization: A Meta-Learning Approach for Tackling Group Shift",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep reinforcement learning amidst lifelong non-stationarity",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MOPO: Model-based Offline Policy Optimization",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Adaptation for End-to-End Vision-Based Robotic Manipulation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vfPE6hgAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consistent Meta-Reinforcement Learning via Model Identification and Experience Relabeling",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mint: Matrix-Interleaving for Multi-Task Learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SMiRL: Surprise Minimizing RL in Entropic Environments",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hope For The Best But Prepare For The Worst: Cautious Adaptation In RL Agents",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-Conditioned Video Prediction",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control policies for robotic agents",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vfPE6hgAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-Aware Prediction: Learning to Model What Matters Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "vfPE6hgAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact (Then Approximate) Dynamic Programming for Deep Reinforcement Learning",
+                "cites": "0"
+            },
+            "id_citations": "vfPE6hgAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Expressivity of Neural Networks for Deep Reinforcement Learning",
+                "cites": "0"
+            },
+            "id_citations": "vfPE6hgAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cautious Adaptation For Reinforcement Learning in Safety-Critical Settings",
+                "cites": "0"
+            },
+            "id_citations": "vfPE6hgAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoupled Meta-Learning with Structured Latents",
+                "cites": "0"
+            },
+            "id_citations": "vfPE6hgAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vfPE6hgAAAAJ"
+}

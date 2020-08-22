@@ -1,0 +1,3120 @@
+{
+    "affiliation": "Silver Professor of Neural Science, Mathematics, and Psychology, NYU",
+    "cites_per_year": {
+        "1996": 184,
+        "1997": 275,
+        "1998": 339,
+        "1999": 515,
+        "2000": 495,
+        "2001": 567,
+        "2002": 782,
+        "2003": 1043,
+        "2004": 1120,
+        "2005": 1540,
+        "2006": 1682,
+        "2007": 2143,
+        "2008": 2252,
+        "2009": 2813,
+        "2010": 2967,
+        "2011": 3354,
+        "2012": 3612,
+        "2013": 4527,
+        "2014": 4886,
+        "2015": 5199,
+        "2016": 5753,
+        "2017": 5926,
+        "2018": 6838,
+        "2019": 7522,
+        "2020": 5183
+    },
+    "citedby": 72809,
+    "citedby5y": 36434,
+    "coauthors": [
+        {
+            "affiliation": "Professor, Electrical and Computer Engineering, University of Waterloo",
+            "id": "O0PjM4QAAAAJ",
+            "name": "Zhou Wang"
+        },
+        {
+            "affiliation": "Professor of Vision Science, MIT",
+            "id": "todsDfQAAAAJ",
+            "name": "Edward H Adelson"
+        },
+        {
+            "affiliation": "Professor, New York University",
+            "id": "4Ma6NAYAAAAJ",
+            "name": "Tony Movshon"
+        },
+        {
+            "affiliation": "Cockrell Family Regents Endowed Chair Professor, The University of Texas at Austin",
+            "id": "p-PC50wAAAAJ",
+            "name": "Alan Bovik"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "FayXlTYAAAAJ",
+            "name": "Liam Paninski"
+        },
+        {
+            "affiliation": "Professor of Neurosurgery and Ophthalmology, Stanford University",
+            "id": "PMM9J2AAAAAJ",
+            "name": "E.J. Chichilnisky"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neural Science, New York University",
+            "id": "6ggnUzYAAAAJ",
+            "name": "David J Heeger"
+        },
+        {
+            "affiliation": "CSIC (Previously: Universidad de Granada; New York University)",
+            "id": "239ZfwgAAAAJ",
+            "name": "Javier Portilla"
+        },
+        {
+            "affiliation": "Professor of Neuroscience & Psychology, Princeton University",
+            "id": "-ElvJ9wAAAAJ",
+            "name": "Jonathan Pillow"
+        },
+        {
+            "affiliation": "Professor of EECS and Statistics, UC Berkeley",
+            "id": "J5Rvh6gAAAAJ",
+            "name": "Martin Wainwright"
+        },
+        {
+            "affiliation": "Google Research",
+            "id": "x5bC-UwAAAAJ",
+            "name": "Jon Shlens"
+        },
+        {
+            "affiliation": "University of Pennsylvania",
+            "id": "Bi-YHlwAAAAJ",
+            "name": "Alan A Stocker"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Texas at Austin",
+            "id": "nR6fesMAAAAJ",
+            "name": "Robbe L T Goris"
+        },
+        {
+            "affiliation": "Computer Science, University of Miami",
+            "id": "3prQpXgAAAAJ",
+            "name": "Odelia Schwartz"
+        },
+        {
+            "affiliation": "Professor of Computer Science, MIT",
+            "id": "0zZnyMEAAAAJ",
+            "name": "William T. Freeman"
+        },
+        {
+            "affiliation": "Google Research",
+            "id": "uKDe38UAAAAJ",
+            "name": "Johannes Ball\u00e9"
+        },
+        {
+            "affiliation": "Professor, University of California, Berkeley",
+            "id": "3OKn_UYAAAAJ",
+            "name": "Hany Farid"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neural Science, New York University",
+            "id": "o87mqj4AAAAJ",
+            "name": "Michael S Landy"
+        },
+        {
+            "affiliation": "Department of Psychology, University of Pennsylvania",
+            "id": "W8l_RCwAAAAJ",
+            "name": "Nicole Rust"
+        },
+        {
+            "affiliation": "Universitat de Val\u00e8ncia",
+            "id": "dNt_xikAAAAJ",
+            "name": "Valero Laparra"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 85,
+    "hindex5y": 59,
+    "i10index": 178,
+    "i10index5y": 125,
+    "id": "MplR7_cAAAAJ",
+    "interests": [
+        "Computational Neuroscience",
+        "Computational Vision",
+        "Image Processing",
+        "Vision Science"
+    ],
+    "name": "Eero P Simoncelli",
+    "publications": [
+        {
+            "bib": {
+                "title": "Image quality assessment: From error visibility to structural similarity",
+                "cites": "26988",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:1In3SbHwanAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiscale structural similarity for image quality assessment",
+                "cites": "3427",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FSIM: A feature similarity index for image quality assessment",
+                "cites": "2779",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image denoising using scale mixtures of Gaussians in the wavelet domain",
+                "cites": "2613",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foundations of vision",
+                "cites": "2548",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural image statistics and neural representation",
+                "cites": "2231",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A parametric texture model based on joint statistics of      complex wavelet coefficients",
+                "cites": "1915",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shiftable multiscale transforms",
+                "cites": "1816",
+                "year": "1992"
+            },
+            "id_citations": "MplR7_cAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The steerable pyramid: A flexible architecture for multi-scale derivative computation",
+                "cites": "1304",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal correlations and visual signalling in a complete neuronal population",
+                "cites": "1156",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion illusions as optimal percepts",
+                "cites": "1067",
+                "year": "2002"
+            },
+            "id_citations": "MplR7_cAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of neuronal responses in visual area MT",
+                "cites": "974",
+                "year": "1998"
+            },
+            "id_citations": "MplR7_cAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in neural information processing systems",
+                "cites": "914",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:sFUlmsclzkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise removal via Bayesian wavelet coring",
+                "cites": "895",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural signal statistics and sensory gain control",
+                "cites": "847",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image compression via joint statistical characterization in the wavelet domain",
+                "cites": "742",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise characteristics and prior expectations in human visual speed perception",
+                "cites": "695",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On advances in statistical modeling of natural images",
+                "cites": "618",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scale mixtures of Gaussians and the statistics of natural images",
+                "cites": "558",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probability distributions of optical flow.",
+                "cites": "542",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How MT cells analyze the motion of visual patterns",
+                "cites": "511",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal elements of macaque V1 receptive fields",
+                "cites": "509",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orthogonal pyramid transforms for image coding",
+                "cites": "500",
+                "year": "1987"
+            },
+            "id_citations": "MplR7_cAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metamers of the ventral stream",
+                "cites": "478",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced-reference image quality assessment using a wavelet-domain natural image statistic model",
+                "cites": "476",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-triggered neural characterization",
+                "cites": "417",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cardinal rules: visual orientation perception reflects knowledge of environmental statistics",
+                "cites": "408",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical models for images: Compression, restoration and synthesis",
+                "cites": "406",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end optimized image compression",
+                "cites": "389",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:yxAilOxaV9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Translation insensitive image similarity in complex wavelet domain",
+                "cites": "367",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction and decoding of retinal ganglion cell responses with a probabilistic spiking model",
+                "cites": "360",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Partitioning neuronal variability",
+                "cites": "353",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:n5u26LFhhPsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quality-aware images",
+                "cites": "339",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian denoising of visual images in the wavelet domain",
+                "cites": "339",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of neural responses with stochastic stimuli",
+                "cites": "338",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximum likelihood estimation of a stochastic integrate-and-fire neural model",
+                "cites": "329",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models of cortical visual processing",
+                "cites": "296",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture characterization via joint statistics of wavelet coefficient magnitudes",
+                "cites": "291",
+                "year": "1998"
+            },
+            "id_citations": "MplR7_cAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision and the statistics of the visual environment",
+                "cites": "290",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the joint statistics of images in the wavelet domain",
+                "cites": "287",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sound texture perception via statistics of the auditory periphery: evidence from sound synthesis",
+                "cites": "272",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Steerable wedge filters for local orientation analysis",
+                "cites": "255",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random cascades on wavelet trees and their use in analyzing and modeling natural images",
+                "cites": "246",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:S1WaUgt8gYIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differentiation of discrete multidimensional signals",
+                "cites": "244",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A functional and perceptual signature of the second visual area in primates",
+                "cites": "224",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recovery of sparse translation-invariant signals with continuous basis pursuit",
+                "cites": "224",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient re-rendering of naturally illuminated environments",
+                "cites": "224",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design of multi-dimensional derivative filters",
+                "cites": "223",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Wiener denoising using a Gaussian scale mixture model in the wavelet domain",
+                "cites": "222",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Restoration-Image Denoising Using Scale Mixtures of Gaussians in the Wavelet Domain",
+                "cites": "216",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:D-3shSm-n1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subband transforms",
+                "cites": "197",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:22N0J9dj6kwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed Representation and Analysis of Visual Motion",
+                "cites": "194",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural Image Statistics and Divisive Normalization: Modeling nonlinearity and adaptation in cortical neurons",
+                "cites": "192",
+                "year": "2002"
+            },
+            "id_citations": "MplR7_cAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local phase coherence and the perception of blur",
+                "cites": "185",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-separable extensions of quadrature mirror filters to multiple dimensions",
+                "cites": "181",
+                "year": "1990"
+            },
+            "id_citations": "MplR7_cAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Summary statistics in auditory perception",
+                "cites": "173",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image quality assessment: From error visibility to structural similarity",
+                "cites": "165",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:CgSwehex2-EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dimensionality reduction in neural models: an information-theoretic generalization of spike-triggered average and covariance analysis",
+                "cites": "154",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Multi-Scale Differential Optical Flow",
+                "cites": "151",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear image representation using divisive normalization",
+                "cites": "147",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear image representation for efficient perceptual coding",
+                "cites": "134",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A filter design technique for steerable pyramid image transforms",
+                "cites": "132",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is the homunculus \u201caware\u201d of sensory adaptation?",
+                "cites": "131",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory adaptation within a Bayesian framework for perception",
+                "cites": "129",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural approaches to image quality assessment",
+                "cites": "127",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image Denoising Using a Local Gaussian Scale Mixture Model in the Wavelet Domain",
+                "cites": "125",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention stabilizes the shared gain of V4 populations",
+                "cites": "117",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:HoaxrAv1AIcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Modeling of Photographic Images",
+                "cites": "117",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear extraction of 'Independent Components' of natural images using radial Gaussianization",
+                "cites": "115",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear extraction of 'Independent Components' of natural images using radial Gaussianization",
+                "cites": "115",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing neural gain control using spike-triggered covariance",
+                "cites": "109",
+                "year": "2002"
+            },
+            "id_citations": "MplR7_cAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture Modeling and Synthesis using Joint Statistics of Complex Wavelet Coefficients",
+                "cites": "108",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian model of conditioned perception",
+                "cites": "107",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Sensory Encoding and Bayesian Inference with Heterogeneous Neural Populations",
+                "cites": "104",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:Lr5Uwm59ZTwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model-Based Spike Sorting Algorithm for Removing Correlation Artifacts in Multi-Neuron Recordings",
+                "cites": "101",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed analysis and representation of visual motion",
+                "cites": "97",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:zMY8q35v6VMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximum differentiation (MAD) competition: A methodology for comparing computational models of perceptual quantities",
+                "cites": "96",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimally rotation-equivariant directional derivative kernels",
+                "cites": "96",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Truncated subband coding of images",
+                "cites": "95",
+                "year": "1989"
+            },
+            "id_citations": "MplR7_cAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Near-optimal integration of orientation information across saccades",
+                "cites": "94",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:pqoCwmxD9dQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the impact of common noise inputs on the network activity of retinal ganglion cells",
+                "cites": "94",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Range estimation by optical differentiation",
+                "cites": "94",
+                "year": "1998"
+            },
+            "id_citations": "MplR7_cAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling surround suppression in VI neurons with a statistically-derived normalization model",
+                "cites": "93",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Density modeling of images using a generalized normalization transformation",
+                "cites": "90",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:1fM7sLBYaPUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local velocity representation: evidence from motion adaptation",
+                "cites": "87",
+                "year": "1998"
+            },
+            "id_citations": "MplR7_cAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biases in white noise analysis due to non-Poisson spike generation",
+                "cites": "86",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient coding of spatial information in the primate retina",
+                "cites": "85",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling multiscale subbands of photographic images with fields of Gaussian scale mixtures",
+                "cites": "85",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of visual motion detection",
+                "cites": "83",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unified framework and method for automatic neural spike identification",
+                "cites": "82",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A convolutional subunit model for neuronal responses in macaque V1",
+                "cites": "74",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:UwBXQvKX0hQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical modeling of images with fields of Gaussian scale mixtures",
+                "cites": "73",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implicit encoding of prior probabilities in optimal neural populations",
+                "cites": "72",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image restoration using Gaussian scale mixtures in the wavelet domain",
+                "cites": "72",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fractal-based image compression and interpolation",
+                "cites": "72",
+                "year": "1992"
+            },
+            "id_citations": "MplR7_cAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end optimization of nonlinear transform codes for perceptual quality",
+                "cites": "71",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:ZtJ3RtM1NaMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progressive wavelet image coding based on a conditional probability model",
+                "cites": "71",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient coding of natural images with a population of noisy linear-nonlinear neurons",
+                "cites": "68",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceiving visual expansion without optic flow",
+                "cites": "65",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Origin and function of tuning diversity in macaque visual cortex",
+                "cites": "64",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:TXgqPU86QykC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal denoising in redundant representations",
+                "cites": "63",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image modeling and denoising with orientation-adapted Gaussian scale mixtures",
+                "cites": "62",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in neural information processing systems",
+                "cites": "60",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:H-nlc5mcmJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus synthesis for efficient evaluation and refinement of perceptual image quality metrics",
+                "cites": "59",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-triggered characterization of excitatory and suppressive stimulus dimensions in monkey V1",
+                "cites": "59",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity and tolerance for visual texture in macaque V2",
+                "cites": "56",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:9kZNi-u_WhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image denoising via adjustment of wavelet coefficient magnitude correlation",
+                "cites": "56",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping nonlinear receptive field structure in primate retina at single cone resolution",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:JE23Nz_pzJ0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embedded wavelet image compression based on a joint probability model",
+                "cites": "53",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to be Bayesian without supervision",
+                "cites": "52",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing integrate-and-fire models estimated using intracellular and extracellular data",
+                "cites": "50",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model of visual motion sensing",
+                "cites": "50",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sound texture synthesis via filter statistics",
+                "cites": "49",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual image quality assessment using a normalized Laplacian pyramid",
+                "cites": "47",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:vq25oHwZT-8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An adaptive linear system framework for image distortion analysis",
+                "cites": "46",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal inference explains the perceptual coherence of visual motion stimuli",
+                "cites": "44",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subband image coding with three-tap pyramids",
+                "cites": "44",
+                "year": "1990"
+            },
+            "id_citations": "MplR7_cAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Least squares estimation without priors or supervision",
+                "cites": "42",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal estimation in sensory systems",
+                "cites": "42",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural sound statistics and divisive normalization in the auditory system",
+                "cites": "41",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A rotation invariant pattern signature",
+                "cites": "41",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coarse-to-fine estimation of visual motion",
+                "cites": "41",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image denoising using mixtures of Gaussian scale mixtures",
+                "cites": "39",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient and direct estimation of a neural subunit model for sensory coding",
+                "cites": "38",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pyramids and multiscale representations",
+                "cites": "38",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual quality assessment of color images using adaptive signal representation",
+                "cites": "37",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Least squares optimization",
+                "cites": "37",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient linear re-rendering for interactive lighting design",
+                "cites": "37",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing optical flow distributions using spatio-temporal filters",
+                "cites": "36",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A blind sparse deconvolution method for neural spike identification",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual motion aftereffects arise from a cascade of two isomorphic adaptation mechanisms",
+                "cites": "33",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random cascades of gaussian scale mixtures and their use in modeling natural images with application to denoising",
+                "cites": "33",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orthogonal sub-band image transforms",
+                "cites": "33",
+                "year": "1988"
+            },
+            "id_citations": "MplR7_cAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eigen-distortions of hierarchical representations",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:g57m_4BFVZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning applied to perception: Decision images for gender classification",
+                "cites": "32",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing retinal image speed in visual cortex",
+                "cites": "31",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image statistics and cortical normalization models",
+                "cites": "31",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:fiDIZbHD5NAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separation of transparent motion into layers using velocity-tuned mechanisms",
+                "cites": "30",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptually optimized image rendering",
+                "cites": "29",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:1xqo9R7SDZkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Steerable wedge filters",
+                "cites": "29",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "'Nulling'filters and the separation of transparent motions",
+                "cites": "29",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:yhXl426oeGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear structure from motion",
+                "cites": "27",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local analysis of visual motion",
+                "cites": "26",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image denoising with an orientation-adaptive Gaussian scale mixture model",
+                "cites": "25",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of naturalistic image structure in the primate visual cortex",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:-1RNHcZo4Y8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Modeling of Local Image Features through -Nested Symmetric Distributions",
+                "cites": "24",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistically and perceptually motivated nonlinear image representation",
+                "cites": "24",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Locally adaptive multiscale contrast optimization",
+                "cites": "24",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single lens range imaging method and apparatus",
+                "cites": "24",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Constraining a Bayesian model of human visual speed perception",
+                "cites": "22",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural quadratic discriminant analysis: Nonlinear decoding with V1-like computation",
+                "cites": "21",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:NAGhd4NKCV8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying color image distortions based on adaptive spatio-chromatic signal decompositions",
+                "cites": "21",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image and multi-scale pyramid tools [Computer software]",
+                "cites": "21",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geodesics of learned representations",
+                "cites": "19",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:MOFHY6MwG3AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear image representation via local multiscale orientation",
+                "cites": "18",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:0xcHesCNKywC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse decomposition of transformation-invariant signals with continuous basis pursuit",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiscale denoising of photographic images",
+                "cites": "17",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring functional connectivity in an ensemble of retinal ganglion cells sharing a common input",
+                "cites": "17",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture representation and synthesis using correlation of complex wavelet coefficient magnitudes",
+                "cites": "17",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual straightening of natural videos",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:x9X1S-hd97YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociation of choice formation and choice-correlated activity in macaque visual cortex",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:Kaaf24wrr50C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reducing statistical dependencies in natural signals using radial Gaussianization",
+                "cites": "16",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Steerable filters for image analysis",
+                "cites": "14",
+                "year": "1990"
+            },
+            "id_citations": "MplR7_cAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A machine learning framework for adaptive combination of signal denoising methods",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Color channels decorrelation by ICA transformation in the wavelet domain for color texture analysis and synthesis",
+                "cites": "13",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RELATIONSHIP BETWEEN GRADIENT, SPATIOTEMPORAL ENERGY, AND REGRESSION-MODELS FOR MOTION PERCEPTION",
+                "cites": "13",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical spike coding of sound",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical Bayes least squares estimation without an explicit prior",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing patterns in the noise",
+                "cites": "12",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrete-time rigidity-constrained optical flow",
+                "cites": "12",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rendering spaces for architectural environments",
+                "cites": "12",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural and perceptual signatures of efficient sensory coding",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:foJkpVhfThEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation and synthesis of visual texture",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The New Cognitive Neurosciences",
+                "cites": "11",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:TLwS_1sUIYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model for perception of two-dimensional pattern velocities",
+                "cites": "11",
+                "year": "1992"
+            },
+            "id_citations": "MplR7_cAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual modulation of sensitivity to naturalistic image structure in macaque V2",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "MplR7_cAAAAJ:0VGYH9MJNTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct estimation of firing rates from calcium imaging data",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:Id9pRtCSqO0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Higher-order statistical models of visual images",
+                "cites": "10",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct differential range estimation using optical masks",
+                "cites": "10",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geometrical and statistical properties of vision models obtained via maximum differentiation",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:6DS7WFnF4J4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spherical Retinal Flow for a Fixating Observer.",
+                "cites": "9",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gain control in Macaque area MT is directionally selective",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "MplR7_cAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling temporal response characteristics of V1 neurons with a dynamic normalization model",
+                "cites": "8",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:jenZ_en7QtoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in Neural Information Processing Systems",
+                "cites": "8",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:RL3Vt95MvH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The perception of transparency in moving square-wave plaids",
+                "cites": "8",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed representation of image velocity",
+                "cites": "8",
+                "year": "1992"
+            },
+            "id_citations": "MplR7_cAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subband image coding with hexagonal quadrature mirror filters",
+                "cites": "8",
+                "year": "1990"
+            },
+            "id_citations": "MplR7_cAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonseparable QMF pyramids",
+                "cites": "8",
+                "year": "1989"
+            },
+            "id_citations": "MplR7_cAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "matlabPyrTools\u2014Matlab source code for multi-scale image processing",
+                "cites": "7",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing and refining a computational model of neural responses in area MT",
+                "cites": "7",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The steerable pyramid",
+                "cites": "7",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:MWSB05WFU5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Pyramid Image Coder (EPIC)",
+                "cites": "7",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the use of\" nulling\" filters to separate transparent motions",
+                "cites": "7",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential motion analysis",
+                "cites": "7",
+                "year": "1989"
+            },
+            "id_citations": "MplR7_cAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slow gain fluctuations limit benefits of temporal integration in visual cortex",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "MplR7_cAAAAJ:n0_S8QYMK-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crowding and metamerism in the ventral stream",
+                "cites": "6",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A decoder-based spike train metric for analyzing the neural code in the retina",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistically Driven Sparse Image Approximation",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directly invertible nonlinear divisive normalization pyramid for image representation",
+                "cites": "6",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of contrast and period on perceived coherence of moving square-wave plaids",
+                "cites": "6",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image quality assessment: Unifying structure and texture similarity",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:27qsyVibG6YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blind Image Quality Assessment by Learning from Multiple Annotators",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:HklM7qHXWrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of sensory neural responses in the presence of unknown modulatory inputs",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:MOUuoOoUJb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using a doubly-stochastic model to analyze neuronal activity in the visual cortex",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Derivation of a cortical normalization model from the statistics of natural images",
+                "cites": "5",
+                "year": "1998"
+            },
+            "id_citations": "MplR7_cAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A differential optical range camera",
+                "cites": "5",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OBVIUS--object-based Vision and Image Understanding System",
+                "cites": "5",
+                "year": "1992"
+            },
+            "id_citations": "MplR7_cAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recovering observer translation with center-surround operators",
+                "cites": "5",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The local low-dimensionality of natural images",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:6tHXJaRVc1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Performance analysis for dct-based coded image communication in wireless multimedia sensor networks\u2016",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:xmg73Fui0jkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural Image Statistics and Divisive Normalization: Modeling Nonlinearities and Adaptation in Cortical Neurons",
+                "cites": "4",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:9nEbuwLZtFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A velocity representation model for MT cells",
+                "cites": "4",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hingorani,\" Orthogonal pyramid transforms for image coding,\"",
+                "cites": "4"
+            },
+            "id_citations": "MplR7_cAAAAJ:_inCrQx-FbQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference of nonlinear receptive field subunits with spike-triggered clustering",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:ohlv4i5L2AoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust and interpretable blind image denoising via bias-free convolutional neural networks",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:C-GuzCveMkwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DSC: Dense-Sparse Convolution for Vectorized Inference of Convolutional Neural Networks",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:iqOphse3MeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference of nonlinear spatial subunits by spike-triggered clustering in primate retina",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "MplR7_cAAAAJ:iomT83CKXisC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matlab pyramid toolbox",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:mSu_8wZzne8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing receptive field selectivity in area V2",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:3A6oGT7R4jcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural implementation of Bayesian inference using efficient population codes",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orientation statistics at fixation",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian line orientation perception: Human prior expectations match natural image statistics",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Empirical Bayesian interpretation and generalization of NL-means",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capturing visual image properties with probabilistic models",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of self-consistent perception",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining adaptation in V1 neurons with a statistically optimized normalization model",
+                "cites": "3",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrete-Time Rigid Motion Constrained Optical Flow Assuming Planar Structure",
+                "cites": "3",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foundations of vision",
+                "cites": "3",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:xO3Y8ErbwlsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pyramids for early vision",
+                "cites": "3",
+                "year": "1991"
+            },
+            "id_citations": "MplR7_cAAAAJ:Yb2T6HvJONwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of Image Quality Models for Optimization of Image Processing Systems",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:zDAX0LUT-dsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible information routing in neural populations through stochastic comodulation",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:25zTQ8aaf3EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual straightening of natural video trajectories",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:jgTXuCzW-kcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Opposing effects of summary statistics on peripheral discrimination",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:qE25ZKhNtbAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Carving up the ventral stream with controlled naturalistic stimuli",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:oea97a5D_h0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common-input model of a complete network of ganglion cells in the primate retina",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding velocity from population responses in area MT of the macaque",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of contrast on velocity encoding in macaque area MT",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:9sMhslCZ7ZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlations and coding with multi-neuronal spike trains in primate retina",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:qaiyjGHpP8sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Constraining the prior and likelihood in a Bayesian model of human visual speed perception",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons in MT compute pattern direction by pooling excitatory and suppressive inputs",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image quality assessment: from error visibilty to structutal similarity",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "MplR7_cAAAAJ:7YMrAF6eRCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization of nonlinear spatiotemporal properties of macaque retinal ganglion cells using spike-triggered covariance",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A spike-triggered covariance method for characterizing divisive normalization models",
+                "cites": "2",
+                "year": "2001"
+            },
+            "id_citations": "MplR7_cAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer vision ECCV 96",
+                "cites": "2",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model for representation of image velocities",
+                "cites": "2",
+                "year": "1993"
+            },
+            "id_citations": "MplR7_cAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Comparative Study of Image Quality Assessment Models through Perceptual Optimization",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:Zrzg8MEyHc4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compound stimuli reveal the structure of visual motion selectivity in macaque MT neurons",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:QUKcMBy53xEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping spatial frequency preferences in the human visual cortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "MplR7_cAAAAJ:h-U6AArFrx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novel model-based identification of retinal ganglion cell subunits",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:GdooyxxgJVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compound stimuli reveal velocity separability of spatiotemporal receptive fields in macaque area MT",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:0_RpHV3rhqYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A generalization of the Energy model explains the transformation from IT to Perirhinal cortex",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:seU1ZbiIO-YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natter: A Python Natural Image Statistics Toolbox",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:CoqsOaBEKcQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning sparse filter bank transforms with convolutional ICA",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:SSsxPzPPytkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The radial and tangential extent of spatial metamers",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Redundant representations in macaque retinal populations are consistent with efficient coding",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:uSZH581ylUkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sound texture perception via statistics of the auditory periphery",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "MplR7_cAAAAJ:OBae9N4Z9bMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of environmental statistics by neural populations",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diversity of efficient coding solutions for a population of noisy linear neurons",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:udEBkMWtBUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prior expectations in line orientation perception",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextually adaptive signal representation using conditional principal component analysis",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deciphering correlations: Bayesian decoding of multi-neuronal spike trains in primate retina",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biases in speed perception due to motion aftereffect",
+                "cites": "1",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion adaptation effects suggest an explicit representation of velocity",
+                "cites": "1",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel radial intensity based edge operator",
+                "cites": "1",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model of Transparent Motion Perception Using Layers",
+                "cites": "1",
+                "year": "1992"
+            },
+            "id_citations": "MplR7_cAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Solving Linear Inverse Problems Using the Prior Implicit in a Denoiser",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:9aOYe38lPcwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-Supervised Learning of a Biologically-Inspired Visual Texture Model",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:KUgzLixe4cAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pinpointing the neural signatures of single-exposure visual familiarity",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:lRnoeYR1YAAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning efficient task-dependent representations with synaptic plasticity",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MplR7_cAAAAJ:dONrx3-W1TkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpretable and robust blind image denoising via bias-free convolutional neural networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:L_at8tGC9oEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstration and quantification of memory-guided saccades in the common marmoset (with comparison to the macaque)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:E6rqZ6_0n1EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast-dependent spatial frequency selectivity in macaque V1 neurons explained with tuned contrast gain control",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:9cqGXoYeWaMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A canonical computational model of cortical area V2",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:oLQGhPHTrpcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference of Nonlinear Spatial Subunits in Primate Retina with Spike-Triggered Clustering",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:bf7w-NijnqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible and accurate decoding of neural populations through stochastic comodulation",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MplR7_cAAAAJ:B4wWq2ztVNgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient coding of natural images with Nonlinear-Linear-Nonlinear cascade model",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MplR7_cAAAAJ:5XSfyxoPzb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elucidating and testing hierarchical visual models using model-optimized synthetic stimuli",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MplR7_cAAAAJ:xCS0c1RzPY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic visual localization with moving dot clouds",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:ToZsFq5dof0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting perceptual distortion sensitivity with gain control models of LGN",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:r7QigD7TRWAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncoupling choice formation and choice-correlated activity in early visual cortex",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MplR7_cAAAAJ:_E0j-SBEHDwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-optimal Integration of Orientation Across Saccades",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MplR7_cAAAAJ:sWz8iI0ruhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The texture centroid paradigm: A new method for isolating preattentive visual mechanisms",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:RXC-vbXDMdwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The local low-dimensionality of natural images: International conference on learning representations (ICLR)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:t1niNHmIXQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Near-optimal integration of orientation information across",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "MplR7_cAAAAJ:c2351ekuFcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the diversity of orientation selectivity in macaque visual cortex",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "MplR7_cAAAAJ:Xt3t5HrhCpYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Summary statistics in auditory perception",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:FVakaZBJmp0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model-Based Spike Sorting Algorithm for Removing Correlation Artifacts in Multi-Neuron",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MplR7_cAAAAJ:LGA7_l5-FVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implicit embedding of prior probabilities in optimally efficient neural populations",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "MplR7_cAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking statistical texture models to population coding in the ventral stream",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear Image Representation: Lessons from Biology",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diversity of efficient coding solutions for a population of noisy linear neurons",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "MplR7_cAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding of stimulus velocity using a model of ganglion cell populations in primate retina",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "MplR7_cAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics, Estimation and Decisions",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:hL6j_VNiN9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximizing sensory information with neural populations of arbitrary size",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "MplR7_cAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation to transparent plaids: two repulsive directions or one?",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing changes in perceived speed and speed discriminability arising from motion adaptation",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "MplR7_cAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward characterizion of the complete visual signal in a patch of retina",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An information-theoretic generalization of spike-triggered average and covariance analysis",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "MplR7_cAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Courant Institute TR2005-875 Nonlinear Image Representation via Local Multiscale Orientation",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "MplR7_cAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peer-reviewed primary publications",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "MplR7_cAAAAJ:w_Qt3Pluy5YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory interactions in MT receptive fields",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "MplR7_cAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric Texture Model",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "MplR7_cAAAAJ:Z4TH09HQ3SoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining Cortical Adaptation with a Statistically Optimized Normalization Model",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accounting for surround suppression in V1 neurons using a statistically optimized normalization model",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "MplR7_cAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can the visual system measure expansion rates without using optic flow?",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local translation detection: Evidence for velocity tuned pooling of spatio-temporal frequencies",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RANGE ESTIMATION BY OPTICAL DIFFERENTIATION HANY FARID",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "MplR7_cAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peripheral visual field, fixation and direction of heading",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "MplR7_cAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixation and a 180 Degree View Simplify Ego Motion Estimation",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "MplR7_cAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient Re-rendering of Naturally Illuminated",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "MplR7_cAAAAJ:9u2w3wkYHSMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orthogonal Sub-band Image",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "MplR7_cAAAAJ:hcF2OqvMasEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ARCHIVES JUL-if luau-i",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "MplR7_cAAAAJ:KrOX6H5u0oYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "QMF pyramids: a new class of orthogonal pyramid transform (A)",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "MplR7_cAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient image coding with QMF pyramids (A)",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "MplR7_cAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "75 Inventor: Jerome M. Shapiro, Philadelphia, Pa.",
+                "cites": "0",
+                "year": "1984"
+            },
+            "id_citations": "MplR7_cAAAAJ:3_iODIlCio4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FastICA\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:m1aD9PlKDecC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible information routing in neural populations through stochastic comodulation\u2013Supplementary material\u2013",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:Q7hiZQKJ-pAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compound stimuli reveal the structure of visual motion selectivity",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:f9jR0vFhilIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Non-Specific Suppression in V1 Neurons with a Statistically-Derived Normalization Model",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:yHoQYHXJRqAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of Natural Images",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:6G1OFF11MdUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Temporal Dynamics of Meta-Cognition in a Continuous Visuomotor Task",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:i9zlNfTiRXIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Review of Linear System Theory",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:N75c7piKpcAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To appear: Proc. 21st IEEE Int'l Conf on Image Processing, Oct 27-30, 2014, Paris, France.",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:Z8CpXElfgm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing efficient coding: projective (not receptive) fields are the key theoretical prediction",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient coding is consistent with the irregular shapes of retinal ganglion cell receptive fields",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diversity of E cient Coding Solutions for a Population of Noisy Linear Neurons",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A doubly-stochastic model to analyze neuronal activity in the visual cortex",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "789.6 A general methodology for estimating multiple spike trains from multi-electrode recordings",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IEEE SIGNAL PROCESSING SOCIETY",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting simultaneous spikes in multi-neuron recordings using a generative model of electrode data",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer and Information Science Dept. University of Pennsylvania Philadelphia, PA 19104",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The perceptual interpretation of a moving square-wave plaid is speed-dependent",
+                "cites": "0"
+            },
+            "id_citations": "MplR7_cAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=MplR7_cAAAAJ"
+}

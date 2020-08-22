@@ -1,0 +1,3414 @@
+{
+    "affiliation": "University Professor (PIK), bioengineering and neuroscience, UPenn",
+    "cites_per_year": {
+        "2003": 86,
+        "2004": 96,
+        "2005": 140,
+        "2006": 166,
+        "2007": 246,
+        "2008": 267,
+        "2009": 334,
+        "2010": 425,
+        "2011": 579,
+        "2012": 609,
+        "2013": 1084,
+        "2014": 783,
+        "2015": 1001,
+        "2016": 1159,
+        "2017": 1474,
+        "2018": 1831,
+        "2019": 1892,
+        "2020": 1378
+    },
+    "citedby": 13768,
+    "citedby5y": 8774,
+    "coauthors": [
+        {
+            "affiliation": "Cognitive Science, University Osnabr\u00fcck",
+            "id": "Ieubd0EAAAAJ",
+            "name": "Peter K\u00f6nig"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, Columbia University",
+            "id": "YM8BRlUAAAAJ",
+            "name": "Daniel Wolpert"
+        },
+        {
+            "affiliation": "Associate Professor, University of Connecticut",
+            "id": "p_SwsGcAAAAJ",
+            "name": "Ian Stevenson"
+        },
+        {
+            "affiliation": "Professor of Psychology, Peking University",
+            "id": "wGn-4gEAAAAJ",
+            "name": "Wei Kunlin"
+        },
+        {
+            "affiliation": "University of Illinois at Chicago",
+            "id": "-21GKOQAAAAJ",
+            "name": "Max Berniker"
+        },
+        {
+            "affiliation": "Professor of Physiology, Physical Medicine and Rehabilitation, Biomedical Engineering, Northwestern",
+            "id": "24i8cx8AAAAJ",
+            "name": "Lee E. Miller"
+        },
+        {
+            "affiliation": "School of Information Studies, Syracuse University",
+            "id": "GAi23ssAAAAJ",
+            "name": "Daniel E. Acuna"
+        },
+        {
+            "affiliation": "Professor of Preventive Medicine, Director of the Center for Behavioral Intervention Technologies",
+            "id": "CgFxSnAAAAAJ",
+            "name": "David C. Mohr"
+        },
+        {
+            "affiliation": "Assistant Professor of Computer Science",
+            "id": "LPzMx1IAAAAJ",
+            "name": "Mark V. Albert"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "rRJ9wTJMUB8C",
+            "name": "Joshua B. Tenenbaum"
+        },
+        {
+            "affiliation": "Postdoc, Columbia University",
+            "id": "tbfWCDgAAAAJ",
+            "name": "Joshua I. Glaser"
+        },
+        {
+            "affiliation": "Cognitive Neuroscience, Bielefeld University",
+            "id": "F7VTyJgAAAAJ",
+            "name": "Christoph Kayser"
+        },
+        {
+            "affiliation": "Data Scientist, Verily Life Sciences",
+            "id": "9jqURCEAAAAJ",
+            "name": "Sohrab Saeb"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Minnesota",
+            "id": "Ztwn608AAAAJ",
+            "name": "Iris Vilares"
+        },
+        {
+            "affiliation": "Chemnitz University of Technology",
+            "id": "PBjPVrEAAAAJ",
+            "name": "Wolfgang Einh\u00e4user Treyer"
+        },
+        {
+            "affiliation": "Northwestern University; Shirley Ryan Abilitylab/ Rehabilitation Institute of Chicago",
+            "id": "Vgr1zQsAAAAJ",
+            "name": "Arun Jayaraman"
+        },
+        {
+            "affiliation": "",
+            "id": "JtltLUAAAAAJ",
+            "name": "Pavan Ramkumar"
+        },
+        {
+            "affiliation": "DeepMind, MIT",
+            "id": "pRTuNPsAAAAJ",
+            "name": "Adam H Marblestone"
+        },
+        {
+            "affiliation": "PhD Candidate, University of Pennsylvania",
+            "id": "GW6D4ZIAAAAJ",
+            "name": "Ari Benjamin"
+        },
+        {
+            "affiliation": "Harvard Medical School",
+            "id": "SfDzdgEAAAAJ",
+            "name": "George Church"
+        }
+    ],
+    "email": "@upenn.edu",
+    "hindex": 53,
+    "hindex5y": 43,
+    "i10index": 161,
+    "i10index5y": 140,
+    "id": "MiFqJGcAAAAJ",
+    "interests": [
+        "data science",
+        "neuroscience",
+        "causal inference",
+        "neurotechnology",
+        "deep learning"
+    ],
+    "name": "Konrad Paul Kording",
+    "publications": [
+        {
+            "bib": {
+                "title": "Bayesian integration in sensorimotor learning",
+                "cites": "1768",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian decision theory in sensorimotor control",
+                "cites": "757",
+                "year": "2006"
+            },
+            "id_citations": "MiFqJGcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal inference in multisensory perception",
+                "cites": "715",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How advances in neural recording affect data analysis",
+                "cites": "436",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamics of memory as a consequence of optimal adaptation to a changing body",
+                "cites": "400",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study",
+                "cites": "373",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:N3pez2oqSB0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward an integration of deep learning and neuroscience",
+                "cites": "332",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:xEWuX1mE_FUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevance of error: what drives motor adaptation?",
+                "cites": "310",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision theory: what\" should\" the nervous system do?",
+                "cites": "307",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating the sources of motor errors for adaptation and generalization",
+                "cites": "283",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The statistics of natural hand movements",
+                "cites": "237",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting scientific success",
+                "cites": "228",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:QC_fukgq8lwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception",
+                "cites": "220",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:KRujTB8-hGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian models: the structure of the world, uncertainty, behavior, and the brain",
+                "cites": "207",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory cue integration",
+                "cites": "188",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fall classification by machine learning using mobile phones",
+                "cites": "182",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The loss function of sensorimotor learning",
+                "cites": "180",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How are complex cell properties adapted to the statistics of natural stimuli?",
+                "cites": "165",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physical principles for scalable neural recording",
+                "cites": "163",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Could a neuroscientist understand a microprocessor?",
+                "cites": "158",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:hWqix75wD0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty of feedback and state estimation determines the speed of motor adaptation",
+                "cites": "152",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised topic modelling for multi-party spoken discourse",
+                "cites": "150",
+                "year": "2006"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wii Fit balance board playing improves balance and gait in Parkinson disease",
+                "cites": "147",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The world from a cat\u2019s perspective\u2013statistics of natural videos",
+                "cites": "144",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the invariance properties of complex cells from their responses to natural stimuli",
+                "cites": "143",
+                "year": "2002"
+            },
+            "id_citations": "MiFqJGcAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring functional connections between neurons",
+                "cites": "134",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian integration in force estimation",
+                "cites": "131",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing of complex stimuli and natural scenes in the visual cortex",
+                "cites": "117",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating top-down and bottom-up sensory processing by somato-dendritic interactions",
+                "cites": "116",
+                "year": "2000"
+            },
+            "id_citations": "MiFqJGcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning priors for Bayesian computations in the nervous system",
+                "cites": "113",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian inference of functional connectivity and network structure from spikes",
+                "cites": "113",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning with two sites of synaptic integration",
+                "cites": "113",
+                "year": "2000"
+            },
+            "id_citations": "MiFqJGcAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse spectrotemporal coding of sounds",
+                "cites": "108",
+                "year": "2003"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential representations of prior and likelihood uncertainty in the human brain",
+                "cites": "106",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relationship between mobile phone location sensor data and depressive symptom severity",
+                "cites": "99",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:qqRC41JmxUcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using mobile phones for activity recognition in Parkinson\u2019s patients",
+                "cites": "91",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of natural movements are reflected in motor errors",
+                "cites": "87",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal integration of olfactory perceptual evidence in human orbitofrontal cortex",
+                "cites": "83",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing Bayesian models for multisensory cue combination without mandatory integration",
+                "cites": "81",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-reproducibility and high-accuracy method for automated topic classification",
+                "cites": "80",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:0ju6dEALV5wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rewiring neural interactions by micro-stimulation",
+                "cites": "77",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hand, belt, pocket or bag: Practical activity tracking with mobile phones",
+                "cites": "76",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting slow subspaces from natural videos leads to complex cells",
+                "cites": "74",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tackling climate change with machine learning",
+                "cites": "69",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:adgdM4TzidAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning for neural decoding",
+                "cites": "66",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:VsjxJ5V0Y48C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning of novel dynamics is not represented in a single global coordinate system: evaluation of mixed coordinate representations and local learning",
+                "cites": "65",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:VyewGSb6xwwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neuroeconomics approach to inferring utility functions in sensorimotor control",
+                "cites": "65",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "64",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:mN77zE6YZBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin affects movement gain control in the spinal cord",
+                "cites": "59",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:zAdBnjttzAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical assessment of the stability of neural movement representations",
+                "cites": "59",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional connectivity and tuning curves in populations of simultaneously recorded neurons",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The need to approximate the use-case in clinical machine learning",
+                "cites": "55",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:h6PnSEVdkykC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian integration and non-linear feedback control in a full-body motor task",
+                "cites": "53",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saliency and saccade encoding in the frontal eye field during natural scene search",
+                "cites": "52",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Nw5Pwe77XXAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating the relevance of world disturbances to explain savings, interference and long-term motor adaptation effects",
+                "cites": "52",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supervised and unsupervised learning with two sites of synaptic integration",
+                "cites": "52",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring cation dependent DNA polymerase fidelity landscapes by deep sequencing",
+                "cites": "51",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward perceiving robots as humans: Three handshake models face the turing-like handshake test",
+                "cites": "51",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian approaches to sensory integration for motor control",
+                "cites": "47",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using and understanding cross-validation strategies. Perspectives on Saeb et al.",
+                "cites": "46",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:FGCrkofroJsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The statistical determinants of the speed of motor learning",
+                "cites": "45",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lZkERF9nS_wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of orientation tuning in cat V1 neurons depend on location within layers and orientation maps",
+                "cites": "45",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Science Concierge: A fast content-based recommendation system for scientific publications",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:wXCFTzxW9NYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self versus environment motion in postural control",
+                "cites": "42",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic discovery of cell types and microcircuitry from neural connectomics",
+                "cites": "41",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:aUOtug7Ojf8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian statistics: relevant for the brain?",
+                "cites": "41",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TKTY8N1AUUAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion games improve balance control in stroke survivors: A preliminary study based on the principle of constraint-induced movement therapy",
+                "cites": "41",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:iC1Mcd5kvfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medical evaluation system and method using sensors in mobile devices",
+                "cites": "39",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Premotor and motor cortices encode reward",
+                "cites": "39",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:nS6_t4fuB3kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning to detect signatures of disease in liquid biopsies\u2013a user's guide",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:uy1uh4dpqf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Bayesian modeling and Markov chain Monte Carlo sampling for tuning-curve analysis",
+                "cites": "37",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying mesoscale neuroanatomy using x-ray microtomography",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:yyP9NS4UN-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain: a statistical account",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:2hxEYnSErgUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chunking as the result of an efficiency computation trade-off",
+                "cites": "36",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:jMMVlDWEh88C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal Inference in Sensorimotor Learning",
+                "cites": "35",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of sparse auditory receptive fields",
+                "cites": "35",
+                "year": "2002"
+            },
+            "id_citations": "MiFqJGcAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does EMG control lead to distinct motor adaptation?",
+                "cites": "33",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:-LBJnDjEUMIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Of toasters and molecular ticker tapes",
+                "cites": "33",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the nonlinearity of neurons from natural visual stimuli",
+                "cites": "33",
+                "year": "2003"
+            },
+            "id_citations": "MiFqJGcAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To the cloud! A grassroots proposal to accelerate brain science discovery",
+                "cites": "32",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:E6txfPUJewUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep networks for motor control functions",
+                "cites": "32",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:YfTjWGZx48AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multifaceted aspects of chunking enable robust algorithms",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:L2DjCdFNi3gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multifaceted aspects of chunking enable robust algorithms",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ChsjQIg5EFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The uncertainty associated with visual flow fields and their influence on postural sway: Weber's law suffices to explain the nonlinearity of vection",
+                "cites": "32",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of supervised machine learning in systems neuroscience",
+                "cites": "30",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:pf0VL3QzzAAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of expected reward in frontal eye field during natural scene search",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:vf0YIhSwahgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nervous system uses nonspecific motor learning in response to random perturbations of varying nature",
+                "cites": "28",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mobile phone detection of semantic location and its relationship to depression and anxiety",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:HM9HXerLlEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time evaluation of a noninvasive neuroprosthetic interface for control of reach",
+                "cites": "27",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory adaptation and short term plasticity as Bayesian correction for a changing brain",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The generalization of prior uncertainty during reaching",
+                "cites": "26",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:wTlTSBh5aqwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The generalization of prior uncertainty during reaching",
+                "cites": "26",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:rt-opDMcQ_cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal inference in sensorimotor integration",
+                "cites": "26",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons with two sites of synaptic integration learn invariant representations",
+                "cites": "26",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sociology of scientific validity: How professional networks shape judgement in peer review",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:5MWWCdJses0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using psychophysics to ask if the brain samples or maximizes",
+                "cites": "25",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ahKOoLCzQxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How much to trust the senses: Likelihood learning",
+                "cites": "25",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:MZHH0dlIDt0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical analysis of molecular signal recording",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Credit assignment during movement reinforcement learning",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ten simple rules for structuring papers",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:RO_jAx7SIW8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using noise to shape motor learning",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:7GbmjkRdlf4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable passive sleep monitoring using mobile phones: opportunities and obstacles",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:wmBOIy6d62IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A learning rule for dynamic recruitment and decorrelation",
+                "cites": "23",
+                "year": "2000"
+            },
+            "id_citations": "MiFqJGcAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity recognition for persons with stroke using mobile phone technology: toward improved performance in a home setting",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:N-Wl9uZK064C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature-based attention and spatial selection in frontal eye fields during natural scene search",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:jOyC0gq838wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relationship between clinical, momentary, and sensor-based assessment of depression",
+                "cites": "22",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:bF3sBmdg0HEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monitoring functional capability of individuals with lower limb amputations using mobile phones",
+                "cites": "22",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploration and exploitation during sequential search",
+                "cites": "22",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic model of meetings that combines words and discourse features",
+                "cites": "22",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal coding for naturally occurring whisker deflections",
+                "cites": "22",
+                "year": "2003"
+            },
+            "id_citations": "MiFqJGcAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches",
+                "cites": "21",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population coding of conditional probability distributions in dorsal premotor cortex",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:p2iGfxNeIOAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meaningless comparisons lead to false optimism in medical machine learning",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Y7HEs_YmcnEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saccadic suppression as a perceptual consequence of efficient sensorimotor estimation",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TXeVt8n0jncC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation to random and systematic errors: Comparison of amputee and non-amputee control interfaces with varying levels of process noise",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:0PPYGq5nos8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EMG versus torque control of human\u2013machine systems: Equalizing control signal variability does not equalize error or uncertainty",
+                "cites": "20",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:moWhu9_CcosC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory cue integration",
+                "cites": "20",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:k_8v9Q84L5sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quasi-experimental causality in neuroscience and behavioural research",
+                "cites": "19",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:dL6bBWYs_hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voodoo machine learning for clinical predictions",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:yREA-gn6pYwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting cognitive function from clinical measures of physical function and health status in older adults",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:K0fIQ6b0NmsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rosetta brains: A strategy for molecularly-annotated connectomics",
+                "cites": "18",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:nazVBdFzvK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the similarity of functional connectivity between neurons estimated across timescales",
+                "cites": "18",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, and Yoshua Bengio. 2019. Tackling Climate Change with Machine Learning",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lOLSY4hLU6kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty leads to persistent effects on reach representations in dorsal premotor cortex",
+                "cites": "17",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:t_XbbNNkFXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring generalization of visuomotor perturbations in wrist movements using mobile phones",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-contact eye-tracking on cats",
+                "cites": "17",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Computational Neuroscience: a new conference for an emerging discipline",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:0GenKHZIuKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The development and analysis of integrated neuroscience data",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:i4l3h6Pr8ZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalization of stochastic visuomotor rotations",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automating ischemic stroke subtype classification using machine learning and natural language processing",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:iINcni2fUZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The lure of causal statements: Rampant mis-inference of causality in estimated connectivity",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:T4xR6ACgc60C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single reach plans in dorsal premotor cortex during a two-target task",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:7eciy3tyNvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic medication increases reliance on current information in Parkinson\u2019s disease",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:nnVijz9KPVYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Web-based assessment of outcomes after subarachnoid and intracerebral hemorrhage: a new patient centered option for outcomes assessment",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ssyqJ5znRdsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-expressive decompositions for matrix approximation and clustering",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:B-V0BYNYc0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixture of time-warped trajectory models for movement decoding",
+                "cites": "15",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting properties of the rat somatosensory system by sparse coding",
+                "cites": "15",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of training breadth on motor generalization",
+                "cites": "14",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:9hYaGTfn7EkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer use changes generalization of movement learning",
+                "cites": "14",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:CxegcQ4u50YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining image signals before three-dimensional reconstruction: The intrinsic constraint model of cue integration",
+                "cites": "14",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:m6EE8XZ9-ZkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trust and reciprocity: are effort and money equivalent?",
+                "cites": "14",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What does it mean to understand a neural network?",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:FQnhRx9bfrkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern machine learning as a benchmark for fitting neural responses",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:LYW2S8xaXYEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern machine learning far outperforms GLMs at predicting spikes",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Hf1drVALF3gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The database for reaching experiments and models",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An examination of the generalizability of motor costs",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Determining posture from physiological tremor",
+                "cites": "13",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear-nonlinear-time-warp-poisson models of neural activity",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:1GbOEZ86UTAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The development of Bayesian integration in sensorimotor estimation",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Dyy3vkn44wwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral tracking gets real",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:94rQ0kDLHKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cryptography-based approach for movement decoding",
+                "cites": "12",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:wxMeWMEqLDMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural coordination during reach-to-grasp",
+                "cites": "12",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:2hszv8GT5-sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conneconomics: the economics of large-scale neural connectomics",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:OjREftYh6kAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring spike-timing-dependent plasticity from spike train data",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic mechanisms in sensorimotor control",
+                "cites": "12",
+                "year": "2006"
+            },
+            "id_citations": "MiFqJGcAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral weighting underlies perceived sound elevation",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:8U9l5EwV_MEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerometry-enabled measurement of walking performance with a robotic exoskeleton: a pilot study",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:2oMuTuaXnloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning distinct and complementary feature selectivities from natural colour videos",
+                "cites": "11",
+                "year": "2003"
+            },
+            "id_citations": "MiFqJGcAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making activity recognition robust against deceptive behavior",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:zHqMQc01HCoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial information in large-scale neural recordings",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:haVc-jTD6xgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensor-fault tolerant control of a powered lower limb prosthesis by mixing mode-specific adaptive Kalman filters",
+                "cites": "10",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal inference in cue combination",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:WhXzBXCJJjMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple timescales and uncertainty in motor adaptation",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution mapping of DNA polymerase fidelity using nucleotide imbalances and next-generation sequencing",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3eH_u9Md8IkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring and regularizing networks in function space",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:wNiDLpJVIZAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fall detection in individuals with lower limb amputations using mobile phones: machine learning enhances robustness for real-world applications",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:6H908wyzF9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalization of unconstrained reaching with hand-weight changes",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In praise of \u201cfalse\u201d models and rich data",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Point of View: Improving on legacy conferences by moving online",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:PHsrdvypza0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Movement science needs different pose tracking algorithms",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:sK9NQJKSZRcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Credit assignment between body and object probed by an object transportation task",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Q7JuyPtTHGoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity recognition in patients with lower limb impairments: do we need training data from each patient?",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:dyGod8kC9dQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Puzzle imaging: Using large-scale dimensionality reduction algorithms for localization",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:0tRseZjC4qsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal decoding and congruent sensory information enhance reaching performance in subjects with cervical spinal cord injury",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining information from different senses: dynamic adjustment of combination weights, and the development of cross-modal integration in children",
+                "cites": "8",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4kG_yR6n1dAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural inference affects depth perception in the context of potential occlusion",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian statistics and utility functions in sensorimotor control",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "MiFqJGcAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the choice of a sparse prior",
+                "cites": "8",
+                "year": "2003"
+            },
+            "id_citations": "MiFqJGcAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning multiple feature representations from natural image sequences",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerating dynamic programs via nested benders decomposition with application to multi-person pose estimation",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4z9AjAXnHeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bioscience-scale automated detection of figure element reuse",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:53CL4OiWbn0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What silly postures tell us about the brain",
+                "cites": "7",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-haptic cue integration with spatial and temporal disparity during pointing movements",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-based causal inference for weight alignment",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:HIhYGD-CTiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying weights and architectures of unknown relu networks",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_hb0F9yZ3cgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Claim extraction in biomedical publications using deep discourse model and transfer learning",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Fd3FjPIBfbkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pose estimates from online videos show that side-by-side walkers synchronize movement under naturalistic conditions",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:KjbfwUOO_FMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to solve the credit assignment problem",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:QBUPEh0AvVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smartwatches can detect walker and cane use in older adults",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:8wCixH_E2vEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of machine learning in biomedical science",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:q2fMW1XeUkEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The integration of probabilistic information during sensorimotor estimation is unimpaired in children with cerebral palsy",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:x-IcQEm-ju4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DNA binding strength increases the processivity and activity of a Y-Family DNA polymerase",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:bFFifWiqnPAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A spike based learning rule for generation of invariant representations",
+                "cites": "6",
+                "year": "2000"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying how staining methods bias measurements of neuron morphologies",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:FOZckGct7WUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Limiting motor skill knowledge via incidental training protects against choking under pressure",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:8BwKzHq_VgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a reproducible, scalable framework for processing large neuroimaging datasets",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:rR1SM4wcGAYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship between sleep quality and mood: ecological momentary assessment study",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lLDkS9sB7dAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A muscle-activity-dependent gain between motor cortex and EMG",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:KEHW5XCvxlQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling of optogenetically evoked signaling in a higher-order corticocortical pathway in the anesthetized mouse",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TSH-eZa2y_MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern machine learning far outperforms GLMs at predicting spikes. bioRxiv",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:IEPzPICaOQQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grand challenges for global brain sciences",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4DUywrCQPfoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed constancy or only slowness: What drives the kappa effect",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:6LI0FKmQuhEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling peripheral visual acuity enables discovery of gaze strategies at multiple time scales during natural scene search",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:1vh4mnD7xAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Priors and learning in cue integration",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:a67U_wXq1t0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian models of motor control",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards learning-to-learn",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:MkYP4vM-iK8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Policies or knowledge: priors differ between a perceptual and sensorimotor task",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:GufwhD5tNfUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer vision to automatically assess infant neuromotor risk",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:yDGX1xMBWXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking allows neurons to estimate their causal effect",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:JNgBMBbBnUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appreciating diversity of goals in computational neuroscience",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:W26WQ4UGDhEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Social Structure of Consensus in Scientific Review",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:B9zx5l6rxUEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting skeletal structure in computer vision annotation with Benders decomposition",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:bsCEZ5n1K3cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting rhesus monkey eye movements during natural-image search",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:vK1Ni-xiviEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time fusion of gaze and EMG for a reaching neuroprosthesis",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dealing with noisy gaze information for a target-dependent neural decoder",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian approaches to modelling action selection",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On functions computed on trees",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:CUz-cjXBMXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving the accuracy of scores to predict gastrostomy after intracerebral hemorrhage with machine learning",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:FTNwVkz-CAMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Carrot or stick in motor learning",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:M9BB6krhjY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saccadic gain adaptation is predicted by the statistics of natural fluctuations in oculomotor function",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Poster 268 Wii Video Game Balance\u2010board Training: Does It Improve Balance and Gait in Adults With Parkinson Disease?",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ihjKul7GT4YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic inference in human sensorimotor processing",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two sites of synaptic integration: relevant for learning?",
+                "cites": "3",
+                "year": "2000"
+            },
+            "id_citations": "MiFqJGcAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MoVi: A Large Multipurpose Motion and Video Dataset",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tltQ_bo2KloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pubmed parser: A python parser for pubmed open-access xml subset and medline xml dataset xml dataset",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:5bGIVMdsOr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pyglmnet: Python implementation of elastic-net regularized generalized linear models",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:pWGfWVkwqDsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaiqing Kong, Kunlin Wei, and Konrad Kording. Pose estimates from online videos show that side-by-side walkers synchronize movement under naturalistic conditions",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:hQ3-0SoZo6AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hue tuning curves in V4 change with visual context",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:evIcR_-jKtEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning for brains?: Different linear and nonlinear scaling in UK Biobank brain images vs. machine-learning datasets",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3z482UoT1zoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sampling neuron morphologies",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:G9rRreC9Hv4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient multi-person pose estimation with provable guarantees",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4lQXLuH3RfAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nucleotide-time alignment for molecular recorders",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:-qiMcZ-2Z0YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity recognition in individuals walking with assistive devices: the benefits of device-specific models",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:t2c9fUEjrewC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convex relaxation regression: Black-box optimization of smooth functions by learning their convex envelopes",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:7iKzEIWBYlQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural representation of likelihood uncertainty in the motor system",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:PQm_lTwdG-sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ten simple rules for structuring papers",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:6UW509z96lEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similar trial-by-trial adaptation behavior across transhumeral amputees and able-bodied subjects",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lAkp0ULYU5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of powered prosthesis control signals on trial-by-trial adaptation to visual perturbations",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:6daZS1cS2l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dealing with target uncertainty in a reaching control interface",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:sr8OKcTvXucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced User Interfaces for Upper Limb Functional Electrical Stimulation",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:F2VeH06lQh8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian modeling of perception",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:L9GP20v134kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor adaptation and the proprioceptive estimates of limb state",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:xyhAN3YsZoYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Looking for synergies between the equilibrium point hypothesis and internal models",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual decision-making in the human olfactory brain",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating bottom-up and top-down processing in active dendrites",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving on legacy conferences by moving online",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:SCE0ypLQHGcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A three-dimensional thalamocortical dataset for characterizing brain heterogeneity",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:znQEAXyEQe8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A how-to-model guide for Neuroscience",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:DejRBzv9GVYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensorimotor priors are effector dependent",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:UX7E2m6xpKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Data-Driven Autonomous Robot-Assisted Physical Rehabilitation Therapy",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Qwfv3SoyJx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural spiking for causal inference",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tKAXkfz_euYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recording temporal data onto DNA with minutes resolution",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:kuAnG0LXj_AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring causal connectivity from pairwise recordings and optogenetics",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Fp1gVP7Oym8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rate fluctuations not steps dominate LIP activity during decision-making",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_sH1KHQ1xKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From preliminary to definitive plans: two classes of neurons in frontal eye field",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:t5t9nzMiR1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensor fusion to infer locations of standing and reaching within the home in incomplete spinal cord injury",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:cInq4TRmCz8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convex Relaxation Regression Systems and Related Methods",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:V2uI0bKpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corticocortical signaling drives activity in a downstream area rapidly and scalably",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:rbgNTKsR3fAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "JMIR Rehabilitation and Assistive Technologies",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:cKQgJgBA5EIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic analysis of muscle force uncertainty for control",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:V1pH50uuazEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smartphone sensor correlates of depressive symptom severity in daily-life behavior",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:mVcUxdmZzz4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for a rehabilitation dashboard",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:vG0dlTq9_mQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conceptualizing cancer drugs as classifiers",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3xcwCnWquLEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced User Interfaces for Upper Limb FES",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:8d0RQTsQA7wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An investigation of how prior beliefs influence decision-making under uncertainty in a 2afc task",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:6b9k5MOVaqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual environment of cats.",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An adversarial algorithm for variational inference with a new role for acetylcholine",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:xoCRtiy2jdkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PDE constraints on smooth hierarchical functions computed by neural networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:rmR93V40Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From prior information to saccade selection: evolution of frontal eye field activity during natural scene search",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_Nt1UvVys9QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for detecting corrupt or inaccurate sensory representations",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tLD3X6oaJq0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appreciating the variety of goals in computational neuroscience",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:GCDlZl827dEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COVID-19 pandemic: every day feels like a weekday to most",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:QvnCfHfiBIkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A web-based automated machine learning platform to analyze liquid biopsy data",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "MiFqJGcAAAAJ:quBVm8e4N6QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:8Rip7PbZ7AYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "End-to-end Training of CNN-CRF via Differentiable Dual-Decomposition",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:sJRvXmEhuqoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Augmenting Supervised Learning by Meta-learning Unsupervised Local Rules",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:gAJFiZdMcUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Deep Dive to Illuminate V4 Neurons",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lIeuKFitLToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse engineering neural networks from many partial recordings",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:gqw4OU68NNkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rarely-switching linear bandits: optimization of causal effects for the real world",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ptF5elMcwUYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying the role of neurons for behavior is a mediation question",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ouq6-fJ2VSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Storing temporal data with minutes resolution into DNA",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:SenaEjHFqFYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regression Discontinuity Threshold Optimization",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:sFh2DmJudxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convex Relaxation Regression Systems and Related Methods",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:LyOydA3uxaIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse-Engineering Deep ReLU Networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:QobCCQ6YufAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recording temporal data with minutes resolution into DNA",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:uk0w_JccWH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ten simple rules for organizing and running a successful intensive two-week course",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "MiFqJGcAAAAJ:6zSeHT1sY2IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "While optimal models are useful, optimality claims are not that common.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:rv71eUSj1K8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: Scaling of Optogenetically Evoked Signaling in a Higher-Order Corticocortical Pathway in the Anesthetized Mouse",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:f1xuXVtw34IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic remapping in Monkey Frontal Eye Field preserves a retinotopic representation during visual search, then compresses space toward the search target.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TWu9ukPC6OgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Pipeline for Distributed Segmentation of Teravoxel Tomography Datasets",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:hr3fuUPBhqIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medical evaluation system and method using sensors in mobile devices",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:RLNBYFRFzK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving generalization by regularizing in  function space",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:My6PM0vftjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract WMP71: Using Machine Learning to Classify Ischemic Stroke Subtype From Electronic Heath Records",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ocFeo90gyj0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The development of Bayesian integration in",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:sRzLl6AghiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Although optimal models are useful, optimality claims are not that common",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:tVzLobxzA7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronization of walking \u201cin the wild\u201d",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_UIRw3K-QSMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Devices and applications at the micro-and nanoscale rsc. li/loc",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "MiFqJGcAAAAJ:R4LAE1HziJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data Butler",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:pNwUjlbgJN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ten simple rules for structuring papers. PLoS Comput Biol13 (9): e1005619",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Dqu_ECg3lNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Addendum of: Fall detection in individuals with lower limb amputations using mobile phones: machine learning enhances robustness for real-world applications",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3u3nxgfnd-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understand the cogs to understand cognition",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:-Xpk-jsdKCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Authorship Correction: Scalable Passive Sleep Monitoring Using Mobile Phones: Opportunities and Obstacles",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Dnd9Dw9jpwAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How does mixed reality affect quiet stance?",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "MiFqJGcAAAAJ:L1d--jQnBlAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using psychophysics to ask if the brain samples or maximizes (vol 15, pg 1, 2015)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:vMKmsr18IoIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From sample to knowledge: Towards an integrated approach for neuroscience discovery",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:7MdmnBSEV98C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From sample to knowledge: Towards an integrated approach for neuroscience discovery",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:c0d25C_dN_AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convex Relaxation Regression: Efficient Optimization of Smooth Functions by Learning Their Convex Envelopes",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:uoIO7Ko97q4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TAkmkrPVePIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-Throughput Polymerase Fidelity Evolution in Microfluidic Droplets",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "MiFqJGcAAAAJ:voxG-9qLvA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The geometry of Tempotronlike problems",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:nk1qRvIppk4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling peripheral visual acuity enables discovery of",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:kMwF0kOiZPMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using psychophysics to ask if the brain samples or",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "MiFqJGcAAAAJ:M9uBOdsrCRgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A geometrical treatment of Tempotron-like problems",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:A36e8EsbUSoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting eye movements of rhesus monkeys searching for pedestrians in natural images",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:PicmXY_cuE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (July 30, 2014). doi: 10.1152/jn. 00028.2014",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:UOgPUojWnykC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning of novel dynamics is not represented in",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "MiFqJGcAAAAJ:PV2Y7XyTJDgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing the statistically optimal drug for cancer therapy",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target relevance modulates primate gaze behavior during natural scene search",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of likelihoods for Bayesian computations",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P4\u2013208: Predicting cognitive function from clinical measures of mobility and health status: A L1\u2010L2 regularized regression approach",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:GjQuYujAsN4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (December 18, 2013). doi: 10.1152/jn. 00493.2013",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "MiFqJGcAAAAJ:N5ITjzxXrcwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TIME-WARPING AND SENSOR FUSION TO IMPROVE RECONSTRUCTION OF REACHING MOVEMENTS",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:zEEUHg7m05MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does Parkinson\u2019s disease make subjects less Bayesian?. Front. Neurosci. Conference Abstract: Neural Coding",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "MiFqJGcAAAAJ:nrS8eym_YfUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrete-time local dynamic programming",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical assessment of the stability of neural",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "MiFqJGcAAAAJ:n94QCav8jycC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The uncertainty associated with visual flow fields and their",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:boGf3zyra0UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How does the human brain deal with uncertainty",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "MiFqJGcAAAAJ:9AjqDp0R1qcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-haptic integration during pointing movements",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An analysis of functional connectivity across time-scales",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olfactory Perceptual Decision-Making in the Human Olfactory Brain",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "MiFqJGcAAAAJ:jLZKTOxUWNYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic mechanisms in",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "MiFqJGcAAAAJ:xEh6bupSuykC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ESF-EMBO Symposia on Three-Dimensional Sensory and Motor Space",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "MiFqJGcAAAAJ:GK0_TXnxOL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The world from a cat\u2019s perspective\u2013statistics of natural videos.",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "MiFqJGcAAAAJ:DnwG-TGCLFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NOTE Communicated by Bruno Olshausen",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "MiFqJGcAAAAJ:cTdzRpWJKHEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A complete system for non-contact eye tracking on cats",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:qyZFqkKsXusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of invariances from natural videos",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:Afq3j1Mvmz0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning complex cells from natural movies",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:mYPvCrJ_kzAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supervised and self-supervised learning with two sites of synaptic integration?",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:kzhWOX1w8eAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dual purkinje eyetracking with cats",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The time course of natural stimuli leads to the emergence of complex cells",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimization and learning-from microscopic cell properties to natural videos",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "MiFqJGcAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What a backpropagating action potential can be good for",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "MiFqJGcAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:3eDEwZmXtlkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Christensen, A.,... Kording, KP (2019). A deep learning framework for",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:1q1G2TXS1G0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nucleotide-Time Alignment for Molecular Ticker-Tapes",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:suENJ97mPqEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying the effect of staining methods on extracted neuron morphology",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:lD5Rj62EkMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "neuromatch: Algorithms to match scientists",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:b1ISl_ktn64C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shared visual illusions between humans and artificial neural networks",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:4givWmz5LegC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Infant sentiment analysis in behavioral qualification",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:jhmUvTrEinIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PLOS Computational Biology would like to thank all those who served on the Editorial Board in 2017: Mark Alber Samuel Alizon",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ooaom_WTAwIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technology to Track Adherence: Smartwatches Can Detect Walker and Cane Use in Older Adults at High Risk of Falls",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_b9rsmHxKOYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physical Review X",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:FGlqWXlxCNkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An information-theoretic approach to neural computing An information-theoretic approach to neural computing, 1996",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:LqrXEw5M15gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information Differential Representations of Prior and Likelihood Uncertainty in the Human Brain",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:bZtZ2VP7DRgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Inference in Human Sensorimotor Processing",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:CQrscp367IIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "B1-B9 Cell Groups (Serotonergic Cell Groups)",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor systems",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Laurenz Wiskott et al.(2011), Scholarpedia, 6 (4): 5282. doi: 10.4249/scholarpedia. 5282 revision# 87486 [link to/cite this article]",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining postural sway by causal inference",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional Independence and Graphical Bayesian Models",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The statistics of sensorimotor tasks and motor errors",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Hierarchical Bayesian Model for Topic Segmentation",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPECIAL SECTION ON MODELING THE CONNECTIVITY OF NEURAL SYSTEMS",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of sensorimotor tasks predicts motor errors",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal inference in motor adaptation",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Addressing Bayesian statistics and Utility functions in psychophysical experiments (with particular focus on the motor system)",
+                "cites": "0"
+            },
+            "id_citations": "MiFqJGcAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=MiFqJGcAAAAJ"
+}

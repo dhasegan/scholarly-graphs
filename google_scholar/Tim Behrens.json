@@ -1,0 +1,2767 @@
+{
+    "affiliation": "Professor of Computational Neuroscience, University of Oxford. Honorary Lecturer, UCL",
+    "cites_per_year": {
+        "2005": 210,
+        "2006": 426,
+        "2007": 814,
+        "2008": 1322,
+        "2009": 1961,
+        "2010": 2485,
+        "2011": 3354,
+        "2012": 4057,
+        "2013": 4857,
+        "2014": 5679,
+        "2015": 6403,
+        "2016": 6979,
+        "2017": 7532,
+        "2018": 8018,
+        "2019": 8942,
+        "2020": 5231
+    },
+    "citedby": 69046,
+    "citedby5y": 43132,
+    "coauthors": [],
+    "email": "@fmrib.ox.ac.uk",
+    "hindex": 107,
+    "hindex5y": 88,
+    "i10index": 180,
+    "i10index5y": 170,
+    "id": "i3l_ejQAAAAJ",
+    "interests": [
+        "Computational Neuroscience",
+        "Behavioral Neuroscience",
+        "Decision Making",
+        "Learning",
+        "Brain connectivity"
+    ],
+    "name": "Tim Behrens",
+    "publications": [
+        {
+            "bib": {
+                "title": "Advances in functional and structural MR image analysis and implementation as FSL",
+                "cites": "13692766468125931006",
+                "year": "2004",
+                "url": "https://www.sciencedirect.com/science/article/pii/S1053811904003933",
+                "author": "Stephen M Smith and Mark Jenkinson and Mark W Woolrich and Christian F Beckmann and Timothy EJ Behrens and Heidi Johansen-Berg and Peter R Bannister and Marilena De Luca and Ivana Drobnjak and David E Flitney and Rami K Niazy and James Saunders and John Vickers and Yongyue Zhang and Nicola De Stefano and J Michael Brady and Paul M Matthews",
+                "journal": "Neuroimage",
+                "volume": "23",
+                "pages": "S208-S219",
+                "publisher": "Academic Press",
+                "abstract": "The techniques available for the interrogation and analysis of neuroimaging data have a large influence in determining the flexibility, sensitivity, and scope of neuroimaging experiments. The development of such methodologies has allowed investigators to address scientific questions that could not previously be answered and, as such, has become an important research area in its own right.",
+                "eprint": "http://www.academia.edu/download/50530534/j.neuroimage.2004.07.05120161124-6458-1m4qs75.pdf"
+            },
+            "id_citations": "i3l_ejQAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fsl",
+                "cites": "5220",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tract-based spatial statistics: voxelwise analysis of multi-subject diffusion data",
+                "cites": "5132",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic diffusion tractography with multiple fibre orientations: What can we gain?",
+                "cites": "2800",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization and propagation of uncertainty in diffusion\u2010weighted MR imaging",
+                "cites": "2621",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive mapping of connections between human thalamus and cortex using diffusion imaging",
+                "cites": "2124",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The WU-Minn human connectome project: an overview",
+                "cites": "2115",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian analysis of neuroimaging data in FSL",
+                "cites": "1811",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the value of information in an uncertain world",
+                "cites": "1436",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multilevel linear modelling for FMRI group analysis using Bayesian inference",
+                "cites": "1290",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training induces changes in white-matter architecture",
+                "cites": "1279",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Human Connectome Project: a data acquisition perspective",
+                "cites": "1103",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal decision making and the anterior cingulate cortex",
+                "cites": "897",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Triangulating a cognitive control network using diffusion-weighted magnetic resonance imaging (MRI) and functional MRI",
+                "cites": "865",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontal cortex and reward-guided learning and decision-making",
+                "cites": "831",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Associative learning of social value",
+                "cites": "809",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice, uncertainty and value in prefrontal and cingulate cortex",
+                "cites": "794",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion MRI: from quantitative measurement to in vivo neuroanatomy",
+                "cites": "791",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolution of the arcuate fasciculus revealed with comparative DTI",
+                "cites": "663",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in connectivity profiles define functionally distinct regions in human medial frontal cortex",
+                "cites": "645",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anatomically related grey and white matter abnormalities in adolescent-onset schizophrenia",
+                "cites": "631",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tools of the trade: psychophysiological interactions and functional connectivity",
+                "cites": "568",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in diffusion MRI acquisition and processing in the Human Connectome Project",
+                "cites": "567",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How green is the grass on the other side? Frontopolar cortex and the evidence in favor of alternative courses of action",
+                "cites": "550",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrasting roles for cingulate and orbitofrontal cortex in decisions and social behaviour",
+                "cites": "524",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anatomical connectivity of the subgenual cingulate region targeted with deep brain stimulation for treatment-resistant depression",
+                "cites": "522",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acquisition and voxelwise analysis of multi-subject diffusion data with tract-based spatial statistics",
+                "cites": "519",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional\u2013anatomical validation and individual variation of diffusion tractography-based segmentation of the human thalamus",
+                "cites": "502",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project",
+                "cites": "489",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effort-based cost\u2013benefit valuation and the human brain",
+                "cites": "461",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MED12 controls the response to multiple cancer drugs through regulation of TGF-\u03b2 receptor signaling",
+                "cites": "434",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of foraging",
+                "cites": "431",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DTI measures in crossing-fibre areas: increased diffusion anisotropy reveals early white matter alteration in MCI and mild Alzheimer's disease",
+                "cites": "426",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative investigation of connections of the prefrontal cortex in the human and macaque using probabilistic diffusion tractography",
+                "cites": "426",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The computation of social behavior",
+                "cites": "421",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A positive-negative mode of population covariation links brain connectivity, demographics and behavior",
+                "cites": "410",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion-weighted imaging tractography-based parcellation of the human parietal cortex and comparison with human and macaque resting-state functional connectivity",
+                "cites": "384",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Double dissociation of value computations in orbitofrontal and anterior cingulate neurons",
+                "cites": "369",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-free MRI predicts individual differences in brain activity during task performance",
+                "cites": "363",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connection patterns distinguish 3 regions of human parietal cortex",
+                "cites": "363",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional organization of the medial frontal cortex",
+                "cites": "356",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated probabilistic reconstruction of white-matter pathways in health and disease using an atlas of the underlying anatomy",
+                "cites": "351",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separable learning systems in the macaque brain and the role of orbitofrontal cortex in contingent learning",
+                "cites": "344",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms underlying cortical activity during value-guided choice",
+                "cites": "325",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion-weighted imaging tractography-based parcellation of the human lateral premotor cortex identifies dorsal and ventral subregions with anatomical and functional \u2026",
+                "cites": "316",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontal cortex subregions play distinct roles in choices between actions and stimuli",
+                "cites": "311",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The human connectome project's neuroimaging approach",
+                "cites": "303",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anatomical and functional connectivity of cytoarchitectonic areas within the human parietal operculum",
+                "cites": "295",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separate value comparison and learning mechanisms in macaque medial and lateral orbitofrontal cortex",
+                "cites": "288",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Organizing conceptual knowledge in humans with a gridlike code",
+                "cites": "285",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast transient networks in spontaneous human brain activity",
+                "cites": "269",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New approaches for exploring anatomical and functional connectivity in the human brain",
+                "cites": "255",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Between session reproducibility and between subject variability of diffusion MR and tractography measures",
+                "cites": "254",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian framework for global tractography",
+                "cites": "253",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response-selection-related parietal activation during number comparison",
+                "cites": "253",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Constrained linear basis sets for HRF modelling using Variational Bayes",
+                "cites": "251",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolution of prefrontal inputs to the cortico-pontine system: diffusion imaging evidence from Macaque monkeys and humans",
+                "cites": "249",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anatomy of choice: active inference and agency",
+                "cites": "248",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consortium WU",
+                "cites": "246",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human connectomics",
+                "cites": "235",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Just pretty pictures? What diffusion tractography can add in clinical neuroscience",
+                "cites": "230",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrity of white matter in the corpus callosum correlates with bimanual co-ordination skills",
+                "cites": "218",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring macroscopic brain connections in vivo",
+                "cites": "217",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable effects of surprise and model update in parietal and anterior cingulate cortex",
+                "cites": "210",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic diffusion tractography: a potential tool to assess the rate of disease progression in amyotrophic lateral sclerosis",
+                "cites": "210",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model\u2010based analysis of multishell diffusion MR data for tractography: how to get over fitting problems",
+                "cites": "209",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Determining anatomical connectivities between cortical and brainstem pain processing regions in humans: a diffusion tensor imaging study in healthy controls",
+                "cites": "207",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tractography analysis of two deep brain stimulation white matter targets for depression",
+                "cites": "201",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatially constrained hierarchical parcellation of the brain with resting-state fMRI",
+                "cites": "194",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity-based parcellation of human cortex using diffusion MRI: establishing reproducibility, validity and observer independence in BA 44/45 and SMA/pre-SMA",
+                "cites": "190",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network analysis detects changes in the contralesional hemisphere following stroke",
+                "cites": "187",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixture models with adaptive spatial regularization for segmentation with an application to fMRI data",
+                "cites": "187",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value, search, persistence and model updating in anterior cingulate cortex",
+                "cites": "185",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion imaging of whole, post-mortem human brains on a clinical MRI scanner",
+                "cites": "185",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo evidence for the selective subcortical degeneration in Huntington's disease",
+                "cites": "174",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An agent independent axis for executed and modeled choice in medial prefrontal cortex",
+                "cites": "173",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Counterfactual choice and learning in a neural network centered on human lateral frontopolar cortex",
+                "cites": "173",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anatomy of choice: dopamine and decision-making",
+                "cites": "172",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online evaluation of novel choices by simultaneous representation of multiple memories",
+                "cites": "172",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive decision making and value in the anterior cingulate cortex",
+                "cites": "170",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity-based functional analysis of dopamine release in the striatum using diffusion-weighted MRI and positron emission tomography",
+                "cites": "166",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crossing fibres in tract-based spatial statistics",
+                "cites": "165",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anxious individuals have difficulty learning the causal statistics of aversive environments",
+                "cites": "163",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Actions, action sequences and habits: evidence that goal-directed and habitual action control are hierarchically organized",
+                "cites": "158",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topography of connections between human prefrontal cortex and mediodorsal thalamus studied with diffusion tractography",
+                "cites": "155",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human and monkey ventral prefrontal fibers use the same organizational principles to reach their targets: tracing versus tractography",
+                "cites": "153",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple signals in anterior cingulate cortex",
+                "cites": "150",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using diffusion tractography to predict cortical connection strength and distance: a quantitative comparison with tracers in the monkey",
+                "cites": "148",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating connectional architecture to grey matter function using diffusion imaging",
+                "cites": "138",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural network underlying incentive-based learning: implications for interpreting circuit disruptions in psychiatric disorders",
+                "cites": "137",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct right frontal lobe activation in language processing following left hemisphere injury",
+                "cites": "135",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ventromedial prefrontal and anterior cingulate cortex adopt choice and default reference frames during sequential multi-alternative choice",
+                "cites": "134",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mechanism for value-guided choice based on the excitation-inhibition balance in prefrontal cortex",
+                "cites": "134",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ball and rackets: inferring fiber fanning from diffusion-weighted MRI",
+                "cites": "133",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep and superficial amygdala nuclei projections revealed in vivo by probabilistic tractography",
+                "cites": "133",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional asymmetry for auditory processing in human primary auditory cortex",
+                "cites": "131",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High resolution diffusion-weighted imaging in fixed human brain using diffusion-weighted steady state free precession",
+                "cites": "129",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Repetition suppression: a means to index neural representations using BOLD?",
+                "cites": "128",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heritability of fractional anisotropy in human white matter: a comparison of Human Connectome Project and ENIGMA-DTI data",
+                "cites": "124",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigation of white matter pathology in ALS and PLS using tract\u2010based spatial statistics",
+                "cites": "124",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences between chimpanzees and bonobos in neural systems supporting social cognition",
+                "cites": "121",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in functional and structural MR image analysis and implementation as FSL. NeuroImage, 23, S208-S219",
+                "cites": "120",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of image reconstruction on fiber orientation mapping from multichannel diffusion MRI: reducing the noise floor using SENSE",
+                "cites": "119",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is a cognitive map? Organizing knowledge for flexible behavior",
+                "cites": "116",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning-induced plasticity in medial prefrontal cortex predicts preference malleability",
+                "cites": "109",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A map of abstract relational knowledge in the human hippocampal\u2013entorhinal cortex",
+                "cites": "108",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segregated encoding of reward\u2013identity and stimulus\u2013reward associations in human orbitofrontal cortex",
+                "cites": "107",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Addressing a systematic vibration artifact in diffusion\u2010weighted MRI",
+                "cites": "102",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayes inference of spatial mixture models for segmentation",
+                "cites": "100",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The CONNECT project: combining macro-and micro-structure",
+                "cites": "99",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion MRI: from quantitative measurement to in-vivo neuroanatomy",
+                "cites": "98",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discordant white matter N-acetylasparate and diffusion MRI measures suggest that chronic metabolic dysfunction contributes to axonal pathology in multiple sclerosis",
+                "cites": "98",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple-subjects connectivity-based parcellation using hierarchical Dirichlet process mixture models",
+                "cites": "97",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerating fibre orientation estimation from diffusion weighted magnetic resonance imaging using GPUs",
+                "cites": "94",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for a vascular contribution to diffusion FMRI at high b value",
+                "cites": "87",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Giving credit where credit is due: orbitofrontal cortex and valuation in an uncertain world",
+                "cites": "86",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliable identification of the auditory thalamus using multi-modal structural analyses",
+                "cites": "86",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in premotor brain systems underlie behavioral apathy",
+                "cites": "80",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The topographic connectome",
+                "cites": "78",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversible, reproducible reduction of brain water apparent diffusion coefficient by cortical electroshocks",
+                "cites": "76",
+                "year": "1997"
+            },
+            "id_citations": "i3l_ejQAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity of an effective hypothalamic surgical target for cluster headache",
+                "cites": "74",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual classification in a rapidly changing environment",
+                "cites": "72",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lesion probability maps of white matter hyperintensities in elderly individuals",
+                "cites": "71",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unmasking latent inhibitory connections in human cortex to reveal dormant cortical memories",
+                "cites": "70",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How can a Bayesian approach inform neuroscience?",
+                "cites": "69",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subthalamic deep brain stimulation sweet spots and hyperdirect cortical connectivity in Parkinson's disease",
+                "cites": "67",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural and functional brain rewiring clarifies preserved interhemispheric transfer in humans born without the corpus callosum",
+                "cites": "67",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping connections in humans and non-human primates: aspirations and challenges for diffusion imaging",
+                "cites": "67",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MR diffusion tractography",
+                "cites": "66",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical and hippocampal correlates of deliberation during model-based decisions for rewards in humans",
+                "cites": "66",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two anatomically and computationally distinct learning signals predict changes to stimulus-outcome associations in hippocampus",
+                "cites": "64",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable reward and timing signals in human midbrain and ventral striatum",
+                "cites": "63",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A consistent relationship between local white matter architecture and functional specialisation in medial frontal cortex",
+                "cites": "62",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying FSL to the FIAC data: Model\u2010based and model\u2010free analysis of voice and sentence repetition priming",
+                "cites": "61",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity of the human periventricular\u2014periaqueductal gray region",
+                "cites": "58",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The danger of systematic bias in group-level FMRI-lag-based causality estimation",
+                "cites": "54",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human replay spontaneously reorganizes experience",
+                "cites": "50",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shifts in reinforcement signalling while playing slot-machines as a function of prior experience and impulsivity",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fusion in diffusion MRI for improved fibre orientation estimation: An application to the 3T and 7T data of the Human Connectome Project",
+                "cites": "49",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capturing the temporal evolution of choice across prefrontal cortex",
+                "cites": "49",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity derived thalamic segmentation in deep brain stimulation for tremor",
+                "cites": "48",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trial-type dependent frames of reference for value comparison",
+                "cites": "42",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Triple dissociation of attention and decision computations across prefrontal cortex",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classic and contemporary neural tract-tracing techniques",
+                "cites": "38",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory engrams in perception and memory",
+                "cites": "37",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Widespread correlation patterns of fMRI signal across visual cortex reflect eccentricity organization",
+                "cites": "37",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self\u2010navigated multishot echo\u2010planar pulse sequence for high\u2010resolution diffusion\u2010weighted imaging",
+                "cites": "37",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional segmentation of the anterior limb of the internal capsule: linking white matter abnormalities to specific connections",
+                "cites": "36",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain systems for probabilistic and dynamic prediction: computational specificity and integration",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic versus deterministic tractography for delineation of the cortico-subthalamic hyperdirect pathway in patients with Parkinson disease selected for deep brain \u2026",
+                "cites": "34",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward-guided learning with and without causal attribution",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is the most interesting part of the brain?",
+                "cites": "34",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-range connectomics",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian analysis of neuroimaging data in FSL. Neuroimage 45, S173\u2013S186",
+                "cites": "31",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RubiX: combining spatial resolutions for Bayesian inference of crossing fibers in diffusion MRI",
+                "cites": "29",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable contributions of ventromedial prefrontal and posterior parietal cortex to value-guided choice",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "International Molecular Genetic Study of Autism Consortium (IMGSAC). Screening of nine candidate genes for autism on chromosome 2q reveals rare nonsynonymous variants in the \u2026",
+                "cites": "28",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous representation of a spectrum of dynamically changing value estimates during decision making",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-Subject Null Hypothesis Testing Using a Fully Bayesian Framework: Theory: Poster number: 986",
+                "cites": "27",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal deep brain stimulation site and target connectivity for chronic cluster headache",
+                "cites": "24",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "& Smith, SM (2009)",
+                "cites": "24"
+            },
+            "id_citations": "i3l_ejQAAAAJ:5icHVeHT4IsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of susceptibility distortions on tractography",
+                "cites": "23",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resting-state FMRI single subject cortical parcellation based on region growing",
+                "cites": "22",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalisation of structural knowledge in the hippocampal-entorhinal system",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specialization: the connections have it",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved tractography using asymmetric fibre orientation distributions",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The human connectome: linking structure and function in the human brain",
+                "cites": "17",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control of entropy in neural models of environmental state",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Bg7qf7VwUHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "l\u2010Dopa responsiveness is associated with distinctive connectivity patterns in advanced Parkinson's disease",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reassessing VMPFC: full of confidence?",
+                "cites": "16",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin and social norms: Tryptophan depletion impairs social comparison and leads to resource depletion in a multiplayer harvesting game",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smith SM",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:nVrZBo8bIpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference on constant solid angle orientation distribution functions from diffusion-weighted mri",
+                "cites": "13",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low frequency signals in FMRI-\u201d resting state networks\u201d and the\u201d intensity normalisation problem\u201d",
+                "cites": "13",
+                "year": "2002"
+            },
+            "id_citations": "i3l_ejQAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of diffusion MRI predictions and histology in the macaque brain",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From quantitative measurement to in-vivo neuroanatomy",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-testing using a fully subject null hypothesis Bayesian framework: theory",
+                "cites": "12",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peer Review: Publishing in the time of COVID-19",
+                "cites": "11",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus and neocortical inhibitory engrams protect against memory interference",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity fingerprinting of gray matter",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Tolman-Eichenbaum Machine: Unifying space and relational memory through generalisation in the hippocampal formation",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging structure and function",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparative diffusion tensor imaging (DTI) study of the arcuate fasciculus language pathway in humans, chimpanzees and rhesus macaques.",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI dynamic causal modelling with inferred regions of interest",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intuitive planning: global navigation through cognitive maps based on grid-like codes",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fibers crossing the white/gray matter boundary: a semi-global, histology-informed dMRI model",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms underlying human choice in the frontal cortex",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frames of reference in human social decision making",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "11 Cingulate and orbitofrontal contributions to valuing knowns and unknowns in a changeable world",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic diffusion tractography with spatial priors",
+                "cites": "5",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterization and Propegation of Uncertainty in Diffusion Weighted MR images.",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:gVv57TyPmFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impulsivity and predictive control are associated with suboptimal action-selection and action-value learning in regular gamblers",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of Image reconstruction from multichannel Diffusion MRI on Fibre orientation estimation",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Addressing a systematic vibration artefact in diffusion-weighted MR images",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental changes in white matter microstructure in adolescence",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anterior cingulate cortex in learning and reward-guided decision making",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic memory retrieval success is associated with rapid replay of episode content",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:sJsF-0ZLhtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A gyral coordinate system predictive of fibre orientations",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience of value-guided choice.",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to Perfect a Chocolate Souffl\u00e9 and Other Important Problems",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "6, 23 de Junho de 2011",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "White matter microstructure changes in response to training",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anterior cingulate cortex in learning and reward-guided decision making",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortico-cortical network involved in secondary epileptogenesis: a combined study of functional and anatomical tractography",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for a vascular component in the diffusion fMRI signal: a hypercapnia study",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity based anatomical parcellation of cortical grey matter",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping the organisation of cortico-pontine projections in the human brain: An \u2018in-vivo\u2019diffusion imaging study: Poster number: 1112",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fmrib software library",
+                "cites": "2"
+            },
+            "id_citations": "i3l_ejQAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combined model-free and model-sensitive reinforcement learning in non-human primates",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring sequences of representations with temporally delayed linear modelling",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entorhinal and ventromedial prefrontal cortices abstract and generalise the structure of reinforcement learning problems",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: accelerating fibre orientation estimation from diffusion weighted magnetic resonance imaging using GPUs",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slice acceleration in the 3 Tesla component of the human connectome project",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaussian processes for whole-brain feature selection and classification in fmri",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "50 ideas to change science Part one Life and Earth",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the role of ventromedial prefrontal cortex in decision-making under risk using magnetoencephalography",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Between session and between subject reproducibility of diffusion MR and tractography measures",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A bayesian similarity function for segmentation using anatomical, shape-based models",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Delineation of functional subunits in the human cortex from diffusion based connectivity matrices",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction with directed transitions: complex eigenstructure, grid cells and phase coding",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:v1_lew4L6wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement Learning: Full Glass or Empty\u2014Depends Who You Ask",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Replay bursts coincide with activation of the default mode and parietal alpha network",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Projections of non-invasive human recordings into state space show unfolding of spontaneous and over-trained choice",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transferring structural knowledge across cognitive maps in humans and models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relational structure of a reinforcement learning task is represented and generalized in the entorhinal cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4X0JR2_MtJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Better transfer learning with inferred successor maps",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "i3l_ejQAAAAJ:jL-93Qbq4QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the language specificity of basic number processing: transcoding in a language with inversion and its relation to working memory capacity",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "i3l_ejQAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns of Variability in Dopamine Synthesis and Receptor Availability in Healthy Humans are Associated With the Valuation of Time",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reactivation and reinstatement of hippocampal assemblies",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms underlying advanced cognition in humans",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous Representation of a Spectrum of Dynamically Changing Value Estimates",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "i3l_ejQAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Segregated encoding of reward\u2013identity and stimulus\u2013reward associations in human orbitofrontal cortex\": Correction.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic Correlates of Behavioral Flexibility in Foraging Decision-Making in Humans",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M1. Dopamine Receptors and Presynaptic Synthesis Capacity Predict Behavioral Flexibility in Foraging Decision-Making in Humans",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous and Dynamic Representations of Learning Rates in the Human Brain",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "i3l_ejQAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerating Fibre Orientation Estimation from Diffusion Weighted Magnetic Resonance Imaging Using GPUs (vol 8, e61892, 2013)",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "i3l_ejQAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Mixed Voltage Bidirectional I/O IP corewith low power modification for automotive BCM SoC",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive load during speech perception in noise: The influence of age, hearing loss, and cognition on the pupil response",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LgRImbQfgY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tryptophan Depletion Impairs Social Comparison and Leads to Resource Depletion in a Multiplayer Harvesting Game",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anatomy of choice: dopamine and decision-making",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2013 Index IEEE Transactions on Medical Imaging Vol. 32",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Agent Independent Axis for Executed and Modeled Choice in Medial Prefrontal Cortex (vol 75, pg 1114, 2012)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The CONNECT project",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "i3l_ejQAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantification of dopamine release within the connectivity-derived functional subdivision of striatum",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling fibre fanning in diffusion-weighted MRI",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentional reorienting as Bayesian updating. Front. Neurosci. Conference Abstract: Neural Coding",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "i3l_ejQAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling human decision under risk and uncertainty",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00d4\u00d8 \u00c5 \u00d2\u00d9\u00d7 \u00d6 \u00d4\u00d8",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "50 ideas to change science: Neuroscience",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TESTING THE ROLE OF SEROTONIN IN THE MANAGEMENT OF VALUABLE BUT FINITE RESOURCES",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Converging microstructural evidence in prodromal and early Alzheimer\u2019s disease: alteration of commissural and association pathways, sparing of motor pathways",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of spin echo and steady-state free precession sequences for diffusion tractography of whole, ex-vivo human brains",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trajectory prediction combining forward models and historical knowledge",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The frontal pole and the representation of counterfactual choices",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "i3l_ejQAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity-based parcellation of the human parietal cortex",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mechanism in the human brain for learning in the absence of direct associations",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Should I stay or should I go? The neural computations underlying decisions to sustain or adapt behavior",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multivariate Bayesian Decoding of Multiple States",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of Measures of Functional and Structural MRI",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "i3l_ejQAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of the axonal radius from diffusion MR data in directionally heterogeneous tissues",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "i3l_ejQAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion tensor imaging defines subregions of human lateral premotor cortex with distinct frontoparietal connections",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Sciences",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Networks Referees in 2006",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "i3l_ejQAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lesion probability maps of white matter hyperintensities in elderly individuals",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combined imaging of white matter and brain activation in schizophrenia with DTI and fMRI: Evidence for temporolimbic and prefrontal alterations",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lesion probability maps of white matter hyperintensities in elderly individuals",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DTI-driven segmentation of human cortex-methods, validation and reproducibility",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying FSL to the FIAC data: model-based and model-free analysis of repetition suppression in an fMRI speech experiment",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "i3l_ejQAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for aetiologic heterogeneity of white matter hyperintensities in the elderly: subanalysis of the Austrian Stroke Prevention Study using lesion probability maps",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct fronto-temporal pathways mediate semantic and phonological processing",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EL, Sheehan K, Ciccarelli O, Thompson AJ, Brady JM",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reordering diffusion-based connectivity matrices to define anatomical networks in the human brain.: WE 134",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic atlas of human thalamic architecture based on diffusion MRI: TH 55",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing cortico-cerebellar organisation in human and macaque brains: An in-vivo diffusion imaging study: WE 52",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The organisation of prefrontal projections to the cerebellum in the human brain: An in-vivo diffusion imaging study: WE 53",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subdivision of the human pallidum using diffusion tractography: TH 335",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reordering diffusion-based connectivity matrices to define anatomical networks of the human brain",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity-based anatomical parcellation of cortical grey matter",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "i3l_ejQAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical connectivity of the human thalamus: Evidence from diffusion imaging: Poster number: 1083",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-Subject Analysis: Specifying Models: Poster number: 1005",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "i3l_ejQAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "National scientific medical meeting 1997 abstracts",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "i3l_ejQAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of frontal-temporal cortices in relational knowledge and constructing models of the world",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:LdasjJ6CEcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring the Spatial Scale of Brain Representations",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositional Neural Representations in the Hippocampal Formation and Prefrontal Cortex Underlie Visual Construction and Planning",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LEARNING TRANSFERABLE TASK SCHEMAS BY REPRE-SENTING CAUSAL INVARIANCES",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:zCSUwVk65WsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mechanistic account of transferring structural knowledge across cognitive maps",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalisation of structural knowledge in hippocampal\u2013prefrontal circuits",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Information for\u2019Better transfer learning with inferred successor maps\u2019",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task remapping and generalisation of structure in reinforcement learning",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in Functional and Structural MR Image Analysis and Implementation as FSL Technical Report TR04SS2",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalisation of structural knowledge in the hippocampal-entorhinal system: Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed Mechanisms Supporting Information Search and Value-Based Choice in Prefrontal Cortex",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An EPIK Navigation Towards High-Resolution Diffusion-Weighted Imaging",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE HUMAN CONNECTOME PROJECT: ADVANCES IN DIFFUSION MRI ACQUISITION AND PREPROCESSING",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Information and Figures for The Human Connectome Project\u2019s Neuroimaging Approach",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information Separable Learning Systems in the Macaque Brain and the Role of Orbitofrontal Cortex in Contingent Learning",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Materials for Training induces changes in white matter architecture",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding choice from prefrontal cor during reinforcement learning",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuron, volume 75",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chapter Title: Frames of reference in human social decision making.",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian use of historical knowledge in perceptual trajectory extrapolation: Computational and neural mechanisms",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aalders, MC, see van der Meer, FJ, T-MI Oct 05 1369-1376 Abbey, CK, see Zemp, RJ, T-MI Mar 05 300-310 Abboud, T., see Kybic, J., T-MI Jan 05 12-28 Abolmaesumi, P., see Yao, W \u2026",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The amygdala becomes reward-sensitive when an outcome cannot be assigned to the correct decision",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orbitofrontal cortex distributes reinforcement to the decision that caused it",
+                "cites": "0"
+            },
+            "id_citations": "i3l_ejQAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=i3l_ejQAAAAJ",
+    "brain_inspired": {
+        "id": "630",
+        "link": "https://braininspired.co/podcast/24/",
+        "name": "Tim Behrens",
+        "title": "BI 024 Tim Behrens: Cognitive Maps",
+        "text": "Tim and I discuss his work suggesting grid cell-like coding could provide a map for us to navigate abstract concepts in our minds \u2013 a cognitive map. We talk about the discovery of place cells and grid cells and the work suggesting they contribute to spatial navigation. We also touch on how Tim\u2019s work is related to meta-reinforcement learning (a la Matt Botvinick, see episode 21), and how grid cell codes might contribute to AI systems moving forward."
+    }
+}

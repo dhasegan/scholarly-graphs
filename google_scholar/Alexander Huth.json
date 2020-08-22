@@ -1,0 +1,457 @@
+{
+    "affiliation": "Assistant Professor CS & Neuroscience UT Austin",
+    "cites_per_year": {
+        "2010": 17,
+        "2011": 25,
+        "2012": 29,
+        "2013": 81,
+        "2014": 138,
+        "2015": 193,
+        "2016": 247,
+        "2017": 427,
+        "2018": 446,
+        "2019": 539,
+        "2020": 420
+    },
+    "citedby": 2618,
+    "citedby5y": 2295,
+    "coauthors": [
+        {
+            "affiliation": "University of California at Berkeley",
+            "id": "nSZG-vcAAAAJ",
+            "name": "Jack L. GALLANT"
+        },
+        {
+            "affiliation": "Senior Researcher (PI), CiNet, National Institute of Information and Communications Technology",
+            "id": "y1pLEGkAAAAJ",
+            "name": "Shinji Nishimoto"
+        },
+        {
+            "affiliation": "Chief Scientist and President",
+            "id": "JYt9T_sAAAAJ",
+            "name": "Christof Koch"
+        },
+        {
+            "affiliation": "Psychology and Neurosciences, UC Berkeley",
+            "id": "0gyS3z0AAAAJ",
+            "name": "Frederic THEUNISSEN"
+        },
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "Professor of Electrical Engineering",
+            "id": "5GLKJvwAAAAJ",
+            "name": "Tolga Cukur"
+        },
+        {
+            "affiliation": "Bing Professor of Neuroscience, Behavioral Biology and Economics, Caltech",
+            "id": "-kNMHoUAAAAJ",
+            "name": "Antonio Rangel"
+        },
+        {
+            "affiliation": "Lausanne University Hospital & EPFL",
+            "id": "TKNdZngAAAAJ",
+            "name": "Melissa Saenz"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Texas at Austin",
+            "id": "hCOVXMkAAAAJ",
+            "name": "Liberty S Hamilton"
+        },
+        {
+            "affiliation": "postdoc, cortexlab, UCL",
+            "id": "2AbkV9MAAAAJ",
+            "name": "Anwar Nunez-Elizalde"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "-3zYIjQAAAAJ",
+            "name": "Jascha Sohl-Dickstein"
+        },
+        {
+            "affiliation": "University of Arizona",
+            "id": "ACOqPH4AAAAJ",
+            "name": "Shaowen Bao"
+        },
+        {
+            "affiliation": "Assistant professor of Cognitive & Brain Sciences, UN Reno",
+            "id": "HSuy6TQAAAAJ",
+            "name": "Mark Lescroart"
+        },
+        {
+            "affiliation": "Intel",
+            "id": "xwGIuw4AAAAJ",
+            "name": "Tyler Lee"
+        },
+        {
+            "affiliation": "Berkeley Institute for Data Science, Helen Wills Neuroscience Institute, ICSI",
+            "id": "B5Gh1GsAAAAJ",
+            "name": "Fatma Deniz (born Imamoglu)"
+        },
+        {
+            "affiliation": "The University of Texas at Austin",
+            "id": "BVojx7oAAAAJ",
+            "name": "Shailee Jain"
+        },
+        {
+            "affiliation": "Institute of Information Systems, HES-SO Valais, Sierre",
+            "id": "vm66aCkAAAAJ",
+            "name": "Pawel J. Matusz"
+        },
+        {
+            "affiliation": "Research Scientist, New York University Department of Psychology",
+            "id": "7iPnQTUAAAAJ",
+            "name": "Suzanne Dikker"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "jX0qnCkAAAAJ",
+            "name": "Catherine Perrodin"
+        },
+        {
+            "affiliation": "University of Texas at Austin",
+            "id": "Pm23sq4AAAAJ",
+            "name": "Etienne Vouga"
+        }
+    ],
+    "email": "@cs.utexas.edu",
+    "hindex": 17,
+    "hindex5y": 16,
+    "i10index": 20,
+    "i10index5y": 19,
+    "id": "JNXWWkIAAAAJ",
+    "interests": [
+        "fMRI",
+        "computational neuroscience"
+    ],
+    "name": "Alexander Huth",
+    "publications": [
+        {
+            "bib": {
+                "title": "Natural speech reveals the semantic maps that tile human cerebral cortex",
+                "cites": "706",
+                "year": "2016"
+            },
+            "id_citations": "JNXWWkIAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A continuous semantic space describes the representation of thousands of object and action categories across the human brain",
+                "cites": "653",
+                "year": "2012"
+            },
+            "id_citations": "JNXWWkIAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The drift diffusion model can account for the accuracy and reaction time of value-based choices under high and low time pressure",
+                "cites": "253",
+                "year": "2010"
+            },
+            "id_citations": "JNXWWkIAAAAJ:Xz60mAmATU4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention during natural vision warps semantic representation across the human brain",
+                "cites": "250",
+                "year": "2013"
+            },
+            "id_citations": "JNXWWkIAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual motion area MT+/V5 responds to auditory motion in human sight-recovery subjects",
+                "cites": "133",
+                "year": "2008"
+            },
+            "id_citations": "JNXWWkIAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hierarchical cortical organization of human speech processing",
+                "cites": "89",
+                "year": "2017"
+            },
+            "id_citations": "JNXWWkIAAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetic activation of an inhibitory network enhances feedforward functional connectivity in auditory cortex",
+                "cites": "74",
+                "year": "2013"
+            },
+            "id_citations": "JNXWWkIAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pycortex: an interactive surface visualizer for fMRI",
+                "cites": "73",
+                "year": "2015"
+            },
+            "id_citations": "JNXWWkIAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the semantic content of natural movies from human brain activity",
+                "cites": "71",
+                "year": "2016"
+            },
+            "id_citations": "JNXWWkIAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional subdomains within human FFA",
+                "cites": "51",
+                "year": "2013"
+            },
+            "id_citations": "JNXWWkIAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are we ready for real-world neuroscience?",
+                "cites": "45",
+                "year": "2019"
+            },
+            "id_citations": "JNXWWkIAAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The revolution will not be controlled: natural stimuli in speech neuroscience",
+                "cites": "43",
+                "year": "2020"
+            },
+            "id_citations": "JNXWWkIAAAAJ:Hck25ST_3aIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The representation of semantic information across human cerebral cortex during listening versus reading is invariant to stimulus modality",
+                "cites": "27",
+                "year": "2019"
+            },
+            "id_citations": "JNXWWkIAAAAJ:DyXnQzXoVgIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding what people see from where they look: Predicting visual stimuli from scanpaths",
+                "cites": "26",
+                "year": "2008"
+            },
+            "id_citations": "JNXWWkIAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Word statistics in large-scale texts explain the human cortical semantic representation of objects, actions, and impressions",
+                "cites": "23",
+                "year": "2015"
+            },
+            "id_citations": "JNXWWkIAAAAJ:UmS_249rOGwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional subdomains within scene-selective cortex: parahippocampal place area, retrosplenial complex, and occipital place area",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "JNXWWkIAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incorporating context into language encoding models for fmri",
+                "cites": "21",
+                "year": "2018"
+            },
+            "id_citations": "JNXWWkIAAAAJ:zGdJYJv2LkUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep generative modeling for scene synthesis via hybrid representations",
+                "cites": "12",
+                "year": "2020"
+            },
+            "id_citations": "JNXWWkIAAAAJ:k_7cPK9k7w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voxelwise encoding models with non-spherical multivariate normal priors",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "JNXWWkIAAAAJ:LXmCCkuhhTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anthropic correction of information estimates and its application to neural coding",
+                "cites": "10",
+                "year": "2010"
+            },
+            "id_citations": "JNXWWkIAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movement-invariant representations in the human visual system",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "JNXWWkIAAAAJ:wvYxNZNCP7wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PrAGMATiC: A probabilistic and generative model of areas tiling the cortex",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "JNXWWkIAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A single-layer RNN can approximate stacked and bidirectional RNNs, and topologies in between",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "JNXWWkIAAAAJ:CYCckWUYoCcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using voxel-wise encoding models to study occipito-temporal representations of the animacy, semantic and affective content of natural images.",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "JNXWWkIAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human visual areas invariant to eye movements during natural vision",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "JNXWWkIAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic representation in the human brain",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "JNXWWkIAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How much tuning information is lost when we average across subjects in fMRI experiments?",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "JNXWWkIAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting functional connectivity in networks of phase-coupled neural oscillators",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "JNXWWkIAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses to auditory motion within visual motion area MT+ in early blind and sight recovery subjects",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "JNXWWkIAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selecting Informative Contexts Improves Language Model Finetuning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "JNXWWkIAAAAJ:2v_ZtQDX9iAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EduCortex: browser-based 3D brain visualization of fMRI meta-analysis maps",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "JNXWWkIAAAAJ:8Xgff_V0N9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medical Imaging Stabilization and Coregistration",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "JNXWWkIAAAAJ:Xl6nMSl579sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient, sparse representation of manifold distance matrices for classical scaling",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "JNXWWkIAAAAJ:UuEBAcK4md4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category-based attention shifts tuning toward the target object category during natural visual search",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "JNXWWkIAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The indirect role of saliency in selection for short-term visual memory",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "JNXWWkIAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Multi-View Representation Learning of Brain Responses to Natural Stimuli",
+                "cites": "0"
+            },
+            "id_citations": "JNXWWkIAAAAJ:jSAVyFp_754C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=JNXWWkIAAAAJ"
+}

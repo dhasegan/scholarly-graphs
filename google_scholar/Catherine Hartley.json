@@ -1,0 +1,610 @@
+{
+    "affiliation": "Assistant Professor of Psychology, New York University",
+    "cites_per_year": {
+        "2000": 20,
+        "2001": 28,
+        "2002": 19,
+        "2003": 24,
+        "2004": 35,
+        "2005": 34,
+        "2006": 32,
+        "2007": 29,
+        "2008": 26,
+        "2009": 25,
+        "2010": 30,
+        "2011": 57,
+        "2012": 86,
+        "2013": 135,
+        "2014": 175,
+        "2015": 283,
+        "2016": 282,
+        "2017": 284,
+        "2018": 288,
+        "2019": 439,
+        "2020": 339
+    },
+    "citedby": 2712,
+    "citedby5y": 1922,
+    "coauthors": [
+        {
+            "affiliation": "Pershing Square Professor of Human Neuroscience, Harvard University",
+            "id": "UsW4ViYAAAAJ",
+            "name": "Elizabeth Phelps"
+        },
+        {
+            "affiliation": "Department of Psychology, Yale University",
+            "id": "OQQzJnsAAAAJ",
+            "name": "BJ Casey, Ph.D."
+        },
+        {
+            "affiliation": "MIT",
+            "id": "MjF1h7IAAAAJ",
+            "name": "John Gabrieli"
+        },
+        {
+            "affiliation": "Professor of Radiology, Stanford University",
+            "id": "aUWuwJ8AAAAJ",
+            "name": "Gary Glover"
+        },
+        {
+            "affiliation": "Johns Hopkins University School of Medicine",
+            "id": "XB4g0WsAAAAJ",
+            "name": "John E. Desmond"
+        },
+        {
+            "affiliation": "MD/PhD Student, Weill Cornell Medical College",
+            "id": "0YKdQkUAAAAJ",
+            "name": "Johannes Hugo Decker"
+        },
+        {
+            "affiliation": "Professor of Psychology, Harvard University",
+            "id": "YCXQq10AAAAJ",
+            "name": "Leah H. Somerville"
+        },
+        {
+            "affiliation": "",
+            "id": "RiHr_2MAAAAJ",
+            "name": "Andrew Drysdale"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "_iBTotQAAAAJ",
+            "name": "Kate Nussenbaum"
+        },
+        {
+            "affiliation": "Texas A&M University",
+            "id": "fMEcGYQAAAAJ",
+            "name": "Justin M. Moscarello"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "Associate Professor in Cell Biology and Anatomy, Hotchkiss Brain Institute, University of Calgary",
+            "id": "Q494JnAAAAAJ",
+            "name": "Matthew N Hill"
+        },
+        {
+            "affiliation": "Harvard University",
+            "id": "SNIQ2pIAAAAJ",
+            "name": "Franchesca Ramirez"
+        },
+        {
+            "affiliation": "Mass General Hospital/Harvard Medical School",
+            "id": "t7mytXkAAAAJ",
+            "name": "Bruce Fischl or B Fischl"
+        },
+        {
+            "affiliation": "Professor of Neurocience and Psychology, Princeton University",
+            "id": "BxlScrEAAAAJ",
+            "name": "Nathaniel D. Daw"
+        },
+        {
+            "affiliation": "Assistant Professor, McGill University",
+            "id": "JBtPJugAAAAJ",
+            "name": "Ross Otto"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Denver",
+            "id": "gHvLQ5AAAAAJ",
+            "name": "Peter Sokol-Hessner"
+        },
+        {
+            "affiliation": "NIH",
+            "id": "6Zzc8hoAAAAJ",
+            "name": "Andrew Holmes"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, NYU",
+            "id": "qaFnrH0AAAAJ",
+            "name": "Alexandra O. Cohen"
+        },
+        {
+            "affiliation": "PhD Candidate, University of Colorado Boulder",
+            "id": "cB6cVJ0AAAAJ",
+            "name": "Marianne Cumella Reddan"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 21,
+    "hindex5y": 20,
+    "i10index": 27,
+    "i10index5y": 27,
+    "id": "_ixNTXgAAAAJ",
+    "interests": [
+        "Cognitive Neuroscience"
+    ],
+    "name": "Catherine Hartley",
+    "publications": [
+        {
+            "bib": {
+                "title": "Changing fear: the neurocircuitry of emotion regulation",
+                "cites": "433",
+                "year": "2010"
+            },
+            "id_citations": "_ixNTXgAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered fear learning across development in both mouse and human",
+                "cites": "292",
+                "year": "2012"
+            },
+            "id_citations": "_ixNTXgAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anxiety and decision-making",
+                "cites": "275",
+                "year": "2012"
+            },
+            "id_citations": "_ixNTXgAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blind smell: brain activation induced by an undetected air-borne chemical",
+                "cites": "240",
+                "year": "1999"
+            },
+            "id_citations": "_ixNTXgAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Odorant-induced and sniff-induced activation in the cerebellum of the human",
+                "cites": "233",
+                "year": "1998"
+            },
+            "id_citations": "_ixNTXgAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FAAH genetic variation enhances fronto-amygdala function in mouse and human",
+                "cites": "150",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain structure correlates of individual differences in the acquisition and inhibition of conditioned fear",
+                "cites": "138",
+                "year": "2011"
+            },
+            "id_citations": "_ixNTXgAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From creatures of habit to goal-directed learners: Tracking the developmental emergence of model-based reinforcement learning",
+                "cites": "121",
+                "year": "2016"
+            },
+            "id_citations": "_ixNTXgAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sniffing longer rather than stronger to maintain olfactory detection threshold",
+                "cites": "99",
+                "year": "2000"
+            },
+            "id_citations": "_ixNTXgAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuroscience of adolescent decision-making",
+                "cites": "91",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensitive periods in affective development: Nonlinear maturation of fear learning",
+                "cites": "89",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serotonin transporter polyadenylation polymorphism modulates the retention of fear extinction memory",
+                "cites": "77",
+                "year": "2012"
+            },
+            "id_citations": "_ixNTXgAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stressor controllability modulates fear extinction in humans",
+                "cites": "57",
+                "year": "2014"
+            },
+            "id_citations": "_ixNTXgAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active avoidance: Neural mechanisms and attenuation of Pavlovian conditioned responding",
+                "cites": "54",
+                "year": "2017"
+            },
+            "id_citations": "_ixNTXgAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experiential reward learning outweighs instruction prior to adulthood",
+                "cites": "44",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fear and anxiety from principle to practice: implications for when to treat youth with anxiety disorders",
+                "cites": "43",
+                "year": "2014"
+            },
+            "id_citations": "_ixNTXgAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interoceptive ability predicts aversion to losses",
+                "cites": "41",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in learning predict the return of fear",
+                "cites": "30",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive components underpinning the development of model-based learning",
+                "cites": "29",
+                "year": "2017"
+            },
+            "id_citations": "_ixNTXgAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Agency and the Calibration of Motivated Behavior",
+                "cites": "24",
+                "year": "2017"
+            },
+            "id_citations": "_ixNTXgAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk for anxiety and implications for treatment: developmental, environmental, and genetic factors governing fear regulation",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "_ixNTXgAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stress attenuates the flexible updating of aversive value",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "_ixNTXgAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning across development: What insights can we draw from a decade of research?",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consider the source: adolescents and adults similarly follow older adult advice more than peer advice",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "_ixNTXgAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocognitive Development of Motivated Behavior: Dynamic Changes across Childhood and Adolescence",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "_ixNTXgAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consequences for Peers Differentially Bias Computations About Risk Across Development.",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "_ixNTXgAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational phenotyping: using models to understand individual differences in personality, development, and mental illness",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "_ixNTXgAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental perspectives on risky and impulsive choice",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fear Models in Animals and Humans",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "_ixNTXgAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in blink rate modulate the effect of instrumental control on subsequent Pavlovian responding",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal information-seeking strategies change across childhood and adolescence",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Realizing the Clinical Potential of Computational Psychiatry: Report from the Banbury Center Meeting, February 2019",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Development of Goal-Directed Decision-Making",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "_ixNTXgAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common deliberative process underlies model-based planning and patient intertemporal choice",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "_ixNTXgAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive neuroscience of fear and its control: From animal models to human experience",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "_ixNTXgAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Association between real-world experiential diversity and positive affect relates to hippocampal\u2013striatal functional connectivity",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of learning and plasticity in childhood and adolescence",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory\u2019s reflection of learned information value increases across development.",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adolescents exhibit reduced Pavlovian biases on instrumental learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The rational use of causal inference to guide reinforcement learning changes with age",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "More than two forms of Pavlovian prediction",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Affect is the foundation of value",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "_ixNTXgAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extinction learning",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "_ixNTXgAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Valence biases in reinforcement learning shift across adolescence and modulate subsequent memory",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving developmental research online: comparing in-lab and web-based studies of model-based reinforcement learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Associative memory persistence and specificity in three-to five-year-olds.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The value of choice facilitates subsequent memory across development",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Issue on Flux 2018: Mechanisms of learning and plasticity",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "_ixNTXgAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aversive learning strengthens episodic memory in both adolescents and adults",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal intervention strategies change across adolescence.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "_ixNTXgAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual Differences in the Expression and Control of Conditioned Fear",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "_ixNTXgAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal-striatal circuitry supports adaptive memory prioritization across development",
+                "cites": "0"
+            },
+            "id_citations": "_ixNTXgAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=_ixNTXgAAAAJ"
+}

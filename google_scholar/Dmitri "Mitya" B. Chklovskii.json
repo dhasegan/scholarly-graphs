@@ -1,0 +1,1234 @@
+{
+    "affiliation": "CCB, Flatiron Institute, Simons Foundation and NYU",
+    "cites_per_year": {
+        "1994": 78,
+        "1995": 73,
+        "1996": 90,
+        "1997": 87,
+        "1998": 101,
+        "1999": 69,
+        "2000": 59,
+        "2001": 90,
+        "2002": 84,
+        "2003": 171,
+        "2004": 296,
+        "2005": 415,
+        "2006": 605,
+        "2007": 695,
+        "2008": 755,
+        "2009": 788,
+        "2010": 874,
+        "2011": 993,
+        "2012": 1181,
+        "2013": 1137,
+        "2014": 1243,
+        "2015": 1240,
+        "2016": 1319,
+        "2017": 1242,
+        "2018": 1340,
+        "2019": 1404,
+        "2020": 880
+    },
+    "citedby": 17497,
+    "citedby5y": 7430,
+    "coauthors": [],
+    "email": "@flatironinstitute.org",
+    "hindex": 41,
+    "hindex5y": 33,
+    "i10index": 66,
+    "i10index5y": 53,
+    "id": "7Bgb5TUAAAAJ",
+    "interests": [
+        "neural computation",
+        "machine learning"
+    ],
+    "name": "Dmitri \"Mitya\" B. Chklovskii",
+    "publications": [
+        {
+            "bib": {
+                "title": "Network motifs: simple building blocks of complex networks",
+                "cites": "6746",
+                "year": "2002"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Highly nonrandom features of synaptic connectivity in local cortical circuits",
+                "cites": "1289",
+                "year": "2005"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electrostatics of edge channels",
+                "cites": "1091",
+                "year": "1992"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical rewiring and information storage",
+                "cites": "788",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural properties of the Caenorhabditis elegans neuronal network",
+                "cites": "712",
+                "year": "2011"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring optimization can relate neuronal structure and function",
+                "cites": "529",
+                "year": "2006"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A visual motion detection circuit suggested by Drosophila connectomics",
+                "cites": "520",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring optimization in cortical circuits",
+                "cites": "469",
+                "year": "2002"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maps in the brain: what can we learn from them?",
+                "cites": "346",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geometry and structural plasticity of synaptic connectivity",
+                "cites": "302",
+                "year": "2002"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geometric and functional organization of cortical circuits",
+                "cites": "251",
+                "year": "2005"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrastructural analysis of hippocampal neuropil from the connectomics perspective",
+                "cites": "247",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurogeometry and potential synaptic connectivity",
+                "cites": "236",
+                "year": "2005"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic connectivity and neuronal morphology: two sides of the same coin",
+                "cites": "229",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ballistic conductance of interacting electrons in the quantum Hall regime",
+                "cites": "220",
+                "year": "1993"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-automated reconstruction of neural circuits using electron microscopy",
+                "cites": "196",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proprioceptive Coupling within Motor Neurons Drives C. elegans Forward Locomotion",
+                "cites": "192",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orientation preference patterns in mammalian visual cortex: a wire length minimization approach",
+                "cites": "183",
+                "year": "2001"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring Economy and Volume Exclusion Determine Neuronal Placement in the Drosophila Brain",
+                "cites": "149",
+                "year": "2011"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local potential connectivity in cat primary visual cortex",
+                "cites": "147",
+                "year": "2008"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cost\u2013benefit analysis of neuronal morphology",
+                "cites": "142",
+                "year": "2008"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale automated histology in the pursuit of connectomes",
+                "cites": "141",
+                "year": "2011"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic circuits and their variations within different columns in the visual system of Drosophila",
+                "cites": "136",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segregation of the brain into gray and white matter: a design minimizing conduction delays",
+                "cites": "117",
+                "year": "2005"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Class-specific features of neuronal wiring",
+                "cites": "117",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure of fractional edge states: A composite-fermion approach",
+                "cites": "114",
+                "year": "1995"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning of hierarchical clustering to segment 2D and 3D images",
+                "cites": "113",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The comprehensive connectome of a neural substrate for \u2018ON\u2019motion detection in Drosophila",
+                "cites": "105",
+                "year": "2017"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal circuits underlying persistent representations despite time varying activity",
+                "cites": "99",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transport properties between quantum Hall plateaus",
+                "cites": "97",
+                "year": "1993"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory of photoluminescence of the \u03bd= 1 quantum Hall state: Excitons, spin waves, and spin textures",
+                "cites": "96",
+                "year": "1997"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximization of the connectivity repertoire as a statistical principle governing the shapes of dendritic arbors",
+                "cites": "94",
+                "year": "2009"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CaImAn an open source tool for scalable calcium imaging data analysis",
+                "cites": "91",
+                "year": "2019"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search for computational modules in the C. elegansbrain",
+                "cites": "85",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal information storage in noisy synapses under resource constraints",
+                "cites": "81",
+                "year": "2006"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward large-scale connectome reconstructions",
+                "cites": "78",
+                "year": "2014"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact solution for the optimal neuronal layout problem",
+                "cites": "64",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal sizes of dendritic and axonal arbors in a topographic projection",
+                "cites": "59",
+                "year": "2000"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hebbian/anti-hebbian neural network for linear subspace learning: A derivation from multidimensional scaling of streaming data",
+                "cites": "56",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thalamocortical input onto layer 5 pyramidal neurons measured using quantitative large-scale array tomography",
+                "cites": "46",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consequences of a possible adiabatic transition between  and  quantum Hall states in a narrow wire",
+                "cites": "43",
+                "year": "1998"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biophysical constraints on neuronal branching",
+                "cites": "39",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hebbian/anti-hebbian network derived from online non-negative matrix factorization can cluster and discover sparse features",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Power-law for axon diameters at branch point",
+                "cites": "33",
+                "year": "2003"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A consistent muscle activation strategy underlies crawling and swimming in Caenorhabditis elegans",
+                "cites": "32",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why do similarity matching objectives lead to hebbian/anti-hebbian networks?",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing depth resolution of electron microscopy of neural circuits using sparse tomographic reconstruction",
+                "cites": "30",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A wire length minimization approach to ocular dominance patterns in mammalian visual cortex",
+                "cites": "30",
+                "year": "2000"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A normative theory of adaptive dimensionality reduction in neural networks",
+                "cites": "29",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Onacid: Online analysis of calcium imaging data in real time",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular disparity can explain the orientation of ocular dominance stripes in primate primary visual area (V1)",
+                "cites": "28",
+                "year": "2000"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hebbian/anti-hebbian network for online sparse dictionary learning derived from symmetric matrix factorization",
+                "cites": "27",
+                "year": "2014"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring economy can account for cell body placement across species and brain areas",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mitochondria detection in electron microscopy images",
+                "cites": "23",
+                "year": "2008"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstruction of sparse circuits using multi-neuronal excitation (RESCUME)",
+                "cites": "22",
+                "year": "2009"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring optimization in the brain",
+                "cites": "22",
+                "year": "2000"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse LMS via online linearized Bregman iteration",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A network of spiking neurons for computing sparse representations in an energy-efficient way",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blind nonnegative source separation using biological neural networks",
+                "cites": "18",
+                "year": "2017"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electron microscopy reconstruction of brain structure using sparse representations over learned dictionaries",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Manifold-tiling localized receptive fields are optimal in similarity-preserving neural networks",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A clustering neural network model of insect olfaction",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Over-complete representations on recurrent neural networks can support persistent percepts",
+                "cites": "14",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimization theory of hebbian/anti-hebbian networks for pca and whitening",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal spike generation mechanism as an oversampling, noise-shaping a-to-d converter",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direction of motion maps in the visual cortex: a wire length minimization approach",
+                "cites": "10",
+                "year": "2002"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mechanistic model of early sensory processing based on subtracting sparse representations",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High resolution segmentation of neuronal tissues from low depth-resolution EM imagery",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clustering is semidefinitely not that hard: Nonnegative SDP for manifold disentangling",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neuron as a signal processing device",
+                "cites": "8",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neocortex: a lean mean memory storage machine",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic adaptation to fast input changes in a time-invariant neural circuit",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network motifs: Simple building blocks of complex networks, 2004",
+                "cites": "7"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience-inspired online unsupervised learning algorithms: Artificial neural networks",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient principal subspace projection of streaming data through fast similarity matching",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Itzkovit, zS., Kashtan, N., Chklovskii, D. and Alon, U.(2002) Network motifs: simple building blocks of complex networks",
+                "cites": "4"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network for semi-supervised learning on manifolds",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Placement and routing optimization in the brain",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information storage capacity of synaptic connectivity patterns",
+                "cites": "3",
+                "year": "2002"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding the dynamics of fractional edge states with composite fermions",
+                "cites": "3",
+                "year": "1996"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relaxation of nuclear spin in atomic hydrogen due to long-range orbital currents in metal walls",
+                "cites": "3",
+                "year": "1992"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically plausible online principal component analysis without recurrent neural dynamics",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do retinal ganglion cells project natural scenes to their principal subspace and whiten them?",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Plasticity & neuronal computation",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolution as the blind engineer: wiring minimization in the brain",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-calibrating neural networks for dimensionality reduction",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A lattice filter model of the visual pathway",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To myelinate or not to myelinate?",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network: Computation in Neural Systems",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On optimal information storage in synapses",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal wiring of the brain and some consequences",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct current voltage transformer",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment on``New Class of Resonances at the Edge of the Two-Dimensional Electron Gas.''",
+                "cites": "1",
+                "year": "1996"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segmentation of Neuronal Electron Micrographs",
+                "cites": "1"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons as Canonical Correlation Analyzers",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System identification in the brain: inferring ARMA dynamics from sensory data",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Strip the Stripes: Artifact Detection and Removal for Scanning Electron Microscopy Imaging",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Similarity-preserving Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically-plausible neural models for time-series clustering",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the brain escapes the curse of dimensionality",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Derivation of Neural Circuits from the Similarity Matching Principle",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online computation of sparse representations of time varying stimuli using a biologically motivated neural network",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drosophila Connectome.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sampling Network Motif Detection Algorithm Based on Subgraph Extending and Subgraph Support Value",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking multiple neurons on worm images",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Mind of a Male?",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wiring Economy and Volume Exclusion Determine Neuronal Placement in the Drosophila Brain (vol 21, pg 2000, 2011)",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Serial-section EM derived synaptic circuits in the fly's visual system: the medulla opens up",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEURONAL CIRCUITS",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel automated approach to serial block face dualbeam electron microscopy for the exploration of cortical circuits",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "348 To die or grow: Parkinson\u2019s disease and cancer",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to estimate the expected number of potential synapses by using single-neuron reconstructions from different animals",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are spatial positions of dendritic and axonal branches correlated or independent?",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical Neuroscience: State of the Art",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal sizes of dendritic and axonal arbors",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular disparity can explain the orientation of ocular dominance stripes in primate V1",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New universal properties of resonant tunneling in the quantized Hall regime.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consequences of a possible adiabatic transition between \u03bd= 1/3 and \u03bd= 1 quantum Hall states in a narrow wire.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory of photoluminescence =1",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory of luminescence from filled Landau level",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coulomb Blockade in a Quantum Dot",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transport properties of the quantum Hall state",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge Structure Of A Quantum Dot In A Large Magnetic Field",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential Resistance Through a Quantum Dot: Signature of Kondo Correlation",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How central tracts allocate space and energy capacity",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically plausible online PCA without recurrent neural dynamics",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Andrea Giovannucci1, Johannes Friedrich1, 2, Pat Gunn1, J\u00e9r\u00e9mie Kalfon3, Sue 4 Ann Koay4, Jiannis Taxidis5, Farzaneh Najafi6, Jeffrey L. Gauthier4, Pengcheng 5",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schwann T (1839) Microscopic investigations on the accordance in the structure and growth of plants and animals. Berlin: Sydenham Society (English Translation, 1847). Adler J \u2026",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear predictive coding in early sensory circuits",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How central tracts allocate space and energy capacity",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A lattice \ufb01lter model of the visual pathway",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation analysis of neuronal morphology reveals specificity of wiring mechanisms",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Data Optimal Information Storage in Noisy Synapses under Resource Constraints",
+                "cites": "0"
+            },
+            "id_citations": "7Bgb5TUAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=7Bgb5TUAAAAJ"
+}

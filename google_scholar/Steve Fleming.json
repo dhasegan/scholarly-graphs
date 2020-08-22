@@ -1,0 +1,927 @@
+{
+    "affiliation": "UCL",
+    "cites_per_year": {
+        "2010": 26,
+        "2011": 74,
+        "2012": 139,
+        "2013": 258,
+        "2014": 356,
+        "2015": 453,
+        "2016": 582,
+        "2017": 605,
+        "2018": 1018,
+        "2019": 1136,
+        "2020": 870
+    },
+    "citedby": 5594,
+    "citedby5y": 4679,
+    "coauthors": [
+        {
+            "affiliation": "University College London",
+            "id": "0iy8RTMAAAAJ",
+            "name": "Raymond J Dolan"
+        },
+        {
+            "affiliation": "UCLA",
+            "id": "RGBSG7EAAAAJ",
+            "name": "Hakwan Lau"
+        },
+        {
+            "affiliation": "Institute of Cognitive Neuroscience, University College London",
+            "id": "IlCBJF4AAAAJ",
+            "name": "Geraint Rees"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "NqmgC9gAAAAJ",
+            "name": "Patrick Haggard"
+        },
+        {
+            "affiliation": "Professor of Neurocience and Psychology, Princeton University",
+            "id": "BxlScrEAAAAJ",
+            "name": "Nathaniel D. Daw"
+        },
+        {
+            "affiliation": "UCL",
+            "id": "0YEXoMMAAAAJ",
+            "name": "Chris Frith"
+        },
+        {
+            "affiliation": "Associate Professor, Institute of Cognitive Neuroscience - University College London",
+            "id": "eItt1JEAAAAJ",
+            "name": "Benedetto De Martino"
+        },
+        {
+            "affiliation": "University of Z\u00fcrich",
+            "id": "4WIevO8AAAAJ",
+            "name": "Zoltan Nagy"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "8IKm5IYAAAAJ",
+            "name": "Marion Rouault"
+        },
+        {
+            "affiliation": "Sir Henry Wellcome Postdoctoral Fellow, Wellcome Centre for Human Neuroimaging, UCL",
+            "id": "bDHdx9gAAAAJ",
+            "name": "Dan Bang"
+        },
+        {
+            "affiliation": "UCL",
+            "id": "6jEmXPMAAAAJ",
+            "name": "Max Rollwage"
+        },
+        {
+            "affiliation": "Sussex University",
+            "id": "3eJCZCkAAAAJ",
+            "name": "Anil Seth"
+        },
+        {
+            "affiliation": "University of Auckland",
+            "id": "Fzhus4oAAAAJ",
+            "name": "D Samuel Schwarzkopf"
+        },
+        {
+            "affiliation": "Intelligent Biology; Georgetown University Medical Center; University College London",
+            "id": "nk_kDm4AAAAJ",
+            "name": "Nicholas D Wright"
+        },
+        {
+            "affiliation": "Sir Henry Wellcome Fellow at Oxford University",
+            "id": "SLdvvsQAAAAJ",
+            "name": "Neil Garrett"
+        },
+        {
+            "affiliation": "Associate Professor in Cognitive Neuroscience, Birkbeck, University of London",
+            "id": "6_5F_gYAAAAJ",
+            "name": "Iroise Dumontheil"
+        },
+        {
+            "affiliation": "University of Cambridge, UK",
+            "id": "t8-kTnUAAAAJ",
+            "name": "Sarah-Jayne Blakemore"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "jGtGmYUAAAAJ",
+            "name": "Emma J Kilford"
+        },
+        {
+            "affiliation": "University of Zurich",
+            "id": "MdvdhyIAAAAJ",
+            "name": "Dominik R Bach"
+        },
+        {
+            "affiliation": "Mayo Clinic",
+            "id": "pjqEwQoAAAAJ",
+            "name": "Karen Blackmon"
+        }
+    ],
+    "email": "@ucl.ac.uk",
+    "hindex": 37,
+    "hindex5y": 35,
+    "i10index": 55,
+    "i10index5y": 53,
+    "id": "1D1xy4QAAAAJ",
+    "interests": [
+        "Metacognition",
+        "consciousness",
+        "decision-making",
+        "computational modelling",
+        "cognitive neuroscience"
+    ],
+    "name": "Steve Fleming",
+    "publications": [
+        {
+            "bib": {
+                "title": "Relating introspective accuracy to individual differences in brain structure",
+                "cites": "636",
+                "year": "2010"
+            },
+            "id_citations": "1D1xy4QAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of metacognitive ability",
+                "cites": "464",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to measure metacognition",
+                "cites": "428",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:-qpA3cGbmHsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confidence in value-based choice",
+                "cites": "311",
+                "year": "2013"
+            },
+            "id_citations": "1D1xy4QAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The development of metacognitive ability in adolescence",
+                "cites": "259",
+                "year": "2013"
+            },
+            "id_citations": "1D1xy4QAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal contributions to metacognition in perceptual decision making",
+                "cites": "258",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognition: computation, biology and function",
+                "cites": "207",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain-specific impairment in metacognitive accuracy following anterior prefrontal lesions",
+                "cites": "205",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:q09DtPQ_434C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-evaluation of decision-making: A general Bayesian framework for metacognitive computation.",
+                "cites": "199",
+                "year": "2017"
+            },
+            "id_citations": "1D1xy4QAAAAJ:_TjUWtciUekC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An online neural substrate for sense of agency",
+                "cites": "186",
+                "year": "2013"
+            },
+            "id_citations": "1D1xy4QAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subliminal priming of actions influences sense of control over effects of action",
+                "cites": "182",
+                "year": "2010"
+            },
+            "id_citations": "1D1xy4QAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overcoming status quo bias in the human brain",
+                "cites": "170",
+                "year": "2010"
+            },
+            "id_citations": "1D1xy4QAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Allostatic self-efficacy: a metacognitive theory of dyshomeostasis-induced fatigue and depression",
+                "cites": "156",
+                "year": "2016"
+            },
+            "id_citations": "1D1xy4QAAAAJ:w5CyTnyFq80C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating inter-individual differences in metacognitive performance on different perceptual tasks",
+                "cites": "139",
+                "year": "2011"
+            },
+            "id_citations": "1D1xy4QAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action-specific disruption of perceptual confidence",
+                "cites": "127",
+                "year": "2015"
+            },
+            "id_citations": "1D1xy4QAAAAJ:DwFgw5hZUzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A regret-induced status quo bias",
+                "cites": "93",
+                "year": "2011"
+            },
+            "id_citations": "1D1xy4QAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring subjective states through the observation of actions",
+                "cites": "81",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is choice-induced preference change long lasting?",
+                "cites": "74",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of loss aversion on post-decision wagering: Implications for measures of awareness",
+                "cites": "72",
+                "year": "2010"
+            },
+            "id_citations": "1D1xy4QAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognition about the past and future: quantifying common and distinct influences on prospective and retrospective judgments of self-performance",
+                "cites": "65",
+                "year": "2016"
+            },
+            "id_citations": "1D1xy4QAAAAJ:fGk8ZXjgAbkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive neuroscience of metacognition",
+                "cites": "64",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:oE_QS-WwsdAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain-general and domain-specific patterns of activity supporting metacognition in human prefrontal cortex",
+                "cites": "62",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:SEKBqlyTJecC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psychiatric symptom dimensions are associated with dissociable shifts in metacognition but not task performance",
+                "cites": "58",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:0paDrhnEFY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of age on metacognitive efficiency",
+                "cites": "57",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:-LHtoeeytlUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "HMeta-d: hierarchical Bayesian estimation of metacognitive efficiency from confidence ratings",
+                "cites": "56",
+                "year": "2017"
+            },
+            "id_citations": "1D1xy4QAAAAJ:NKlx0PmyA3cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural segregation of objective and contextual aspects of fairness",
+                "cites": "56",
+                "year": "2011"
+            },
+            "id_citations": "1D1xy4QAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mediators of changes of mind about perceptual decisions",
+                "cites": "54",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:vkz5F8TaVKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The irrationality of categorical perception",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "1D1xy4QAAAAJ:d6JCS5z0ckYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explicit representation of confidence informs future value-based decisions",
+                "cites": "50",
+                "year": "2016"
+            },
+            "id_citations": "1D1xy4QAAAAJ:RmcNAhKkducC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating pupil dilation and metacognitive confidence during auditory decision-making",
+                "cites": "48",
+                "year": "2015"
+            },
+            "id_citations": "1D1xy4QAAAAJ:WTQy_8Ay2UsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct encoding of decision confidence in human medial prefrontal cortex",
+                "cites": "47",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:JhbybO29vGQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Suboptimal criterion learning in static and dynamic environments",
+                "cites": "47",
+                "year": "2017"
+            },
+            "id_citations": "1D1xy4QAAAAJ:t9Ks5LMjN0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When the brain changes its mind: Flexibility of action selection in instructed and free choices",
+                "cites": "47",
+                "year": "2009"
+            },
+            "id_citations": "1D1xy4QAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognitive failure as a feature of those holding radical beliefs",
+                "cites": "44",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:TY5xIG7f_2sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing aging in the human brainstem using quantitative multimodal MRI analysis",
+                "cites": "43",
+                "year": "2013"
+            },
+            "id_citations": "1D1xy4QAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of category-specific costs on neural systems for perceptual decision-making",
+                "cites": "43",
+                "year": "2010"
+            },
+            "id_citations": "1D1xy4QAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consciousness science: real progress and lingering misconceptions.",
+                "cites": "40",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:cTy_cm4PQvYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain-general enhancements of metacognitive ability through adaptive training.",
+                "cites": "35",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:0urtJCGzaFQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human metacognition across domains: insights from individual differences and neuroimaging",
+                "cites": "32",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:-ZoC36zw86wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thinking about thinking: A coordinate-based meta-analysis of neuroimaging studies of metacognitive judgements",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:G7txJ4jiatkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unexpected but incidental positive outcomes predict real-world gambling",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "1D1xy4QAAAAJ:MnogvFdIBdwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Opportunities and challenges for a maturing science of consciousness",
+                "cites": "24",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:-w1eE4La9_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognitive impairment in active cocaine use disorder is associated with individual differences in brain structure",
+                "cites": "24",
+                "year": "2016"
+            },
+            "id_citations": "1D1xy4QAAAAJ:-BKJ5vZJwzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of emotional preferences on value-based decision-making are mediated by mentalizing and not reward networks",
+                "cites": "21",
+                "year": "2011"
+            },
+            "id_citations": "1D1xy4QAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine, salience, and response set shifting in prefrontal cortex",
+                "cites": "19",
+                "year": "2015"
+            },
+            "id_citations": "1D1xy4QAAAAJ:M8meJADSprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revealing subthreshold motor contributions to perceptual confidence",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:ZpgFv6i7Z4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision Making: Changing our minds about changes of mind",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "1D1xy4QAAAAJ:HoDPlbN_d1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The power of reflection",
+                "cites": "15",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:654Jc7Ppz2kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human responses to unfairness with primary rewards and their biological limits",
+                "cites": "15",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal use of reminders: Metacognition, effort, and cognitive offloading.",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:djft3U1LymYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How experimental procedures influence estimates of metacognitive ability",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:Weau3kkTRIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assessing cognitive dysfunction in Parkinson's disease: An online tool to detect visuo\u2010perceptual deficits",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:3pYxbvHKFu8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forming global estimates of self-performance from local confidence",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:AkvegQHRDQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An informal internet survey on the current state of consciousness science",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:PazO6pb-sMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognitive neuroscience: An introduction",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:hrkNWuzUpWwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is there a G factor for metacognition? Correlations in retrospective metacognitive sensitivity across tasks.",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:it4f3qIuXWYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Losing control in social situations: How the presence of others affects neural processes related to sense of agency",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:yaBp1wUtcLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testosterone induces off-line perceptual learning",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A role for metamemory in cognitive offloading",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:qkm5LKljiV4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowing ourselves together: The cultural origins of metacognition",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:K-tzbvM8PMoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Awareness as inference in a higher-order state space",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:mo9XK3BEATIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What underlies political polarization? A manifesto for computational political psychology",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:1YatL4jblGcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:ef2wPL15CskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confidence drives a neural confirmation bias",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:VHM5RxzNINsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advice-taking as a bridge between decision neuroscience and mental capacity",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:O0MA3yP7Y3UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognition in functional cognitive disorder-a potential mechanism and treatment target",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:h-xndbdg2koC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shaping what we see: pinning down the influence of value on perceptual judgements",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "1D1xy4QAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Calibrating the experimental measurement of psychological attributes",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:G887dSk7Sz8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognition across sensory modalities: Vision, warmth, and nociceptive pain",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:tL5YfqkXb3gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Post-decision evidence integration and depressive symptoms",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:zGWyAL6qfKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shouldering responsibility",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:V63Ir2N1OTwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metacognition and confidence in value-based choice",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "1D1xy4QAAAAJ:WgvcDLhf7hwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual sensitivity is modulated by what others can see",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:mS4qin7VKjkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The future of the brain",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:J-ba04ztB30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "92 The Significance of Cognitive Neuroscience: Findings, Applications, and Challenges",
+                "cites": "1"
+            },
+            "id_citations": "1D1xy4QAAAAJ:5p9vMBpPSXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous attribution of false beliefs in adults examined using a signal detection approach",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:OlbiQ0ttILcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confirmation bias is adaptive when coupled with self-awareness",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:nbnL2fqDbzcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Filter Detection Task for measurement of breathing-related interoception and metacognition",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:KKBjqD86ppkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Private-public mappings in human prefrontal cortex",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1D1xy4QAAAAJ:Wqn_fehR_TUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing visual discrimination and detection: the special status of \u2018no\u2019responses",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:S0CDQJw8Yr4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" How experimental procedures influence estimates of metacognitive ability\": Corrigendum.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "1D1xy4QAAAAJ:MSzX15-gZgkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning about Self-Performance in the Absence of Feedback",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "1D1xy4QAAAAJ:JaLtl8ASYokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Criterion learning in an orientation-discrimination task",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "1D1xy4QAAAAJ:ITz7TVZQ0sgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Ravenous Brain",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "1D1xy4QAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Criteria and awareness in perceptual decision",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "1D1xy4QAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Translational Research",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "1D1xy4QAAAAJ:eLRq4zTgah0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Biology of Fairness Revealed",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "1D1xy4QAAAAJ:C5mqfHIFIucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring lifespan and domain generality of metacognition for perception and memory using a gamified platform: Metacogmission",
+                "cites": "0"
+            },
+            "id_citations": "1D1xy4QAAAAJ:GdZ7R06HQM4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=1D1xy4QAAAAJ"
+}

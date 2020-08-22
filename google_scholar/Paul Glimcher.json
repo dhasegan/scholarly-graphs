@@ -1,0 +1,1995 @@
+{
+    "affiliation": "Unknown affiliation",
+    "cites_per_year": {
+        "2001": 140,
+        "2002": 106,
+        "2003": 161,
+        "2004": 265,
+        "2005": 335,
+        "2006": 489,
+        "2007": 712,
+        "2008": 765,
+        "2009": 860,
+        "2010": 922,
+        "2011": 1240,
+        "2012": 1244,
+        "2013": 1572,
+        "2014": 1610,
+        "2015": 1692,
+        "2016": 1552,
+        "2017": 1547,
+        "2018": 1611,
+        "2019": 1873,
+        "2020": 1080
+    },
+    "citedby": 20349,
+    "citedby5y": 9361,
+    "coauthors": [],
+    "email": "@nyu.edu",
+    "hindex": 56,
+    "hindex5y": 43,
+    "i10index": 103,
+    "i10index5y": 89,
+    "id": "9TR_db8AAAAJ",
+    "interests": [],
+    "name": "Paul Glimcher",
+    "publications": [
+        {
+            "bib": {
+                "title": "Neural correlates of decision variables in parietal cortex",
+                "cites": "1831",
+                "year": "1999"
+            },
+            "id_citations": "9TR_db8AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural correlates of subjective value during intertemporal choice",
+                "cites": "1760",
+                "year": "2007"
+            },
+            "id_citations": "9TR_db8AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Midbrain dopamine neurons encode a quantitative reward prediction error signal",
+                "cites": "1239",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Decision making and the brain",
+                "cites": "1151",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisions, uncertainty, and the brain: The science of neuroeconomics",
+                "cites": "916",
+                "year": "2004"
+            },
+            "id_citations": "9TR_db8AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The root of all value: a neural common currency for choice",
+                "cites": "858",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: the consilience of brain and decision",
+                "cites": "828",
+                "year": "2004"
+            },
+            "id_citations": "9TR_db8AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neurobiology of decision: consensus and controversy",
+                "cites": "804",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding dopamine and reinforcement learning: the dopamine reward prediction error hypothesis",
+                "cites": "571",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity in posterior parietal cortex is correlated with the relative subjective desirability of action",
+                "cites": "537",
+                "year": "2004"
+            },
+            "id_citations": "9TR_db8AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic response\u2010by\u2010response models of matching behavior in rhesus monkeys",
+                "cites": "388",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value representations in the primate striatum during matching behavior",
+                "cites": "385",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foundations of neuroeconomic analysis",
+                "cites": "365",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological utility theory and the neuroeconomics of choice",
+                "cites": "363",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neurobiology of visual-saccadic decision making",
+                "cites": "355",
+                "year": "2003"
+            },
+            "id_citations": "9TR_db8AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representation of subjective value under risk and ambiguity",
+                "cites": "350",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Movement selection in advance of action in the superior colliculus",
+                "cites": "333",
+                "year": "1992"
+            },
+            "id_citations": "9TR_db8AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing apples and oranges: using reward-specific and reward-general subjective value representation in the brain",
+                "cites": "303",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisions, uncertainty and the brain",
+                "cites": "298",
+                "year": "2003"
+            },
+            "id_citations": "9TR_db8AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic organization for delayed saccades in human posterior parietal cortex",
+                "cites": "271",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses of intraparietal neurons to saccadic targets and visual distractors",
+                "cites": "250",
+                "year": "1997"
+            },
+            "id_citations": "9TR_db8AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adolescents\u2019 risk-taking behavior is driven by tolerance to ambiguity",
+                "cites": "241",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An \u201cas soon as possible\u201d effect in human intertemporal decision making: behavioral evidence and neural mechanisms",
+                "cites": "239",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopaminergic drugs modulate learning rates and perseveration in Parkinson's patients in a dynamic foraging task",
+                "cites": "226",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward value-based gain control: divisive normalization in parietal cortex",
+                "cites": "221",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phasic dopamine release in the rat nucleus accumbens symmetrically encodes a reward prediction error term",
+                "cites": "219",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indeterminacy in brain and behavior",
+                "cites": "216",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice from non-choice: predicting consumer preferences from blood oxygenation level-dependent signals obtained during passive viewing",
+                "cites": "215",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of midbrain dopamine neuron spike trains in the awake primate",
+                "cites": "208",
+                "year": "2007"
+            },
+            "id_citations": "9TR_db8AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normalization is a general neural mechanism for context-dependent decision making",
+                "cites": "194",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisions, decisions, decisions: choosing a biological science of choice",
+                "cites": "187",
+                "year": "2002"
+            },
+            "id_citations": "9TR_db8AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Like cognitive function, decision making across the life span shows profound age-related changes",
+                "cites": "179",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action and outcome encoding in the primate caudate nucleus",
+                "cites": "178",
+                "year": "2007"
+            },
+            "id_citations": "9TR_db8AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separating value from choice: delay discounting activity in the lateral intraparietal area",
+                "cites": "175",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing the reward prediction error hypothesis with an axiomatic model",
+                "cites": "171",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sustained activity in topographic areas of human posterior parietal cortex during memory-guided saccades",
+                "cites": "161",
+                "year": "2006"
+            },
+            "id_citations": "9TR_db8AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomic studies of impulsivity: Now or just as soon as possible?",
+                "cites": "150",
+                "year": "2007"
+            },
+            "id_citations": "9TR_db8AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specificity of human cortical areas for reaches and saccades",
+                "cites": "134",
+                "year": "2007"
+            },
+            "id_citations": "9TR_db8AAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice: towards a standard back-pocket model",
+                "cites": "127",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction: A brief history of neuroeconomics",
+                "cites": "121",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurotensin: a new \u2018reward peptide\u2019",
+                "cites": "112",
+                "year": "1984"
+            },
+            "id_citations": "9TR_db8AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making choices: the neurophysiology of visual-saccadic decision making",
+                "cites": "109",
+                "year": "2001"
+            },
+            "id_citations": "9TR_db8AAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurotensin self-injection in the ventral tegmental area",
+                "cites": "104",
+                "year": "1987"
+            },
+            "id_citations": "9TR_db8AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of averaging saccades in the superior colliculus of the monkey",
+                "cites": "103",
+                "year": "1993"
+            },
+            "id_citations": "9TR_db8AAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response fields of intraparietal neurons quantified with multiple saccadic targets",
+                "cites": "97",
+                "year": "1998"
+            },
+            "id_citations": "9TR_db8AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient coding and the neural representation of value",
+                "cites": "92",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative analysis of substantia nigra pars reticulata activity during a visually guided saccade task",
+                "cites": "90",
+                "year": "1999"
+            },
+            "id_citations": "9TR_db8AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring beliefs and rewards: a neuroeconomic approach",
+                "cites": "77",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of low-frequency stimulation of the superior colliculus on spontaneous and visually guided saccades",
+                "cites": "69",
+                "year": "1993"
+            },
+            "id_citations": "9TR_db8AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual modulation of substantia nigra pars reticulata neurons",
+                "cites": "68",
+                "year": "2000"
+            },
+            "id_citations": "9TR_db8AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thirst-dependent risk preferences in monkeys identify a primitive form of wealth",
+                "cites": "66",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endogenous opiate reward induced by an enkephalinase inhibitor, thiorphan, injected into the ventral midbrain.",
+                "cites": "65",
+                "year": "1984"
+            },
+            "id_citations": "9TR_db8AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive neuroscience and the law",
+                "cites": "62",
+                "year": "2006"
+            },
+            "id_citations": "9TR_db8AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroanatomy predicts individual risk attitudes",
+                "cites": "61",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of saccade vigor during value-based decision making",
+                "cites": "56",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus probability directs spatial attention: an enhancement of sensitivity in humans and monkeys",
+                "cites": "56",
+                "year": "2001"
+            },
+            "id_citations": "9TR_db8AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic divisive normalization predicts time-varying value coding in decision-related circuits",
+                "cites": "55",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "State dependent valuation: the effect of deprivation on risk preferences",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An expected utility maximizer walks into a bar...",
+                "cites": "49",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive neural coding: from biological to behavioral decision-making",
+                "cites": "48",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response properties of saccade-related burst neurons in the central mesencephalic reticular formation",
+                "cites": "47",
+                "year": "1997"
+            },
+            "id_citations": "9TR_db8AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using big data to understand the human condition: the Kavli HUMAN project",
+                "cites": "41",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normalized value coding explains dynamic adaptation in the human valuation process",
+                "cites": "40",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual processing, learning and feedback in the primate eye movement system",
+                "cites": "39",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding risk: a guide for the perplexed",
+                "cites": "37",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroanatomy accounts for age-related changes in risk preferences",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Application of neurosonography to experimental physiology",
+                "cites": "32",
+                "year": "2001"
+            },
+            "id_citations": "9TR_db8AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Free choice shapes normalized value signals in medial orbitofrontal cortex",
+                "cites": "31",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotion and decision-making under uncertainty: Physiological arousal predicts increased gambling during ambiguity but not risk.",
+                "cites": "31",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotional arousal and discount rate in intertemporal choice are reference dependent.",
+                "cites": "30",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Absence of spatial tuning in the orbitofrontal cortex",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of menstrual cycle phase on economic choice and rationality",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unexpected but incidental positive outcomes predict real-world gambling",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye position and memory saccade related responses in substantia nigra pars reticulata",
+                "cites": "25",
+                "year": "2004"
+            },
+            "id_citations": "9TR_db8AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding the hows and whys of decision-making: from expected utility to divisive normalization",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking the thalamus",
+                "cites": "23",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisions",
+                "cites": "23",
+                "year": "2003"
+            },
+            "id_citations": "9TR_db8AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value-based decision making",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The measurement of subjective value and its relation to contingent valuation and environmental public goods",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The temporal dynamics of cortical normalization models of decision-making",
+                "cites": "20",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rationalizing context-dependent preferences: divisive normalization and neurobiological constraints on choice",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring the subjective value of risky and ambiguous options using experimental economics and functional MRI methods",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movements",
+                "cites": "19",
+                "year": "1998"
+            },
+            "id_citations": "9TR_db8AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple timescales of normalized value coding underlie adaptive choice behavior",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advancing environmental exposure assessment science to benefit society",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response to comment on \u201cIn monkeys making value-based decisions, LIP neurons encode cue salience and not action value\u201d",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlled water intake: a method for objectively evaluating thirst and hydration state in monkeys by the measurement of blood osmolality",
+                "cites": "17",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk preferences impose a hidden distortion on measures of choice impulsivity",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The reduction of ventrolateral prefrontal cortex gray matter volume correlates with loss of economic rationality in aging",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Situating the superior colliculus within the gaze control network",
+                "cites": "16",
+                "year": "2003"
+            },
+            "id_citations": "9TR_db8AAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural random utility: Relating cardinal neural observables to stochastic choice behavior.",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expected subjective value theory (ESVT): A representation of decision under risk and certainty",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rewarding effects of neurotensin in the brain.",
+                "cites": "15",
+                "year": "1982"
+            },
+            "id_citations": "9TR_db8AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Decision making and the brain",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolutionary behavioral economics",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rationalizing context-dependent preferences: Divisive normalization and neurobiological constraints on decision-making",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisiones, incertidumbre y el cerebro: La ciencia de la neuroeconom\u00eda",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proximate mechanisms of individual decision-making behavior",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic methods from neoclassical economics",
+                "cites": "11",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decisiones, incertidumbre y el cerebro",
+                "cites": "11",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural random utility and measured value",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separating risk and ambiguity preferences across the life span: Novel findings and implications for policy",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impairment of decision-making in multiple sclerosis: A neuroeconomic approach",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oculomatic: high speed, reliable, and accurate open-source eye tracking for humans and non-human primates",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning, memory, and decision making",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision making and the brain",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics and the study of valuation",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neurobiology of individual decision making, dualism, and legal accountability",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common value representation\u2014A neuroeconomics perspective",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matching Mental and Neural Representation of Value During Intertemporal Choice",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "9TR_db8AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice-theoretic foundations of the divisive normalization model",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rational Imprecision: Information-Processing, Neural, and Choice-Rule Perspectives",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expected Subjective Value Theory (ESVT): a representation of decision under risk and certainty",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Set-size effects and the neural representation of value",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience, psychology, and economic behavior: the emerging field of neuroeconomics",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Normalization of Consumer Valuations: Context-Dependent Preferences from Neurobiological Constraints",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "9TR_db8AAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational markers of risky decision-making for identification of temporal windows of vulnerability to opioid use in a real-world clinical setting",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "9TR_db8AAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional roles of the amygdala and prefrontal cortex in processing uncertainty",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Experimental Comparison of Risky and Riskless Choice\u2014Limitations of Prospect Theory and Expected Utility Theory",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The computational form of craving is a selective multiplication of economic value",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible valuations for consumer goods as measured by the Becker\u2013DeGroot\u2013Marschak mechanism.",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to neuroscience",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "9TR_db8AAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural random utility",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: History",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Institutional design capitalizing on the intuitive nature of decision making",
+                "cites": "5",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movements",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "9TR_db8AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oculomotor control",
+                "cites": "5",
+                "year": "1998"
+            },
+            "id_citations": "9TR_db8AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational psychiatry of impulsivity and risk: how risk and time preferences interact in health and disease",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Let the sunshine in? The effects of luminance on economic preferences, choice consistency and dominance violations",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal studies of decision making in the visual-saccadic system",
+                "cites": "4",
+                "year": "2004"
+            },
+            "id_citations": "9TR_db8AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive neuroscience",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "9TR_db8AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normalization Principles in Computational Neuroscience",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complexity and Evolution: Toward a New Synthesis for Economics",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating risk preference, water rewards, and thirst: Wealth and utility in monkeys",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The heart of medicine",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term changes in movement frequency do not alter the spatial tuning of saccade-related neurons in intraparietal cortex",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "9TR_db8AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic changes in risky decision-making predict imminent heroin use in opioid users studied longitudinally through the first months of treatment",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotions through the Lens of Economic Theory",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rationalizing Context-Dependent Preferences: Divisive Normalization and Neural Constraints on Decision-Making",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Chapter 1. Basic Methods from Neoclassical Economics",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Better Than Conscious?: Decision Making, the Human Mind, and Implications for Institutions",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "9TR_db8AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BOOK REVIEWS-Decisions, Uncertainty, and the Brain: The Science of Neuroeconomics",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "9TR_db8AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attending to contrast",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "9TR_db8AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus probability re-directs spatial attention in human & monkey: The influence of stimulus history on performance",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "9TR_db8AAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of expected reward on LIP neuronal activity when monkeys choose to shift gaze away from the neuronal response field",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "9TR_db8AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low-frequency stimulation of the superior colliculus alters responses selected for initiation but does not trigger saccades",
+                "cites": "1",
+                "year": "1992"
+            },
+            "id_citations": "9TR_db8AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontiers for Young Minds",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "9TR_db8AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensitivity of reaction time to the magnitude of rewards reveals the cost-structure of time",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Neuroeconomic Approach to Quantify the Subjective Cost of Self-Control and its Modulatory Factors: Stress, Risk and Ambiguity",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "F206. Neural Mechanisms Guiding Choices for Cannabis and Alternative Rewards in Cannabis Smokers",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuroeconomics of distrust: sex differences in behavior and physiology",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PNS250 USING TOOLS OF BEHAVIORAL SCIENCE TO IMPROVE PATIENT ENGAGEMENT, RETENTION AND ADHERENCE",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CUMULATIVE EXPOSURE TO STRESS ACROSS THE LIFETIME IS SELECTIVELY ASSOCIATED WITH AVERSION TO ECONOMIC AMBIGUITY, BUT NOT RISK",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9TR_db8AAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connecting Symptomatology to Impulsive Decision-Making in Opioid Use Disorder Through Psychophysiological Measures",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological measures link clinical states to impulsive decision-making in opioid use disorder",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "O34. Stress Modulates the Subjective Cost of Exercising Self-Control",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fluctuations in Craving and Mood State Bias Subjective Valuation in Addiction",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Neuroeconomist\u2019s Perspective on Thinking about the Future",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Emerging Standard Neurobiological Model of Decision Making: Strengths, Weaknesses, and Future Directions",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What to do on spring break? The role of predicted, on-line, and remembered experience in future choice",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9TR_db8AAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in Computational Markers of Decision-Making are Proximally Tied to Heroin Use in Opioid Users Followed Longitudinally Through the First Months of Treatment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Correlates of Discounted Subjective Value Track Heroin Use in Treatment-Seeking Opioid Users",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping neuroeconomic decisions in multiple sclerosis: a connectivity approach",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Propranolol reduces reference-dependence in intertemporal choice",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Let the sunshine in? The effects of luminance on economic preferences, choice consistency and dominance violations",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Reduction of Ventrolateral Prefrontal Cortex Grey Matter Volume Correlates with Loss of Economic Rationality in Aging",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational Principles of Value Coding in the Brain",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lectures in Neuroeconomics",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Precise Computational Measure of Impulsivity that Signals Relevant Outcomes in Opioid Addiction Treatment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9TR_db8AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Week-to-Week Fluctuations in Risky Decision Making Track Heroin Use in Treatment-Seeking Opioid Users",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurobehavioral Mechanisms of Choices for Cannabis and Snack Food in Cannabis Smokers",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trajectories of Impulsivity in Opioid Use Disorder Treatment: A Longitudinal Study of Temporal Discounting and its Dynamic Relation to Drug Use and Treatment Efficacy",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal Discounting and Addiction: Tracking Impulsivity through Treatment",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9TR_db8AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making in multiple sclerosis: a neuroeconomics approach",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Canonical Riskless Choice Over Bundles: Aint No Reference Point Here",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurobiologically Validated Models of Errors in Decision-Making: Strategies for Remediation and Detection",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "9TR_db8AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible valuations for consumer goods as measured by the Becker-DeGroot-Marschak mechanism",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Chapter 5. Introduction to Neuroscience",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Chapter 20. Value-Based Decision Making",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximizing Darwinian fitness with a costly brain: the neuroeconomics of human decision-making.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is Food and Money the Same? Behavioral and Neural Similarities When Choosing Different Product Types",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "9TR_db8AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From idiosyncratic to common preferences: A neuroeconomic approach",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "9TR_db8AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Representation of Subjective Value Under Risk",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "of Book: Animal thinking: Contemporary issues in comparative cognition",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "9TR_db8AAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEASURING BELIEFS AND REWARDS: A NEUROECONOMIC APPROACH ANDREW CAPLIN MARK DEAN",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The BOLD response in the nucleus accumbens quantitatively represents the reward prediction error",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "9TR_db8AAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience, Field of Neuroeconomics Psychology, and Economic Behavior: The Emerging",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "9TR_db8AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are Heuristics a Problem or a Solution?",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "9TR_db8AAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Group Report: Are Heuristics",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "9TR_db8AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "of Book: Heuristics and the law",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "9TR_db8AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine encodes a quantiative reward prediction error for for reinforcement learning",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aramend\u00eda, Miguel",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "9TR_db8AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the temporal dynamics of shifts in spatial attention with changing subject certainty",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "9TR_db8AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Books and arts-Decisions, Uncertainty, and the Brain: The Science Neuroeconomics",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "9TR_db8AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An \u201cAs Soon As Possible\u201d Effect in Human Inter-Temporal Decision 5",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "9TR_db8AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control of eye movement",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "9TR_db8AAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do area lip neurons encode the probability that a stimulus will serve as a saccad. ic target?",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "9TR_db8AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus location probability regulates spatial attention",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "9TR_db8AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where is the 7\u00b12 category bottleneck?",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "9TR_db8AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons in Area LIP differentially encode saccadic targets and visual distractors",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "9TR_db8AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEURONS OF THE BASAL GANGLIA CODE THE POSITION OF THE EYE POSTSACCADICALLY",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "9TR_db8AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COLLICULAR REPRESENTATION OF MULTIPLE TARGETS-ACTIVITY OF SACCADE RELATED BURSTERS DURING AVERAGING SACCADES",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "9TR_db8AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CONNECTIONS OF THE NUCLEUS MEDIANUS",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "9TR_db8AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Suggested searches",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online Appendices for \u201cAn Expected Utility Maximizer Walks Into A Bar...\u201d",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontiers for Young Minds",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value representation via divisive normalization in parietal cortex",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Data Value Representations in the Primate Striatum during Matching Behavior",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SEE Matrix, The.",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sarah Brosnan",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Emerging Standard Neurobiological Model of Decision Making",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building the Next Generation of Early Warning Systems in Education",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Falsifying the Reward Prediction Error Hypothesis with an Axiomatic Model",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding the Best Fit: Building a Novel Student-School Compatibility Tool to Improve School Choice",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "559 Squelching glioblastoma stem cells by targeting REST for proteasomal degradation 566 Cingulate cortex: Diverging data from humans and monkeys",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Certainly Nondeterministic",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontiers for Young Minds",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CESS Working Paper Series",
+                "cites": "0"
+            },
+            "id_citations": "9TR_db8AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=9TR_db8AAAAJ"
+}

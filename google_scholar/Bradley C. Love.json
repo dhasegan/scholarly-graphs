@@ -1,0 +1,2133 @@
+{
+    "affiliation": "Professor of Experimental Psychology, University College London",
+    "cites_per_year": {
+        "2000": 17,
+        "2001": 149,
+        "2002": 44,
+        "2003": 62,
+        "2004": 117,
+        "2005": 133,
+        "2006": 127,
+        "2007": 160,
+        "2008": 252,
+        "2009": 233,
+        "2010": 259,
+        "2011": 246,
+        "2012": 300,
+        "2013": 396,
+        "2014": 389,
+        "2015": 413,
+        "2016": 418,
+        "2017": 542,
+        "2018": 632,
+        "2019": 673,
+        "2020": 370
+    },
+    "citedby": 6067,
+    "citedby5y": 3061,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Psychology, New York University",
+            "id": "4wcx4HMAAAAJ",
+            "name": "Todd Gureckis"
+        },
+        {
+            "affiliation": "Wayne Holtzman Chair and Professor of Psychology, University of Texas",
+            "id": "vHD-xu0AAAAJ",
+            "name": "W. Todd Maddox"
+        },
+        {
+            "affiliation": "Texas Tech University",
+            "id": "CGEUtloAAAAJ",
+            "name": "Tyler Davis"
+        },
+        {
+            "affiliation": "McGill University",
+            "id": "JBtPJugAAAAJ",
+            "name": "Ross Otto"
+        },
+        {
+            "affiliation": "Language Computer",
+            "id": "dMT9NEUAAAAJ",
+            "name": "Marc Tomlinson"
+        },
+        {
+            "affiliation": "Postdoctoral Researcher of Psychology and Computer Science, University College London, University of",
+            "id": "5i5fLpYAAAAJ",
+            "name": "Brian Glass"
+        },
+        {
+            "affiliation": "Department of Psychology, University of Toronto",
+            "id": "9bZsr-gAAAAJ",
+            "name": "Michael Mack"
+        },
+        {
+            "affiliation": "Bosch co-lead for UT Austin R&D site, focusing on machine learning for autonomous vehicle behavior",
+            "id": "0a58TKgAAAAJ",
+            "name": "W Bradley Knox"
+        },
+        {
+            "affiliation": "Professor of Computer Science, The University of Texas at Austin",
+            "id": "qnwjcfAAAAAJ",
+            "name": "Peter Stone"
+        }
+    ],
+    "email": "@ucl.ac.uk",
+    "hindex": 40,
+    "hindex5y": 31,
+    "i10index": 89,
+    "i10index5y": 63,
+    "id": "H8dnlegAAAAJ",
+    "interests": [
+        "decision making",
+        "learning",
+        "cognition",
+        "cognitive modeling",
+        "brains brains brains."
+    ],
+    "name": "Bradley C. Love",
+    "publications": [
+        {
+            "bib": {
+                "title": "SUSTAIN: a network model of category learning.",
+                "cites": "4240941627021224026",
+                "year": "2004",
+                "url": "https://psycnet.apa.org/getdoi.cfm?doi=10.1037/0033-295X.111.2.309",
+                "author": "Bradley C Love and Douglas L Medin and Todd M Gureckis",
+                "journal": "Psychological review",
+                "volume": "111",
+                "number": "2",
+                "pages": "309",
+                "publisher": "American Psychological Association",
+                "abstract": "SUSTAIN (Supervised and Unsupervised STratified Adaptive Incremental Network) is a model of how humans learn categories from examples. SUSTAIN initially assumes a simple category structure. If simple solutions prove inadequate and SUSTAIN is confronted with a surprising event (eg, it is told that a bat is a mammal instead of a bird), SUSTAIN recruits an additional cluster to represent the surprising event. Newly recruited clusters are available to explain future events and can themselves evolve into prototypes-attractors-rules. SUSTAIN's discovery of category substructure is affected not only by the structure of the world but by the nature of the learning task and the learner's goals. SUSTAIN successfully extends category learning models to studies of inference learning, unsupervised learning, category construction, and contexts in which identification learning is faster than classification learning.",
+                "eprint": "https://www.researchgate.net/profile/Todd_Gureckis/publication/8635506_SUSTAIN_a_network_model_of_category_learning/links/09e4150c637e8db038000000.pdf"
+            },
+            "id_citations": "H8dnlegAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian fundamentalism or enlightenment? On the explanatory status and theoretical contributions of Bayesian models of cognition",
+                "cites": "473",
+                "year": "2011"
+            },
+            "id_citations": "H8dnlegAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature centrality and conceptual coherence",
+                "cites": "415",
+                "year": "1998"
+            },
+            "id_citations": "H8dnlegAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing supervised and unsupervised category learning",
+                "cites": "199",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relations versus properties in conceptual combination",
+                "cites": "188",
+                "year": "1998"
+            },
+            "id_citations": "H8dnlegAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time strategy game training: emergence of a cognitive flexibility trait",
+                "cites": "163",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the brain\u2019s algorithm for categorization from its neural implementation",
+                "cites": "146",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning nonlinearly separable categories by inference and classification.",
+                "cites": "144",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Schematic influences on category learning and recognition memory.",
+                "cites": "125",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When more is less: Feedback effects in perceptual category learning",
+                "cites": "116",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SUSTAIN: A model of human category learning",
+                "cites": "111",
+                "year": "1998"
+            },
+            "id_citations": "H8dnlegAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CAB: Connectionist analogy builder",
+                "cites": "106",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the exception to the rule: Model-based fMRI reveals specialized representations for surprising category members",
+                "cites": "105",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approaches to analysis in model-based cognitive neuroscience",
+                "cites": "104",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term gains, long-term pains: How cues about state aid learning in dynamic environments",
+                "cites": "100",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond common features: The role of roles in determining similarity",
+                "cites": "100",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A structural account of global and local processing",
+                "cites": "94",
+                "year": "1999"
+            },
+            "id_citations": "H8dnlegAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recency effects as a window to generalization: separating decisional and perceptual sequential effects in category learning.",
+                "cites": "93",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Models in search of a brain",
+                "cites": "80",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic updating of hippocampal object representations reflects new conceptual knowledge",
+                "cites": "72",
+                "year": "2016"
+            },
+            "id_citations": "H8dnlegAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning in noise: Dynamic decision-making in a variable environment",
+                "cites": "71",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How humans teach agents",
+                "cites": "65",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nature of belief-directed exploratory choice in human decision-making",
+                "cites": "65",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory for category information is idealized through contrast with competing options",
+                "cites": "65",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal and hippocampal entropy and recognition signals in category learning: simultaneous processes revealed by model-based fMRI.",
+                "cites": "64",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global neural pattern similarity as a common basis for categorization and recognition memory",
+                "cites": "62",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling inference and classification learning",
+                "cites": "60",
+                "year": "2000"
+            },
+            "id_citations": "H8dnlegAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory emotions in decision tasks: Covert markers of value or attentional processes?",
+                "cites": "59",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal teaching for limited-capacity human learners",
+                "cites": "56",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Putting the psychology back into psychological models: Mechanistic versus rational approaches",
+                "cites": "54",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common mechanisms in infant and adult category learning",
+                "cites": "53",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From pigeons to humans: Grounding relational learning in concrete examples",
+                "cites": "50",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of depression symptoms on exploratory decision-making",
+                "cites": "49",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regulatory fit and systematic exploration in a dynamic decision-making environment.",
+                "cites": "49",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural priming as structure\u2010mapping: children use analogies from previous utterances to guide sentence production",
+                "cites": "47",
+                "year": "2011"
+            },
+            "id_citations": "H8dnlegAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building concepts one episode at a time: The hippocampus and concept formation",
+                "cites": "45",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The algorithmic level is the bridge between computation and brain",
+                "cites": "43",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Limits in decision making arise from limits in memory retrieval",
+                "cites": "43",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The multifaceted nature of unsupervised category learning",
+                "cites": "43",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning is not decline: The mental lexicon as a window into cognition across the lifespan",
+                "cites": "42",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning from human-generated reward",
+                "cites": "40",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nonindependence of stimulus properties in human category learning",
+                "cites": "38",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environment and goals jointly direct category acquisition",
+                "cites": "36",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct associations or internal transformations? Exploring the mechanisms underlying sequential learning behavior",
+                "cites": "35",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based cognitive neuroscience",
+                "cites": "34",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social information is integrated into value and confidence judgments according to its reliability",
+                "cites": "33",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "You don't want to know what you're missing: When information about forgone rewards impedes dynamic decision making",
+                "cites": "33",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational level theory of similarity",
+                "cites": "28",
+                "year": "2000"
+            },
+            "id_citations": "H8dnlegAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heuristics as Bayesian inference under extreme priors",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a unified account of supervised and unsupervised category learning",
+                "cites": "27",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and retention through predictive inference and classification.",
+                "cites": "26",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dimension-Wide vs. Exemplar-Specific Attention in Category Learning and Recognition.",
+                "cites": "26",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploratory decision-making as a function of lifelong experience, not cognitive decline.",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "H8dnlegAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vancouver, Toronto, Montreal, Austin: Enhanced oddball memory through differentiation, not isolation",
+                "cites": "25",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coherency-maximizing exploration in the supermarket",
+                "cites": "24",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What the success of brain imaging implies about the neural code",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience perspectives for science and mathematics learning in technology-enhanced learning environments",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking more, now: The optimality of impulsive choice hinges on environment structure",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Navigating through abstract decision spaces: Evaluating the role of state generalization in a dynamic decision-making task",
+                "cites": "23",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutability and the determinants of conceptual transformability",
+                "cites": "23",
+                "year": "1995"
+            },
+            "id_citations": "H8dnlegAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast or frugal, but not both: Decision heuristics under time pressure.",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A frontal dopamine system for reflective exploratory behavior",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus generalization in category learning",
+                "cites": "21",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling classification and inference learning",
+                "cites": "21",
+                "year": "2000"
+            },
+            "id_citations": "H8dnlegAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Utilizing lime: Asynchronous Binding",
+                "cites": "21",
+                "year": "1999"
+            },
+            "id_citations": "H8dnlegAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological and behavioral signatures of reflective exploratory choice",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorization",
+                "cites": "19",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Who says models can only do what you tell them? Unsupervised category learning data, fits, and predictions",
+                "cites": "19",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior temporal lobe tracks the formation of prejudice",
+                "cites": "18",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When learning to classify by relations is easier than by features",
+                "cites": "18",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two pathways to stimulus encoding in category learning?",
+                "cites": "18",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a cognitive science of social inequality: children\u2019s attention-related ERPs and salivary cortisol vary with their socioeconomic status",
+                "cites": "18",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved classification of mammograms following idealized training",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of phase-only and classical matched filter scale sensitivity",
+                "cites": "16",
+                "year": "1987"
+            },
+            "id_citations": "H8dnlegAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human unsupervised and supervised learning as a quantitative distinction",
+                "cites": "15",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured, uncertainty-driven exploration in real-world consumer choice",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of similarity in generalization",
+                "cites": "13",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating the functional dimensionality of neural representations",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive models as bridge between brain and behavior",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "H8dnlegAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pinning down the theoretical commitments of Bayesian cognitive models",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "H8dnlegAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorization inside and outside the laboratory: Essays in honor of Douglas L. Medin.",
+                "cites": "12",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling item and category learning",
+                "cites": "12",
+                "year": "1998"
+            },
+            "id_citations": "H8dnlegAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Occipitotemporal representations reflect individual differences in conceptual knowledge.",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related declines in the fidelity of newly acquired category representations",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thinking in pictures: A fresh look at cognition in autism",
+                "cites": "11",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutability, conceptual transformation, and context",
+                "cites": "11",
+                "year": "1996"
+            },
+            "id_citations": "H8dnlegAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning abstract relations through analogy to concrete exemplars",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of multiple learning systems",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept learning",
+                "cites": "10",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medial prefrontal cortex compresses concept representations through learning",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nudging investors big and small toward better decisions.",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When do we stop calling them mirror neurons?",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Learning Under the Influence of Culture.",
+                "cites": "9",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variability in the analysis of a single neuroimaging dataset by many teams",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-spatial account of place and grid cells based on clustering models of concept learning",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowledge integration in creative problem solving",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behaviorism reborn? statistical learning as simple conditioning",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sizable sharks swim swiftly: Learning correlations through inference in a classroom setting",
+                "cites": "8",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ventromedial prefrontal cortex compression during concept learning",
+                "cites": "7",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active learning as a means to distinguish among prominent decision strategies.",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classifying objects based on their visual similarity to target categories",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measures of neural similarity",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Networks as Models of Human and Animal Categorization.",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational reinforcement learning",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to predict information needs: Context-aware display as a cognitive aid and an assessment tool",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for incorporating decision making into classifiers",
+                "cites": "6",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A critical look at the mechanisms underlying implicit sequence learning",
+                "cites": "6",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Unsupervised Learning with SUSTAIN.",
+                "cites": "6",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three deadly sins of category learning modelers",
+                "cites": "6",
+                "year": "2001"
+            },
+            "id_citations": "H8dnlegAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning at different levels of abstraction",
+                "cites": "6",
+                "year": "2000"
+            },
+            "id_citations": "H8dnlegAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective attention in rat visual category learning",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of presentation pace and modality on learning a multimedia science lesson",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How decisions and the desire for coherency shape subjective preferences over time",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic integration of conceptual information during learning",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is better beautiful or is beautiful better? Exploring the relationship between beauty and category structure",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing the World through an Expert\u2019s Eyes: Context-Aware Display as a Training Companion",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of social information on distance estimation",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How goals shape category acquisition: The role of contrasting categories",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting information needs: Adaptive display in dynamic environments",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature relations and feature salience in natural categories",
+                "cites": "4",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus: Where a cognitive model meets cognitive neuroscience",
+                "cites": "4",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity and categorization: A review",
+                "cites": "4",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The analogical mind: Perspectives from cognitive science",
+                "cites": "4",
+                "year": "2001"
+            },
+            "id_citations": "H8dnlegAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The importance of standards for sharing of computational models and data",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conceptual organization is revealed by consumer activity patterns",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploration in the wild",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimism bias in fans and sports reporters",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning: A computational perspective",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monkey see, monkey do: Learning relations through concrete examples",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The concrete substrates of abstract rule use",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking variability in learning: Contrasting statistical and similarity-based accounts",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bridging levels: Using a cognitive model to connect brain and behavior in category learning",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category structure and recognition memory",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bridging levels: A cognitive model of hippocampal mediated learning",
+                "cites": "3"
+            },
+            "id_citations": "H8dnlegAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning as the unsupervised alignment of conceptual systems",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ventromedial prefrontal cortex compression during concept learning",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active learning reveals underlying decision strategies",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concepts, meaning, and conceptual relationships",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unfazed by both the bull and bear: Strategic exploration in dynamic environments",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanistic models of associative and rule-based category learning",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relation-based categories are easier to learn than feature-based categories",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asynchronous connectionist binding",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "H8dnlegAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative and Discriminative Models in Cognitive Science.",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Becoming a gamer: cognitive effects of real-time strategy gaming",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When things get worse before they get better: Regulatory fit and average-reward learning in a dynamic decision-making environment",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "You only had to ask me once: Long-term retention requires direct queries during learning",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Novel Approach to Understanding Novelty Effects in Memory",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tuk-Tuk: a unified account of similarity judgment and analogical mapping",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aging and category learning: no exception is the rule",
+                "cites": "1"
+            },
+            "id_citations": "H8dnlegAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category learning in rodents using touchscreen\u2010based tasks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based fMRI analysis of memory",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The perceptual boost of visual attention is task-dependent in naturalistic settings",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Costs and Benefits of Goal-Directed Attention in Deep Convolutional Neural Networks",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The perceptual boost of visual attention is task-dependent in naturalistic settings",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract neural representations of category membership beyond information coding stimulus or response",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural link between subjective value and decision entropy",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H8dnlegAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Levels of Biological Plausibility",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gerrymandering and computational redistricting",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Levels of Representation in a Deep Learning Model of Categorization",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "H8dnlegAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model comparison, not model falsification",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bidirectional Influences of Information-Sampling and Concept Learning",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "H8dnlegAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Capacity Limits and Electoral Districting",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "H8dnlegAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision Context, Associative Learning and Preference Formation in Risky Choice",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "H8dnlegAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moot Point Process Models",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice exploration and exploitation in purchase decisions: a longitudinal study of customers' exploration and exploitation of supermarket products.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heuristics as a special case of Bayesian Inference",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Journal of Applied Research in Memory and Cognition",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "H8dnlegAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-Network Context: Dynamics and Learning in Preference Formation.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training in action video games can increase the speed of perceptual processing. However, it is unknown whether video-game training can lead to broad-based changes in higher \u2026",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grounding quantum probability in psychological mechanism",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data from\" Limits in decision making arise from limits in memory retrieval\"",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When is it rational to rely on heuristics?",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are forgetting processes crucial to category learning?",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experiments in dynamic group action and decision making: How crowds of people can walk a tightrope together and survive a zombie attack",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H8dnlegAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning for uncertainty",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral and neural evidence for an associative account of stereotype formation",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A static model for predicting disrupted network behaviour",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thirty years of Marr's Vision: Levels of Analysis in Cognitive Science",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "H8dnlegAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Determinants of learning difficulty and boundary uncertainty in unidimensional category learning",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "H8dnlegAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving Beyond Where and What to How: Using Models and fMRI to Understand Brain-Behavior Relations",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "H8dnlegAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational, Neuroscientific, and Lifespan Perspectives on the Exploration-Exploitation Dilemma",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "H8dnlegAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category Learning by Clustering with Extension to Dynamic Environments",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Symposium: Dynamic decision making",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When learning to classify by relations is easier than by features",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective Attention by Structural Alignment: An Eyetracking Study",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "H8dnlegAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "You Only Had to Ask Me Once: Long-term Retention Requires Direct Queries During Learning",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "H8dnlegAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximizing the Benefits of Training by Example and Direct Instruction",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the 30th Annual Conference of the Cognitive Science Society.",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "H8dnlegAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Braver, Todd S., 37",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Translating From Perceptual to Cognitive Coding",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "H8dnlegAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Abstract Relations Through Analogy to Concrete Exemplars",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking Variability in Learning: Contrasting Statistical and Similarity-Based Accounts",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sizable Sharks Swim Swiftly: Learning Correlations through Inference in a Classroom Setting",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "H8dnlegAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In Vivo or In Vitro: Cognitive Architectures and Task-Specific Models",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Douglas L. Medin, His Life, and His Intellectual Heritage.",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why Adaptationist Explanations are so Seductive",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms and constraints underlying implicit sequence learning",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of isolation and differentiation in enhanced oddball memory",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Novel Approach to Understanding Novelty Effects in Memory",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "H8dnlegAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Learning Across Task Environments",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Editors thank the following reviewers for their help during 2003.",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Type/Token Information in Category Learning and Recognition",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "H8dnlegAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Editors thank the following reviewers for their help during 2002.",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hearst, ES, 637 Huber, DE, 403 Hummel, JE, 327",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "H8dnlegAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interdisciplinary Collaborative Consortium on the Cognitive Neuroscience of Category Learning",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subject index of volume 156",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "H8dnlegAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Effects of Video Game Playing on Motion Processing Abilities",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "H8dnlegAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Editors thank the following reviewers for their help during 2000.",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "H8dnlegAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brenner, Lyle A., 16, 110",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "H8dnlegAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling human category learning",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "H8dnlegAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alterman, R. 53 Lewis, C. 131",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "H8dnlegAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine-Related Genetic Influences on Exploratory Decision-making",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "the Laboratory",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OF CATEGORIZATION",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Occipitotemporal Representations are Modulated by Conceptual Knowledge and Interact with a Frontoparietal Network",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Dissertation Committee for Keith Matthew Gora certifies that this is the approved version of the following dissertation",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning is not decline: The mental lexicon as a window into cognition across the lifespan Michael Ramscar1, Peter Hendrix1, Bradley Love2 and Harald Baayen1 1Eberhard Karls \u2026",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploratory Decision-Making as a Function of Lifelong Experience, not Cognitive Decline Nathaniel J. Blanco1 Bradley C. Love2 Michael Ramscar3",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploratory Decision-Making as a Function of Lifelong Experience",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to survive a zombie attack as member of a large group",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "4 Department of Cognitive, Perceptual and Brain Sciences, University College London, London, 11 United Kingdom 12",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and Using Relational Categories",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorization Inside and Outside the Laboratory",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing Complex Knowledge in Networks",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In Vivo or In Vitro: Cognitive Architectures and Task\u2014Speci\ufb01c Models",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed Asynchronous Neural Encoding of Compositional Representations",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target article authors",
+                "cites": "0"
+            },
+            "id_citations": "H8dnlegAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=H8dnlegAAAAJ",
+    "brain_inspired": {
+        "id": "1019",
+        "link": "https://braininspired.co/podcast/70/",
+        "name": "Bradley Love",
+        "title": "BI 070 Bradley Love: How We Learn Concepts",
+        "text": "Brad and I discuss his battle-tested, age-defying cognitive model for how we learn concepts by forming and rearranging clusters, how the model maps onto brain areas, and how he\u2019s using deep learning models to explore how attention and sensory information interact with concept formation. We also discuss the cognitive modeling approach, Marr\u2019s levels of analysis, the term \u201cbiological plausibility\u201d, emergence and reduction, and plenty more."
+    }
+}

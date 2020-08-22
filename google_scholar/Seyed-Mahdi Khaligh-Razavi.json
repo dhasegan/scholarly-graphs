@@ -1,0 +1,524 @@
+{
+    "affiliation": "Cognetivity Neurosciences",
+    "cites_per_year": {
+        "2014": 23,
+        "2015": 38,
+        "2016": 100,
+        "2017": 187,
+        "2018": 216,
+        "2019": 247,
+        "2020": 141
+    },
+    "citedby": 966,
+    "citedby5y": 931,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Columbia University",
+            "id": "w6M4YN4AAAAJ",
+            "name": "Nikolaus Kriegeskorte"
+        },
+        {
+            "affiliation": "Prof. of Cognitive Neuroscience,Shahid Rajaee University (SRTTU) & School of Cognitive Sciences, IPM",
+            "id": "TCgHw50AAAAJ",
+            "name": "Reza Ebrahimpour"
+        },
+        {
+            "affiliation": "",
+            "id": "tmp4mdkAAAAJ",
+            "name": "Masoud Ghodrati, PhD"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Minnesota",
+            "id": "hlthz-YAAAAJ",
+            "name": "Kendrick Kay"
+        },
+        {
+            "affiliation": "McGovern Institute for Brain Research, MIT",
+            "id": "uz8P5hYAAAAJ",
+            "name": "Dimitrios Pantazis"
+        },
+        {
+            "affiliation": "University Lecturer at Aalto University",
+            "id": "3sp1TEkAAAAJ",
+            "name": "Linda Henriksson"
+        },
+        {
+            "affiliation": "Associate Professor, University of Sydney",
+            "id": "6dfA060AAAAJ",
+            "name": "Thomas A Carlson"
+        },
+        {
+            "affiliation": "National Institutes of Health (NIH), Laboratory of Brain and Cognition",
+            "id": "TvNa77oAAAAJ",
+            "name": "Susan G Wardle"
+        },
+        {
+            "affiliation": "Non Resident Researcher , School of Cognitive Sciences ",
+            "id": "S7xQtGUAAAAJ",
+            "name": "Amirhossein Farzmahdi"
+        },
+        {
+            "affiliation": "MARCS Institute for Brain, Behaviour & Development, Western Sydney University",
+            "id": "TNI8FOoAAAAJ",
+            "name": "Tijl Grootswagers"
+        },
+        {
+            "affiliation": "University of Tehran",
+            "id": "mp5GrfgAAAAJ",
+            "name": "Maryam Sadeghi"
+        },
+        {
+            "affiliation": "Senior Research Scientist, CSAIL;  MIT Director MIT-IBM Watson AI Lab; Co-director MIT Quest",
+            "id": "FNhl50sAAAAJ",
+            "name": "Aude Oliva"
+        },
+        {
+            "affiliation": "Assistant Professor, Department of Computer Science & Brain and Mind Institute, Western University",
+            "id": "xZIgSigAAAAJ",
+            "name": "Yalda Mohsenzadeh"
+        },
+        {
+            "affiliation": "PhD Student, Institute for Research in Fundamental Sciences (IPM), School of Cognitive Sciences (SCS",
+            "id": "O-58mcIAAAAJ",
+            "name": "Sajjad Zabbah"
+        },
+        {
+            "affiliation": "Institute of Neuroscience and Medicine (INM-6), Research Centre J\u00fclich",
+            "id": "1Tzb7DsAAAAJ",
+            "name": "Amin Mirzaei"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Chicago Department of Psychology",
+            "id": "cHZ2U6UAAAAJ",
+            "name": "Wilma Alice Bainbridge"
+        },
+        {
+            "affiliation": "associate professor of biomedial engineering, shahed university",
+            "id": "ldLrnkQAAAAJ",
+            "name": "mohammad pooyan"
+        },
+        {
+            "affiliation": "Salk Institute",
+            "id": "ROFPykAAAAAJ",
+            "name": "Sidney Lehky"
+        },
+        {
+            "affiliation": "MRC Cognition and Brain Sciences Unit, Cambridge, UK",
+            "id": "hybIdeIAAAAJ",
+            "name": "Johan D Carlin"
+        },
+        {
+            "affiliation": "Western University",
+            "id": "Eo6JfS8AAAAJ",
+            "name": "Marieke Mur"
+        }
+    ],
+    "email": "@Cognetivity.com",
+    "hindex": 11,
+    "hindex5y": 11,
+    "i10index": 12,
+    "i10index5y": 11,
+    "id": "3HbeiywAAAAJ",
+    "interests": [
+        "Computational Vision",
+        "Computational Neuroscience",
+        "Dementia",
+        "Deep learning"
+    ],
+    "name": "Seyed-Mahdi Khaligh-Razavi",
+    "publications": [
+        {
+            "bib": {
+                "title": "Deep supervised, but not unsupervised, models may explain IT cortical representation",
+                "cites": "598",
+                "year": "2014"
+            },
+            "id_citations": "3HbeiywAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual similarity of visual patterns predicts dynamic neural activation patterns measured with MEG",
+                "cites": "57",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual representations are dominated by intrinsic fluctuations correlated between areas",
+                "cites": "44",
+                "year": "2015"
+            },
+            "id_citations": "3HbeiywAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixed versus mixed RSA: Explaining visual representations by fixed and mixed feature sets from shallow and deep computational models",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How can selection of biologically inspired features improve the performance of a robust object recognition model?",
+                "cites": "35",
+                "year": "2012"
+            },
+            "id_citations": "3HbeiywAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedforward object-vision models only tolerate small image variations compared to human",
+                "cites": "29",
+                "year": "2014"
+            },
+            "id_citations": "3HbeiywAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond core object recognition: Recurrent processes account for object recognition under occlusion",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "3HbeiywAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards building a more complex view of the lateral geniculate nucleus: recent advances in understanding its role",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "3HbeiywAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A specialized face-processing model inspired by the organization of monkey face patches explains several face-specific phenomena observed in humans",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A stable biologically motivated learning mechanism for visual feature extraction to handle facial categorization",
+                "cites": "17",
+                "year": "2012"
+            },
+            "id_citations": "3HbeiywAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the Human Reaction Time Based On Natural Image Statistics in a Rapid Categorization Task",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "3HbeiywAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of the lateral geniculate nucleus and corticogeniculate interactions on efficient coding and higher-order visual object processing",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "3HbeiywAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking the spatiotemporal neural dynamics of real-world object size and animacy in the human brain",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "3HbeiywAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object-vision models that better explain IT also categorize better, but all models fail at both",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "3HbeiywAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System for assessing a mental health disorder",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "3HbeiywAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What you need to know about the state-of-the-art computational models of object-vision: A tour through the models",
+                "cites": "7",
+                "year": "2014"
+            },
+            "id_citations": "3HbeiywAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From what we perceive to what we remember: Characterizing representational dynamics of visual memorability",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrated Cognitive Assessment: speed and Accuracy of Visual processing as a Reliable proxy to Cognitive performance",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "3HbeiywAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic cortical dynamics dominate population responses to natural images across human visual cortex",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "3HbeiywAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual similarity of visual patterns predicts the similarity of their dynamic neural activation patterns measured with meg",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "3HbeiywAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population-code representations of natural images across human visual areas",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "3HbeiywAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A self-administered, artificial intelligence (AI) platform for cognitive assessment in multiple sclerosis (MS)",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "3HbeiywAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014)",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "3HbeiywAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using ICA-an artificial intelligence (AI)-assisted technology-as a digital biomarker of MS disease progression and treatment efficacy",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "3HbeiywAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Virtual reality (VR)-based cognitive rehabilitation: cognitive games are complementary to physical training for an optimum rehabilitation strategy in patients with multiple \u2026",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "3HbeiywAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrated cognitive assessment: speed and accuracy of visual processing as a proxy to cognitive performance",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "3HbeiywAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking the spatiotemporal neural dynamics of object properties in the human brain",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "3HbeiywAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sudden emergence of categoricality at the lateral-occipital stage of ventral visual processing",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of recurrent dynamics on ventral-stream representational geometry",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "3HbeiywAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is the nature of the decodable neuromagnetic signal? MEG, Models, and Perception.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "3HbeiywAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "F3\u201001\u201003: THE INTEGRATED COGNITIVE ASSESSMENT\u2010EMPLOYING ARTIFICIAL INTELLIGENCE FOR THE DETECTION OF COGNITIVE IMPAIRMENT",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "3HbeiywAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P4\u2010207: EMPLOYING ARTIFICIAL INTELLIGENCE IN THE DEVELOPMENT OF A SELF\u2010ADMINISTERED, COMPUTERISED COGNITIVE ASSESSMENT FOR THE ASSESSMENT OF NEURODEGENERATION",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "3HbeiywAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A brief language-independent and self-administered computerized test for cognitive assessment in multiple sclerosis (MS)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "3HbeiywAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural separation and integration of object and background scene information in natural images",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "3HbeiywAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining human MEG and fMRI data reveals the spatio-temporal dynamics of animacy and real-world object size",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "3HbeiywAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fixed versus mixed RSA",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "3HbeiywAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Content-Dependent Fusion: Combining Human MEG and FMRI Data to Reveal Spatiotemporal Dynamics of Animacy and Real-world Object Size",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "3HbeiywAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of memorability: an intrinsic brain signal distinct from memory",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixing deep neural network features to explain brain representations",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "3HbeiywAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational geometries of object vision in man and machine",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "3HbeiywAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From what we perceive to what we remember: Characterizing representational dynamics of visual",
+                "cites": "0"
+            },
+            "id_citations": "3HbeiywAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial and Temporal Signatures of Memorability in the Brain",
+                "cites": "0"
+            },
+            "id_citations": "3HbeiywAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedforward object-vision models only tolerate small image variations compared to human",
+                "cites": "0"
+            },
+            "id_citations": "3HbeiywAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual similarity of visual patterns predicts the similarity of their dynamic neural activation patterns measured with MEG",
+                "cites": "0"
+            },
+            "id_citations": "3HbeiywAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=3HbeiywAAAAJ"
+}

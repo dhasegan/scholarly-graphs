@@ -1,0 +1,289 @@
+{
+    "affiliation": "University of Pittsburgh",
+    "cites_per_year": {
+        "2008": 2,
+        "2009": 1,
+        "2010": 6,
+        "2011": 16,
+        "2012": 6,
+        "2013": 13,
+        "2014": 17,
+        "2015": 18,
+        "2016": 39,
+        "2017": 23,
+        "2018": 41,
+        "2019": 67,
+        "2020": 10
+    },
+    "citedby": 263,
+    "citedby5y": 198,
+    "coauthors": [
+        {
+            "affiliation": "Associate Professor of Biomedical Engineering, Duke University",
+            "id": "pcywoPkAAAAJ",
+            "name": "Marc A. Sommer"
+        },
+        {
+            "affiliation": "Professor of Neurobiology, University of Chicago",
+            "id": "4U1F6tcAAAAJ",
+            "name": "John HR Maunsell"
+        },
+        {
+            "affiliation": "Associate Professor of Biomedical Engineering and Neuroscience Institute, Carnegie Mellon University",
+            "id": "mhi9LhkAAAAJ",
+            "name": "Matthew A. Smith"
+        },
+        {
+            "affiliation": "Duke University",
+            "id": "A2NnwGQAAAAJ",
+            "name": "Hrishikesh Mohan Rao"
+        },
+        {
+            "affiliation": "University of Pittsburgh ",
+            "id": "uuMkexoAAAAJ",
+            "name": "Marlene Cohen"
+        },
+        {
+            "affiliation": "Associate Professor of Anaesthesia, Harvard Medical School",
+            "id": "oFl-CAwAAAAJ",
+            "name": "Ken Solt"
+        },
+        {
+            "affiliation": "Imec",
+            "id": "_7_TYO4AAAAJ",
+            "name": "Bram-Ernst Verhoef"
+        },
+        {
+            "affiliation": "Professor of Neurobiology, Duke University",
+            "id": "Pfo-vFEAAAAJ",
+            "name": "Stephen G Lisberger"
+        }
+    ],
+    "email": "@pitt.edu",
+    "hindex": 10,
+    "hindex5y": 9,
+    "i10index": 10,
+    "i10index5y": 9,
+    "id": "4_tRMjgAAAAJ",
+    "interests": [
+        "Neuroscience"
+    ],
+    "name": "J. Patrick Mayo",
+    "publications": [
+        {
+            "bib": {
+                "title": "Neuronal correlates of visual time perception at brief timescales",
+                "cites": "5973898490825087823",
+                "year": "2013",
+                "url": "https://www.pnas.org/content/110/4/1506.short",
+                "author": "J Patrick Mayo and Marc A Sommer",
+                "journal": "Proceedings of the National Academy of Sciences",
+                "volume": "110",
+                "number": "4",
+                "pages": "1506-1511",
+                "publisher": "National Acad Sciences",
+                "abstract": "Successful interaction with the world depends on accurate perception of the timing of external events. Neurons at early stages of the primate visual system represent time-varying stimuli with high precision. However, it is unknown whether this temporal fidelity is maintained in the prefrontal cortex, where changes in neuronal activity generally correlate with changes in perception. One reason to suspect that it is not maintained is that humans experience surprisingly large fluctuations in the perception of time. To investigate the neuronal correlates of time perception, we recorded from neurons in the prefrontal cortex and midbrain of monkeys performing a temporal-discrimination task. Visual time intervals were presented at a timescale relevant to natural behavior (<500 ms). At this brief timescale, neuronal adaptation\u2014time-dependent changes in the size of successive responses\u2014occurs. We found that visual activity \u2026",
+                "eprint": "https://www.pnas.org/content/pnas/110/4/1506.full.pdf"
+            },
+            "id_citations": "4_tRMjgAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An analysis of immediate serial recall performance in a macaque",
+                "cites": "37",
+                "year": "2009"
+            },
+            "id_citations": "4_tRMjgAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal adaptation caused by sequential visual stimulation in the frontal eye field",
+                "cites": "29",
+                "year": "2008"
+            },
+            "id_citations": "4_tRMjgAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Graded Neuronal Modulations Related to Visual Spatial Attention",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "4_tRMjgAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuits for presaccadic visual remapping",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "4_tRMjgAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shifting attention to neurons",
+                "cites": "16",
+                "year": "2010"
+            },
+            "id_citations": "4_tRMjgAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrathalamic mechanisms of visual attention",
+                "cites": "16",
+                "year": "2009"
+            },
+            "id_citations": "4_tRMjgAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of visual receptive fields in the macaque frontal eye field",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "4_tRMjgAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Refined Neuronal Population Measure of Visual Attention",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "4_tRMjgAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sevoflurane induces coherent slow-delta oscillations in rats",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "4_tRMjgAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic approach to receptive field mapping in the frontal eye fields",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "4_tRMjgAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature-specific clusters of neurons and decision-related neuronal activity",
+                "cites": "6",
+                "year": "2014"
+            },
+            "id_citations": "4_tRMjgAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visuomotor Integration",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "4_tRMjgAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal Adaptation: Tired Neurons or Wired Networks?",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "4_tRMjgAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding of brief time interval judgments in single neurons",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "4_tRMjgAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two's a crowd: suppressed V4 visual responses to sequential stimuli",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "4_tRMjgAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal adaptation: Delay compensation at the level of single neurons?",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "4_tRMjgAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relative contributions of area MT and the frontal eye fields to the latency of smooth pursuit",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "4_tRMjgAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An improved method for mapping neuronal receptive fields in prefrontal cortex",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "4_tRMjgAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring The Spatial And Temporal Dynamics Of Frontal Eye Field Receptive Fields",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "4_tRMjgAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal Encoding of Brief Time Intervals in the Visual System",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "4_tRMjgAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inactivation and adaptation of number neurons",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "4_tRMjgAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=4_tRMjgAAAAJ",
+    "brain_inspired": {
+        "id": "1028",
+        "link": "https://braininspired.co/podcast/71/",
+        "name": "J. Patrick Mayo",
+        "title": "BI 071 J. Patrick Mayo: The Path To Faculty",
+        "text": "Patrick and I mostly discuss his path from a technician in the then nascent Jim DiCarlo lab, through his graduate school and two postdoc experiences, and finally landing a faculty position, plus the culture and issues in academia in general. We also cover plenty of science, like the role of eye movements in the study of vision, the neuroscience (and concept of) attention, what Patrick thinks of the deep learning hype, and more. "
+    }
+}

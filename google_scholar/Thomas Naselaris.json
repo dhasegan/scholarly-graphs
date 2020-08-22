@@ -1,0 +1,546 @@
+{
+    "affiliation": "Associate Professor, Neurosciences Dept., Medical University of South Carolina",
+    "cites_per_year": {
+        "2007": 18,
+        "2008": 40,
+        "2009": 106,
+        "2010": 97,
+        "2011": 141,
+        "2012": 219,
+        "2013": 311,
+        "2014": 298,
+        "2015": 357,
+        "2016": 358,
+        "2017": 534,
+        "2018": 585,
+        "2019": 669,
+        "2020": 302
+    },
+    "citedby": 4105,
+    "citedby5y": 2815,
+    "coauthors": [
+        {
+            "affiliation": "Assistant Professor, University of Minnesota",
+            "id": "hlthz-YAAAAJ",
+            "name": "Kendrick Kay"
+        },
+        {
+            "affiliation": "Senior Researcher (PI), CiNet, National Institute of Information and Communications Technology",
+            "id": "y1pLEGkAAAAJ",
+            "name": "Shinji Nishimoto"
+        },
+        {
+            "affiliation": "Professor of Statistics and EECS, UC Berkeley",
+            "id": "xT19Jc0AAAAJ",
+            "name": "Bin YU"
+        },
+        {
+            "affiliation": "Graduate Student Researcher, UC Berkeley",
+            "id": "oY7AJUgAAAAJ",
+            "name": "Dustin Stansbury"
+        },
+        {
+            "affiliation": "The University of New South Wales",
+            "id": "MqkRUgUAAAAJ",
+            "name": "Joel Pearson"
+        },
+        {
+            "affiliation": "Hebrew University of Jerusalem",
+            "id": "UDTmds0AAAAJ",
+            "name": "Yuval Benjamini"
+        },
+        {
+            "affiliation": "University of Minnesota",
+            "id": "60KazowAAAAJ",
+            "name": "Cheryl Olman"
+        },
+        {
+            "affiliation": "Associate Professor, School of Computer Science, Carnegie Mellon University",
+            "id": "Q4DTPw4AAAAJ",
+            "name": "Pradeep Ravikumar"
+        },
+        {
+            "affiliation": "Associate Professor of Statistics, The Ohio State University",
+            "id": "GcR_rlkAAAAJ",
+            "name": "Vincent Q. Vu"
+        },
+        {
+            "affiliation": "Assistant Professor CS & Neuroscience UT Austin",
+            "id": "JNXWWkIAAAAJ",
+            "name": "Alexander Huth"
+        },
+        {
+            "affiliation": "Professor of Psychiatry & Psychological Sciences, University of Missouri",
+            "id": "b7Zsep4AAAAJ",
+            "name": "Brett Froeliger"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "1PJz5JEAAAAJ",
+            "name": "Michael Oliver"
+        }
+    ],
+    "email": "@musc.edu",
+    "hindex": 18,
+    "hindex5y": 15,
+    "i10index": 23,
+    "i10index5y": 19,
+    "id": "9hkEkG0AAAAJ",
+    "interests": [
+        "Computational Neuroscience",
+        "Vision",
+        "Motor Control",
+        "Mental Imagery"
+    ],
+    "name": "Thomas Naselaris",
+    "publications": [
+        {
+            "bib": {
+                "title": "Identifying natural images from human brain activity",
+                "cites": "14950635362343560209",
+                "year": "2008",
+                "url": "https://www.nature.com/articles/nature06713",
+                "author": "Kendrick N Kay and Thomas Naselaris and Ryan J Prenger and Jack L Gallant",
+                "journal": "Nature",
+                "volume": "452",
+                "number": "7185",
+                "pages": "352-355",
+                "publisher": "Nature Publishing Group",
+                "abstract": "A challenging goal in neuroscience is to be able to read out, or decode, mental content from brain activity. Recent functional magnetic resonance imaging (fMRI) studies have decoded orientation 1, 2, position 3 and object category 4, 5 from activity in visual cortex. However, these studies typically used relatively simple stimuli (for example, gratings) or images drawn from fixed categories (for example, faces, houses), and decoding was based on previous measurements of brain activity evoked by those same stimuli or categories. To overcome these limitations, here we develop a decoding method based on quantitative receptive-field models that characterize the relationship between visual stimuli and fMRI activity in early visual areas. These models describe the tuning of individual voxels for space, orientation and spatial frequency, and are estimated directly from responses evoked by natural images. We show that \u2026",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556484/"
+            },
+            "id_citations": "9hkEkG0AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstructing visual experiences from brain activity evoked by natural movies",
+                "cites": "768",
+                "year": "2011"
+            },
+            "id_citations": "9hkEkG0AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding in fMRI",
+                "cites": "538",
+                "year": "2011"
+            },
+            "id_citations": "9hkEkG0AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of natural images from human brain activity",
+                "cites": "458",
+                "year": "2009"
+            },
+            "id_citations": "9hkEkG0AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mental imagery: functional mechanisms and clinical applications",
+                "cites": "378",
+                "year": "2015"
+            },
+            "id_citations": "9hkEkG0AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A voxel-wise encoding model for early visual areas decodes mental images of remembered scenes",
+                "cites": "142",
+                "year": "2015"
+            },
+            "id_citations": "9hkEkG0AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural scene statistics account for the representation of scene categories in human visual cortex",
+                "cites": "129",
+                "year": "2013"
+            },
+            "id_citations": "9hkEkG0AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping of the preferred direction in the motor cortex",
+                "cites": "88",
+                "year": "2007"
+            },
+            "id_citations": "9hkEkG0AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic sculpting of directional tuning in the primate motor cortex during three-dimensional reaching",
+                "cites": "62",
+                "year": "2008"
+            },
+            "id_citations": "9hkEkG0AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resolving ambiguities of MVPA using explicit models of representation",
+                "cites": "60",
+                "year": "2015"
+            },
+            "id_citations": "9hkEkG0AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical representation of animate and inanimate objects in complex natural scenes",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "9hkEkG0AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale organization of preferred directions in the motor cortex. I. Motor cortical hyperacuity for forward reaching",
+                "cites": "43",
+                "year": "2006"
+            },
+            "id_citations": "9hkEkG0AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual cortex activation to drug cues: a meta-analysis of functional neuroimaging papers in addiction and substance abuse literature",
+                "cites": "38",
+                "year": "2014"
+            },
+            "id_citations": "9hkEkG0AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding V1 fMRI responses to natural images with sparse nonparametric models",
+                "cites": "37",
+                "year": "2011"
+            },
+            "id_citations": "9hkEkG0AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale organization of preferred directions in the motor cortex. II. Analysis of local distributions",
+                "cites": "33",
+                "year": "2006"
+            },
+            "id_citations": "9hkEkG0AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The feature-weighted receptive field: an interpretable encoding model for complex feature spaces",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "9hkEkG0AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial reconstruction of trajectories of an array of recording microelectrodes",
+                "cites": "26",
+                "year": "2005"
+            },
+            "id_citations": "9hkEkG0AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perfusion network shift during seizures in medial temporal lobe epilepsy",
+                "cites": "22",
+                "year": "2013"
+            },
+            "id_citations": "9hkEkG0AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Computational Neuroscience: a new conference for an emerging discipline",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "9hkEkG0AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetically evoked gamma oscillations are disturbed by cocaine administration",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "9hkEkG0AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative adversarial networks conditioned on brain activity reconstruct seen images",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "9hkEkG0AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System identification, encoding models, and decoding models: a powerful new approach to fMRI research",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "9hkEkG0AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to kurtzer and herter",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "9hkEkG0AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparatus and method for decoding sensory and cognitive information from brain activity",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "9hkEkG0AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "9hkEkG0AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of perceptual experiences from human brain activity",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "9hkEkG0AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity associated with speech articulation measured through direct cortical recordings",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "9hkEkG0AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theory of mental imagery",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "9hkEkG0AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding brain-like representations with a generative adversarial network",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "9hkEkG0AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognition as inference: A unifying account of some neural effects associated with mental imagery and attention",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "9hkEkG0AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How much tuning information is lost when we average across subjects in fMRI experiments?",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "9hkEkG0AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining Genetic Algorithms and Neural Networks: Evolving the Vision System for an Autonomous Robot",
+                "cites": "1",
+                "year": "1997"
+            },
+            "id_citations": "9hkEkG0AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Feedback Explains Distinct Brain Activity Codes for Seen and Mental Images",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "9hkEkG0AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral encoding of seen and attended object categories in the human brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "9hkEkG0AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Working with high-dimensional feature spaces: the example of voxel-wise encoding models",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "9hkEkG0AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking the Development of Functional Connectomes for Face Processing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9hkEkG0AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voxel-to-voxel predictive models reveal unexpected structure in unexplained variance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9hkEkG0AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human brain activity during mental imagery exhibits signatures of inference in a hierarchical generative model",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9hkEkG0AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building a better model of V1",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9hkEkG0AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagery receptive fields",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9hkEkG0AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Functional Role of Imagery in Generative Models of Visual Perceptions",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9hkEkG0AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "More than meets the eye: What visual cortex reactivity to cues may tell us about neural processing in addiction",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "9hkEkG0AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual representation in the absence of retinal input",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "9hkEkG0AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual cortex represents the statistical distributions of objects in natural scenes",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "9hkEkG0AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of voxel receptive fields in human visual cortex using natural images",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "9hkEkG0AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping of preferred directions in the motor cortex",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "9hkEkG0AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1. Mental Imagery in psicologia cognitiva Il termine \u2018immagine mentale\u2019\u00e8 usato per riferirsi alla rappresentazione di informazioni sensoriali\u2013raffigurarsi ci\u00f2 che \u00e8 stato visto \u2026",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "9hkEkG0AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A variational image reconstruction algorithm reveals distortion and uncertainty in mental imagery",
+                "cites": "0"
+            },
+            "id_citations": "9hkEkG0AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=9hkEkG0AAAAJ",
+    "brain_inspired": {
+        "id": "923",
+        "link": "https://braininspired.co/podcast/55/",
+        "name": "Thomas Naselaris",
+        "title": "BI 055 Thomas Naselaris: Seeing Versus Imagining",
+        "text": "Thomas and I talk about what happens in the brain\u2019s visual system when you see something versus imagine it. He uses generative encoding and decoding models and brain signals like fMRI and EEG to test the nature of mental imagery. We also discuss the huge fMRI dataset of natural images he\u2019s collected to infer models of the entire visual system, how we\u2019ve still not tapped the potential of fMRI, and more."
+    }
+}

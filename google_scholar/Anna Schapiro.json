@@ -1,0 +1,368 @@
+{
+    "affiliation": "Assistant Professor, University of Pennsylvania",
+    "cites_per_year": {
+        "2010": 5,
+        "2011": 2,
+        "2012": 7,
+        "2013": 23,
+        "2014": 67,
+        "2015": 110,
+        "2016": 107,
+        "2017": 221,
+        "2018": 241,
+        "2019": 314,
+        "2020": 286
+    },
+    "citedby": 1397,
+    "citedby5y": 1287,
+    "coauthors": [
+        {
+            "affiliation": "Yale University",
+            "id": "KZ65zdAAAAAJ",
+            "name": "Nicholas Turk-Browne"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Princeton University",
+            "id": "A4ycnDQAAAAJ",
+            "name": "Kenneth A. Norman"
+        },
+        {
+            "affiliation": "Director of Neuroscience Research, Team Lead in AI Research, DeepMind",
+            "id": "eM916YMAAAAJ",
+            "name": "Matthew Botvinick"
+        },
+        {
+            "affiliation": "Professor of Psychology, University of Wisconsin-Madison",
+            "id": "7u_uyOsAAAAJ",
+            "name": "Timothy T. Rogers"
+        },
+        {
+            "affiliation": "Associate Professor of Psychiatry, Harvard Medical School",
+            "id": "SLVWF-UAAAAJ",
+            "name": "Robert Stickgold"
+        },
+        {
+            "affiliation": "Netherlands Institute for Neuroscience",
+            "id": "UR77lnQAAAAJ",
+            "name": "Roy Cox"
+        },
+        {
+            "affiliation": "Dick and Lydia Todd Professor of Cognitive Science, Johns Hopkins University",
+            "id": "tEGkCXsAAAAJ",
+            "name": "Barbara Landau"
+        },
+        {
+            "affiliation": "Professor of Cognitive Science, Johns Hopkins University",
+            "id": "9wr8SoEAAAAJ",
+            "name": "Michael McCloskey"
+        },
+        {
+            "affiliation": "Postdoctoral Researcher, Princeton University",
+            "id": "WjEyDoIAAAAJ",
+            "name": "Elizabeth McDevitt"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "Lehigh University",
+            "id": "4CAW6C8AAAAJ",
+            "name": "Almut Hupbach"
+        },
+        {
+            "affiliation": "MRC Cognition and Brain Sciences Unit, University of Cambridge",
+            "id": "8LrzRnAAAAAJ",
+            "name": "Matthew A. LAMBON RALPH"
+        },
+        {
+            "affiliation": "University of Manchester",
+            "id": "FebVb8cAAAAJ",
+            "name": "Stephen Welbourne"
+        },
+        {
+            "affiliation": "Department of Psychology, University of Toronto",
+            "id": "DU5G6JEAAAAJ",
+            "name": "Margaret L Schlichting"
+        },
+        {
+            "affiliation": "Indiana University",
+            "id": "0LtjqCYAAAAJ",
+            "name": "Ehren Newman"
+        },
+        {
+            "affiliation": "Assistant Professor, Johns Hopkins University",
+            "id": "w2xjglQAAAAJ",
+            "name": "Christopher J. Honey"
+        },
+        {
+            "affiliation": "Canada Energy Regulator",
+            "id": "fGtLbW0AAAAJ",
+            "name": "Jos\u00e9 Ribas Fernandes"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Princeton University",
+            "id": "5NUNoKwAAAAJ",
+            "name": "Yael Niv"
+        },
+        {
+            "affiliation": "Facebook",
+            "id": "l0Txg3UAAAAJ",
+            "name": "Carlos Diuk"
+        },
+        {
+            "affiliation": "Assistant Professor of Psychology, Santa Clara University",
+            "id": "qXziIM8AAAAJ",
+            "name": "Lang Chen"
+        }
+    ],
+    "email": "@sas.upenn.edu",
+    "hindex": 16,
+    "hindex5y": 15,
+    "i10index": 17,
+    "i10index5y": 16,
+    "id": "s6NTSjwAAAAJ",
+    "interests": [
+        "Learning",
+        "Memory",
+        "Sleep",
+        "Neural Network Modeling"
+    ],
+    "name": "Anna Schapiro",
+    "publications": [
+        {
+            "bib": {
+                "title": "Shaping of object representations in the human medial temporal lobe based on temporal regularities",
+                "cites": "9952285430158251799",
+                "year": "2012",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0960982212007324",
+                "author": "Anna C Schapiro and Lauren V Kustner and Nicholas B Turk-Browne",
+                "journal": "Current Biology",
+                "volume": "22",
+                "number": "17",
+                "pages": "1622-1627",
+                "publisher": "Cell Press",
+                "abstract": "Regularities are gradually represented in cortex after extensive experience [1], and yet they can influence behavior after minimal exposure [2, 3]. What kind of representations support such rapid statistical learning? The medial temporal lobe (MTL) can represent information from even a single experience [4], making it a good candidate system for assisting in initial learning about regularities. We combined anatomical segmentation of the MTL, high-resolution fMRI, and multivariate pattern analysis to identify representations of objects in cortical and hippocampal areas of human MTL, assessing how these representations were shaped by exposure to regularities. Subjects viewed a continuous visual stream containing hidden temporal relationships\u2014pairs of objects that reliably appeared nearby in time. We compared the pattern of blood oxygen level-dependent activity evoked by each object before and after this \u2026",
+                "eprint": "https://www.sciencedirect.com/science/article/pii/S0960982212007324"
+            },
+            "id_citations": "s6NTSjwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of events arise from temporal community structure",
+                "cites": "209",
+                "year": "2013"
+            },
+            "id_citations": "s6NTSjwAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The necessity of the medial temporal lobe for statistical learning",
+                "cites": "151",
+                "year": "2014"
+            },
+            "id_citations": "s6NTSjwAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complementary learning systems within the hippocampus: a neural network modelling approach to reconciling episodic memory with statistical learning",
+                "cites": "123",
+                "year": "2017"
+            },
+            "id_citations": "s6NTSjwAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical learning of temporal community structure in the hippocampus",
+                "cites": "111",
+                "year": "2016"
+            },
+            "id_citations": "s6NTSjwAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural context reinstatement predicts memory misattribution",
+                "cites": "74",
+                "year": "2013"
+            },
+            "id_citations": "s6NTSjwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why bilateral damage is worse than unilateral damage to the brain",
+                "cites": "68",
+                "year": "2013"
+            },
+            "id_citations": "s6NTSjwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "57",
+                "year": "2019"
+            },
+            "id_citations": "s6NTSjwAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampal structure predicts statistical learning and associative inference abilities during development",
+                "cites": "57",
+                "year": "2017"
+            },
+            "id_citations": "s6NTSjwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical learning",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "s6NTSjwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in frequency and topography of slow and fast sleep spindles",
+                "cites": "51",
+                "year": "2017"
+            },
+            "id_citations": "s6NTSjwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human hippocampal replay during rest prioritizes weakly learned information and predicts memory performance",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "s6NTSjwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Switching between internal and external modes: a multi-scale learning principle",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "s6NTSjwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Divide and conquer: hierarchical reinforcement learning and task decomposition in humans",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "s6NTSjwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A connectionist model of a continuous developmental transition in the balance scale task",
+                "cites": "24",
+                "year": "2009"
+            },
+            "id_citations": "s6NTSjwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sleep benefits memory for semantic category structure while preserving exemplar-specific information",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "s6NTSjwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus is necessary for the consolidation of a task that does not require the hippocampus for initial learning",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "s6NTSjwAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical and connectionist approaches to development: Toward a future of mutually beneficial co-evolution",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "s6NTSjwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Facilitating open-science with realistic fMRI simulation: validation and application",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "s6NTSjwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active and effective replay: systems consolidation reconsidered again",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "s6NTSjwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variability and stability of large-scale cortical oscillation patterns",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "s6NTSjwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memories are selected for consolidation during sleep based on initial encoding strength: The roles of item exposure and visualization",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "s6NTSjwAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sleep selectively stabilizes contextual aspects of negative memories",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "s6NTSjwAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic Search as Pattern Completion across a Concept",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "s6NTSjwAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=s6NTSjwAAAAJ",
+    "brain_inspired": {
+        "id": "763",
+        "link": "https://braininspired.co/podcast/43/",
+        "name": "Anna Schapiro",
+        "title": "BI 043 Anna Schapiro: Learning in Hippocampus and Cortex",
+        "text": "How does knowledge in the world get into our brains and integrated with the rest of our knowledge and memories? Anna and I talk about the complementary learning systems framework introduced in 1995 that posits a fast episodic hippopcampal learning system and a slower statistical cortical learning system. We then discuss her work that advances and adds missing pieces to the CLS framework, and explores how sleep and sleep cycles contribute to the process. We also discuss how her work might contribute to AI systems by using multiple types of memory buffers, a little about being a woman in science, and how it\u2019s going with her brand new lab."
+    }
+}

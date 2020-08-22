@@ -1,0 +1,3283 @@
+{
+    "affiliation": "Center for Neural Science, NYU",
+    "cites_per_year": {
+        "1981": 131,
+        "1982": 157,
+        "1983": 111,
+        "1984": 148,
+        "1985": 157,
+        "1986": 155,
+        "1987": 243,
+        "1988": 223,
+        "1989": 242,
+        "1990": 301,
+        "1991": 302,
+        "1992": 326,
+        "1993": 335,
+        "1994": 309,
+        "1995": 391,
+        "1996": 386,
+        "1997": 437,
+        "1998": 450,
+        "1999": 443,
+        "2000": 476,
+        "2001": 666,
+        "2002": 645,
+        "2003": 740,
+        "2004": 706,
+        "2005": 930,
+        "2006": 836,
+        "2007": 859,
+        "2008": 782,
+        "2009": 836,
+        "2010": 765,
+        "2011": 955,
+        "2012": 891,
+        "2013": 1013,
+        "2014": 928,
+        "2015": 978,
+        "2016": 929,
+        "2017": 812,
+        "2018": 793,
+        "2019": 864,
+        "2020": 581
+    },
+    "citedby": 22901,
+    "citedby5y": 4958,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Neurobiology, University of California, Los Angeles",
+            "id": "V6xKYw4AAAAJ",
+            "name": "Dario Ringach"
+        },
+        {
+            "affiliation": "Visiting Professor, Charles University, Prague, Czechia",
+            "id": "gyugy60AAAAJ",
+            "name": "Ehud Kaplan"
+        },
+        {
+            "affiliation": "Professor of Neurology and Neuroscience, Weill Cornell Medical College",
+            "id": "ORhMjwUAAAAJ",
+            "name": "Jonathan Victor"
+        },
+        {
+            "affiliation": "Beijing Normal University",
+            "id": "wETlqVYAAAAJ",
+            "name": "Dajun Xing"
+        },
+        {
+            "affiliation": "Assistant Professor of Psychology, National Taiwan University",
+            "id": "2uUXDqYAAAAJ",
+            "name": "Chun-I Yeh"
+        },
+        {
+            "affiliation": "Courant Institute of Math'l Sciences, NYU, and Ctr for Comp'l Biology, The Flatiron Institute",
+            "id": "Sa2AIxQAAAAJ",
+            "name": "Michael Shelley"
+        },
+        {
+            "affiliation": "Hebrew University",
+            "id": "iUbC0C8AAAAJ",
+            "name": "Shaul Hochstein"
+        },
+        {
+            "affiliation": "Executive Director and Senior Fellow, Wharton Neuroscience Initiative, The University of Pennsylvania",
+            "id": "5CHb6g4AAAAJ",
+            "name": "Elizabeth N Johnson"
+        },
+        {
+            "affiliation": "Scientific Informatics Analyst, Cold Spring Harbor Laboratory",
+            "id": "Gx_SxSYAAAAJ",
+            "name": "ferenc mechler"
+        },
+        {
+            "affiliation": "TU Berlin",
+            "id": "tEmKIiUAAAAJ",
+            "name": "Marianne Maertens"
+        },
+        {
+            "affiliation": "Professor of Biology, Mathematics and Neural Science",
+            "id": "EcMD4XQAAAAJ",
+            "name": "Daniel Tranchina"
+        },
+        {
+            "affiliation": "Queen Mary University of London",
+            "id": "X7qTmBkAAAAJ",
+            "name": "Isabelle Mareschal"
+        },
+        {
+            "affiliation": "University of California, Santa Barbara",
+            "id": "jpVab-AAAAAJ",
+            "name": "Michael S. Gazzaniga"
+        },
+        {
+            "affiliation": "Professor of Physics, Racah Institute of Physics, Edmond and Lily Safra Center for Brain Sciences",
+            "id": "T8o_MdkAAAAJ",
+            "name": "Haim Sompolinsky"
+        },
+        {
+            "affiliation": "Duke University",
+            "id": "ISRNX3gAAAAJ",
+            "name": "Guillermo Sapiro"
+        },
+        {
+            "affiliation": "University of Liverpool",
+            "id": "a4AHdMYAAAAJ",
+            "name": "Sophie Wuerger"
+        },
+        {
+            "affiliation": "Albert Einstein College of Medicine",
+            "id": "ir8xqOIAAAAJ",
+            "name": "Christopher A. Henry"
+        },
+        {
+            "affiliation": "City College of New York, CUNY",
+            "id": "EGd3Y68AAAAJ",
+            "name": "Jonathan B Levitt"
+        },
+        {
+            "affiliation": "Gonda Brain Research Center, Bar Ilan University, Israel",
+            "id": "CPbv1iMAAAAJ",
+            "name": "Hamutal Slovin"
+        },
+        {
+            "affiliation": "Professor, Beijing Normal University",
+            "id": "oFPLScwAAAAJ",
+            "name": "Wu Li"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 81,
+    "hindex5y": 40,
+    "i10index": 166,
+    "i10index5y": 104,
+    "id": "hTqKvtoAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "vision"
+    ],
+    "name": "Robert M Shapley",
+    "publications": [
+        {
+            "bib": {
+                "title": "Visual adaptation and retinal gain controls",
+                "cites": "962",
+                "year": "1984"
+            },
+            "id_citations": "hTqKvtoAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The primate retina contains two types of ganglion cells, with high and low contrast sensitivity",
+                "cites": "824",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "X and Y cells in the lateral geniculate nucleus of macaque monkeys.",
+                "cites": "666",
+                "year": "1982"
+            },
+            "id_citations": "hTqKvtoAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cat and monkey retinal ganglion cells and their visual functional roles",
+                "cites": "640",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of orientation tuning in macaque primary visual cortex",
+                "cites": "610",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast's effect on spatial summation by macaque V1 neurons",
+                "cites": "601",
+                "year": "1999"
+            },
+            "id_citations": "hTqKvtoAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of contrast on the transfer properties of cat retinal ganglion cells.",
+                "cites": "559",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orientation selectivity in macaque V1: diversity and laminar dependence",
+                "cites": "543",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative analysis of retinal ganglion cell classifications.",
+                "cites": "536",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear and nonlinear spatial subunits in Y cat retinal ganglion cells.",
+                "cites": "496",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Macaque VI neurons can signal \u2018illusory\u2019contours",
+                "cites": "440",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual sensitivity and parallel retinocortical channels",
+                "cites": "392",
+                "year": "1990"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatial transformation of color in the primary visual cortex of the macaque monkey",
+                "cites": "386",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LFP power spectra in V1 cortex: the graded effect of stimulus contrast",
+                "cites": "376",
+                "year": "2005"
+            },
+            "id_citations": "hTqKvtoAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New views of primate retinal function",
+                "cites": "358",
+                "year": "1990"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial frequency analysis in the visual system",
+                "cites": "325",
+                "year": "1985"
+            },
+            "id_citations": "hTqKvtoAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New perspectives on the mechanisms for orientation selectivity",
+                "cites": "320",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Background light and the contrast gain of primate P and M retinal ganglion cells",
+                "cites": "316",
+                "year": "1988"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal-frequency selectivity in monkey visual cortex",
+                "cites": "293",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual spatial characterization of macaque V1 neurons",
+                "cites": "289",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Color in the cortex: single-and double-opponent cells",
+                "cites": "284",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object-centered direction selectivity in the macaque supplementary eye field",
+                "cites": "282",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial summation and contrast sensitivity of X and Y cells in the lateral geniculate nucleus of the macaque",
+                "cites": "280",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neuronal network model of macaque primary visual cortex (V1): Orientation selectivity and dynamics in the input layer 4C\u03b1",
+                "cites": "277",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial structure of cone inputs to receptive fields in primate lateral geniculate nucleus",
+                "cites": "275",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial and temporal properties of illusory contours and amodal boundary completion",
+                "cites": "266",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of orientation selectivity in the primary visual cortex and the importance of cortical inhibition",
+                "cites": "260",
+                "year": "2003"
+            },
+            "id_citations": "hTqKvtoAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory contours activate specific regions in human visual cortex: evidence from functional magnetic resonance imaging",
+                "cites": "258",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directional selectivity and spatiotemporal structure of receptive fields of simple cells in cat striate cortex",
+                "cites": "258",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The use of m-sequences in the analysis of visual neurons: linear receptive field properties",
+                "cites": "236",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial spread of the local field potential and its laminar variation in visual cortex",
+                "cites": "234",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the contrast gain control modifies the frequency responses of cat retinal ganglion cells.",
+                "cites": "223",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Light adaptation in the primate retina: analysis of changes in gain and dynamics of monkey retinal ganglion cells",
+                "cites": "217",
+                "year": "1990"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced perception of illusory contours in the lower versus upper visual hemifields",
+                "cites": "211",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A subspace reverse-correlation technique for the study of visual neurons",
+                "cites": "203",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation and dynamics of cat retinal ganglion cells",
+                "cites": "196",
+                "year": "1973"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge detectors in human vision",
+                "cites": "196",
+                "year": "1973"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast affects the transmission of visual information through the mammalian lateral geniculate nucleus.",
+                "cites": "195",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nonlinear pathway of Y ganglion cells in the cat retina.",
+                "cites": "195",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse correlation in neurophysiology",
+                "cites": "180",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Space and time maps of cone photoreceptor signals in macaque lateral geniculate nucleus",
+                "cites": "174",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u201cOn the visually perceived direction of motion\u201d by Hans Wallach: 60 years later",
+                "cites": "170",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The orientation selectivity of color-responsive neurons in macaque V1",
+                "cites": "167",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive field structure of neurons in monkey primary visual cortex revealed by stimulation with natural image sequences",
+                "cites": "160",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An egalitarian network model for the emergence of simple and complex cells in visual cortex",
+                "cites": "158",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear mechanisms of directional selectivity in simple cells of cat striate cortex",
+                "cites": "158",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial properties of X and Y cells in the lateral geniculate nucleus of the cat and conduction velocities of their inputs",
+                "cites": "155",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial tuning of cells in and around lateral geniculate nucleus of the cat: X and Y relay cells and perigeniculate interneurons.",
+                "cites": "153",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A method of nonlinear analysis in the frequency domain",
+                "cites": "147",
+                "year": "1980"
+            },
+            "id_citations": "hTqKvtoAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear spatial summation and the contrast gain control of cat retinal ganglion cells.",
+                "cites": "145",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of orientation tuning in macaque V1: the role of global and tuned suppression",
+                "cites": "141",
+                "year": "2003"
+            },
+            "id_citations": "hTqKvtoAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Laminar analysis of visually evoked activity in the primary visual cortex",
+                "cites": "139",
+                "year": "2012"
+            },
+            "id_citations": "hTqKvtoAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cone inputs in macaque primary visual cortex",
+                "cites": "138",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flux, not retinal illumination, is what cat retinal ganglion cells really care about",
+                "cites": "137",
+                "year": "1973"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How simple cells are made in a nonlinear network model of the visual cortex",
+                "cites": "136",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The receptive field organization of X-cells in the cat: spatiotemporal coupling and asymmetry",
+                "cites": "136",
+                "year": "1984"
+            },
+            "id_citations": "hTqKvtoAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The origin of the S (slow) potential in the mammalian lateral geniculate nucleus",
+                "cites": "133",
+                "year": "1984"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear mechanism of orientation tuning in the retina and lateral geniculate nucleus of the cat",
+                "cites": "132",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The contrast gain control of the cat retina",
+                "cites": "128",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast and assimilation in the perception of brightness",
+                "cites": "122",
+                "year": "1985"
+            },
+            "id_citations": "hTqKvtoAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is gamma-band activity in the local field potential of V1 cortex a \u201cclock\u201d or filtered noise?",
+                "cites": "118",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entrainment to video displays in primary visual cortex of macaque and humans",
+                "cites": "117",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abrupt learning and retinal size specificity in illusory-contour perception",
+                "cites": "114",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive field mechanisms of cat X and Y retinal ganglion cells.",
+                "cites": "110",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u201cBlack\u201d responses dominate macaque primary visual cortex v1",
+                "cites": "109",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brightness induction by local contrast and the spatial dependence of assimilation",
+                "cites": "106",
+                "year": "1988"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust temporal coding of contrast by V1 neurons for transient but not for steady-state stimuli",
+                "cites": "105",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms for color perception in the primary visual cortex",
+                "cites": "104",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional organization of owl monkey lateral geniculate nucleus and visual cortex",
+                "cites": "104",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear analysis of cat retinal ganglion cells in the frequency domain",
+                "cites": "104",
+                "year": "1977"
+            },
+            "id_citations": "hTqKvtoAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "States of high conductance in a large-scale model of the visual cortex",
+                "cites": "102",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A two-dimensional computer-controlled visual stimulator",
+                "cites": "100",
+                "year": "1980"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The importance of contrast for the activity of single neurons, the VEP and perception",
+                "cites": "95",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal light adaptation\u2014evidence for a feedback mechanism",
+                "cites": "95",
+                "year": "1984"
+            },
+            "id_citations": "hTqKvtoAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast-dependent changes in spatial frequency tuning of macaque V1 neurons: effects of a changing receptive field size",
+                "cites": "92",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Suppression of neural responses to nonoptimal stimuli correlates with tuning selectivity in macaque V1",
+                "cites": "91",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Broadband temporal stimuli decrease the integration time of neurons in cat striate cortex",
+                "cites": "90",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of stimulus size on the dynamics of orientation selectivity in Macaque V1",
+                "cites": "88",
+                "year": "2005"
+            },
+            "id_citations": "hTqKvtoAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual spatial summation in two classes of geniculate cells",
+                "cites": "88",
+                "year": "1975"
+            },
+            "id_citations": "hTqKvtoAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hyperacuity in cat retinal ganglion cells",
+                "cites": "87",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparisons of the dynamics of local field potential and multiunit activity signals in macaque visual cortex",
+                "cites": "85",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acquired central dyschromatopsia: analysis of a case with preservation of color discrimination",
+                "cites": "79",
+                "year": "1989"
+            },
+            "id_citations": "hTqKvtoAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinearity in the perception of form",
+                "cites": "75",
+                "year": "1985"
+            },
+            "id_citations": "hTqKvtoAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic generation of gamma-band activity in primary visual cortex of awake and anesthetized monkeys",
+                "cites": "74",
+                "year": "2012"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular eye movements caused by the perception of three-dimensional structure from motion",
+                "cites": "73",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tonotopic organization and encoding features of single units in inferior colliculus of horseshoe bats: functional implications for prey identification.",
+                "cites": "68",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information tuning of populations of neurons in primary visual cortex",
+                "cites": "66",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LFP spectral peaks in V1 cortex: network resonance and cortico-cortical feedback",
+                "cites": "64",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual function and brain organization in non-decussating retinal\u2013fugal fibre syndrome",
+                "cites": "63",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generation of black-dominant responses in V1 cortex",
+                "cites": "62",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory contour perception and amodal boundary completion: evidence of a dissociation following callosotomy",
+                "cites": "61",
+                "year": "1999"
+            },
+            "id_citations": "hTqKvtoAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is there an effect of monocular deprivation on the proportions of X and Y cells in the cat lateral geniculate nucleus?",
+                "cites": "61",
+                "year": "1980"
+            },
+            "id_citations": "hTqKvtoAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surround contribution to light adaptation in cat retinal ganglion cells.",
+                "cites": "56",
+                "year": "1975"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting faces in pure noise images: a functional MRI study on top-down perception",
+                "cites": "54",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LdasjJ6CEcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional characterization of the extraclassical receptive field in macaque V1: contrast, orientation, and temporal dynamics",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "hTqKvtoAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational theories of visual perception",
+                "cites": "53",
+                "year": "1990"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deficits in the visual evoked potentials of cats as a result of visual deprivation",
+                "cites": "53",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of contrast on the non\u2010linear response of the Y cell.",
+                "cites": "52",
+                "year": "1980"
+            },
+            "id_citations": "hTqKvtoAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for autocoherence in the cortical network with a time-frequency analysis of the local field potential",
+                "cites": "51",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal physiology: adapting to the changing scene",
+                "cites": "51",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On temporal codes and the spatiotemporal response of neurons in the lateral geniculate nucleus",
+                "cites": "51",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus ensemble and cortical layer determine V1 spatial receptive fields",
+                "cites": "47",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation of local and global orientation and spatial frequency tuning in macaque V1",
+                "cites": "47",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational modeling of orientation tuning dynamics in monkey primary visual cortex",
+                "cites": "47",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Untuned suppression makes a major contribution to the enhancement of orientation selectivity in macaque v1",
+                "cites": "46",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "10 Information Filtering in the Lateral",
+                "cites": "42",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orientation selectivity from very sparse LGN inputs in a comprehensive model of macaque V1 cortex",
+                "cites": "41",
+                "year": "2016"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LgRImbQfgY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial distributions of cone inputs to cells of the parvocellular pathway investigated with cone-isolating gratings",
+                "cites": "40",
+                "year": "2012"
+            },
+            "id_citations": "hTqKvtoAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear information processing in the retina: a study of horizontal cell responses",
+                "cites": "40",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orientation selectivity in visual cortex by fluctuation-controlled criticality",
+                "cites": "38",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual influences on orientation discrimination: binding local and global cues",
+                "cites": "37",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The existence of interpolated illusory contours depends on contrast and spatial separation",
+                "cites": "37",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial and temporal properties of luminosity horizontal cells in the turtle retina.",
+                "cites": "37",
+                "year": "1983"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An electronic visual stimulator",
+                "cites": "37",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dynamic nonlinearity and spatial phase specificity in macaque V1 neurons",
+                "cites": "36",
+                "year": "2007"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamics of visual responses in the primary visual cortex",
+                "cites": "36",
+                "year": "2007"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of contrast and size on orientation discrimination",
+                "cites": "36",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast sensitivity",
+                "cites": "36",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fluctuations of the impulse rate in Limulus eccentric cells",
+                "cites": "36",
+                "year": "1971"
+            },
+            "id_citations": "hTqKvtoAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new view of the primary visual cortex",
+                "cites": "35",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel retinocortical channels: X and Y and P and M",
+                "cites": "34",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine structure of receptive-field centers of X and Y cells of the cat",
+                "cites": "33",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaussian bars and rectangular bars: the influence of width and gradient on visibility",
+                "cites": "33",
+                "year": "1974"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear and nonlinear systems analysis of the visual system: Why does it seem so linear?: A review dedicated to the memory of Henk Spekreijse",
+                "cites": "32",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel neural pathways and visual function.",
+                "cites": "32",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear systems analysis of the Limulus retina",
+                "cites": "32",
+                "year": "1970"
+            },
+            "id_citations": "hTqKvtoAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A microcomputer-based visual stimulator",
+                "cites": "31",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brightness contrast inhibits color induction: Evidence for a new kind of color theory",
+                "cites": "30",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale modeling of the primary visual cortex: influence of cortical architecture upon neuronal response",
+                "cites": "30",
+                "year": "2003"
+            },
+            "id_citations": "hTqKvtoAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gain control in the retina and retinal dynamics",
+                "cites": "29",
+                "year": "1972"
+            },
+            "id_citations": "hTqKvtoAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The eel retina. Ganglion cell classes and spatial mechanisms.",
+                "cites": "28",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Color and luminance contrast as tools for probing the primate retina",
+                "cites": "27",
+                "year": "1988"
+            },
+            "id_citations": "hTqKvtoAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brightness\u2013color interactions in human early visual cortex",
+                "cites": "25",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation between spatial frequency and orientation selectivity in V1 cortex: implications of a network model",
+                "cites": "25",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast sensitivity and light adaptation in photoreceptors or in the retinal network",
+                "cites": "25",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The eel retina. Receptor classes and spectral mechanisms.",
+                "cites": "25",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A contrast and surface code explains complex responses to black and white stimuli in V1",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in real and illusory shape perception revealed by backward masking",
+                "cites": "23",
+                "year": "2005"
+            },
+            "id_citations": "hTqKvtoAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual sensitivity of the retina of the conger eel",
+                "cites": "23",
+                "year": "1980"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal receptive fields and direction selectivity",
+                "cites": "22",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel pathways in the mammalian visual system.",
+                "cites": "22",
+                "year": "1982"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neuronal network model of primary visual cortex explains spatial frequency selectivity",
+                "cites": "21",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A psychophysical correlate of contrast dependent changes in receptive field properties",
+                "cites": "21",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel retinocortical channels and luminance",
+                "cites": "21",
+                "year": "1999"
+            },
+            "id_citations": "hTqKvtoAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linearity and non-linearity in cortical receptive fields",
+                "cites": "21",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of lateral inhibition on fluctuations of the impulse rate",
+                "cites": "21",
+                "year": "1971"
+            },
+            "id_citations": "hTqKvtoAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of color surfaces in V1: edge enhancement and unfilled holes",
+                "cites": "20",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relatively small decline in orientation acuity as stimulus size decreases",
+                "cites": "18",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rhythm and synchrony in a cortical network model",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local determinants of contour interpolation",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An embedded network approach for scale-up of fluctuation-driven systems with preservation of spike information",
+                "cites": "16",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual cortex: pushing the envelope",
+                "cites": "15",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive field structure of P and M cells in the monkey retina",
+                "cites": "15",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fluctuations in the response to light of visual neurones in Limulus",
+                "cites": "15",
+                "year": "1969"
+            },
+            "id_citations": "hTqKvtoAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise masking of White's illusion exposes the weakness of current spatial filtering models of lightness perception",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local circuit inhibition in the cerebral cortex as the source of gain control and untuned suppression",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "hTqKvtoAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The R? k vf Insight in Perceptual Learning",
+                "cites": "13",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical double-opponent cells and human color perception",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Br1UauaknNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical double-opponent cells in color perception: perceptual scaling and chromatic visual evoked potentials",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical brightness adaptation when darkness and brightness produce different dynamical states in the visual cortex",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene therapy in colour",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptive fields of pand M cells in the monkey retina and their photoreceptor inputs",
+                "cites": "12",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-local effects in the perception of brightness: Psychophysics and neurophysiology",
+                "cites": "12",
+                "year": "1989"
+            },
+            "id_citations": "hTqKvtoAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specificity of Cone Connections in the Retina and Color Vision. Focus on \u201cSpecificity of Cone Inputs to Macaque Retinal Ganglion Cells\u201d",
+                "cites": "11",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context affects lightness at the level of surfaces",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The lower visual field is better than the upper visual field at red/green recognition.",
+                "cites": "10",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrate-and-fire vs Poisson models of LGN input to V1 cortex: noisier inputs reduce orientation selectivity",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early vision is early in time",
+                "cites": "9",
+                "year": "2007"
+            },
+            "id_citations": "hTqKvtoAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual segmentation and illusory contours",
+                "cites": "9",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monkey striate responses to anomalous contours",
+                "cites": "9",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TEMPORAL FREQUENCY TUNING OF NEURONS IN MACAQUE V1-EFFECTS OF LUMINANCE CONTRAST AND CHROMATICITY",
+                "cites": "9",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Color in primary visual cortex",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking appearance to neural activity through the study of the perception of lightness in naturalistic contexts",
+                "cites": "8",
+                "year": "2013"
+            },
+            "id_citations": "hTqKvtoAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The receptive fields of visual neurons",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid propagation speed of signals triggering illusory contours",
+                "cites": "8",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similar mechanisms for illusory contours and amodal completion",
+                "cites": "8",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial and spectral mechanisms of primate ganglion cells",
+                "cites": "8",
+                "year": "1989"
+            },
+            "id_citations": "hTqKvtoAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast sensitivity and spatial summation in frog and eel retinal ganglion cells",
+                "cites": "8",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing the role of luminance edges in White's illusion with contour adaptation",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Art and perception of nature: Illusory contours in the paintings of Ellsworth Kelly",
+                "cites": "7",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A defective visual pathway in reading disabled children",
+                "cites": "7",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear analysis of visual evoked potentials in the human (A)",
+                "cites": "7",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal and cortical nonlinearities combine to produce masking in V1 responses to plaids",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of contrast on perceived direction of motion in the barberpole illusion",
+                "cites": "6",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RESPONSES OF HUMAN ERG TO RAPID COLOR EXCHANGE-IMPLICATIONS FOR M/L CONE RATIO",
+                "cites": "6",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gender differences in apparent motion perception",
+                "cites": "6",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How complex cells are made in a simple cell network",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical circuitry revealed by reverse correlation in the orientation domain",
+                "cites": "5",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abrupt learning in illusory contour perception",
+                "cites": "5",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of monocular paralysis on the lateral geniculate nucleus of the cat",
+                "cites": "5",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sensitivity distribution, not the receptive field size, is a fixed property of retinal ganglion cells.",
+                "cites": "5",
+                "year": "1974"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear dynamics of cortical responses to color in the human cVEP",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "hTqKvtoAAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In the mind's eye of the beholder",
+                "cites": "4",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Marked effects of global orientation on appearance and perceived direction of motion",
+                "cites": "4",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FUNCTIONAL-ORGANIZATION OF OWL MONKEY LGN AND VISUAL-CORTEX",
+                "cites": "4",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiology of color vision in primates",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of contrast and size on orientation discrimination",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "hTqKvtoAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast gain, area summation and temporal tuning in primate visual cortex",
+                "cites": "3",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Properties of macaque V1 neurons studied with natural image sequences.",
+                "cites": "3",
+                "year": "1999"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dissociation between illusory contour perception and amodal boundary completion following callosotomy",
+                "cites": "3",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Michael S. Gazzaniga",
+                "cites": "3",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal frequency tuning of macaque V1 neurons to chromatic and luminance stimuli",
+                "cites": "3",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of temporal tuning in primate geniculate and V1",
+                "cites": "3",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal ganglion cell function",
+                "cites": "3",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developments in vision",
+                "cites": "3",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal regulation of visual contrast sensitivity",
+                "cites": "3",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation. Group Report",
+                "cites": "3",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The importance of contrast in the perception of brightness and form",
+                "cites": "3",
+                "year": "1985"
+            },
+            "id_citations": "hTqKvtoAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The contrast gain control and feedback within the retina",
+                "cites": "3",
+                "year": "1982"
+            },
+            "id_citations": "hTqKvtoAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Angle alignment evokes perceived depth and illusory surfaces",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Laminar distribution of orientation selectivity of macaque V1 neurons",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "17 Dynamics of Responses in Visual Cortex",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chromatic induction is greatest at isobrightness: Evidence for Kirschmann's third law",
+                "cites": "2",
+                "year": "1999"
+            },
+            "id_citations": "hTqKvtoAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extrastriate loci for the perception of stereo depth and illusory contours: Evidence from fMRI",
+                "cites": "2",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast sensitivity: Proceedings of the Retina Research Foundation Symposia",
+                "cites": "2",
+                "year": "1990"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NDuN12AVoxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast sensitivity",
+                "cites": "2",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of subjective contours",
+                "cites": "2",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel processing in the visual system",
+                "cites": "2",
+                "year": "1984"
+            },
+            "id_citations": "hTqKvtoAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variability in the firing of nerve impulses in eccentric cells of the Limulus eye",
+                "cites": "2",
+                "year": "1970"
+            },
+            "id_citations": "hTqKvtoAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast response in a comprehensive network model of macaque V1",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "hTqKvtoAAAAJ:VN7nJs4JPk0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional clusters of neurons in layer 6 of macaque V1",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "hTqKvtoAAAAJ:6bLC7aUMtPcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population rate-coding predicts correctly that human sound localization depends on sound intensity",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing the ODOG brightness model with narrowband noise stimuli",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High conductance dynamics of the primary visual cortex",
+                "cites": "1",
+                "year": "2003"
+            },
+            "id_citations": "hTqKvtoAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orientation selectivity: models and neural mechanisms",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision: Brain Mechanisms",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bimodal distribution of orientation selectivity in simple cells of macaque V1.",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast gain as function of temporal frequency of macaque V1 neurons.",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A kanisza square is more effective than a real square for masking illusory shapes.",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics and laminar organisation of orientation tuning in monkey primary visual cortex",
+                "cites": "1",
+                "year": "1998"
+            },
+            "id_citations": "hTqKvtoAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A STUDY OF ILLUSORY CONTOURS IN HUMAN CEREBRAL-CORTEX WITH FUNCTIONAL MAGNETIC-RESONANCE-IMAGING (MRI)",
+                "cites": "1",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ORGANIZATION OF CHROMATIC INPUTS TO DIRECTION SELECTIVE NEURONS IN MACAQUE-V1",
+                "cites": "1",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial pattern of cone inputs to P and M cells in monkey retina and LGN",
+                "cites": "1",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P and M neural pathways and the perception of color and brightness (A)",
+                "cites": "1",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comment on nonlinear analysis.",
+                "cites": "1",
+                "year": "1981"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear systems analysis of retinal ganglion cells and visual evoked potentials in the cat (A)",
+                "cites": "1",
+                "year": "1978"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cat retinal ganglion cells: correlation between size of receptive field centre and level of field adaptation.",
+                "cites": "1",
+                "year": "1972"
+            },
+            "id_citations": "hTqKvtoAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enroth-Cugell, C.(1973). Flux, not retinal illumination, is what cat retinal ganglion cells really care about",
+                "cites": "1",
+                "year": "6"
+            },
+            "id_citations": "hTqKvtoAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct spatiotemporal mechanisms underlie extra-classical receptive field modulation in macaque V1 microcircuits",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "hTqKvtoAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Double-opponent cells in Parvocellular and Koniocellular pathways contribute to the perception of color in color patterns",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:-jrNzM816MMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In Memoriam: David C. Gadsby, PhD",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A case study in the functional consequences of scaling the sizes of realistic cortical models",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circling back on theories of sound localization",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hsZV8lGYWTMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Rhythm and synchrony in a cortical network model (Journal of Neuroscience,(2018) 38, 40 (8621-8634) 10.1523/JNEUROSCI. 0675-18.2018)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:7H_MAutzIkAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rhythm and Synchrony in a Cortical Network Model (vol 38, pg 8621, 2018)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolution of large-scale modeling of monkey primary visual cortex, V1: steps towards understanding cortical function",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HGTzPopzzJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human Sound Localization Depends on Sound Intensity: Implications for Sensory Coding",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "hTqKvtoAAAAJ:v1_lew4L6wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Double-Opponent Neurons Drive Perception and Early cVEP Responses to Color Patterns",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "hTqKvtoAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of sound intensity on lateralization with interaural time differences",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "hTqKvtoAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-linear Dynamics of Cortical Responses to Color in the cVEP",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Ak0FvsSvgGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence of Nonlinear Edge Mechanism in Cortical Responses to Color in the cVEP",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A contrast-based model of lightness perception",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "hTqKvtoAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assimilation challenges contrast-based models of lightness perception",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise masking of White\u2019s illusion exposes the weakness",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing the role of luminance edges in White\u2019s illusion",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When increments match decrements",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brightness-Color Interactions in human early visual cortex",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge dominated responses for chromatic surfaces without filling-in in the primary visual cortex",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses to black and white stimuli in the primary visual cortex explained by a model that combines luminance and contrast",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "hTqKvtoAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context affects lightness at the level of surfaces",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The contrast gain control from 1978 till now",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "hTqKvtoAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Things look black for the receptive field hypothesis in the primary visual cortex (V1)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "hTqKvtoAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is \u03b3-band activity different in primary visual cortex of awake and anesthetized states",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "hTqKvtoAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cone-Selective Connectivity in P-Pathway Cells of the Macaque Monkey",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User Alerts",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does the BOLD signal reflect input or output of a cortical area?\u2013Laminar patterns of Gamma-band activities in Macaque visual cortex",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How receptive field properties of V1 neurons change with different stimulus ensembles",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "hTqKvtoAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent amplification in V1 cortex as the mechanism of black-dominant visual perception",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coherent global percepts increase steady-state visual evoked potential (SSVEP)",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u2018Black\u2019dominance measured with different stimulus ensembles in macaque primary visual cortex V1",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Cortical Models of Orientation Tuning",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "hTqKvtoAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image discontinuity changes LFP gamma-band activity in primary visual cortex V1",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dwell time for the whole is LESS than for the sum of its parts",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in spatial signal processing between neurons in the input and output layers of the macaque primary visual cortex, V1",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for Temporal Phase Coherence in the Cortical Network with a Time-Frequency Analysis of the Local Field Potential",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:-nhnvRiOwuoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparent duration is influenced by the geometrical (perceptual) meaningfulness of the stimulus",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "hTqKvtoAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single Opponent and Double Opponent Cells in Macaque Striate Cortex",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local determinants of contour interpolation",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "hTqKvtoAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory contours don't pass through the \u2018blind spot\u2019",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Specificity of cone connections in the retina and color vision. Focus on'specificity of cone inputs to macaque retinal ganglion cells'(Journal of Neurophysiology \u2026",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:jL-93Qbq4QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A. Appendix: Selected Publications of David Regan",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Announcements of conferences and call for papers",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single and double-opponent neurons in primate visual cortex",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "hTqKvtoAAAAJ:nVrZBo8bIpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entrainment to video displays in primary visual cortex of macaque and humans (vol 24, pg 8287, 2004)",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:raTqNPD5sRQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial Vision and the Visual Cortex: can we establish a connection?",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPECIAL ISSUE Rendering the Use of Visual Information from Spiking Neurons to Recognition A picture is worth thousands of trials: rendering the use of visual information from \u2026",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of contrast on spatial binding and resolution",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The roles of computation and experiment in neuroscience",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: The spatial transformation of color in the primary visual cortex of the macaque monkey (Nature Neuroscience (2001) 4 (409-416))",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Book review-//The roles of computation and experiment in neuroscience-Computational Neuroscience of Vision",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "hTqKvtoAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The psychophysical consequences of contrast dependent changes in receptive field properties.",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex cells in simple cell network model of V1 cortex",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lateral inhibition generates simple cells in model of V1 cortex",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "hTqKvtoAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual influences on orientation judgments",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for chromatic and spatial opponency in macaque V1 neurons",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory systems",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "hTqKvtoAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling of orientation dynamics in visual cortex",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Centre-surround tuning of orientation detectors in human vision",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular eye movements caused by the perception of three-dimensional structure from motion.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The variance of V1 neurons' responses saturates in brief counting periods",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "''On the visually perceived direction of motion''by Hans Wallach: 60 years later (vol 25, pg 1317, 1996)",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the visually perceived direction of motion",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "hTqKvtoAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abrupt transitions in the perception of illusory contours triggered by specific visual stimuli",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence against a specialized mechanism for transparent surface perception",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple reverse correlation scheme for the identification of visual neurons",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial scale of interactions between lines and aperture edges in the barberpole illusion",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edges, more than sinusoidal gratings, evoke reliable responses in both simple and complex cells",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing VI simple and complex cells by their unconfounded direction and orientation tuning properties",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "hTqKvtoAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dialogues on Perception",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:MhiOAD_qIWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PERCEPTION OF 3-DIMENSIONAL STRUCTURE-FROM-MOTION ELICITS VERGENCE EYE-MOVEMENTS IN HUMANS",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stereograms et cetera.",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WHdLCjDvYFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early Vision and Beyond, by TV Papathomas, C. Chubb, A. Gorea, E. Kowler",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular eye movements caused by the perception of three-dimensional shape from motion",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "hTqKvtoAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual reference",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WEI ZHU",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE DYNAMICS OF ILLUSORY CONTOUR FORMATION",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to Nature",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "hTqKvtoAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast Sensitivity (Proceedings of the Retina Research Foundation Symposia; V. 5)",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "hTqKvtoAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Changing Visual System: Maturation and Aging in the Central Nervous System",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COLOR CONTRAST SENSITIVITY IN DEUTERANOMALOUS AND NORMAL HUMAN OBSERVERS",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MACAQUE-V1 AND COLOR-SINGLE CELL RESPONSES TO CONE-ISOLATING STIMULI",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The function of primate retinal ganglion cells: Evidence for parallel visual pathways in the optic nerve",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "hTqKvtoAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast sensitivity: Its neural basis",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P (PARVOCELLULAR) AND M (MAGNOCELLULAR) PATHWAYS",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "hTqKvtoAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal function: the retina.",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:1taIhTC69MYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The retina: an approachable part of the brain",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Review of The Retina: An Approachable Part of the Brain by John Dowling",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VISUAL NEUROSCIENCE-PETTIGREW, JD, SANDERSON, KJ, LEVICK, WR",
+                "cites": "0",
+                "year": "1987"
+            },
+            "id_citations": "hTqKvtoAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Temporal Filtering and Intermittent Visual Displays.",
+                "cites": "0",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SYSTEMS-APPROACH IN VISION-PROCEEDINGS OF A WORKSHOP AMSTERDAM, 26-29 AUGUST 1984-FOREWORD",
+                "cites": "0",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual temporal filtering and intermittent visual displays(Final Progress Report, 1 Sep. 1984- 30 Jun. 1986)",
+                "cites": "0",
+                "year": "1986"
+            },
+            "id_citations": "hTqKvtoAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems Approach in Vision",
+                "cites": "0",
+                "year": "1984"
+            },
+            "id_citations": "hTqKvtoAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A two-dimensional computer-controlled",
+                "cites": "0",
+                "year": "1980"
+            },
+            "id_citations": "hTqKvtoAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RECEPTOR MECHANISMS IN THE TIERED RETINA OF THE CONGER EEL (CONGER-CONGER)",
+                "cites": "0",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear analysis of parallel visual pathways in the cat retina (A)",
+                "cites": "0",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From the Rockefeller University, New York, NY 10021, USA (Received 21 July 1978)",
+                "cites": "0",
+                "year": "1979"
+            },
+            "id_citations": "hTqKvtoAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinearities in spatial vision",
+                "cites": "0",
+                "year": "1977"
+            },
+            "id_citations": "hTqKvtoAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cambridge University Press, 200 Euston Road, London NWI 2DB",
+                "cites": "0",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FOURIER-ANALYSIS OF X AND Y RETINAL GANGLION-CELL RESPONSES TO AMPLITUDE-MODULATED SPATIAL GRATINGS",
+                "cites": "0",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RETINAL SPATIAL INTERACTIONS OBSERVED IN RESPONSES OF EEL (AND FROG) GANGLION-CELLS",
+                "cites": "0",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RECEPTOR TYPES AND PHOTOPIGMENTS IN EEL RETINA-ERG ANALYSIS",
+                "cites": "0",
+                "year": "1976"
+            },
+            "id_citations": "hTqKvtoAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Vertebrate Retina",
+                "cites": "0",
+                "year": "1975"
+            },
+            "id_citations": "hTqKvtoAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two types of LGN cells",
+                "cites": "0",
+                "year": "1975"
+            },
+            "id_citations": "hTqKvtoAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2 TYPES OF LGN CELLS",
+                "cites": "0",
+                "year": "1975"
+            },
+            "id_citations": "hTqKvtoAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oxford Research Encyclopedia of Neuroscience",
+                "cites": "0"
+            },
+            "id_citations": "hTqKvtoAAAAJ:ce2CqMG-AY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top Reviewers 2013",
+                "cites": "0"
+            },
+            "id_citations": "hTqKvtoAAAAJ:L1USKYWJimsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DI VANEY",
+                "cites": "0"
+            },
+            "id_citations": "hTqKvtoAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=hTqKvtoAAAAJ"
+}

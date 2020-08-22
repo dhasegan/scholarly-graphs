@@ -1,0 +1,665 @@
+{
+    "affiliation": "Assistant Professor, McGill University",
+    "cites_per_year": {
+        "2008": 8,
+        "2009": 22,
+        "2010": 31,
+        "2011": 38,
+        "2012": 64,
+        "2013": 55,
+        "2014": 109,
+        "2015": 176,
+        "2016": 234,
+        "2017": 204,
+        "2018": 346,
+        "2019": 442,
+        "2020": 310
+    },
+    "citedby": 2082,
+    "citedby5y": 1719,
+    "coauthors": [
+        {
+            "affiliation": "Hospital for sick children toronto",
+            "id": "xfv0bloAAAAJ",
+            "name": "Paul Frankland"
+        },
+        {
+            "affiliation": "Hospital for Sick Children",
+            "id": "_jPyIVEAAAAJ",
+            "name": "Sheena A. Josselyn"
+        },
+        {
+            "affiliation": "Senior Research Scientist, Google DeepMind",
+            "id": "htPVdRMAAAAJ",
+            "name": "Timothy P. Lillicrap"
+        },
+        {
+            "affiliation": "University of Toronto",
+            "id": "sxG4wbMAAAAJ",
+            "name": "Melanie Woodin"
+        },
+        {
+            "affiliation": "University of Toronto Scarborough",
+            "id": "hbmVVF0AAAAJ",
+            "name": "Jordan Guerguiev"
+        },
+        {
+            "affiliation": "University of Toronto",
+            "id": "pZDb2ckAAAAJ",
+            "name": "Robert Zipursky"
+        },
+        {
+            "affiliation": "Graduate Student, University of Toronto",
+            "id": "FsR-MFAAAAAJ",
+            "name": "Matthew M. Tran"
+        },
+        {
+            "affiliation": "Australian National University",
+            "id": "bMmX1rcAAAAJ",
+            "name": "Bruce Christensen"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, University of Oxford",
+            "id": "SRURpN4AAAAJ",
+            "name": "Colin Akerman"
+        },
+        {
+            "affiliation": "Head of Neuro-Behavioral Analysis Unit, Dept. of Fundamental Neuroscience, University of Lausanne",
+            "id": "fjFf8boAAAAJ",
+            "name": "Leonardo Restivo"
+        },
+        {
+            "affiliation": "Professor, Fujita Health University",
+            "id": "reTa2HwAAAAJ",
+            "name": "Tsuyoshi Miyakawa"
+        },
+        {
+            "affiliation": "Facultad de Ciencias UNAM",
+            "id": "j3RIAoIAAAAJ",
+            "name": "Martinez-canabal"
+        },
+        {
+            "affiliation": "Associate Professor",
+            "id": "taq3tLYAAAAJ",
+            "name": "Koji OHIRA"
+        },
+        {
+            "affiliation": "Visiting Fellow, Section on Cellular and Synaptic Physiology, NICHD",
+            "id": "-Cd50_oAAAAJ",
+            "name": "Vivek Mahadevan"
+        },
+        {
+            "affiliation": "DeepMind",
+            "id": "evIkDWoAAAAJ",
+            "name": "Adam Santoro"
+        },
+        {
+            "affiliation": "Scientist - Hospital for Sick Children Research Institute",
+            "id": "r1tMeZIAAAAJ",
+            "name": "Anne L Wheeler"
+        },
+        {
+            "affiliation": "Shiffman Medical Library, Wayne State University",
+            "id": "salPceIAAAAJ",
+            "name": "Katherine Goold Akers"
+        },
+        {
+            "affiliation": "Division of Systems Medical Science, Institute for Comprehensive Medical Science, Fujita Health University",
+            "id": "7OSfOq8AAAAJ",
+            "name": "Hirotaka Shoji"
+        },
+        {
+            "affiliation": "University of California San Francisco",
+            "id": "loS1qjMAAAAJ",
+            "name": "Frances Xia"
+        },
+        {
+            "affiliation": "Director, Toronto Sexuality Centre; Associate Professor, University of Toronto",
+            "id": "kikPiAEAAAAJ",
+            "name": "James M Cantor"
+        }
+    ],
+    "email": "@mcgill.ca",
+    "hindex": 19,
+    "hindex5y": 16,
+    "i10index": 23,
+    "i10index5y": 21,
+    "id": "1CPY1LsAAAAJ",
+    "interests": [
+        "Machine Learning",
+        "Learning and Memory",
+        "Neural Networks",
+        "Neural Circuits"
+    ],
+    "name": "Blake Richards",
+    "publications": [
+        {
+            "bib": {
+                "title": "Hippocampal neurogenesis regulates forgetting during adulthood and infancy",
+                "cites": "5746205500028235248",
+                "year": "2014",
+                "url": "https://science.sciencemag.org/content/344/6184/598.abstract",
+                "author": "Katherine G Akers and Alonso Martinez-Canabal and Leonardo Restivo and Adelaide P Yiu and Antonietta De Cristofaro and Hwa-Lin Liz Hsiang and Anne L Wheeler and Axel Guskjolen and Yosuke Niibori and Hirotaka Shoji and Koji Ohira and Blake A Richards and Tsuyoshi Miyakawa and Sheena A Josselyn and Paul W Frankland",
+                "journal": "Science",
+                "volume": "344",
+                "number": "6184",
+                "pages": "598-602",
+                "publisher": "American Association for the Advancement of Science",
+                "abstract": "Throughout life, new neurons are continuously added to the dentate gyrus. As this continuous addition remodels hippocampal circuits, computational models predict that neurogenesis leads to degradation or forgetting of established memories. Consistent with this, increasing neurogenesis after the formation of a memory was sufficient to induce forgetting in adult mice. By contrast, during infancy, when hippocampal neurogenesis levels are high and freshly generated memories tend to be rapidly forgotten (infantile amnesia), decreasing neurogenesis after memory formation mitigated forgetting. In precocial species, including guinea pigs and degus, most granule cells are generated prenatally. Consistent with reduced levels of postnatal hippocampal neurogenesis, infant guinea pigs and degus did not exhibit forgetting. However, increasing neurogenesis after memory formation induced infantile amnesia in these \u2026",
+                "eprint": "https://www.scienceintheclassroom.org/sites/default/files/research-papers/science-2014-akers-598-602.pdf"
+            },
+            "id_citations": "1CPY1LsAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons are recruited to a memory trace based on relative neuronal excitability immediately before training",
+                "cites": "235",
+                "year": "2014"
+            },
+            "id_citations": "1CPY1LsAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cerebral white matter deficiencies in pedophilic men",
+                "cites": "228",
+                "year": "2008"
+            },
+            "id_citations": "1CPY1LsAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards deep learning with segregated dendrites",
+                "cites": "149",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive function and brain structure in females with a history of adolescent-onset anorexia nervosa",
+                "cites": "148",
+                "year": "2008"
+            },
+            "id_citations": "1CPY1LsAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The persistence and transience of memory",
+                "cites": "131",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing CRTC1 function in the dentate gyrus during memory formation or reactivation increases memory strength without compromising memory quality",
+                "cites": "87",
+                "year": "2012"
+            },
+            "id_citations": "1CPY1LsAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns across multiple memories are identified over time",
+                "cites": "85",
+                "year": "2014"
+            },
+            "id_citations": "1CPY1LsAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assessing the scalability of biologically-motivated deep learning algorithms and architectures",
+                "cites": "74",
+                "year": "2018"
+            },
+            "id_citations": "1CPY1LsAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "57",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parvalbumin-positive interneurons mediate neocortical-hippocampal interactions that are necessary for memory consolidation",
+                "cites": "52",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A double dissociation of dorsal and ventral hippocampal function on a learning and memory task mediated by the dorso\u2010lateral striatum",
+                "cites": "49",
+                "year": "2006"
+            },
+            "id_citations": "1CPY1LsAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bidirectional control of anxiety-related behaviors in mice: role of inputs arising from the ventral hippocampus to the lateral septum and medial prefrontal cortex",
+                "cites": "47",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns of cortical thinning in Alzheimer's disease and frontotemporal dementia",
+                "cites": "31",
+                "year": "2009"
+            },
+            "id_citations": "1CPY1LsAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic solutions to the credit assignment problem",
+                "cites": "28",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GABAergic circuits control stimulus-instructed receptive field development in the optic tectum",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "1CPY1LsAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal chloride and excitability\u2014the big impact of small changes",
+                "cites": "26",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevance realization and the emerging framework in cognitive science",
+                "cites": "21",
+                "year": "2012"
+            },
+            "id_citations": "1CPY1LsAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo spike-timing-dependent plasticity in the optic tectum of Xenopus laevis",
+                "cites": "21",
+                "year": "2010"
+            },
+            "id_citations": "1CPY1LsAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The conjunctive trace",
+                "cites": "19",
+                "year": "2013"
+            },
+            "id_citations": "1CPY1LsAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory-evoked spiking behavior emerges via an experience-dependent plasticity mechanism",
+                "cites": "16",
+                "year": "2015"
+            },
+            "id_citations": "1CPY1LsAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biologically feasible deep learning with segregated dendrites",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "1CPY1LsAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clonal relationships impact neuronal tuning within a phylogenetically ancient vertebrate brain structure",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "1CPY1LsAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory transformation enhances reinforcement learning in dynamic environments",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "1CPY1LsAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-based causal inference for weight alignment",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optogenetic activation of parvalbumin and somatostatin interneurons selectively restores theta-nested gamma oscillations and oscillation-induced spike timing-dependent long \u2026",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "1CPY1LsAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forgetting at biologically realistic levels of neurogenesis in a large-scale hippocampal model",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visuospatial information in the retinotectal system of xenopus before correct image formation by the developing eye",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "1CPY1LsAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Epigenetics and Language: The Minimalist Program, Connectionism and Biology",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "1CPY1LsAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning for brains?: Different linear and nonlinear scaling in UK Biobank brain images vs. machine-learning datasets",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can neocortical feedback alter the sign of plasticity?",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "1CPY1LsAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards deep learning with segregated dendrites",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generation of transgenic mice expressing low, moderate, and high levels of parvalbumin in the heart.",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "1CPY1LsAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct roles of parvalbumin and somatostatin interneurons in gating the synchronization of spike times in the neocortex",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "1CPY1LsAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neocortical inhibitory interneuron subtypes display distinct responses to synchrony and rate of inputs",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Irrelevance by inhibition: Learning, computation, and implications for schizophrenia",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "1CPY1LsAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adversarial Feature Desensitization",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1CPY1LsAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociating memory accessibility and precision in forgetting",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1CPY1LsAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems consolidation impairs behavioral flexibility",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1CPY1LsAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "1CPY1LsAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational inference of latent hierarchical dynamical systems in neuroscience: an application to calcium imaging data",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring hierarchies of latent features in calcium imaging data",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving beyond reward prediction errors",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct roles of parvalbumin and somatostatin interneurons in the synchronization of spike-times in the neocortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "1CPY1LsAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevance learning via inhibitory plasticity and its implications for schizophrenia",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "1CPY1LsAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory Interneurons of The Neo-Cortex & The Role of Parvalbumin-Expressing Cells in Schizophrenia",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "1CPY1LsAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alistair M. Muldal, Timothy P. Lillicrap",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "1CPY1LsAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relative changes of intrinsic excitability are sufficient for preferential recruitment of neurons into a fear memory trace: S02\u201301",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "1CPY1LsAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GABAergic circuits control stimulus-instructed receptive field development in the optic tectum",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "1CPY1LsAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised learning is crucial to learning the names of objects",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "1CPY1LsAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volumetric MRI brain measures in familial schizophrenia",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "1CPY1LsAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of weight recovery on brain structure in adolescent-onset anorexia nervosa",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "1CPY1LsAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing relational network grammars",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "1CPY1LsAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can relational network theory explain reaction-time data?",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "1CPY1LsAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning with segregated dendrites",
+                "cites": "0"
+            },
+            "id_citations": "1CPY1LsAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Christensen, A.,... Kording, KP (2019). A deep learning framework for",
+                "cites": "0"
+            },
+            "id_citations": "1CPY1LsAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activation alignment: exploring the use of approximate activity gradients in multilayer networks",
+                "cites": "0"
+            },
+            "id_citations": "1CPY1LsAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Logic and Computation",
+                "cites": "0"
+            },
+            "id_citations": "1CPY1LsAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=1CPY1LsAAAAJ"
+}

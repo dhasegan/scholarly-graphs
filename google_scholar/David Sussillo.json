@@ -1,0 +1,470 @@
+{
+    "affiliation": "Senior Research Scientist @ Google Brain, Adjunct Professor @ Stanford",
+    "cites_per_year": {
+        "2007": 14,
+        "2008": 23,
+        "2009": 30,
+        "2010": 52,
+        "2011": 64,
+        "2012": 67,
+        "2013": 112,
+        "2014": 183,
+        "2015": 282,
+        "2016": 402,
+        "2017": 489,
+        "2018": 636,
+        "2019": 788,
+        "2020": 469
+    },
+    "citedby": 3662,
+    "citedby5y": 3074,
+    "coauthors": [
+        {
+            "affiliation": "Stanford & HHMI",
+            "id": "r1S7uvEAAAAJ",
+            "name": "Krishna V Shenoy"
+        },
+        {
+            "affiliation": "Brandeis University, CERN, Boston University, Columbia University, Stanford Linear Accelerator",
+            "id": "ca_O-WQAAAAJ",
+            "name": "L F Abbott"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Stanford University",
+            "id": "Bh9jZggAAAAJ",
+            "name": "Sergey D. Stavisky"
+        },
+        {
+            "affiliation": "University of California, Los Angeles",
+            "id": "9Pu0NtAAAAAJ",
+            "name": "Jonathan Kao"
+        },
+        {
+            "affiliation": "Assistant Professor at University of Chicago",
+            "id": "hEXY2ysAAAAJ",
+            "name": "Matthew T Kaufman"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, Columbia University",
+            "id": "AtknMf0AAAAJ",
+            "name": "Mark Churchland"
+        },
+        {
+            "affiliation": "University of Zurich",
+            "id": "2hu9WYkAAAAJ",
+            "name": "Valerio Mante"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "ESrxVR8AAAAJ",
+            "name": "William T Newsome"
+        },
+        {
+            "affiliation": "Technion - Israel Institute of Technology",
+            "id": "6BrZ2isAAAAJ",
+            "name": "Omri Barak"
+        },
+        {
+            "affiliation": "Associate Professor, Stanford University",
+            "id": "rF2VvOgAAAAJ",
+            "name": "Surya Ganguli"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Stanford University",
+            "id": "unFTH2EAAAAJ",
+            "name": "Matthew Golub"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "-3zYIjQAAAAJ",
+            "name": "Jascha Sohl-Dickstein"
+        },
+        {
+            "affiliation": "Ph.D. student at UC Berkeley",
+            "id": "QOmjMZ0AAAAJ",
+            "name": "Jasmine Collins"
+        },
+        {
+            "affiliation": "Asst. Prof. of Biomedical Engineering, Emory University and Georgia Tech",
+            "id": "M3-z9G4AAAAJ",
+            "name": "Chethan Pandarinath"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "bEOT7ScAAAAJ",
+            "name": "Niru Maheswaranathan"
+        },
+        {
+            "affiliation": "Co-Founder and Chief Scientist of OpenAI",
+            "id": "x04W_mMAAAAJ",
+            "name": "Ilya Sutskever"
+        },
+        {
+            "affiliation": "Research Scientist, Google Brain",
+            "id": "vfT6-XIAAAAJ",
+            "name": "Quoc V. Le"
+        },
+        {
+            "affiliation": "The D. E. Shaw Group",
+            "id": "kjMNMLkAAAAJ",
+            "name": "Navdeep Jaitly"
+        },
+        {
+            "affiliation": "Research Scientist at Google DeepMind",
+            "id": "NkzyCvUAAAAJ",
+            "name": "Oriol Vinyals"
+        },
+        {
+            "affiliation": "Research Scientist, Google Brain",
+            "id": "Vs-MdPcAAAAJ",
+            "name": "Samy Bengio"
+        }
+    ],
+    "email": "@google.com",
+    "hindex": 23,
+    "hindex5y": 21,
+    "i10index": 25,
+    "i10index5y": 25,
+    "id": "ebBgMSkAAAAJ",
+    "interests": [
+        "deep learning",
+        "computational neuroscience",
+        "systems neuroscience"
+    ],
+    "name": "David Sussillo",
+    "publications": [
+        {
+            "bib": {
+                "title": "Context-dependent computation by recurrent dynamics in prefrontal cortex",
+                "cites": "12846888445613473165",
+                "year": "2013",
+                "url": "https://www.nature.com/articles/nature12742",
+                "author": "Valerio Mante and David Sussillo and Krishna V Shenoy and William T Newsome",
+                "journal": "nature",
+                "volume": "503",
+                "number": "7474",
+                "pages": "78",
+                "publisher": "Nature Publishing Group",
+                "abstract": "Prefrontal cortex is thought to have a fundamental role in flexible, context-dependent behaviour, but the exact nature of the computations underlying this role remains largely unknown. In particular, individual prefrontal neurons often generate remarkably complex responses that defy deep understanding of their contribution to behaviour. Here we study prefrontal cortex activity in macaque monkeys trained to flexibly select and integrate noisy sensory inputs towards a choice. We find that the observed complexity and functional roles of single neurons are readily understood in the framework of a dynamical process unfolding at the level of the population. The population dynamics can be reproduced by a trained recurrent neural network, which suggests a previously unknown mechanism for selection and integration of task-relevant inputs. This mechanism indicates that selection and integration are two aspects of a \u2026",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121670/"
+            },
+            "id_citations": "ebBgMSkAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating coherent patterns of activity from chaotic neural networks",
+                "cites": "653",
+                "year": "2009"
+            },
+            "id_citations": "ebBgMSkAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular propagation of epileptiform activity: evidence for an inhibitory veto in neocortex",
+                "cites": "289",
+                "year": "2006"
+            },
+            "id_citations": "ebBgMSkAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks",
+                "cites": "222",
+                "year": "2013"
+            },
+            "id_citations": "ebBgMSkAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural network that finds a naturalistic solution for the production of muscle activity",
+                "cites": "219",
+                "year": "2015"
+            },
+            "id_citations": "ebBgMSkAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedforward inhibition contributes to the control of epileptiform propagation speed",
+                "cites": "203",
+                "year": "2007"
+            },
+            "id_citations": "ebBgMSkAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring single-trial neural population dynamics using sequential auto-encoders",
+                "cites": "138",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A recurrent neural network for closed-loop intracortical brain\u2013machine interface decoders",
+                "cites": "120",
+                "year": "2012"
+            },
+            "id_citations": "ebBgMSkAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From fixed points to chaos: three models of delayed discrimination",
+                "cites": "115",
+                "year": "2013"
+            },
+            "id_citations": "ebBgMSkAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural circuits as computational dynamical systems",
+                "cites": "112",
+                "year": "2014"
+            },
+            "id_citations": "ebBgMSkAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capacity and trainability in recurrent neural networks",
+                "cites": "109",
+                "year": "2016"
+            },
+            "id_citations": "ebBgMSkAAAAJ:8xutWZnSdmoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An online sequence-to-sequence model using partial conditioning",
+                "cites": "94",
+                "year": "2016"
+            },
+            "id_citations": "ebBgMSkAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectrogram analysis of genomes",
+                "cites": "81",
+                "year": "2004"
+            },
+            "id_citations": "ebBgMSkAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making brain\u2013machine interfaces robust to future neural variability",
+                "cites": "74",
+                "year": "2016"
+            },
+            "id_citations": "ebBgMSkAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information systems opportunities in brain\u2013machine interface decoders",
+                "cites": "64",
+                "year": "2014"
+            },
+            "id_citations": "ebBgMSkAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The largest response component in the motor cortex reflects movement timing but not movement type",
+                "cites": "53",
+                "year": "2016"
+            },
+            "id_citations": "ebBgMSkAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-driven convolutional recurrent models of the visual system",
+                "cites": "50",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:lvd772isFD0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-tuning of neural circuits through short-term synaptic plasticity",
+                "cites": "46",
+                "year": "2007"
+            },
+            "id_citations": "ebBgMSkAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RANDOM WALKS: TRAINING VERY DEEP NONLIN-EAR FEED-FORWARD NETWORKS WITH SMART INI",
+                "cites": "44",
+                "year": "2014"
+            },
+            "id_citations": "ebBgMSkAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lfads-latent factor analysis via dynamical systems",
+                "cites": "41",
+                "year": "2016"
+            },
+            "id_citations": "ebBgMSkAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transferring learning from external to internal weights in echo-state networks with sparse connectivity",
+                "cites": "35",
+                "year": "2012"
+            },
+            "id_citations": "ebBgMSkAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Input switched affine networks: An rnn architecture designed for interpretability",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "ebBgMSkAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A dataset and architecture for visual reasoning with a working memory",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:nVrZBo8bIpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hallucinations in neural machine translation",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universality and individuality in neural dynamics across large populations of recurrent networks",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "ebBgMSkAAAAJ:4X0JR2_MtJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:5icHVeHT4IsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent segmentation for variable computational budgets",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "ebBgMSkAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation through cortical dynamics",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "ebBgMSkAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computation Through Neural Population Dynamics",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "ebBgMSkAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harnessing behavioral diversity to understand neural computations for cognition",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "ebBgMSkAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How recurrent networks implement contextual processing in sentiment analysis",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "ebBgMSkAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning in chaotic recurrent neural networks",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "ebBgMSkAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ebBgMSkAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ebBgMSkAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Data Generating Coherent Patterns of Activity from Chaotic Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "ebBgMSkAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ebBgMSkAAAAJ"
+}

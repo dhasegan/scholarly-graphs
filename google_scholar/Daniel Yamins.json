@@ -1,0 +1,808 @@
+{
+    "affiliation": "Assistant Professor of Computer Science and Psychology, Stanford University",
+    "cites_per_year": {
+        "2006": 13,
+        "2007": 27,
+        "2008": 26,
+        "2009": 41,
+        "2010": 36,
+        "2011": 44,
+        "2012": 48,
+        "2013": 59,
+        "2014": 78,
+        "2015": 182,
+        "2016": 351,
+        "2017": 516,
+        "2018": 750,
+        "2019": 967,
+        "2020": 697
+    },
+    "citedby": 3904,
+    "citedby5y": 3477,
+    "coauthors": [],
+    "email": "@stanford.edu",
+    "hindex": 23,
+    "hindex5y": 20,
+    "i10index": 27,
+    "i10index5y": 27,
+    "id": "qwC3vG8AAAAJ",
+    "interests": [
+        "Computational Neuroscience",
+        "AI",
+        "Computational Cognitive Science",
+        "Computer Vision",
+        "Self-supervised learning"
+    ],
+    "name": "Daniel Yamins",
+    "publications": [
+        {
+            "bib": {
+                "title": "Performance-optimized hierarchical models predict neural responses in higher visual cortex",
+                "cites": "9133172044543660546",
+                "year": "2014",
+                "url": "https://www.pnas.org/content/111/23/8619.short",
+                "author": "Daniel LK Yamins and Ha Hong and Charles F Cadieu and Ethan A Solomon and Darren Seibert and James J DiCarlo",
+                "journal": "Proceedings of the National Academy of Sciences",
+                "volume": "111",
+                "number": "23",
+                "pages": "8619-8624",
+                "publisher": "National Academy of Sciences",
+                "abstract": "The ventral visual stream underlies key human visual object recognition abilities. However, neural encoding in the higher areas of the ventral stream remains poorly understood. Here, we describe a modeling approach that yields a quantitatively accurate model of inferior temporal (IT) cortex, the highest ventral cortical area. Using high-throughput computational techniques, we discovered that, within a class of biologically plausible hierarchical neural network models, there is a strong correlation between a model\u2019s categorization performance and its ability to predict individual IT neural unit response data. To pursue this idea, we then identified a high-performing neural network that matches human performance on a range of recognition tasks. Critically, even though we did not constrain this model to match neural data, its top output layer turns out to be highly predictive of IT spiking responses to complex naturalistic \u2026",
+                "eprint": "https://www.pnas.org/content/pnas/111/23/8619.full.pdf"
+            },
+            "id_citations": "qwC3vG8AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures",
+                "cites": "639",
+                "year": "2013"
+            },
+            "id_citations": "qwC3vG8AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using goal-driven deep learning models to understand sensory cortex",
+                "cites": "612",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neural networks rival the representation of primate IT cortex for core visual object recognition",
+                "cites": "401",
+                "year": "2014"
+            },
+            "id_citations": "qwC3vG8AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explicit information for category-orthogonal object properties increases along the ventral stream",
+                "cites": "173",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A task-optimized neural network replicates human auditory behavior, predicts brain responses, and reveals a cortical processing hierarchy",
+                "cites": "116",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Task Assignment in Robot Swarms.",
+                "cites": "116",
+                "year": "2005"
+            },
+            "id_citations": "qwC3vG8AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical modular optimization of convolutional networks achieves representations similar to macaque IT and human ventral stream",
+                "cites": "107",
+                "year": "2013"
+            },
+            "id_citations": "qwC3vG8AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Growing urban roads",
+                "cites": "99",
+                "year": "2003"
+            },
+            "id_citations": "qwC3vG8AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification and functional validation of the novel antimalarial resistance locus PF10_0355 in Plasmodium falciparum",
+                "cites": "89",
+                "year": "2011"
+            },
+            "id_citations": "qwC3vG8AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible neural representation for physics prediction",
+                "cites": "62",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "57",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-driven convolutional recurrent models of the visual system",
+                "cites": "50",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theory of local-to-global algorithms for one-dimensional spatial multi-agent systems",
+                "cites": "47",
+                "year": "2007"
+            },
+            "id_citations": "qwC3vG8AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local aggregation for unsupervised learning of visual embeddings",
+                "cites": "45",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-score: Which artificial neural network for object recognition is most brain-like?",
+                "cites": "43",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engineering Self-Organising Systems: Methodologies and Applications",
+                "cites": "40",
+                "year": "2005"
+            },
+            "id_citations": "qwC3vG8AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated global-to-local programming in 1-D spatial multi-agent systems.",
+                "cites": "38",
+                "year": "2008"
+            },
+            "id_citations": "qwC3vG8AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a theory of\" local to global\" in distributed multi-agent systems (I)",
+                "cites": "37",
+                "year": "2005"
+            },
+            "id_citations": "qwC3vG8AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to play with intrinsically-motivated, self-aware agents",
+                "cites": "35",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "StarFlow: A script-centric data analysis environment",
+                "cites": "33",
+                "year": "2010"
+            },
+            "id_citations": "qwC3vG8AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eight open questions in the computational modeling of higher sensory cortex",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cornet: Modeling the neural mechanisms of core object recognition",
+                "cites": "23",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-like object recognition with high-performing shallow recurrent ANNs",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common object representations for visual production and recognition",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward goal-driven neural network models for the rodent whisker-trigeminal system",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "qwC3vG8AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms underlying visual object recognition",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "qwC3vG8AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of structured behaviors from curiosity-based intrinsic motivation",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation of a chemical autonomous agent",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "qwC3vG8AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning predicts correlation between a functional signature of higher visual areas and sparse firing of neurons",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "qwC3vG8AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common object representations for visual recognition and production.",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "qwC3vG8AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised learning from video with deep neural embeddings",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational similarities between visual and auditory cortex studied with convolutional neural networks, fMRI, and electrophysiology",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "qwC3vG8AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of global properties from local interactions: static properties and one-dimensional patterns",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "qwC3vG8AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the 3-D structure of objects from 2-D views depends on shape, not format",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A performance-optimized model of neural responses across the ventral visual stream",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two Routes to Scalable Credit Assignment without Weight Symmetry",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engineering self-organizing multi-agent systems",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "qwC3vG8AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Grounding of Learned Physical Models",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-supervised Neural Network Models of Higher Visual Cortex Development",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping core similarity among visual objects across image modalities",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "qwC3vG8AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Group control and kernels: the 1-d equigrouping problem",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "qwC3vG8AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A framework for hierarchical agent systems",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "qwC3vG8AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On Mutual Information in Contrastive Learning for Visual Representations",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating visual production and recognition of objects in human visual cortex",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Importance of Views in Unsupervised Representation Learning",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local Label Propagation for Large-Scale Semi-Supervised Learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using brain-score to evaluate and build neural networks for brain-like object recognition",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using multiple optimization tasks to improve deep neural network models of higher ventral cortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the scientist in the crib",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular continual learning in a unified visual environment",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "qwC3vG8AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How drawing shapes object representations",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "qwC3vG8AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Emergence of Face-Selective Units in a Model that Has Never Seen a Face",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "qwC3vG8AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern population approaches for discovering neural representations and for discriminating among algorithms that might produce those representations.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "qwC3vG8AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural Organization Theory: A New Approach to Modeling Complex Systems",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "qwC3vG8AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-resolved correspondences between deep neural network layers and EEG measurements in object processing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Physical Graph Representations from Visual Scenes",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pruning neural networks without any data by iteratively conserving synaptic flow",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning in Social Environments with Curious Neural Agents",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible and Efficient Long-Range Planning Through Curious Exploration",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Optimization-Based Approach to Understanding Sensory Systems",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised Neural Network Models of the Ventral Visual Stream",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "qwC3vG8AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic Neural Physics Predictor",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic curiosity may give rise to animate attention",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Learning and the Brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "qwC3vG8AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aligning Artificial Neural Networks to the Brain yields Shallow Recurrent Architectures",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changing object representations during visual production training",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User Alerts",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional recurrent neural network models of dynamics in higher visual cortex",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pinwheel-like Iso-Orientation Domains in a Convolutional Neural Network Model",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From pixels to moral judgment: Extracting morally relevant information in minds and machines",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The virtual rat: Building a computational model of the rodent whisker trigeminal system",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "qwC3vG8AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual production induces categorical perception",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "qwC3vG8AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Carving up the ventral stream with Deep Synthesis",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "qwC3vG8AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Useful Motif for Flexible Task Learning in an Embodied Two-Dimensional Visual Environment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "qwC3vG8AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic visual feedback is sufficient to improve drawing",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using DNNs To Compare Visual and Auditory Cortex",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "qwC3vG8AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GENOME-WIDE ASSOCIATION STUDIES FOR ANTIMALARIAL RESISTANCE UNCOVERS NOVEL TARGETS IN PLASMODIUM FALCIPARUM",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "qwC3vG8AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SASO 2007",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "qwC3vG8AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ACTIVE WORLD MODEL LEARNING WITH PROGRESS CURIOSITY",
+                "cites": "0"
+            },
+            "id_citations": "qwC3vG8AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TOWARDS MODELING THE DEVELOPMENTAL VARIABIL-ITY OF HUMAN ATTENTION",
+                "cites": "0"
+            },
+            "id_citations": "qwC3vG8AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TOWARDS CURIOSITY-DRIVEN LEARNING OF PHYSI-CAL DYNAMICS",
+                "cites": "0"
+            },
+            "id_citations": "qwC3vG8AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Constructing, Combining, and Constraining a Basis for Group Behaviors in Multi-Agent Systems",
+                "cites": "0"
+            },
+            "id_citations": "qwC3vG8AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational Principles of Cortical Representation and Development",
+                "cites": "0"
+            },
+            "id_citations": "qwC3vG8AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular Task Learning in an Embodied Two-Dimensional Visual Environment",
+                "cites": "0"
+            },
+            "id_citations": "qwC3vG8AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=qwC3vG8AAAAJ"
+}

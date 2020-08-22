@@ -1,0 +1,532 @@
+{
+    "affiliation": "Assistant Professor of Psychology and Data Science, New York University",
+    "cites_per_year": {
+        "2011": 10,
+        "2012": 11,
+        "2013": 14,
+        "2014": 32,
+        "2015": 36,
+        "2016": 217,
+        "2017": 437,
+        "2018": 763,
+        "2019": 1207,
+        "2020": 840
+    },
+    "citedby": 3635,
+    "citedby5y": 3545,
+    "coauthors": [
+        {
+            "affiliation": "MIT",
+            "id": "rRJ9wTJMUB8C",
+            "name": "Joshua B. Tenenbaum"
+        },
+        {
+            "affiliation": "UPMC Professor, Machine Learning Department, CMU",
+            "id": "ITZ1e7MAAAAJ",
+            "name": "Ruslan Salakhutdinov"
+        },
+        {
+            "affiliation": "Assistant Professor, Harvard",
+            "id": "5SF-hRsAAAAJ",
+            "name": "Tomer Ullman"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "ICREA Professor (Barcelona) and FAIR Research Scientist (Paris)",
+            "id": "l-xu2w0AAAAJ",
+            "name": "Marco Baroni"
+        },
+        {
+            "affiliation": "Professor of Psychology, New York University",
+            "id": "4wcx4HMAAAAJ",
+            "name": "Todd Gureckis"
+        },
+        {
+            "affiliation": "Graduate, Massachusetts Institute of Technology",
+            "id": "QouPlrMAAAAJ",
+            "name": "Jason Gross"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "GL63UuMAAAAJ",
+            "name": "Anselm Rothe"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "ht_psVIAAAAJ",
+            "name": "James L. McClelland"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "qOC97ysAAAAJ",
+            "name": "Reuben Feinman"
+        },
+        {
+            "affiliation": "Co-Founder of OpenAI",
+            "id": "XCZpOcAAAAAJ",
+            "name": "Wojciech Zaremba"
+        },
+        {
+            "affiliation": "Research Scientist, DeepMind. Professor of Computer Science, New York University",
+            "id": "GgQ9GEkAAAAJ",
+            "name": "Rob Fergus"
+        },
+        {
+            "affiliation": "Graduate student of Computer Science, MIT",
+            "id": "0IBt8msAAAAJ",
+            "name": "Chia-ying (Jackie) Lee"
+        },
+        {
+            "affiliation": "MIT Computer Science and Artificial Intelligence Laboratory",
+            "id": "pfGI-KcAAAAJ",
+            "name": "James Glass"
+        },
+        {
+            "affiliation": "Johns Hopkins University",
+            "id": "5mJDXjoAAAAJ",
+            "name": "Tal Linzen"
+        },
+        {
+            "affiliation": "Associate Professor of Computer Science, University of Illinois at Chicago",
+            "id": "_JjIgGcAAAAJ",
+            "name": "Brian D Ziebart"
+        },
+        {
+            "affiliation": "Massachusetts Institute of Technology (MIT)",
+            "id": "02FGPmwAAAAJ",
+            "name": "Mathew Monfort"
+        },
+        {
+            "affiliation": "Technical Staff, Johns Hopkins University Applied Physics Laboratory",
+            "id": "JnrTqDkAAAAJ",
+            "name": "Gautam Vallabha"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "qFiTM9EAAAAJ",
+            "name": "Kanishk Gandhi"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "r3SJcvoAAAAJ",
+            "name": "Neil D. Lawrence"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 16,
+    "hindex5y": 14,
+    "i10index": 19,
+    "i10index5y": 18,
+    "id": "vspmOX8AAAAJ",
+    "interests": [
+        "cognitive science",
+        "data science",
+        "artificial intelligence",
+        "machine learning",
+        "cognitive psychology"
+    ],
+    "name": "Brenden Lake",
+    "publications": [
+        {
+            "bib": {
+                "title": "Human-level concept learning through probabilistic program induction",
+                "cites": "1431",
+                "year": "2015"
+            },
+            "id_citations": "vspmOX8AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building machines that learn and think like people",
+                "cites": "1032",
+                "year": "2017"
+            },
+            "id_citations": "vspmOX8AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One shot learning of simple visual concepts",
+                "cites": "375",
+                "year": "2011"
+            },
+            "id_citations": "vspmOX8AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot learning by inverting a compositional causal process",
+                "cites": "161",
+                "year": "2013"
+            },
+            "id_citations": "vspmOX8AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks",
+                "cites": "155",
+                "year": "2018"
+            },
+            "id_citations": "vspmOX8AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering structure by learning sparse graphs",
+                "cites": "96",
+                "year": "2010"
+            },
+            "id_citations": "vspmOX8AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Neural Networks Predict Category Typicality Ratings for Images",
+                "cites": "44",
+                "year": "2015"
+            },
+            "id_citations": "vspmOX8AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rearranging the familiar: Testing compositional generalization in recurrent networks",
+                "cites": "41",
+                "year": "2018"
+            },
+            "id_citations": "vspmOX8AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot learning of generative speech concepts",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "vspmOX8AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human few-shot learning of compositional instructions",
+                "cites": "28",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Omniglot challenge: a 3-year progress report",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositional generalization through meta sequence-to-sequence learning",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Question asking as program generation",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "vspmOX8AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling unsupervised perceptual category learning",
+                "cites": "22",
+                "year": "2009"
+            },
+            "id_citations": "vspmOX8AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards more human-like concept learning in machines: Compositionality, causality, and learning-to-learn",
+                "cites": "21",
+                "year": "2014"
+            },
+            "id_citations": "vspmOX8AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept learning as motor program induction: A large-scale empirical study",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "vspmOX8AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating the strength of unlabeled information during semi-supervised learning",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "vspmOX8AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asking and evaluating natural language questions",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "vspmOX8AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Inductive Biases with Simple Neural Networks",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "vspmOX8AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of organizing structure in conceptual representation",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "vspmOX8AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do people ask good questions?",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "vspmOX8AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Softstar: Heuristic-Guided Probabilistic Inference",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "vspmOX8AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age of acquisition in facial identification: A connectionist approach",
+                "cites": "8",
+                "year": "2005"
+            },
+            "id_citations": "vspmOX8AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of developmental change and linguistic experience in the mutual exclusivity effect",
+                "cites": "7",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ingredients of intelligence: From classic debates to an engineering roadmap",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "vspmOX8AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutual exclusivity as a challenge for deep neural networks",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching large hypothesis spaces by asking questions.",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "vspmOX8AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Compositional Rules via Neural Program Synthesis",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "People infer recursive visual concepts from just a few examples",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Benchmark for Systematic Generalization in Grounded Language Understanding",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive Inverse Optimal Control in Large Decision Processes via Heuristic-based Search",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "vspmOX8AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating new concepts with hybrid neuro-symbolic models",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning word-referent mappings and concepts from raw inputs",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Word meaning in minds and machines",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-supervised learning through the eyes of a child",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Task-General Representations with Generative Neuro-Symbolic Modeling",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning word-referent mappings and concepts from raw inputs",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating Simple Object Representations in Model-Free Deep Reinforcement Learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vspmOX8AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling question asking using neural program generation",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving the robustness of ImageNet classifiers using elements of human visual cognition",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving the robustness of ImageNet classifiers using elements of human visual cognition",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning a smooth kernel regularizer for convolutional neural networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asking goal-oriented questions and learning from answers",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vspmOX8AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding solace in defeat by artificial intelligence",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "vspmOX8AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vspmOX8AAAAJ"
+}

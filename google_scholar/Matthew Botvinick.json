@@ -1,0 +1,1772 @@
+{
+    "affiliation": "Director of Neuroscience Research, Team Lead in AI Research, DeepMind",
+    "cites_per_year": {
+        "2000": 155,
+        "2001": 273,
+        "2002": 357,
+        "2003": 498,
+        "2004": 821,
+        "2005": 922,
+        "2006": 981,
+        "2007": 1310,
+        "2008": 1389,
+        "2009": 1659,
+        "2010": 1694,
+        "2011": 2236,
+        "2012": 2323,
+        "2013": 3051,
+        "2014": 3050,
+        "2015": 3044,
+        "2016": 3252,
+        "2017": 3675,
+        "2018": 4823,
+        "2019": 6645,
+        "2020": 3521
+    },
+    "citedby": 46323,
+    "citedby5y": 25051,
+    "coauthors": [],
+    "email": "@google.com",
+    "hindex": 76,
+    "hindex5y": 70,
+    "i10index": 126,
+    "i10index5y": 120,
+    "id": "eM916YMAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Neuroscience",
+        "Cognitive Psychology",
+        "Cognitive Science"
+    ],
+    "name": "Matthew Botvinick",
+    "publications": [
+        {
+            "bib": {
+                "title": "Conflict monitoring and cognitive control.",
+                "cites": "12641095114992156809",
+                "year": "2001",
+                "url": "https://psycnet.apa.org/record/2001-07628-005",
+                "author": "Matthew M Botvinick and Todd S Braver and Deanna M Barch and Cameron S Carter and Jonathan D Cohen",
+                "journal": "Psychological review",
+                "volume": "108",
+                "number": "3",
+                "pages": "624",
+                "publisher": "American Psychological Association",
+                "abstract": "A neglected question regarding cognitive control is how control processes might detect situations calling for their involvement. The authors propose here that the demand for control may be evaluated in part by monitoring for conflicts in information processing. This hypothesis is supported by data concerning the anterior cingulate cortex, a brain area involved in cognitive control, which also appears to respond to the occurrence of conflict. The present article reports two computational modeling studies, serving to articulate the conflict monitoring hypothesis and examine its implications. The first study tests the sufficiency of the hypothesis to account for brain activation data, applying a measure of conflict to existing models of tasks shown to engage the anterior cingulate. The second study implements a feedback loop connecting conflict monitoring to cognitive control, using this to simulate a number of important \u2026",
+                "eprint": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.5179&rep=rep1&type=pdf"
+            },
+            "id_citations": "eM916YMAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate cortex, error detection, and the online monitoring of performance",
+                "cites": "3717",
+                "year": "1998"
+            },
+            "id_citations": "eM916YMAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rubber hands \u2018feel\u2019touch that eyes see",
+                "cites": "3533",
+                "year": "1998"
+            },
+            "id_citations": "eM916YMAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict monitoring and anterior cingulate cortex: an update",
+                "cites": "3511",
+                "year": "2004"
+            },
+            "id_citations": "eM916YMAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict monitoring versus selection-for-action in anterior cingulate cortex",
+                "cites": "2336",
+                "year": "1999"
+            },
+            "id_citations": "eM916YMAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of error detection: conflict monitoring and the error-related negativity.",
+                "cites": "1800",
+                "year": "2004"
+            },
+            "id_citations": "eM916YMAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine learning classifiers and fMRI: a tutorial overview",
+                "cites": "1443",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The expected value of control: an integrative theory of anterior cingulate cortex function",
+                "cites": "1213",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parsing executive processes: strategic vs. evaluative functions of the anterior cingulate cortex",
+                "cites": "1209",
+                "year": "2000"
+            },
+            "id_citations": "eM916YMAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict monitoring and decision making: reconciling two perspectives on anterior cingulate function",
+                "cites": "1058",
+                "year": "2007"
+            },
+            "id_citations": "eM916YMAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "beta-vae: Learning basic visual concepts with a constrained variational framework",
+                "cites": "1009",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate cortex, conflict monitoring, and levels of processing",
+                "cites": "786",
+                "year": "2001"
+            },
+            "id_citations": "eM916YMAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Viewing facial expressions of pain engages cortical areas involved in the direct experience of pain",
+                "cites": "729",
+                "year": "2005"
+            },
+            "id_citations": "eM916YMAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The contribution of the anterior cingulate cortex to executive processes in cognition",
+                "cites": "685",
+                "year": "1999"
+            },
+            "id_citations": "eM916YMAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision making and the avoidance of cognitive demand.",
+                "cites": "662",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational inductive biases, deep learning, and graph networks",
+                "cites": "647",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning with memory-augmented neural networks",
+                "cites": "639",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate and prefrontal cortex: who's in control?",
+                "cites": "608",
+                "year": "2000"
+            },
+            "id_citations": "eM916YMAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motivation and cognitive control: from behavior to neural mechanism",
+                "cites": "514",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchically organized behavior and its neural foundations: a reinforcement learning perspective",
+                "cites": "480",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical models of behavior and prefrontal function",
+                "cites": "478",
+                "year": "2008"
+            },
+            "id_citations": "eM916YMAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience-inspired artificial intelligence",
+                "cites": "475",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Doing without schema hierarchies: a recurrent connectionist approach to normal and impaired routine sequential action.",
+                "cites": "436",
+                "year": "2004"
+            },
+            "id_citations": "eM916YMAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rats and humans can optimally accumulate evidence for decision-making",
+                "cites": "414",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Us versus them: Social identity shapes neural responses to intergroup competition and harm",
+                "cites": "385",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Letting structure emerge: connectionist and dynamical systems approaches to cognition",
+                "cites": "372",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term memory for serial order: a recurrent neural network model.",
+                "cites": "363",
+                "year": "2006"
+            },
+            "id_citations": "eM916YMAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The conflict adaptation effect: It\u2019s not just priming",
+                "cites": "351",
+                "year": "2005"
+            },
+            "id_citations": "eM916YMAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to reinforcement learn",
+                "cites": "333",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effort discounting in human nucleus accumbens",
+                "cites": "325",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a rational and mechanistic account of mental effort",
+                "cites": "292",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot learning with memory-augmented neural networks",
+                "cites": "285",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A labor/leisure tradeoff in cognitive control.",
+                "cites": "279",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of motivation\u2013cognition interaction: challenges and opportunities",
+                "cites": "272",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dorsal anterior cingulate cortex and the value of control",
+                "cites": "243",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal cortex, cognitive control, and the registration of decision costs",
+                "cites": "241",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the brain represents the body: insights from neurophysiology and psychology",
+                "cites": "235",
+                "year": "2000"
+            },
+            "id_citations": "eM916YMAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus as a predictive map",
+                "cites": "209",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of events arise from temporal community structure",
+                "cites": "209",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The computational and neural basis of cognitive control: charted territory and new frontiers",
+                "cites": "208",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural scene representation and rendering",
+                "cites": "202",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing the neural basis of body ownership",
+                "cites": "182",
+                "year": "2004"
+            },
+            "id_citations": "eM916YMAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effortless attention: A new perspective in the cognitive science of attention and action",
+                "cites": "181",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate engagement in a foraging context reflects choice difficulty, not foraging value",
+                "cites": "175",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-directed decision making as probabilistic inference: a computational framework and potential neural correlates.",
+                "cites": "169",
+                "year": "2012"
+            },
+            "id_citations": "eM916YMAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical reinforcement learning and decision making",
+                "cites": "164",
+                "year": "2012"
+            },
+            "id_citations": "eM916YMAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Darla: Improving zero-shot transfer in reinforcement learning",
+                "cites": "151",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning as inference",
+                "cites": "150",
+                "year": "2012"
+            },
+            "id_citations": "eM916YMAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The successor representation in human reinforcement learning",
+                "cites": "147",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information mapping with pattern classifiers: a comparative study",
+                "cites": "145",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural signature of hierarchical reinforcement learning",
+                "cites": "144",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal cortex as a meta-reinforcement learning system",
+                "cites": "131",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the importance of single directions for generalization",
+                "cites": "125",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complementary learning systems within the hippocampus: a neural network modelling approach to reconciling episodic memory with statistical learning",
+                "cites": "123",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural and behavioral evidence for an intrinsic cost of self-control",
+                "cites": "122",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine theory of mind",
+                "cites": "117",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to learn without gradient descent by gradient descent",
+                "cites": "117",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cingulate cortex: diverging data from humans and monkeys",
+                "cites": "115",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical learning of temporal community structure in the hippocampus",
+                "cites": "111",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive representations can link model-based reinforcement learning to model-free mechanisms",
+                "cites": "109",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multilevel structure in behaviour and in the brain: a model of Fuster's hierarchy",
+                "cites": "102",
+                "year": "2007"
+            },
+            "id_citations": "eM916YMAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based hierarchical reinforcement learning and human action control",
+                "cites": "100",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal behavioral hierarchy",
+                "cites": "94",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain in the ACC?",
+                "cites": "90",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict monitoring in cognition-emotion competition",
+                "cites": "90",
+                "year": "2007"
+            },
+            "id_citations": "eM916YMAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational deep reinforcement learning",
+                "cites": "88",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dorsal hippocampus contributes to model-based planning",
+                "cites": "87",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive psychology for deep neural networks: A shape bias case study",
+                "cites": "86",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipation of cognitive demand during decision-making",
+                "cites": "85",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From numerosity to ordinal rank: a gain-field model of serial order representation in cortical working memory",
+                "cites": "84",
+                "year": "2007"
+            },
+            "id_citations": "eM916YMAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Error-likelihood prediction in the medial frontal cortex: a critical evaluation",
+                "cites": "83",
+                "year": "2007"
+            },
+            "id_citations": "eM916YMAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distraction and action slips in an everyday task: Evidence for a dynamic representation of task context",
+                "cites": "83",
+                "year": "2005"
+            },
+            "id_citations": "eM916YMAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational psychiatry: New perspectives on mental illness",
+                "cites": "78",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resolving conflict: A response to Martin and Cheng (2006)",
+                "cites": "78",
+                "year": "2006"
+            },
+            "id_citations": "eM916YMAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive effort avoidance and detection in people with schizophrenia",
+                "cites": "77",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a universal decoder of linguistic meaning from brain activation",
+                "cites": "76",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning, fast and slow",
+                "cites": "73",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised predictive memory in a goal-directed agent",
+                "cites": "73",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Errors of interpretation and modeling: A reply to Grinband et al.",
+                "cites": "71",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical learning induces two simultaneous, but separable, prediction errors in human basal ganglia",
+                "cites": "70",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design principles of the hippocampal cognitive map",
+                "cites": "67",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating text from functional brain images",
+                "cites": "63",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regularization in short-term memory for serial order.",
+                "cites": "58",
+                "year": "2005"
+            },
+            "id_citations": "eM916YMAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning, efficient coding, and the statistics of natural tasks",
+                "cites": "56",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Irrational time allocation in decision-making",
+                "cites": "54",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinguishing grammatical constructions with fMRI pattern analysis",
+                "cites": "53",
+                "year": "2012"
+            },
+            "id_citations": "eM916YMAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monet: Unsupervised scene decomposition and representation",
+                "cites": "52",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparative evaluation of off-the-shelf distributed semantic representations for modelling behavioural data",
+                "cites": "52",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-object representation learning with iterative variational inference",
+                "cites": "51",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced model-based decision-making in schizophrenia.",
+                "cites": "51",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The intrinsic cost of cognitive control",
+                "cites": "51",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-directed decision making in prefrontal cortex: a computational framework",
+                "cites": "51",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Wikipedia to learn semantic feature representations of concrete concepts in neuroimaging experiments",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict monitoring: Computational and empirical studies",
+                "cites": "49",
+                "year": "2004"
+            },
+            "id_citations": "eM916YMAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Such stuff as habits are made on: A reply to Cooper and Shallice (2006).",
+                "cites": "48",
+                "year": "2006"
+            },
+            "id_citations": "eM916YMAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep reinforcement learning with relational inductive biases",
+                "cites": "46",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dorsal anterior cingulate and ventromedial prefrontal cortex have inverse roles in both foraging and economic choice",
+                "cites": "40",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing task context: Proposals based on a connectionist model of action",
+                "cites": "40",
+                "year": "2002"
+            },
+            "id_citations": "eM916YMAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scan: Learning hierarchical compositional visual concepts",
+                "cites": "39",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mental labour",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating interpretable images with controllable structure",
+                "cites": "37",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An analysis of immediate serial recall performance in a macaque",
+                "cites": "37",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward an integrated account of object and action selection: A computational analysis and empirical findings from reaching-to-grasp and tool-use",
+                "cites": "37",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InfoBot: Structured Exploration in ReinforcementLearning Using Information Bottleneck",
+                "cites": "36",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian action decoder for deep multi-agent reinforcement learning",
+                "cites": "34",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scan: learning abstract hierarchical compositional visual concepts",
+                "cites": "34",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive control as cost-benefit decision making.",
+                "cites": "33",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence integration in model-based tree search",
+                "cites": "32",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of domain-specific knowledge on memory for serial order",
+                "cites": "27",
+                "year": "2005"
+            },
+            "id_citations": "eM916YMAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psychlab: a psychology laboratory for deep reinforcement learning agents",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to share and hide intentions using information regularization",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model of control allocation based on the expected value of control",
+                "cites": "24",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Divide and conquer: hierarchical reinforcement learning and task decomposition in humans",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relational forward models for multi-agent learning",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Been there, done that: Meta-learning with episodic recall",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract structural representations of goal-directed behavior",
+                "cites": "22",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict in Cingulate Cortex Function between Humans and Macaque Monkeys: More Apparent than Real: Commentary on Cole MW, Yeung N, Freiwald WA, Botvinick M (2009): Cingulate \u2026",
+                "cites": "22",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A distributional code for value in dopamine-based reinforcement learning",
+                "cites": "20",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict over cingulate cortex: between-species differences in cingulate may support enhanced cognitive flexibility in humans",
+                "cites": "19",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representation of reward probability: evidence from the illusion of control",
+                "cites": "16",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal reasoning from meta-reinforcement learning",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical and computational support for context-dependent representations of serial order: Reply to Bowers, Damian, and Davis (2009).",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building machines that learn and think for themselves",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning of sequential strategies",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value representations in orbitofrontal cortex drive learning, but not choice",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning semantic features for fMRI data from definitional text",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent systematic generalization in a situated agent",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Widespread temporal coding of cognitive control in the human prefrontal cortex",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "V-MPO: on-policy maximum a posteriori policy optimization for discrete and continuous control",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subgoal-and goal-related reward prediction errors in medial prefrontal cortex",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing physics knowledge using tools from developmental psychology",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Commentary: why I am not a dynamicist",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "eM916YMAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of anticipated cognitive demand on attention and behavioral choice",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical motor control in mammals and machines",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:QYdC8u9Cj1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to reinforcement learn, 2016",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification of functional magnetic resonance imaging data using informative pattern features",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building machines that learn and think for themselves: Commentary on lake et al., behavioral and brain sciences, 2017",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure learning in motor control: A deep reinforcement learning model",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Leveraging preposition ambiguity to assess compositional distributional models of semantics",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motivated action: new light on prefrontal-neuromodulatory circuits",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A systematic approach to extracting semantic information from functional MRI data",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "eM916YMAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stabilizing transformers for reinforcement learning",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environmental drivers of systematicity and generalization in a situated agent",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable neural mechanisms track evidence accumulation for selection of attention versus action",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Episodic control as meta-reinforcement learning",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dorsal hippocampus plays a causal role in model-based planning",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding of generic mental representations from functional MRI data using word embeddings",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncovering a missing link in anterior cingulate research",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "eM916YMAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocognitive models of sense-making",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "eM916YMAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying model-based and model-free patterns in behavior on multi-step tasks",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "eM916YMAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approaches to cognitive modeling: Letting structure emerge: connectionist and dynamical systems approaches to cognition",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical reinforcement learning: an fMRI study of learning in a two-level gambling task",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate, error detection and performance monitoring: An event related fMRI study",
+                "cites": "4",
+                "year": "1998"
+            },
+            "id_citations": "eM916YMAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memo: A deep network for flexible combination of episodic memories",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is coding a relevant metaphor for building AI? A commentary on\" Is coding a relevant metaphor for the brain?\", by Romain Brette",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling routine sequential action with recurrent neural nets",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "eM916YMAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The variational bandwidth bottleneck: Stochastic evaluation on an information budget",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simitar: Simplified searching of statistically significant similarity structure",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of hierarchical reinforcement learning",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "eM916YMAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Doing without schema hierarchies: A connectionist approach to routine sequential action and its pathology",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "eM916YMAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From predictive models to cognitive models: An analysis of rat behavior in the two-armed bandit task",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subgoal-and Goal-Related Prediction Errors in Medial Prefrontal Cortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Postscript: winnowing out some take-home points.",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "eM916YMAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conflict related activity and the anterior cingulate: An event-related fMRI analysis of stimulus versus response-based conflict",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "eM916YMAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised deep learning identifies semantic disentanglement in single inferotemporal neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:yMeIxYmEMEAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid Task-Solving in Novel Environments",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Misdirected vigor: Differentiating the control of value from the value of control",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human dorsal anterior cingulate neurons signal conflict by amplifying task-relevant information",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "eM916YMAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial overview: Artificial intelligence",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learned human-agent decision-making, communication and joint action in a virtual reality environment",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "eM916YMAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Dorsal hippocampus contributes to model-based planning\": Correction.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dorsal hippocampus contributes to model-based planning (vol 20, pg 1269, 2017)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author Correction: Dorsal hippocampus contributes to model-based planning",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" The hippocampus as a predictive map\": Author Correction.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampus as a predictive map (vol 20, pg 1643, 2017)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Temporal Dynamics of Reward-Based Goal-Directed Decision-Making",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "eM916YMAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tutorial: Recent Advances in Deep Learning.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "eM916YMAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structured cognitive representations and complex inference in neural systems",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "eM916YMAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The structure of event representations: behavioral, imaging, and computational investigations",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "eM916YMAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Postscript: The way forward: Comment.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "eM916YMAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowing what to do: A computational account of routine sequential action",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "eM916YMAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The regulation of control: Two computational studies.",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "eM916YMAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anterior cingulate cortex, error detection and performance monitoring: An event related fMRI study",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "eM916YMAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u4f7f\u7528 NLP \u9884\u6d4b\u7535\u5f71\u7c7b\u578b-\u591a\u6807\u7b7e...",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-reinforcement learning of causal strategies",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LEARNING INTUITIVE PHYSICS THROUGH OBJECTS",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COGSCI2018",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning of Sequential Strategies Meta-learning of Sequential Strategies",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material for \u2018Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning\u2019",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Leveraging Preposition Ambiguity to Assess Representation of Semantic Interaction in CDSM",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Candidate Examples for a Computational Approach to Address Practical Problems in Psychiatry",
+                "cites": "0"
+            },
+            "id_citations": "eM916YMAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=eM916YMAAAAJ",
+    "brain_inspired": {
+        "id": "616",
+        "link": "https://braininspired.co/podcast/21/",
+        "name": "Matt Botvinick",
+        "title": "BI 021 Matt Botvinick: Neuroscience and AI at DeepMind",
+        "text": "Matt and I discuss his neuroscience and AI research at DeepMind, including how AI benefits from neuroscience, his work on meta-reinforcement learning to create systems that learn more efficiently, how meta-reinforcement learning might be implemented in a neural circuit involving the prefrontal cortex and the dopamine system, how theory of mind might be implemented in machines to help them understand each other and to help us understand them, and a lot more."
+    }
+}

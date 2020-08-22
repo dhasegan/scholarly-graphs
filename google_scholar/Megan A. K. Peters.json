@@ -1,0 +1,484 @@
+{
+    "affiliation": "UC Irvine, Advanced Telecommunications Research Institute International",
+    "brain_inspired": {
+        "id": "1036",
+        "link": "https://braininspired.co/podcast/73/",
+        "name": "Megan Peters",
+        "text": "Megan and I discuss her work using metacognition as a way to study subjective awareness, or confidence. We talk about how our decisions are related to our confidence, the current state of the science of consciousness, and her newest project using fMRI decoded neurofeedback to induce particular brain states in subjects so we can learn about conscious and unconscious brain processing. ",
+        "title": "BI 073 Megan Peters: Consciousness and Metacognition"
+    },
+    "citedby": 528,
+    "citedby5y": 499,
+    "cites_per_year": {
+        "2012": 6,
+        "2013": 10,
+        "2014": 13,
+        "2015": 22,
+        "2016": 31,
+        "2017": 52,
+        "2018": 147,
+        "2019": 151,
+        "2020": 92
+    },
+    "coauthors": [
+        {
+            "affiliation": "University of Hong Kong / UCLA",
+            "id": "RGBSG7EAAAAJ",
+            "name": "Hakwan Lau"
+        },
+        {
+            "affiliation": "UC Irvine",
+            "id": "o9iR1H0AAAAJ",
+            "name": "Brian Maniscalco"
+        },
+        {
+            "affiliation": "UCLA Professor of Psychology, Neuroscience, BioEngineering",
+            "id": "ws5IamUAAAAJ",
+            "name": "Ladan Shams"
+        },
+        {
+            "affiliation": "University of Florida",
+            "id": "rgIFSZgAAAAJ",
+            "name": "Brian Odegaard"
+        },
+        {
+            "affiliation": "UCLA The Semel Institute for Neuroscience and Human Behavior",
+            "id": "YmmvnoYAAAAJ",
+            "name": "Michele A Basso"
+        },
+        {
+            "affiliation": "Professor Zucker Hofstra school of Medicine",
+            "id": "Q9jd0mgAAAAJ",
+            "name": "ruben I. kuzniecky"
+        },
+        {
+            "affiliation": "Associate Professor, New York University",
+            "id": "OIwt344AAAAJ",
+            "name": "Thomas Thesen"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "W9DOfeEAAAAJ",
+            "name": "Yoshiaki Ko"
+        },
+        {
+            "affiliation": "Professor of Radiology and Neuroscience, UCSD",
+            "id": "eBqrsP0AAAAJ",
+            "name": "Eric Halgren"
+        },
+        {
+            "affiliation": "Department of Psychology, University of Durham",
+            "id": "wOvKtwYAAAAJ",
+            "name": "Robert Kentridge"
+        },
+        {
+            "affiliation": "University of Waterloo, University of Auckland",
+            "id": "Gn3bdJwAAAAJ",
+            "name": "Benjamin Thompson"
+        },
+        {
+            "affiliation": "Associate Professor of Ophthalmology, Harvard Medical School",
+            "id": "oQiqgh4AAAAJ",
+            "name": "Lotfi B. Merabet"
+        },
+        {
+            "affiliation": "Associate Professor, Department of Sociology, UCLA",
+            "id": "9bqE-hsAAAAJ",
+            "name": "Kayuet Liu"
+        },
+        {
+            "affiliation": "Professor of Neuroscience and Psychology at New York University",
+            "id": "2370JKUAAAAJ",
+            "name": "Wei Ji Ma / Whee Ky Ma"
+        },
+        {
+            "affiliation": "Professor of Computer Science, UCLA",
+            "id": "lH1PdF8AAAAJ",
+            "name": "Stefano Soatto"
+        },
+        {
+            "affiliation": "Postdoctoral Researcher at University of Geneva",
+            "id": "QYBZoGwAAAAJ",
+            "name": "Luigi Acerbi"
+        },
+        {
+            "affiliation": "York University, Toronto",
+            "id": "1W8ODjAAAAAJ",
+            "name": "Bernard Marius 't Hart"
+        }
+    ],
+    "email": "@uci.edu",
+    "hindex": 11,
+    "hindex5y": 11,
+    "i10index": 13,
+    "i10index5y": 13,
+    "id": "ErvkcKcAAAAJ",
+    "interests": [
+        "computational modeling",
+        "neuroimaging",
+        "metacognition/uncertainty",
+        "perceptual decision-making",
+        "consciousness"
+    ],
+    "name": "Megan A. K. Peters",
+    "publications": [
+        {
+            "bib": {
+                "abstract": "Zylberberg et al. [Zylberberg, Barttfeld, & Sigman (Frontiers in Integrative Neuroscience, 6; 79, 2012), Frontiers in Integrative Neuroscience 6:79] found that confidence decisions, but not perceptual decisions, are insensitive to evidence against a selected perceptual choice. We present a signal detection theoretic model to formalize this insight, which gave rise to a counter-intuitive empirical prediction: that depending on the observer\u2019s perceptual choice, increasing task performance can be associated with decreasing metacognitive sensitivity (i.e., the trial-by-trial correspondence between confidence and accuracy). The model also provides an explanation as to why metacognitive sensitivity tends to be less than optimal in actual subjects. These predictions were confirmed robustly in a psychophysics experiment. In a second experiment we found that, in at least some subjects, the effects were replicated even \u2026",
+                "author": "Brian Maniscalco and Megan AK Peters and Hakwan Lau",
+                "cites": "1597359804529529069",
+                "eprint": "https://link.springer.com/article/10.3758/s13414-016-1059-x",
+                "journal": "Attention, Perception, & Psychophysics",
+                "number": "3",
+                "pages": "923-937",
+                "publisher": "Springer US",
+                "title": "Heuristic use of perceptual evidence leads to dissociation between performance and metacognitive sensitivity",
+                "url": "https://link.springer.com/article/10.3758/s13414-016-1059-x",
+                "volume": "78",
+                "year": "2016"
+            },
+            "id_citations": "ErvkcKcAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "abstract": "Many believe that humans can \u2018perceive unconsciously\u2019 \u2013 that for weak stimuli, briefly presented and masked, above-chance discrimination is possible without awareness. Interestingly, an online survey reveals that most experts in the field recognize the lack of convincing evidence for this phenomenon, and yet they persist in this belief. Using a recently developed bias-free experimental procedure for measuring subjective introspection (confidence), we found no evidence for unconscious perception; participants\u2019 behavior matched that of a Bayesian ideal observer, even though the stimuli were visually masked. This surprising finding suggests that the thresholds for subjective awareness and objective discrimination are effectively the same: if objective task performance is above chance, there is likely conscious experience. These findings shed new light on decades-old methodological issues regarding what it takes to consider a neurobiological or behavioral effect to be 'unconscious,' and provide a platform for rigorously investigating unconscious perception in future studies.",
+                "author": "Megan AK Peters and Hakwan Lau",
+                "cites": "6894605126814452495",
+                "eprint": "https://elifesciences.org/articles/09651",
+                "journal": "Elife",
+                "pages": "e09651",
+                "publisher": "eLife Sciences Publications Limited",
+                "title": "Human observers have optimal introspective access to perceptual processes even for visually masked stimuli",
+                "url": "https://elifesciences.org/articles/09651",
+                "volume": "4",
+                "year": "2015"
+            },
+            "id_citations": "ErvkcKcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "abstract": "When we lift two differently-sized but equally-weighted objects, we expect the larger to be heavier, but the smaller feels heavier. However, traditional Bayesian approaches with \u201clarger is heavier\u201d priors predict the smaller object should feel lighter; this Size-Weight Illusion (SWI) has thus been labeled \u201canti-Bayesian\u201d and has stymied psychologists for generations. We propose that previous Bayesian approaches neglect the brain\u2019s inference process about density. In our Bayesian model, objects\u2019 perceived heaviness relationship is based on both their size and inferred density relationship: observers evaluate competing, categorical hypotheses about objects\u2019 relative densities, the inference about which is then used to produce the final estimate of weight. The model can qualitatively and quantitatively reproduce the SWI and explain other researchers\u2019 findings, and also makes a novel prediction, which we confirmed. This same computational mechanism accounts for other multisensory phenomena and illusions; that the SWI follows the same process suggests that competitive-prior Bayesian inference can explain human perception across many domains.",
+                "author": "Megan AK Peters and Wei Ji Ma and Ladan Shams",
+                "cites": "11928487951635339737",
+                "eprint": "https://peerj.com/articles/2124/",
+                "journal": "PeerJ",
+                "pages": "e2124",
+                "publisher": "PeerJ Inc.",
+                "title": "The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account",
+                "url": "https://peerj.com/articles/2124/",
+                "volume": "4",
+                "year": "2016"
+            },
+            "id_citations": "ErvkcKcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "48",
+                "title": "Anodal tDCS to V1 blocks visual perceptual learning consolidation",
+                "year": "2013"
+            },
+            "id_citations": "ErvkcKcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "46",
+                "title": "Perceptual confidence neglects decision-incongruent evidence in the brain",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "46",
+                "title": "0+ 1> 1: How adding noninformative sound improves performance on a visual task",
+                "year": "2012"
+            },
+            "id_citations": "ErvkcKcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "31",
+                "title": "The Size-Weight Illusion is not anti-Bayesian after all: a unifying Bayesian account",
+                "year": "2016"
+            },
+            "id_citations": "ErvkcKcAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "29",
+                "title": "Does unconscious perception really exist? Continuing the ASSC20 debate",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "28",
+                "title": "Superior colliculus neuronal ensemble activity signals optimal rather than subjective confidence",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "23",
+                "title": "Who\u2019s afraid of response bias?",
+                "year": "2016"
+            },
+            "id_citations": "ErvkcKcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "22",
+                "title": "Opportunities and challenges for a maturing science of consciousness",
+                "year": "2019"
+            },
+            "id_citations": "ErvkcKcAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "15",
+                "title": "Smaller= denser, and the brain knows it: Natural statistics of object density shape weight expectations",
+                "year": "2015"
+            },
+            "id_citations": "ErvkcKcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "11",
+                "title": "Transcranial magnetic stimulation to visual cortex induces suboptimal introspection",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "10",
+                "title": "Contributions of anterior cingulate cortex and basolateral amygdala to decision confidence and learning under uncertainty",
+                "year": "2019"
+            },
+            "id_citations": "ErvkcKcAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "9",
+                "title": "On a \u2018failed\u2019attempt to manipulate visual metacognition with transcranial magnetic stimulation to prefrontal cortex",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "9",
+                "title": "Volumetric reconstruction applied to perceptual studies of size and weight",
+                "year": "2014"
+            },
+            "id_citations": "ErvkcKcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "8",
+                "title": "An informal internet survey on the current state of consciousness science",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "5",
+                "title": "Continuous flash suppression and monocular pattern masking impact subjective awareness similarly",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "3",
+                "title": "Anodal transcranial direct current stimulation to the left rostrolateral prefrontal cortex selectively improves source memory retrieval",
+                "year": "2019"
+            },
+            "id_citations": "ErvkcKcAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "3",
+                "title": "The material-weight illusion is a Bayes-optimal percept under competing density priors",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "2",
+                "title": "Six-fold over-representation of graduates from prestigious universities does not necessitate unmeritocratic selection in the faculty hiring process",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "2",
+                "title": "Subjective inflation of color saturation in the periphery under temporal overload",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "1",
+                "title": "The foundations of introspective access: how the relative precision of target encoding influences metacognitive performance",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "1",
+                "title": "Hierarchical Bayesian Causal Inference and Natural Statistics Explain Heaviness Perception",
+                "year": "2014"
+            },
+            "id_citations": "ErvkcKcAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Efficiently adding up our sensory evidence",
+                "year": "2020"
+            },
+            "id_citations": "ErvkcKcAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Divergence in cortical representations of threat generalization in affective versus perceptual circuitry in childhood: Relations with anxiety",
+                "year": "2020"
+            },
+            "id_citations": "ErvkcKcAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Tuned normalization in perceptual decision-making circuits can explain seemingly suboptimal confidence behavior",
+                "year": "2019"
+            },
+            "id_citations": "ErvkcKcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Correction to: Continuous flash suppression and monocular pattern masking impact subjective awareness similarly.",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Visual psychophysics on the web: open-access tools, experiments, and results using online platforms",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Normal observers show no evidence for blindsight in facial emotion perception",
+                "year": "2018"
+            },
+            "id_citations": "ErvkcKcAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Human intracranial electrophysiology suggests suboptimal calculations underlie perceptual confidence!",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Investigating Perceptual Confidence in the Superior Colliculus with Multi-Unit Neuronal Recordings",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "A signal detection theoretic demonstration of hiring rate asymmetries in competitive academic job markets",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "On a'failed'attempt to manipulate conscious perception with transcranial magnetic stimulation to prefrontal cortex",
+                "year": "2017"
+            },
+            "id_citations": "ErvkcKcAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "A signal detection theoretic argument against claims of unmeritocratic faculty hiring",
+                "year": "2016"
+            },
+            "id_citations": "ErvkcKcAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Bayesian ideal observer predicts weak forms of blindsight in normal observers",
+                "year": "2015"
+            },
+            "id_citations": "ErvkcKcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "cites": "0",
+                "title": "Optimality under fire: Dissociating learning from Bayesian integration"
+            },
+            "id_citations": "ErvkcKcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ErvkcKcAAAAJ"
+}

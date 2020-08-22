@@ -1,0 +1,1252 @@
+{
+    "affiliation": "Associate Professor, Stanford University",
+    "cites_per_year": {
+        "2003": 20,
+        "2004": 31,
+        "2005": 15,
+        "2006": 20,
+        "2007": 10,
+        "2008": 19,
+        "2009": 40,
+        "2010": 58,
+        "2011": 48,
+        "2012": 67,
+        "2013": 85,
+        "2014": 148,
+        "2015": 257,
+        "2016": 558,
+        "2017": 804,
+        "2018": 1323,
+        "2019": 1888,
+        "2020": 1412
+    },
+    "citedby": 6876,
+    "citedby5y": 6277,
+    "coauthors": [
+        {
+            "affiliation": "Google Brain",
+            "id": "-3zYIjQAAAAJ",
+            "name": "Jascha Sohl-Dickstein"
+        },
+        {
+            "affiliation": "Research Scientist at Google Brain",
+            "id": "i5FMLA4AAAAJ",
+            "name": "Ben Poole"
+        },
+        {
+            "affiliation": "Google Brain",
+            "id": "bEOT7ScAAAAJ",
+            "name": "Niru Maheswaranathan"
+        },
+        {
+            "affiliation": "Sir Henry Dale Fellow, Department of Experimental Psychology, University of Oxford",
+            "id": "h0Al1fcAAAAJ",
+            "name": "Andrew Saxe"
+        },
+        {
+            "affiliation": "Postdoctoral Researcher, Department of Applied Physics, Stanford University",
+            "id": "2nEwLGcAAAAJ",
+            "name": "Subhaneil Lahiri"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "ht_psVIAAAAJ",
+            "name": "James L. McClelland"
+        },
+        {
+            "affiliation": "Professor of computer science, University of Montreal, Mila, IVADO, CIFAR",
+            "id": "kukA0LcAAAAJ",
+            "name": "Yoshua Bengio"
+        },
+        {
+            "affiliation": "Google AI",
+            "id": "XSforroAAAAJ",
+            "name": "Yann N. Dauphin"
+        },
+        {
+            "affiliation": "Professor of Physics, Racah Institute of Physics, Edmond and Lily Safra Center for Brain Sciences",
+            "id": "T8o_MdkAAAAJ",
+            "name": "Haim Sompolinsky"
+        },
+        {
+            "affiliation": "Research Scientist at Google DeepMind",
+            "id": "eSPY8LwAAAAJ",
+            "name": "Razvan Pascanu"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "0RAmmIAAAAAJ",
+            "name": "Kyunghyun Cho"
+        },
+        {
+            "affiliation": "Research Scientist at Deepmind and PhD from MILA",
+            "id": "7hwJ2ckAAAAJ",
+            "name": "Caglar Gulcehre"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "77MU6_sAAAAJ",
+            "name": "Jonathan Kadmon"
+        },
+        {
+            "affiliation": "Postdoctoral Scientist (Neuroscience), Harvard University",
+            "id": "9qxVHhAAAAAJ",
+            "name": "Kiah Hardcastle"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "7_GzzXMAAAAJ",
+            "name": "Alex H Williams"
+        },
+        {
+            "affiliation": "Stanford",
+            "id": "S-WI588AAAAJ",
+            "name": "Sam Ocko"
+        },
+        {
+            "affiliation": "Senior Research Scientist @ Google Brain, Adjunct Professor @ Stanford",
+            "id": "ebBgMSkAAAAJ",
+            "name": "David Sussillo"
+        },
+        {
+            "affiliation": "Institute of Neuroinformatics, ETH Zurich and University of Zurich",
+            "id": "bWggcY0AAAAJ",
+            "name": "Richard Hahnloser"
+        },
+        {
+            "affiliation": "PhD Candidate, Stanford University",
+            "id": "mdEhXhEAAAAJ",
+            "name": "Saurabh Vyas"
+        },
+        {
+            "affiliation": "HHMI Investigator, Stanford University",
+            "id": "RrfsCHkAAAAJ",
+            "name": "Mark J. Schnitzer"
+        }
+    ],
+    "email": "@stanford.edu",
+    "hindex": 40,
+    "hindex5y": 37,
+    "i10index": 64,
+    "i10index5y": 59,
+    "id": "rF2VvOgAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Physics",
+        "Machine Learning"
+    ],
+    "name": "Surya Ganguli",
+    "publications": [
+        {
+            "bib": {
+                "title": "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization",
+                "cites": "951",
+                "year": "2014"
+            },
+            "id_citations": "rF2VvOgAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+                "cites": "901",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual learning through synaptic intelligence",
+                "cites": "421",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep knowledge tracing",
+                "cites": "359",
+                "year": "2015"
+            },
+            "id_citations": "rF2VvOgAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the expressive power of deep neural networks",
+                "cites": "320",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory traces in dynamical systems",
+                "cites": "272",
+                "year": "2008"
+            },
+            "id_citations": "rF2VvOgAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exponential expressivity in deep neural networks through transient chaos",
+                "cites": "264",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compressed sensing, sparsity, and dimensionality in neuronal information processing and data analysis",
+                "cites": "185",
+                "year": "2012"
+            },
+            "id_citations": "rF2VvOgAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holographic protection of chronology in universes of the G\u00f6del type",
+                "cites": "158",
+                "year": "2003"
+            },
+            "id_citations": "rF2VvOgAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On simplicity and complexity in the brave new world of large-scale neuroscience",
+                "cites": "153",
+                "year": "2015"
+            },
+            "id_citations": "rF2VvOgAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep information propagation",
+                "cites": "148",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Environmental boundaries as an error correction mechanism for grid cells",
+                "cites": "144",
+                "year": "2015"
+            },
+            "id_citations": "rF2VvOgAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning models of the retinal response to natural scenes",
+                "cites": "134",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-dimensional dynamics of attention and decision making in LIP",
+                "cites": "121",
+                "year": "2008"
+            },
+            "id_citations": "rF2VvOgAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
+                "cites": "118",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Superspike: Supervised learning in multilayer spiking neural networks",
+                "cites": "109",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep unsupervised learning using nonequilibrium thermodynamics",
+                "cites": "98",
+                "year": "2015"
+            },
+            "id_citations": "rF2VvOgAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
+                "cites": "93",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast large-scale optimization by unifying stochastic gradient and quasi-Newton methods",
+                "cites": "90",
+                "year": "2014"
+            },
+            "id_citations": "rF2VvOgAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the saddle point problem for non-convex optimization",
+                "cites": "80",
+                "year": "2014"
+            },
+            "id_citations": "rF2VvOgAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Function constrains network architecture and dynamics: A case study on the yeast cell cycle Boolean network",
+                "cites": "80",
+                "year": "2007"
+            },
+            "id_citations": "rF2VvOgAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of compressed sensing",
+                "cites": "75",
+                "year": "2010"
+            },
+            "id_citations": "rF2VvOgAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial information outflow from the hippocampal circuit: distributed spatial coding and phase precession in the subiculum",
+                "cites": "67",
+                "year": "2012"
+            },
+            "id_citations": "rF2VvOgAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of spectral universality in deep networks",
+                "cites": "65",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep learning framework for neuroscience",
+                "cites": "64",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical layer\u2013specific critical dynamics triggering perception",
+                "cites": "63",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor component analysis",
+                "cites": "62",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+                "cites": "62",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social control of hypothalamus-mediated male aggression",
+                "cites": "61",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing noise in autoencoders and deep networks",
+                "cites": "61",
+                "year": "2014"
+            },
+            "id_citations": "rF2VvOgAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning hierarchical categories in deep neural networks",
+                "cites": "55",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-driven convolutional recurrent models of the visual system",
+                "cites": "54",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direction selectivity in Drosophila emerges from preferred-direction enhancement and null-direction suppression",
+                "cites": "53",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles governing the integration of landmark and self-motion cues in entorhinal cortical codes for navigation",
+                "cites": "50",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accurate estimation of neural population dynamics without spike sorting",
+                "cites": "49",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of complex neural systems and high dimensional data",
+                "cites": "49",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Hebbian learning rule gives rise to mirror neurons and links them to control theoretic inverse models",
+                "cites": "48",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A memory frontier for complex synapses",
+                "cites": "44",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theory of multineuronal dimensionality, dynamics and measurement",
+                "cites": "43",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Short-term memory in neuronal networks through dynamical compressed sensing",
+                "cites": "42",
+                "year": "2010"
+            },
+            "id_citations": "rF2VvOgAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of optimal convex inference in high dimensions",
+                "cites": "36",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shared cortex-cerebellum dynamics in the execution and learning of a motor task",
+                "cites": "35",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring hidden structure in multilayered neural circuits",
+                "cites": "33",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal optical vortices",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for a causal inverse model in an avian cortico-basal ganglia circuit",
+                "cites": "33",
+                "year": "2014"
+            },
+            "id_citations": "rF2VvOgAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mathematical theory of semantic development in deep neural networks",
+                "cites": "30",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent elasticity in the neural code for space",
+                "cites": "24",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell types for our sense of location: where we are and where we are going",
+                "cites": "23",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "E10 orbifolds",
+                "cites": "22",
+                "year": "2005"
+            },
+            "id_citations": "rF2VvOgAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unified theory of early visual representations from retina to cortex through anatomically constrained deep CNNs",
+                "cites": "21",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A universal tradeoff between power, precision and speed in physical communication",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An international laboratory for systems and computational neuroscience",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the role of firing-rate normalization and dimensionality reduction in brain-machine interface robustness",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedforward to the past: The relation between neuronal connectivity, amplification, and short-term memory",
+                "cites": "16",
+                "year": "2009"
+            },
+            "id_citations": "rF2VvOgAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of deep learning",
+                "cites": "15",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational walkback: Learning a transition operator as a stochastic recurrent net",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vocal learning with inverse models",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering precise temporal patterns in large-scale neural recordings through robust and interpretable time warping",
+                "cites": "11",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep learning models reveal internal structure and diverse computations in the retina under natural scenes",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An adaptive low dimensional quasi-newton sum of functions optimizer",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universality and individuality in neural dynamics across large populations of recurrent networks",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of cellular-activity dynamics across large tissue volumes in the mammalian brain",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of learning in deep linear neural networks",
+                "cites": "10",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An equivalence between high dimensional Bayes optimal inference and M-estimation",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fundamental bounds on the fidelity of sensory cortical coding",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A saturation hypothesis to explain both enhanced and impaired learning with enhanced plasticity",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Survey of expressivity in deep neural networks",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Random projections of random manifolds",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unified theory for the origin of grid cells through the lens of pattern formation",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of multiple retinal cell types through efficient coding of natural movies",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of high-dimensional inference",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Twisted six dimensional gauge theories on tori, matrix models, and integrable systems",
+                "cites": "6",
+                "year": "2004"
+            },
+            "id_citations": "rF2VvOgAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of low-rank tensor decomposition",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-warped PCA: simultaneous alignment and dimensionality reduction of neural data",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of the site of synaptic competition and the balance of learning forces for Hebbian encoding of probabilistic Markov sequences",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "rF2VvOgAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two Routes to Scalable Credit Assignment without Weight Symmetry",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pyret: A Python package for analysis of neurophysiology data",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust non-rigid alignment of volumetric calcium imaging data",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "rF2VvOgAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison three methods of clustering: K-means, spectral clustering and hierarchical clustering",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning dynamics of deep networks admit low-rank tensor descriptions",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological foundations of neural signals",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "rF2VvOgAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boundary Scattering in 1+ 1 Dimensions as an Aharanov-Bohm Effect",
+                "cites": "2",
+                "year": "2005"
+            },
+            "id_citations": "rF2VvOgAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantum mechanics on phase space: geometry and motion of the Wigner distribution",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "rF2VvOgAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coherent Ising machines--Quantum optics and neural network perspectives",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of low-rank tensor decomposition",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergent properties of the local geometry of neural loss landscapes",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast convolutive nonnegative matrix factorization through coordinate and block coordinate updates",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Line attractor dynamics in recurrent networks for sentiment classi\ufb01cation",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intelligent synapses for multi-task and transfer learning",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Mechanics of High Dimensional Inference Supplementary Material",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive coding in balanced neural networks with noise, chaos and delays",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pruning neural networks without any data by iteratively conserving synaptic flow",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Energy-Accuracy Tradeoff for Nonequilibrium Receptors",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A universal energy accuracy tradeoff in nonequilibrium cellular sensing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GluD2-and Cbln1-mediated Competitive Synaptogenesis Shapes the Dendritic Arbors of Cerebellar Purkinje Cells",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal coupling between neural activity, metabolism, and behavior across the Drosophila brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thalamic activity patterns unfolding over multiple time scales predict seizure onset in absence epilepsy",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "rF2VvOgAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revealing computational mechanisms of retinal prediction via model reduction",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universality and Individuality in recurrent networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "rF2VvOgAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional recurrent neural network models of dynamics in higher visual cortex",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "rF2VvOgAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A energy-accuracy tradeoff in the physics of cellular sensing",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the learning dynamics of deep neural networks using random matrix theory",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "rF2VvOgAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A theory of neural dimensionality, dynamics, and measurement.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical Physics of High Dimensional Inference",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "rF2VvOgAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designability as a Selection Force? An Analysis of the Yeast Cell Cycle Dynamics.",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "rF2VvOgAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "E {sub 10} orbifolds",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "rF2VvOgAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boundary Scattering in 1+ 1 Dimensions as an Aharonov-Bohm Effect",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "rF2VvOgAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INTELLIGENT SYNAPSES FOR MULTI-TASK AND TRANSFER LEARNING",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Information: A mathematical theory of semantic development in deep neural networks",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A universal tradeoff between energy, speed and precision in neural communication",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accurate estimation of neural population dynamics without spike sorting",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Expressive Power of Deep Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The intertwined quest for understanding biological intelligence and creating artificial intelligence",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary material: Statistical mechanics of low-rank tensor decomposition",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical mechanics of deep learning",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material: Continual Learning Through Synaptic Intelligence",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary material for Exponential expressivity in deep neural networks through transient chaos",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A universal tradeoff between power, precision and speed in physical communication: supplementary material",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A memory frontier for complex synapses: Supplementary material",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An equivalence between high dimensional Bayes optimal inference and M-estimation Supplementary Material",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closing the loop; Inverse-\u2010model learning with a nonlinear avian syrinx and sparse auditory coding.",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material: Attacking the saddle point problem in high-dimensional non-convex optimization",
+                "cites": "0"
+            },
+            "id_citations": "rF2VvOgAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=rF2VvOgAAAAJ"
+}

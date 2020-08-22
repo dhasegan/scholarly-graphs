@@ -1,0 +1,545 @@
+{
+    "affiliation": "University of Michigan",
+    "cites_per_year": {
+        "2007": 5,
+        "2008": 6,
+        "2009": 11,
+        "2010": 17,
+        "2011": 38,
+        "2012": 38,
+        "2013": 68,
+        "2014": 60,
+        "2015": 60,
+        "2016": 73,
+        "2017": 125,
+        "2018": 96,
+        "2019": 194,
+        "2020": 126
+    },
+    "citedby": 942,
+    "citedby5y": 684,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Linguistics and Psychology, New York University",
+            "id": "yGIs62YAAAAJ",
+            "name": "Liina Pylkkanen"
+        },
+        {
+            "affiliation": "Linguistics Department, University of Georgia",
+            "id": "sqUEF0MAAAAJ",
+            "name": "John Hale"
+        },
+        {
+            "affiliation": "Xerox PARC, and UCLA",
+            "id": "PcCdKpkAAAAJ",
+            "name": "Edward Stabler"
+        },
+        {
+            "affiliation": "Henry Ford Hospital",
+            "id": "Ca52F2YAAAAJ",
+            "name": "Susan M Bowyer"
+        },
+        {
+            "affiliation": "Professor of Psychology, Eastern Michigan University",
+            "id": "N18cg6MAAAAJ",
+            "name": "Renee Lajiness-O'Neill"
+        },
+        {
+            "affiliation": "Associate Professor, Tel Aviv University",
+            "id": "Pqpx1YQAAAAJ",
+            "name": "Yuval Nir"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neural Science, New York University",
+            "id": "6ggnUzYAAAAJ",
+            "name": "David J Heeger"
+        },
+        {
+            "affiliation": "Assistant Professor of Linguistics in Computer Science, Brandeis University",
+            "id": "hDOLookAAAAJ",
+            "name": "Constantine Lignos"
+        },
+        {
+            "affiliation": "Professor of Radiology, University of Pennsylvania",
+            "id": "csjLUeoAAAAJ",
+            "name": "Timothy Roberts"
+        }
+    ],
+    "email": "@umich.edu",
+    "hindex": 13,
+    "hindex5y": 12,
+    "i10index": 17,
+    "i10index5y": 16,
+    "id": "gB1OrTAAAAAJ",
+    "interests": [
+        "Neurolinguistics",
+        "Semantics",
+        "Syntax"
+    ],
+    "name": "Jonathan Brennan",
+    "publications": [
+        {
+            "bib": {
+                "title": "Syntactic structure building in the anterior temporal lobe during natural story listening",
+                "cites": "7364467183236593707",
+                "year": "2012",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0093934X10000830",
+                "author": "Jonathan Brennan and Yuval Nir and Uri Hasson and Rafael Malach and David J Heeger and Liina Pylkk\u00e4nen",
+                "journal": "Brain and language",
+                "volume": "120",
+                "number": "2",
+                "pages": "163-173",
+                "publisher": "Academic Press",
+                "abstract": "The neural basis of syntax is a matter of substantial debate. In particular, the inferior frontal gyrus (IFG), or Broca\u2019s area, has been prominently linked to syntactic processing, but the anterior temporal lobe has been reported to be activated instead of IFG when manipulating the presence of syntactic structure. These findings are difficult to reconcile because they rely on different laboratory tasks which tap into distinct computations, and may only indirectly relate to natural sentence processing. Here we assessed neural correlates of syntactic structure building in natural language comprehension, free from artificial task demands. Subjects passively listened to Alice in Wonderland during functional magnetic resonance imaging and we correlated brain activity with a word-by-word measure of the amount syntactic structure analyzed. Syntactic structure building correlated with activity in the left anterior temporal lobe, but \u2026",
+                "eprint": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2947556/"
+            },
+            "id_citations": "gB1OrTAAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing events: Behavioral and neuromagnetic correlates of aspectual coercion",
+                "cites": "152",
+                "year": "2008"
+            },
+            "id_citations": "gB1OrTAAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The time-course and spatial distribution of brain activity associated with sentence processing",
+                "cites": "96",
+                "year": "2012"
+            },
+            "id_citations": "gB1OrTAAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract linguistic structure correlates with temporal activity during naturalistic comprehension",
+                "cites": "75",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEG evidence for incremental sentence composition in the anterior temporal lobe",
+                "cites": "70",
+                "year": "2017"
+            },
+            "id_citations": "gB1OrTAAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processing psych verbs: Behavioural and MEG measures of two different types of semantic complexity",
+                "cites": "54",
+                "year": "2010"
+            },
+            "id_citations": "gB1OrTAAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grounding the cognitive neuroscience of semantics in linguistic theory",
+                "cites": "47",
+                "year": "2011"
+            },
+            "id_citations": "gB1OrTAAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding syntax in human encephalography with beam search",
+                "cites": "42",
+                "year": "2018"
+            },
+            "id_citations": "gB1OrTAAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Naturalistic sentence comprehension in the brain",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying the effects of 16p11. 2 copy number variants on brain structure: a multisite genetic-first study",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "gB1OrTAAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectro-temporal correlates of lexical access during auditory lexical decision",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "gB1OrTAAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pronouns, inflection, and Irish prepositions",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "gB1OrTAAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Irish prepositions: Agreement and impoverishment",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "gB1OrTAAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical structure guides rapid linguistic predictions during naturalistic listening",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localising memory retrieval and syntactic composition: an fMRI study of naturalistic language comprehension",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling fMRI time courses with linguistic structure at various grain sizes",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "gB1OrTAAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal imaging of temporal processing in typical and atypical language development",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "gB1OrTAAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Verb movement and the philosopher\u2019s stone: Some comparative data from Faroese, Danish, and Swedish",
+                "cites": "7",
+                "year": "2003"
+            },
+            "id_citations": "gB1OrTAAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns of altered neural synchrony in the default mode network in autism spectrum disorder revealed with magnetoencephalography (MEG): Relationship to clinical symptomatology",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "gB1OrTAAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indefinites, choice functions, and discourse anaphora",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "gB1OrTAAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Composition: The neurobiology of syntactic and semantic structure building",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lexicalized structural priming in second language online sentence comprehension",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "gB1OrTAAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEG reveals atypical sensitivity to linguistic sound sequences in Autism Spectrum Disorder",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying parsing complexity as a function of grammar",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "gB1OrTAAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase synchronization varies systematically with linguistic structure composition",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "gB1OrTAAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating parsing strategies in sentence processing",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "gB1OrTAAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incrementally Dissociating Syntax and Semantics",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "gB1OrTAAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Only finally",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "gB1OrTAAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differentiating phrase structure parsing and memory retrieval in the brain",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "gB1OrTAAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic composition and inchoative coercion: An MEG study",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "gB1OrTAAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localizing syntactic predictions using recurrent neural network grammars",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "gB1OrTAAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How do Listeners Form Grammatical Expectations to African American Language?",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "gB1OrTAAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive sentence comprehension during story-listening in autism spectrum disorder",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal lobes as combinatory engines for both form and meaning",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Delta-gamma phase-locking indexes composition of predicates",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grammatical Relations in the Listening Brain",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Alice Datasets: fMRI & EEG Observations of Natural Language Comprehension",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "gB1OrTAAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Little Prince in 26 Languages: Towards a Multilingual Neuro-Cognitive Corpus",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "gB1OrTAAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resolving dependencies during naturalistic listening",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Text Genre and Training Data Size in Human-Like Parsing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "gB1OrTAAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping Meanings",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "gB1OrTAAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A-63 Relationship Between Neural Coherence in Gamma Frequency Band and Phonological Processing in Autism Spectrum Disorder",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The costs of zero-derived causativity in English",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "gB1OrTAAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurolinguistic Processing of Psychological Verbs",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "gB1OrTAAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Neural Correlates of Syntactic Structure Building",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "gB1OrTAAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Irish verbal paradigms and the pronominal structure of inflection",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "gB1OrTAAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Racial Identity Matters: EEG correlates reflect syntactic expectation based on both speaker identity and language variety in American Englishes",
+                "cites": "0"
+            },
+            "id_citations": "gB1OrTAAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing temporal boundaries of composition in low-frequency neural oscillations",
+                "cites": "0"
+            },
+            "id_citations": "gB1OrTAAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oscillatory Dynamics to Time-stretched Speech during Lexical Decision",
+                "cites": "0"
+            },
+            "id_citations": "gB1OrTAAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the relationship between syntactic structure-building and semantic composition using MEG",
+                "cites": "0"
+            },
+            "id_citations": "gB1OrTAAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=gB1OrTAAAAAJ",
+    "brain_inspired": {
+        "id": "910",
+        "link": "https://braininspired.co/podcast/53/",
+        "name": "Jon Brennan",
+        "title": "BI 053 Jon Brennan: Linguistics in Minds and Machines",
+        "text": "Jon and I discuss understanding the syntax and semantics of language in our brains. He uses linguistic knowledge at the level of sentence and words, neurocomputational models, and neural data like EEG and fMRI to figure out how we process and understand language while listening to the natural language found in everyday conversations and stories. I also get his take on the current state of natural language processing and other AI advances, and how linguistics, neurolinguistics, and AI can contribute to each other. "
+    }
+}

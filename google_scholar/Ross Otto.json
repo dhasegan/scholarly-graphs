@@ -1,0 +1,584 @@
+{
+    "affiliation": "McGill University",
+    "cites_per_year": {
+        "2010": 9,
+        "2011": 10,
+        "2012": 25,
+        "2013": 67,
+        "2014": 123,
+        "2015": 170,
+        "2016": 227,
+        "2017": 264,
+        "2018": 290,
+        "2019": 357,
+        "2020": 223
+    },
+    "citedby": 1801,
+    "citedby5y": 1543,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Neurocience and Psychology, Princeton University",
+            "id": "BxlScrEAAAAJ",
+            "name": "Nathaniel D. Daw"
+        },
+        {
+            "affiliation": "Professor of Psychology, University of Texas",
+            "id": "X3ai91IAAAAJ",
+            "name": "Arthur B. Markman"
+        },
+        {
+            "affiliation": "Professor of Experimental Psychology, University College London",
+            "id": "H8dnlegAAAAJ",
+            "name": "Bradley C. Love"
+        },
+        {
+            "affiliation": "Pershing Square Professor of Human Neuroscience, Harvard University",
+            "id": "UsW4ViYAAAAJ",
+            "name": "Elizabeth Phelps"
+        },
+        {
+            "affiliation": "Associate Professor of Cognition and Cognitive Neuroscience, Texas A&M University",
+            "id": "AenNvXoAAAAJ",
+            "name": "Darrell A. Worthy"
+        },
+        {
+            "affiliation": "Wayne Holtzman Chair and Professor of Psychology, University of Texas",
+            "id": "vHD-xu0AAAAJ",
+            "name": "W. Todd Maddox"
+        },
+        {
+            "affiliation": "Associate Professor, Harvard University",
+            "id": "0HuMHFwAAAAJ",
+            "name": "Samuel Gershman"
+        },
+        {
+            "affiliation": "Bosch co-lead for UT Austin R&D site, focusing on machine learning for autonomous vehicle behavior",
+            "id": "0a58TKgAAAAJ",
+            "name": "W Bradley Knox"
+        },
+        {
+            "affiliation": "Department of Psychology, New York University",
+            "id": "cKw6-3EAAAAJ",
+            "name": "Candace M. Raio"
+        },
+        {
+            "affiliation": "Professor of Psychology, New York University",
+            "id": "4wcx4HMAAAAJ",
+            "name": "Todd Gureckis"
+        },
+        {
+            "affiliation": "Research Fellow, University of Bristol",
+            "id": "yu4BndkAAAAJ",
+            "name": "Anya Skatova"
+        },
+        {
+            "affiliation": "The Ohio State University",
+            "id": "xUfDNZoAAAAJ",
+            "name": "Nathaniel J. Blanco"
+        },
+        {
+            "affiliation": "Professor of Computer Science, The University of Texas at Austin",
+            "id": "qnwjcfAAAAAJ",
+            "name": "Peter Stone"
+        },
+        {
+            "affiliation": "University of Sydney",
+            "id": "B6gmSVkAAAAJ",
+            "name": "Micah B. Goldwater"
+        },
+        {
+            "affiliation": "School of Psychology & Global Brain Health Institute, Trinity College Dublin",
+            "id": "JfDpk1YAAAAJ",
+            "name": "Claire M. Gillan"
+        },
+        {
+            "affiliation": "Texas A&M University",
+            "id": "Kq8G2bIAAAAJ",
+            "name": "Hilary J Don"
+        },
+        {
+            "affiliation": "Yale University (last academic position)",
+            "id": "-KOBmW8AAAAJ",
+            "name": "Eric Taylor"
+        },
+        {
+            "affiliation": "Assistant Professor of Psychology, New York University",
+            "id": "_ixNTXgAAAAJ",
+            "name": "Catherine Hartley"
+        },
+        {
+            "affiliation": "MD/PhD Student, Weill Cornell Medical College",
+            "id": "0YKdQkUAAAAJ",
+            "name": "Johannes Hugo Decker"
+        },
+        {
+            "affiliation": "University of Sydney",
+            "id": "cgvxTusAAAAJ",
+            "name": "Evan Livesey"
+        }
+    ],
+    "email": "@psych.mcgill.ca",
+    "hindex": 20,
+    "hindex5y": 19,
+    "i10index": 28,
+    "i10index5y": 26,
+    "id": "JBtPJugAAAAJ",
+    "interests": [
+        "decision-making",
+        "cognitive effort",
+        "reinforcement learning",
+        "cognitive neuroscience"
+    ],
+    "name": "Ross Otto",
+    "publications": [
+        {
+            "bib": {
+                "title": "Working-memory capacity protects model-based learning from stress",
+                "cites": "302",
+                "year": "2013"
+            },
+            "id_citations": "JBtPJugAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The curse of planning: dissecting multiple reinforcement-learning systems by taxing the central executive",
+                "cites": "246",
+                "year": "2013"
+            },
+            "id_citations": "JBtPJugAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retrospective revaluation in sequential decision making: A tale of two systems.",
+                "cites": "157",
+                "year": "2014"
+            },
+            "id_citations": "JBtPJugAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based learning protects against forming habits",
+                "cites": "138",
+                "year": "2015"
+            },
+            "id_citations": "JBtPJugAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Control Predicts Use of Model-based Reinforcement Learning",
+                "cites": "128",
+                "year": "2015"
+            },
+            "id_citations": "JBtPJugAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From creatures of habit to goal-directed learners: Tracking the developmental emergence of model-based reinforcement learning",
+                "cites": "111",
+                "year": "2016"
+            },
+            "id_citations": "JBtPJugAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heterogeneity of strategy use in the Iowa gambling task: A comparison of win-stay/lose-shift and reinforcement learning models",
+                "cites": "91",
+                "year": "2013"
+            },
+            "id_citations": "JBtPJugAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The nature of belief-directed exploratory choice in human decision-making",
+                "cites": "65",
+                "year": "2012"
+            },
+            "id_citations": "JBtPJugAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "There are at least two kinds of probability matching: Evidence from a secondary task",
+                "cites": "52",
+                "year": "2011"
+            },
+            "id_citations": "JBtPJugAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of depression symptoms on exploratory decision-making",
+                "cites": "49",
+                "year": "2013"
+            },
+            "id_citations": "JBtPJugAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regulatory fit and systematic exploration in a dynamic decision-making environment.",
+                "cites": "49",
+                "year": "2010"
+            },
+            "id_citations": "JBtPJugAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Working-memory load and temporal myopia in dynamic decision making.",
+                "cites": "48",
+                "year": "2012"
+            },
+            "id_citations": "JBtPJugAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "You don't want to know what you're missing: When information about forgone rewards impedes dynamic decision making",
+                "cites": "33",
+                "year": "2010"
+            },
+            "id_citations": "JBtPJugAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rule abstraction, model-based choice, and cognitive reflection",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "JBtPJugAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploratory Decision-Making as a Function of Lifelong Experience, Not Cognitive Decline.",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "JBtPJugAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unexpected but Incidental Positive Outcomes Predict Real-World Gambling",
+                "cites": "24",
+                "year": "2016"
+            },
+            "id_citations": "JBtPJugAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The opportunity cost of time modulates cognitive effort",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "JBtPJugAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking more, now: The optimality of impulsive choice hinges on environment structure",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "JBtPJugAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Navigating through abstract decision spaces: Evaluating the role of state generalization in a dynamic decision-making task",
+                "cites": "23",
+                "year": "2009"
+            },
+            "id_citations": "JBtPJugAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Offline replay supports planning in human reinforcement learning",
+                "cites": "21",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive capacity limitations and Need for Cognition differentially predict reward-induced cognitive effort expenditure.",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological and behavioral signatures of reflective exploratory choice",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "JBtPJugAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning moral values: Another\u2019s desire to punish enhances one\u2019s own punitive behavior.",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:lvd772isFD0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three attempts to replicate the behavioral sunk\u2010cost effect: A note on Cunha and Caldieraro (2009)",
+                "cites": "16",
+                "year": "2010"
+            },
+            "id_citations": "JBtPJugAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stress promotes generalization of older but not recent threat memories",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "JBtPJugAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive systems optimize energy rather than information",
+                "cites": "13",
+                "year": "2011"
+            },
+            "id_citations": "JBtPJugAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Older adults are highly responsive to recent events during decision-making.",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "JBtPJugAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-based learning and individual differences in depression: The moderating role of stress",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:gVv57TyPmFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self\u2010Control Moderates Decision\u2010Making Behavior When Minimizing Losses versus Maximizing Gains",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "JBtPJugAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-world unexpected outcomes predict city-level mood states and risk-taking behavior",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulating episodic memory alters risk preference during decision-making",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Substance use is associated with reduced devaluation sensitivity",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "JBtPJugAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced model-based decision-making in gambling disorder",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "JBtPJugAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smile! Social reward drives attention.",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "JBtPJugAAAAJ:8xutWZnSdmoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connecting rule-abstraction and model-based choice across disparate learning tasks.",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "JBtPJugAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive psychology of human-bat interactions: Implications for ecological policy and zoonotic disease transmission",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "JBtPJugAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal Dynamics of Real-World Emotion Are More Strongly Linked to Prediction Error Than Outcome",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "JBtPJugAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acute Stress Effects on Model-Based versus Model-Free Reinforcement Learning",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "JBtPJugAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When things get worse before they get better: Regulatory fit and average-reward learning in a dynamic decision-making environment",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "JBtPJugAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing relationships between reinforcement learning and simple behavioral strategies to understand probabilistic reward learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "JBtPJugAAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "trait impulsivity and acute stress interact to influence choice and decision speed during multi-stage decision-making",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "JBtPJugAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emotional cue effects on accessing and elaborating upon autobiographical memories",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "JBtPJugAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "It\u2019s all relative: reward-induced cognitive control modulation depends on context",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "JBtPJugAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning reward frequency over reward probability: A tale of two learning rules",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "JBtPJugAAAAJ:sJsF-0ZLhtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Control Mode Predicts Behavioral Expression of Model-Based Reinforcement-Learning",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "JBtPJugAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning for uncertainty",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "JBtPJugAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational, Neuroscientific, and Lifespan Perspectives on the Exploration-Exploitation Dilemma",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "JBtPJugAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "More than One Kind of Probability Matching: Evidence from a Dual-Task Paradigm",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "JBtPJugAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lifespan Developmental Differences in the Effects of Opportunity Costs on Cognitive Effort",
+                "cites": "0"
+            },
+            "id_citations": "JBtPJugAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Article in press: Journal of Experimental Psychology: General",
+                "cites": "0"
+            },
+            "id_citations": "JBtPJugAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=JBtPJugAAAAJ"
+}

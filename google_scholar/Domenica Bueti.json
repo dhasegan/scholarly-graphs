@@ -1,0 +1,593 @@
+{
+    "affiliation": "Scuola Internazionale Superiore di Studi Avanzati (SISSA)",
+    "cites_per_year": {
+        "2006": 28,
+        "2007": 39,
+        "2008": 63,
+        "2009": 85,
+        "2010": 127,
+        "2011": 173,
+        "2012": 194,
+        "2013": 266,
+        "2014": 276,
+        "2015": 202,
+        "2016": 246,
+        "2017": 218,
+        "2018": 220,
+        "2019": 216,
+        "2020": 137
+    },
+    "citedby": 2521,
+    "citedby5y": 1239,
+    "coauthors": [
+        {
+            "affiliation": "Institute of Cognitive Neuroscience, UCL",
+            "id": "bzMZDNsAAAAJ",
+            "name": "Vincent Walsh"
+        },
+        {
+            "affiliation": "Araya",
+            "id": "zaAL6YEAAAAJ",
+            "name": "Ryota Kanai"
+        },
+        {
+            "affiliation": "Institute of Cognitive Neuroscience, University College London",
+            "id": "IlCBJF4AAAAJ",
+            "name": "Geraint Rees"
+        },
+        {
+            "affiliation": "University College London; UCLIC; Universita La Sapienza",
+            "id": "8Kh8wRgAAAAJ",
+            "name": "Nicola Binetti"
+        },
+        {
+            "affiliation": "Institute of Cognitive Neuroscience, National Central University, Taiwan",
+            "id": "w4ohgfIAAAAJ",
+            "name": "Neil G. Muggleton"
+        }
+    ],
+    "email": "@sissa.it",
+    "hindex": 20,
+    "hindex5y": 17,
+    "i10index": 23,
+    "i10index5y": 20,
+    "id": "z6YBf8kAAAAJ",
+    "interests": [
+        "Time perception",
+        "processing and temporal cognition"
+    ],
+    "name": "Domenica Bueti",
+    "publications": [
+        {
+            "bib": {
+                "title": "Transcranial magnetic stimulation highlights the sensorimotor side of empathy for pain",
+                "cites": "730",
+                "year": "2005"
+            },
+            "id_citations": "z6YBf8kAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The parietal cortex and the representation of time, space, number and other magnitudes",
+                "cites": "607",
+                "year": "2009"
+            },
+            "id_citations": "z6YBf8kAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory and association cortex in time perception",
+                "cites": "191",
+                "year": "2008"
+            },
+            "id_citations": "z6YBf8kAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Different brain circuits underlie motor and perceptual representations of temporal intervals",
+                "cites": "160",
+                "year": "2008"
+            },
+            "id_citations": "z6YBf8kAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modality-independent role of the primary auditory cortex in time estimation",
+                "cites": "96",
+                "year": "2011"
+            },
+            "id_citations": "z6YBf8kAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding of temporal probabilities in the human brain",
+                "cites": "89",
+                "year": "2010"
+            },
+            "id_citations": "z6YBf8kAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sensory representation of time",
+                "cites": "70",
+                "year": "2011"
+            },
+            "id_citations": "z6YBf8kAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "No inherent left and right side in human \u2018mental number line\u2019: evidence from right brain damage",
+                "cites": "63",
+                "year": "2012"
+            },
+            "id_citations": "z6YBf8kAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning about time: plastic changes and interindividual brain differences",
+                "cites": "60",
+                "year": "2012"
+            },
+            "id_citations": "z6YBf8kAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of superior temporal cortex in auditory timing",
+                "cites": "51",
+                "year": "2008"
+            },
+            "id_citations": "z6YBf8kAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contribution of frontal cortex to the spatial representation of number",
+                "cites": "49",
+                "year": "2011"
+            },
+            "id_citations": "z6YBf8kAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auditory temporal expectations modulate activity in visual cortex",
+                "cites": "45",
+                "year": "2010"
+            },
+            "id_citations": "z6YBf8kAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological correlates of subjective time: evidence for the temporal accumulator hypothesis",
+                "cites": "39",
+                "year": "2011"
+            },
+            "id_citations": "z6YBf8kAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the visual brain encodes and keeps track of time",
+                "cites": "29",
+                "year": "2013"
+            },
+            "id_citations": "z6YBf8kAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The social-sensory interface: category interactions in person perception",
+                "cites": "29",
+                "year": "2012"
+            },
+            "id_citations": "z6YBf8kAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory for time distinguishes between perception and action",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "z6YBf8kAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contributions of pitch and bandwidth to sound-induced enhancement of visual cortex excitability in humans",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "z6YBf8kAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal perceptual learning",
+                "cites": "25",
+                "year": "2014"
+            },
+            "id_citations": "z6YBf8kAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of visuo-tactile extinction within and between hemispaces.",
+                "cites": "23",
+                "year": "2007"
+            },
+            "id_citations": "z6YBf8kAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive motion processing in bilateral vestibular failure",
+                "cites": "22",
+                "year": "2011"
+            },
+            "id_citations": "z6YBf8kAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uni-and cross-modal temporal modulation of tactile extinction in right brain damaged patients",
+                "cites": "18",
+                "year": "2004"
+            },
+            "id_citations": "z6YBf8kAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronotopic maps in human supplementary motor area",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "No reversal of the Oppel\u2013Kundt illusion with short stimuli: confutation of the space anisometry interpretation of neglect and \u2018cross-over\u2019in line bisection",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "z6YBf8kAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations of time in human frontoparietal cortex",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time in motion: Effects of whole-body rotatory accelerations on timekeeping processes",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "z6YBf8kAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EEG correlates of preparatory orienting, contextual updating, and inhibition of sensory processing in left spatial neglect",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive tuning of perceptual timing to whole body motion",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "z6YBf8kAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Body odors (even when masked) make you more emotional: behavioral and neural insights",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive mechanisms in visual motion processing and a possible link to evolution",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "z6YBf8kAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontal lobe shapes number space",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "z6YBf8kAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social odors (even when masked) make you more emotional: behavioral and neural insights",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatial representation of time in visual cortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronotopic maps in human medial premotor cortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective disturbance of movement vision after bilateral damage",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "z6YBf8kAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neurobiology of time processing",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "z6YBf8kAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time Processing: Multiple Topographic Representations of Time across Human Cortex",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "z6YBf8kAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brainstem Correlates of a Cold Pressor Test Measured by Ultra-High Field fMRI",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "z6YBf8kAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic Connectivity in a Duration Selective Cortico-Cerebellar Network",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "z6YBf8kAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Space and Time in the Visual Brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How does the perception of time change after a mild stressful event?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Encoding of Time in Visual Cortices",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How Do\" Duration Selective\" Brain Regions Communicate?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Retinotopic Representation of Time in Visual Cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping Time in the Human Brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensorimotor Synchronization and Temporal Order Judgements Reveal Saccadic Temporal Recalibration",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local and Global Contextual Effects on Duration Reproduction",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population Receptive Field Mapping Reveals Topographical Organisation of Durations",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI RESPONSES TO ADAPTATION OF VISUAL MAGNITUDES",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "z6YBf8kAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronotopic maps in human premotor cortex",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saccadic temporal recalibration alters action and perception",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the language specificity of basic number processing: transcoding in a language with inversion and its relation to working memory capacity",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "z6YBf8kAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "[OP. 7A. 04] EFFECT OF A COLD PRESSURE TEST ON BLOOD PRESSURE AND BRAINSTEM BOLD MRI SIGNAL INTENSITY CHANGES IN HEALTHY VOLUNTEERS",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "z6YBf8kAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatial representation of time in visual cortex",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "z6YBf8kAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Issue on Subjective Duration Guest Editor: Val\u00e9rie Doy\u00e8re",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "z6YBf8kAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Note: de X, van X, van den X, von X, and similar are all indexed under X",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "z6YBf8kAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where numerical cognition interacts with spatial attention",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "z6YBf8kAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of parietal repetitive transcranial magnetic stimulation (rTMS) on processing unimodal and bimodal visuo-tactile stimuli",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "z6YBf8kAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aspetti spazio-temporali dell'estinzione unimodale e crossmodale visuo-tattile in pazienti cerebrolesi destri",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "z6YBf8kAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The parietal cortex and the representation of time, space",
+                "cites": "0"
+            },
+            "id_citations": "z6YBf8kAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=z6YBf8kAAAAJ"
+}

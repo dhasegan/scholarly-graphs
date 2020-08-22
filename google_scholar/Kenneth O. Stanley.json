@@ -1,0 +1,2522 @@
+{
+    "affiliation": "Research Manager, OpenAI",
+    "cites_per_year": {
+        "2003": 56,
+        "2004": 105,
+        "2005": 172,
+        "2006": 301,
+        "2007": 323,
+        "2008": 485,
+        "2009": 561,
+        "2010": 701,
+        "2011": 816,
+        "2012": 928,
+        "2013": 1024,
+        "2014": 1134,
+        "2015": 1222,
+        "2016": 1292,
+        "2017": 1187,
+        "2018": 1681,
+        "2019": 1975,
+        "2020": 1300
+    },
+    "citedby": 15465,
+    "citedby5y": 8692,
+    "coauthors": [
+        {
+            "affiliation": "Uber AI Labs",
+            "id": "GcvxHWQAAAAJ",
+            "name": "Joel Lehman"
+        },
+        {
+            "affiliation": "Professor of Computer Science, the University of Texas at Austin",
+            "id": "2SmbjHAAAAAJ",
+            "name": "Risto Miikkulainen"
+        },
+        {
+            "affiliation": "Research Manager, OpenAI",
+            "id": "5TZ7f5wAAAAJ",
+            "name": "Jeff Clune"
+        },
+        {
+            "affiliation": "Google",
+            "id": "FJO1bnsAAAAJ",
+            "name": "David B. D'Ambrosio"
+        },
+        {
+            "affiliation": "Associate Professor, IT University of Copenhagen",
+            "id": "Tf8winBIYUsC",
+            "name": "Sebastian Risi"
+        },
+        {
+            "affiliation": "Engineering Manager, Facebook",
+            "id": "1R-Us28AAAAJ",
+            "name": "Jason Gauci"
+        },
+        {
+            "affiliation": "University of Nevada, Reno",
+            "id": "-8cC1oEAAAAJ",
+            "name": "Bobby D. Bryant"
+        },
+        {
+            "affiliation": "Graduate Research Assistant, University of Central Florida",
+            "id": "0R7RnkoAAAAJ",
+            "name": "Paul Szerlip"
+        },
+        {
+            "affiliation": "University of Central Florida",
+            "id": "iASeql0AAAAJ",
+            "name": "Justin K. Pugh"
+        },
+        {
+            "affiliation": "Postdoctoral Researcher, New York University",
+            "id": "iUkpvMUAAAAJ",
+            "name": "Lisa Soros"
+        },
+        {
+            "affiliation": "University of Central Florida",
+            "id": "u_GkP-EAAAAJ",
+            "name": "Erin Hastings"
+        },
+        {
+            "affiliation": "Associate Professor of Computer Science and Engineering, New York University",
+            "id": "lr4I9BwAAAAJ",
+            "name": "Julian Togelius"
+        },
+        {
+            "affiliation": "Assistant Professor of Informatics at New Jersey Institute of Technology",
+            "id": "Y1vIbmkAAAAJ",
+            "name": "Amy K. Hoover"
+        },
+        {
+            "affiliation": "Professor, Director, Inst. of Digital Games, University of Malta | Technical Uni. of Crete | modl.ai",
+            "id": "nj4bkJkAAAAJ",
+            "name": "Georgios N. Yannakakis"
+        },
+        {
+            "affiliation": "Graduate Student, The University of Texas at Austin",
+            "id": "Mi_J0hkAAAAJ",
+            "name": "Igor V. Karpov"
+        },
+        {
+            "affiliation": "Michigan State University",
+            "id": "nYLuKDAAAAAJ",
+            "name": "Charles Ofria"
+        },
+        {
+            "affiliation": "Google",
+            "id": "lP2F__QAAAAJ",
+            "name": "Phillip Verbancsics"
+        },
+        {
+            "affiliation": "The University of Texas at Austin",
+            "id": "cTPU9HcAAAAJ",
+            "name": "Joseph Reisinger"
+        },
+        {
+            "affiliation": "Computer Science Department, Loughborough University",
+            "id": "mlt7uksAAAAJ",
+            "name": "Andrea Soltoggio"
+        },
+        {
+            "affiliation": "Professor of Computer Science, University of Central Florida",
+            "id": "pbb9CG4AAAAJ",
+            "name": "Charles E Hughes"
+        }
+    ],
+    "email": "@openai.com",
+    "hindex": 57,
+    "hindex5y": 45,
+    "i10index": 124,
+    "i10index5y": 110,
+    "id": "6Q6oO1MAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Neuroevolution",
+        "Neural Networks",
+        "Evolutionary Computation",
+        "Artificial Life"
+    ],
+    "name": "Kenneth O. Stanley",
+    "publications": [
+        {
+            "bib": {
+                "title": "Evolving neural networks through augmenting topologies",
+                "cites": "2911",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hypercube-based encoding for evolving large-scale neural networks",
+                "cites": "669",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abandoning objectives: Evolution through the search for novelty alone",
+                "cites": "634",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search-based procedural content generation: A taxonomy and survey",
+                "cites": "629",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositional pattern producing networks: A novel abstraction of development",
+                "cites": "547",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A taxonomy for artificial embryogeny",
+                "cites": "536",
+                "year": "2003"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Competitive coevolution through evolutionary complexification",
+                "cites": "496",
+                "year": "2004"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient reinforcement learning through evolving neural network topologies",
+                "cites": "455",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting open-endedness to solve problems through the search for novelty.",
+                "cites": "448",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time neuroevolution in the NERO video game",
+                "cites": "448",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning",
+                "cites": "318",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient reinforcement learning through evolving neural network topologies",
+                "cites": "318",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient reinforcement learning through evolving neural network topologies",
+                "cites": "318",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient evolution of neural networks through complexification",
+                "cites": "240",
+                "year": "2004"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving a diversity of virtual creatures through novelty search and local competition",
+                "cites": "229",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Picbreeder: evolving pictures collaboratively online",
+                "cites": "207",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving neural network agents in the NERO video game",
+                "cites": "190",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic Content Generation in the Galactic Arms Race Video Game",
+                "cites": "183",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Picbreeder: A case study in collaborative evolutionary exploration of design space",
+                "cites": "180",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning concept drift with a committee of decision trees",
+                "cites": "180",
+                "year": "2003"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search-based procedural content generation",
+                "cites": "169",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving content in the galactic arms race video game",
+                "cites": "169",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autonomous evolution of topographic regularities in artificial neural networks",
+                "cites": "159",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quality diversity: A new frontier for evolutionary computation",
+                "cites": "151",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating large-scale neural networks through discovering geometric regularities",
+                "cites": "143",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving exploration in evolution strategies for deep reinforcement learning via a population of novelty-seeking agents",
+                "cites": "142",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the performance of indirect encoding across the continuum of regularity",
+                "cites": "134",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving adaptive neural networks with and without adaptive synapses",
+                "cites": "134",
+                "year": "2003"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic feature selection in neuroevolution",
+                "cites": "122",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing neural networks through neuroevolution",
+                "cites": "116",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revising the evolutionary computation abstraction: minimal criteria novelty search",
+                "cites": "111",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The surprising creativity of digital evolution: A collection of anecdotes from the evolutionary computation and artificial life research communities",
+                "cites": "110",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving a roving eye for go",
+                "cites": "104",
+                "year": "2004"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Procedural content generation: Goals, challenges and actionable steps",
+                "cites": "102",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficiently evolving programs through the search for novelty",
+                "cites": "102",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Go-explore: a new approach for hard-exploration problems",
+                "cites": "101",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative encoding for multiagent learning",
+                "cites": "92",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novelty search and the problem with objectives",
+                "cites": "86",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How novelty search escapes the deceptive trap of learning to learn",
+                "cites": "86",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Constraining connectivity to encourage modularity in HyperNEAT",
+                "cites": "82",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Case Study on the Critical Role of Geometric Regularity in Machine Learning.",
+                "cites": "82",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Open-ended evolution: Perspectives from the OEE workshop in York",
+                "cites": "81",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why greatness cannot be planned: The myth of the objective",
+                "cites": "79",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel generative encoding for exploiting neural network sensor and output geometry",
+                "cites": "79",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving plastic neural networks with novelty search",
+                "cites": "76",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indirectly encoding neural plasticity as a pattern of local rules",
+                "cites": "75",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving static representations for task transfer",
+                "cites": "75",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining search-based procedural content generation and social gaming in the petalz video game.",
+                "cites": "71",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving policy geometry for scalable multiagent learning",
+                "cites": "70",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simple evolutionary optimization can rival stochastic gradient descent in neural networks",
+                "cites": "69",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving reusable neural modules",
+                "cites": "69",
+                "year": "2004"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational intelligence in games",
+                "cites": "67",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting Regularity Without Development.",
+                "cites": "65",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effective diversity maintenance in deceptive domains",
+                "cites": "64",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time evolution of neural networks in the NERO video game",
+                "cites": "63",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the deleterious effects of a priori objectives on evolution and representation",
+                "cites": "59",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroevolution of an automobile crash warning system",
+                "cites": "59",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An enhanced hypercube-based encoding for evolving the placement, density, and connectivity of neurons",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online interactive neuro-evolution",
+                "cites": "57",
+                "year": "2000"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Born to learn: the inspiration, progress, and future of evolved plastic artificial neural networks",
+                "cites": "56",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving a real-world vehicle warning system",
+                "cites": "56",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying necessary conditions for open-ended evolution through the artificial life world of chromaria",
+                "cites": "53",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolvability is inevitable: Increasing evolvability without the pressure to adapt",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confronting the challenge of quality diversity",
+                "cites": "51",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unified approach to evolving plasticity and neural geometry",
+                "cites": "49",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dominance tournament method of monitoring progress in coevolution",
+                "cites": "49",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ES is more than just a traditional finite-difference approximator",
+                "cites": "48",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differentiable plasticity: training plastic neural networks with backpropagation",
+                "cites": "48",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving evolvability through novelty search and self-adaptation",
+                "cites": "47",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual coevolution through complexification",
+                "cites": "46",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Paired open-ended trailblazer (poet): Endlessly generating increasingly complex and diverse learning environments and their solutions",
+                "cites": "45",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Safe mutations for deep and recurrent neural networks through output gradients",
+                "cites": "44",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards an empirical measure of evolvability",
+                "cites": "44",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving the placement and density of neurons in the hyperneat substrate",
+                "cites": "41",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting functional relationships in musical composition",
+                "cites": "38",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving a single scalable controller for an octopus arm with a variable number of segments",
+                "cites": "37",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-unit pattern generators for quadruped locomotion",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neat particles: Design, representation, and animation of particle system effects",
+                "cites": "36",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial and computational intelligence in games (dagstuhl seminar 12191)",
+                "cites": "35",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving neural networks",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond open-endedness: Quantifying impressiveness",
+                "cites": "34",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancing es-hyperneat to evolve more complex regular neural networks",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactively evolving harmonies through functional scaffolding",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pareto-based evolutionary computational approach for wireless sensor placement",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Petalz: Search-based procedural content generation for the casual gamer",
+                "cites": "33",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive evolution of particle systems for computer graphics and animation",
+                "cites": "33",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel human-computer collaboration: combining novelty search with interactive evolution",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating a Complete Multipart Musical Composition from a Single Monophonic Melody with Functional Scaffolding.",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indirect encoding of neural networks for scalable go",
+                "cites": "32",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coevolution of neural networks using a layered pareto archive",
+                "cites": "31",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving multimodal controllers with HyperNEAT",
+                "cites": "30",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From modulated Hebbian plasticity to simple behavior learning through noise and weight saturation",
+                "cites": "30",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaffolding for interactively evolving novel drum tracks for existing songs",
+                "cites": "29",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introductory tutorial on coevolution",
+                "cites": "29",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconciling explanations for the evolution of evolvability",
+                "cites": "27",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable multiagent learning through indirect encoding of policy geometry",
+                "cites": "27",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the relationship between the openai evolution strategy and stochastic gradient descent",
+                "cites": "25",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confronting the challenge of learning a flexible neural controller for a diversity of morphologies",
+                "cites": "24",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time Learning in the NERO Video Game.",
+                "cites": "24",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encouraging reactivity to create robust machines",
+                "cites": "22",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to dance through interactive evolution",
+                "cites": "22",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "HyperNEAT: The first five years",
+                "cites": "20",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimal criterion coevolution: a new approach to open-ended search",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retaining Learned Behavior During Real-Time Neuroevolution.",
+                "cites": "19",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised feature learning through divergent discriminative feature accumulation",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration and evaluation of exploration-based learning in games",
+                "cites": "18",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring promising stepping stones by combining novelty search with interactive evolution",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task switching in multirobot learning through indirect encoding",
+                "cites": "16",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity",
+                "cites": "15",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional scaffolding for composing additional musical voices",
+                "cites": "15",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating musical accompaniment through functional scaffolding",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatically categorizing procedurally generated content for collecting games",
+                "cites": "14",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indirectly encoded sodarace for artificial life",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multirobot behavior synchronization through direct neural network communication",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive genetic engineering of evolved video game content",
+                "cites": "14",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neuroevolution of recurrent and discrete world models",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Achieving high-level functionality through Complexification",
+                "cites": "13",
+                "year": "2003"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-Time Interactive Learning in the NERO Video Game.",
+                "cites": "12",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep neuroevolution: Genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Searching for quality diversity when diversity is unaligned with quality",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for providing real-time machine learning to computer-controlled agents used in video games",
+                "cites": "11",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing artificial phenotypes with natural biological patterns",
+                "cites": "11",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "POET: open-ended coevolution of environments and their optimized solutions",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mitigating fooling with competitive overcomplete output layer neural networks",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the critical role of divergent selection in evolvability",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrated approach to personalized procedural map generation using evolutionary algorithms",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Montezuma\u2019s revenge solved by go-explore, a new algorithm for hard-exploration problems (sets records on pitfall, too)",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WebAL Comes of Age: A review of the first 21 years of Artificial Life on the Web",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rewarding reactivity to evolve robust controllers without multiple trials or noise",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and Methods for Evolving Content for Computer Games",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Galactic Arms Race: an experiment in evolving video game content",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to continually learn",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating biological assumptions through radical reimplementation",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Guided self-organization in indirectly encoded and evolving topographic maps",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Directional communication in evolved multiagent teams",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crash prediction network with graded warning for vehicle",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GECCO 2007: Genetic and Evolutionary Computation Conference",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incorporating Advice into Neuroevolution of Adaptive Agents.",
+                "cites": "8",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emergence of canalization and evolvability in an open-ended, interactive evolutionary system",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the strictness of the minimal criterion impacts open-ended evolution",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why evolutionary robotics will matter",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstrating Automatic Content Generation in the Galactic Arms Race Video Game.",
+                "cites": "7",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incorporating advice into evolution of neural networks",
+                "cites": "7",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuro-evolution through augmenting topologies applied to evolving neural networks to play Othello",
+                "cites": "7",
+                "year": "2002"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "First return then explore",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fitted learning: Models with awareness of their limits",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time hebbian learning from autoencoder features for control tasks",
+                "cites": "6",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transfer learning through indirect encoding",
+                "cites": "6",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crash prediction network with visual input for vehicle",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neat drummer: Interactive evolutionary computation for drum pattern generation",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The NERO real-time video game",
+                "cites": "6",
+                "year": "2004"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolvability ES: scalable and direct optimization of evolvability",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vine: an open source interactive data visualization tool for neuroevolution",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Steps toward a modular library for turning any evolutionary domain into an online interactive platform",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative and developmental systems",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Picbreeder: Collaborative interactive evolution of images",
+                "cites": "5",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting morphological conventions for genetic reuse",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial intelligence in dentistry: Current applications and future perspectives",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Open-ended evolution and open-endedness: Editorial introduction to the open-ended evolution i special issue",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fully Autonomous Real-Time Autoencoder-Augmented Hebbian Learning through the Collection of Novel Experiences",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative and developmental systems tutorial",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving neural networks",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maestrogenesis: Computer-assisted musical accompaniment generation",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the benefits of divergent search for evolved representations",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving neural networks for geometric game-tree pruning",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The AMALTHEA REU Program: Activities, Experiences & Outcomes of a Collaborative Summer Research Experience in Machine Learning",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative teaching networks: Accelerating neural architecture search by learning to generate synthetic training data",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why open-endedness matters",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Benchmarking open-endedness in minimal criterion coevolution",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Art in the Sciences of the Artificial",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altruists proliferate even at a selective disadvantage within their own niche",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vague-to-crisp dynamics of percept formation modeled as operant (selectionist) process",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for inducing effects in a signal",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for evolving music tracks",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deriving a genome representation for evolving graph structure weights",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns without development",
+                "cites": "3",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving deep neuroevolution via deep innovation protection",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An overview of open-ended evolution: Editorial introduction to the open-ended evolution II special issue",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Answering the call of open-endedness",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voxelbuild: a minecraft-inspired domain for experiments in evolutionary creativity",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of subjectivity in the evaluation of open-endedness",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The art of breeding art",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A proposed infrastructure for adding online interaction to any evolutionary domain",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CPPNs effectively encode fracture: A response to critical factors in the performance of hyperneat",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implications from Music Generation for Music Appreciation.",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and Methods for Inducing Effects In A Signal",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the 11th Annual conference on Genetic and evolutionary computation",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEAT Software Doc File",
+                "cites": "2",
+                "year": "2001"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time Interactive Neuro-evolution",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diversity preservation in minimal criterion coevolution through resource limitation",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fiber: A Platform for Efficient Development and Distributed Training for Reinforcement Learning and Population-Based Methods",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:F9fV5C73w3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training neural networks using evolution based strategies and novelty search",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the potential benefits of knowing everything",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Backpropamine: meta-training self-modifying neural networks with gradient descent",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Additional Stability for Single-Unit Pattern Generators",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring Biological Intelligence through Artificial Intelligence and Radical Reimplementation",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Competitive Coevolution through Evolutionary Complexification",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and Method for Evolving Music Tracks",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical issues in evolving neural network controllers for video game agents",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The NERO Video Game.",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic Feature Selection in Neuroevolution",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep reinforcement learning based models for hard-exploration problems",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:8xutWZnSdmoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training adaptable neural networks based on evolvability search",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable parameter encoding of artificial neural networks obtained via an evolutionary process",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Innovation Protection",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolution, robotics and the somersaulting spider",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training of artificial neural networks using safe mutations based on output gradients",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Major evolutionary transitions in the Voxelbuild virtual sandbox game",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Extended Study of Quality Diversity Algorithms",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Review of\" Why Greeatness Cannot Be Planned: The Myth of the Objective\" by Kenneth O. Stanley and Joel Lehman",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indirectly encoding running and jumping sodarace creatures for artificial life",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generating flower images and shapes with compositional pattern producing networks",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IEEE Transactions on Computational Intelligence and AI in Games",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Case Study 1: Reinterpreting Natural Evolution",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Questioning Objectives",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Interesting and the Novel",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unchaining Innovation",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Victory for the Aimless",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Farewell to the Mirage",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The False Compass",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unshackling Education",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long Live the Treasure Hunter",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Case Study 2: Objectives and the Quest for AI",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training a Multiagent Hive Brain for Coordinated UGV Operations (4.4. 2)",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elicitation of strategies in four variants of a round-robin tournament: the case of Goofspiel",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GECCO\u201914: Proceedings of the 2014 conference on Genetic and evolutionary computation",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroEvolutionary meta-optimization",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and Methods for Inducing Effects in a Signal",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Case for Evolution in Engineering Brains.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Computer-Assisted Approach to Composing with MaestroGenesis",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How AI can change the way we play games",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Heterogeneous Multiagent Teams Through Learning Policy Geometry",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and Method for Evolving Music Tracks",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To achieve our highest goals, we must be willing to abandon them",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for providing real-time machine learning to computer-controlled agents used in video games",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Session details: International workshop on learning classifier systems",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GECCO 2009: Genetic and Evolutionary Computation Conference",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic and Evolutionary Computation Conference 2008: GECCO 2008",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CIG 2007 Tutorial Practical Issues in Evolving Neural Network Controllers for Video Game Agents",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEUROEVOLUTION: EVOLVING NEURAL NETWORKS",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring Musical Creativity with Functional Scaffolding",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AAAI Digital Library",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Open-Ended Evolution and Open-Endedness",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolvability ES: Scalable Evolutionary Meta-Learning",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep HyperNEAT: Evolving the Size and Depth of the Substrate",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Backpropagated plasticity: learning to learn with gradient descent in large plastic neural networks",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material: Altruists Proliferate Even at a Selective Disadvantage within Their Own Niche",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search-Based Procedural Content Generation",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Doctor of Philosophy in Computer Science, The University of Texas at Austin, August 2004. Master of Science i n Computer Science, The University of Texas at Austin, May 1999 \u2026",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is evolution fundamentally creative?",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "JUNE 2015 VOLUME 7 NUMBER 2 TCIARR (ISSN 1943-068X)",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "JEFF CLUNE",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IEEE TRANSACTIONS ON COMPUTATIONAL INTELLIGENCE AND AI IN GAMES",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Performance of Indirect Encoding Across the Continuum of Regularity",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autonomous Evolution of Topographic Regularities in Artificial Neural Net",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IEEE TRANSACTIONS ON COMPUTATIONAL INTELLIGENCE AND AI IN GAMES",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rewarding Reactivity to Evolve Robust Controllers without Multiple Trials or Noise",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPECIAL ISSUE ON EVOLVING DEVELOPMENTAL SYSTEMS",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GECCO 2009 Generative and Developmental Systems (GDS) Workshop",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demo Papers",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author-Title Index Volume 21, 2004",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NERO 2.0: A Machine Learning Game",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GECCO\u201909: Proceedings of the 11th annual conference companion on Genetic and evolutionary computation conference",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure Matters: The Evolution of Neural Network Topologies",
+                "cites": "0"
+            },
+            "id_citations": "6Q6oO1MAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=6Q6oO1MAAAAJ"
+}

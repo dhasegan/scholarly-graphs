@@ -1,0 +1,815 @@
+{
+    "affiliation": "New York University",
+    "cites_per_year": {
+        "2007": 46,
+        "2008": 119,
+        "2009": 204,
+        "2010": 248,
+        "2011": 397,
+        "2012": 508,
+        "2013": 486,
+        "2014": 646,
+        "2015": 679,
+        "2016": 905,
+        "2017": 860,
+        "2018": 1115,
+        "2019": 999,
+        "2020": 675
+    },
+    "citedby": 7982,
+    "citedby5y": 5239,
+    "coauthors": [
+        {
+            "affiliation": "HHMI",
+            "id": "Q0kenzsAAAAJ",
+            "name": "michael shadlen"
+        },
+        {
+            "affiliation": "Professor of neural Sciences, SBMU School of Medicine",
+            "id": "vDnQD4sAAAAJ",
+            "name": "Hossein Esteky"
+        },
+        {
+            "affiliation": "Cold Spring Harbor Laboratory",
+            "id": "iuFT994AAAAJ",
+            "name": "Anne K. Churchland"
+        },
+        {
+            "affiliation": "University of California-Davis",
+            "id": "a2nnsrAAAAAJ",
+            "name": "Tim Hanks"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, Columbia University",
+            "id": "YM8BRlUAAAAJ",
+            "name": "Daniel Wolpert"
+        },
+        {
+            "affiliation": "university of rochester",
+            "id": "07IPOvMAAAAJ",
+            "name": "Alexandre Pouget"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "ESrxVR8AAAAJ",
+            "name": "William T Newsome"
+        },
+        {
+            "affiliation": "Chief, Section on Functional Imaging Methods, National Institute of Mental Health",
+            "id": "X9OdRnYAAAAJ",
+            "name": "Peter A. Bandettini"
+        },
+        {
+            "affiliation": "Western University",
+            "id": "Eo6JfS8AAAAJ",
+            "name": "Marieke Mur"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Columbia University",
+            "id": "w6M4YN4AAAAJ",
+            "name": "Nikolaus Kriegeskorte"
+        },
+        {
+            "affiliation": "Laureate Institute for Brain Research, Chief Technology Officer, Director MRI-EEG Facility",
+            "id": "fIu76mkAAAAJ",
+            "name": "Jerzy Bodurka"
+        },
+        {
+            "affiliation": "University of Illinois at Chicago",
+            "id": "YGEB-RwAAAAJ",
+            "name": "Jamie Roitman"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "h4nddBMAAAAJ",
+            "name": "Arash Afraz"
+        },
+        {
+            "affiliation": "University of Rochester",
+            "id": "FpC3lhAAAAAJ",
+            "name": "Ariel Zylberberg"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "uXKSTEIAAAAJ",
+            "name": "Davood Shahrjerdi"
+        },
+        {
+            "affiliation": "Professor, Gatsby Computational Neuroscience Unit, UCL",
+            "id": "wmqntyEAAAAJ",
+            "name": "peter latham"
+        },
+        {
+            "affiliation": "Professor of Neuroscience and Psychology at New York University",
+            "id": "2370JKUAAAAJ",
+            "name": "Wei Ji Ma / Whee Ky Ma"
+        },
+        {
+            "affiliation": "Duke University",
+            "id": "RJE1lmUAAAAJ",
+            "name": "Jeff Beck"
+        },
+        {
+            "affiliation": "Computer Science and Engineering, University of Washington",
+            "id": "02nHF0gAAAAJ",
+            "name": "Rajesh P. N. Rao"
+        },
+        {
+            "affiliation": "new york university",
+            "id": "CU2_3KgAAAAJ",
+            "name": "Braden Purcell"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 31,
+    "hindex5y": 28,
+    "i10index": 42,
+    "i10index5y": 37,
+    "id": "vVhnHm4AAAAJ",
+    "interests": [
+        "Systems Neuroscience"
+    ],
+    "name": "Roozbeh Kiani",
+    "publications": [
+        {
+            "bib": {
+                "title": "Matching categorical object representations in inferior temporal cortex of man and monkey",
+                "cites": "982",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of confidence associated with a decision by neurons in the parietal cortex",
+                "cites": "775",
+                "year": "2009"
+            },
+            "id_citations": "vVhnHm4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic population codes for Bayesian decision making",
+                "cites": "613",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making with multiple alternatives",
+                "cites": "579",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian brain: Probabilistic approaches to neural coding",
+                "cites": "557",
+                "year": "2007"
+            },
+            "id_citations": "vVhnHm4AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes of mind in decision-making",
+                "cites": "468",
+                "year": "2009"
+            },
+            "id_citations": "vVhnHm4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object category structure in response patterns of neuronal population in monkey inferior temporal cortex",
+                "cites": "423",
+                "year": "2007"
+            },
+            "id_citations": "vVhnHm4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bounded integration in parietal cortex underlies decisions even when viewing duration is dictated by the environment",
+                "cites": "420",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision making as a window on cognition",
+                "cites": "365",
+                "year": "2013"
+            },
+            "id_citations": "vVhnHm4AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microstimulation of inferotemporal cortex influences face categorization",
+                "cites": "303",
+                "year": "2006"
+            },
+            "id_citations": "vVhnHm4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variance as a signature of neural computations during decision making",
+                "cites": "291",
+                "year": "2011"
+            },
+            "id_citations": "vVhnHm4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choice certainty is informed by both evidence and decision time",
+                "cites": "280",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elapsed decision time affects the weighting of prior probability in a perceptual decision task",
+                "cites": "272",
+                "year": "2011"
+            },
+            "id_citations": "vVhnHm4AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neural mechanism of speed-accuracy tradeoff in macaque area LIP",
+                "cites": "131",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common mechanism underlies changes of mind about decisions and confidence",
+                "cites": "130",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An intentional framework",
+                "cites": "127",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of cortical microstimulation on confidence in a perceptual decision",
+                "cites": "124",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in onset latency of macaque inferotemporal neural responses to primate and non-primate faces",
+                "cites": "117",
+                "year": "2005"
+            },
+            "id_citations": "vVhnHm4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical reinstatement mediates the relationship between content-specific encoding activity and subsequent recollection decisions",
+                "cites": "110",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of neural population responses in prefrontal cortex indicate changes of mind on single trials",
+                "cites": "104",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The speed and accuracy of a simple perceptual decision: a mathematical primer",
+                "cites": "94",
+                "year": "2006"
+            },
+            "id_citations": "vVhnHm4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of post-error adjustments of decision policy in parietal cortex",
+                "cites": "71",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural grouping of neural responses reveals spatially segregated clusters in prearcuate cortex",
+                "cites": "67",
+                "year": "2015"
+            },
+            "id_citations": "vVhnHm4AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confidence is the bridge between multi-stage decisions",
+                "cites": "52",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Better than conscious?: decision making, the human mind, and implications for institutions",
+                "cites": "48",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical decision processes that operate over distinct timescales underlie choice and changes in strategy",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integration of direction cues is invariant to the temporal gap between them",
+                "cites": "42",
+                "year": "2013"
+            },
+            "id_citations": "vVhnHm4AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consciousness as a decision to engage",
+                "cites": "40",
+                "year": "2011"
+            },
+            "id_citations": "vVhnHm4AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the accuracy of a decision: a neural mechanism of confidence",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of visual responses in primate inferotemporal cortex to object stimuli",
+                "cites": "33",
+                "year": "2011"
+            },
+            "id_citations": "vVhnHm4AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment on \u201cSingle-trial spike trains in parietal cortex reveal discrete steps during decision-making\u201d",
+                "cites": "32",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory saccade target processing and the presaccadic transfer of visual features",
+                "cites": "29",
+                "year": "2011"
+            },
+            "id_citations": "vVhnHm4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three challenges for connecting model to mechanism in decision-making",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dimensionality of object representations in monkey inferotemporal cortex",
+                "cites": "25",
+                "year": "2014"
+            },
+            "id_citations": "vVhnHm4AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of neonatal C-fiber depletion on the integration of paired-whisker inputs in rat barrel cortex",
+                "cites": "25",
+                "year": "2005"
+            },
+            "id_citations": "vVhnHm4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psychophysical reverse correlation reflects both sensory and decision-making processes",
+                "cites": "17",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An awakening",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "vVhnHm4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of neonatal C-fiber depletion on discrimination of principal and adjacent whisker stimulation within rat individual cortical barrels",
+                "cites": "15",
+                "year": "2004"
+            },
+            "id_citations": "vVhnHm4AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When is enough enough?",
+                "cites": "14",
+                "year": "2006"
+            },
+            "id_citations": "vVhnHm4AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision making through integration of sensory evidence at prolonged timescales",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of visual category representation in the macaque inferior temporal cortex",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of GABAA receptor inhibition on response properties of barrel cortical neurons in C-fiber-depleted rats",
+                "cites": "11",
+                "year": "2005"
+            },
+            "id_citations": "vVhnHm4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative principles for precise engineering of sensitivity in graphene electrochemical sensors",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "vVhnHm4AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "15.7 Heterogeneous integrated CMOS-graphene sensor array for dopamine detection",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "vVhnHm4AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion-induced overestimation of the number of items in a display",
+                "cites": "7",
+                "year": "2004"
+            },
+            "id_citations": "vVhnHm4AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hybrid cmos-graphene sensor array for subsecond dopamine detection",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "vVhnHm4AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory and decision-making processes underlying perceptual adaptation",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population dynamics of choice representation in dorsal premotor and primary motor cortex",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding and perturbing decision states in real time",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "vVhnHm4AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning probabilistic representations with randomly connected neural circuits",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational similarity analysis-a framework for relating computational theory to behavioral and brain-activity data",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "vVhnHm4AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nano-engineering the material structure of preferentially oriented nano-graphitic carbon for making high-performance electrochemical micro-sensors",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "vVhnHm4AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing and Interpreting Psychophysical Investigations of Cognition",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "vVhnHm4AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual insensitivity to higher-order statistical moments of coherent random dot motion",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and methods for in vivo detection of electrophysiological and electrochemical signals",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion-induced overestimation",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "vVhnHm4AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engineering energy storage devices by controlling defects in carbon-based electrodes",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vVhnHm4AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal cortex represents heuristics that shape choice bias and its integration into future behavior.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vVhnHm4AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in memory for what, where, and when components of recently-formed episodes",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "vVhnHm4AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Strongly correlated spatiotemporal encoding and simple decoding in the prefrontal cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "vVhnHm4AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative principles for precise engineering of sensitivity in carbon-based electrochemical sensors",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "vVhnHm4AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "(Invited) A Hybrid CMOS-Graphene Integrated Sensing Platform for Subsecond Dopamine Detection",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "vVhnHm4AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial overview: Neurobiology of cognitive behavior: Complexity of neural computation and cognition",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common mechanism underlies changes of mind about decisions and confidence",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "vVhnHm4AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral The Behavioral Effects of Adaptation to Facial Expressions are Explained by Changes in the Decision-Making Process",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "vVhnHm4AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saccadic luminance detection across visual space",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "vVhnHm4AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bounded accumulation of evidence in parietal cortex: A flexible neural mechanism for making decisions and estimating certainty",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "vVhnHm4AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of object category structure by the neuronal population of inferior temporal cortex",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "vVhnHm4AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring visual object representations with similarity-matrix analysis",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "vVhnHm4AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of categorization and view-invariance in object vision",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "vVhnHm4AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ebbinghaus illusion in the tactile modality",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "vVhnHm4AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ECS Meeting Abstracts",
+                "cites": "0"
+            },
+            "id_citations": "vVhnHm4AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ECS Meeting Abstracts",
+                "cites": "0"
+            },
+            "id_citations": "vVhnHm4AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ECS Meeting Abstracts",
+                "cites": "0"
+            },
+            "id_citations": "vVhnHm4AAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SELECTED PAPERS FROM ISSCC 2018",
+                "cites": "0"
+            },
+            "id_citations": "vVhnHm4AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asymmetric Saccadic Suppression: Preserved Luminance Sensitivity along the Saccade Tra ectory",
+                "cites": "0"
+            },
+            "id_citations": "vVhnHm4AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=vVhnHm4AAAAJ"
+}

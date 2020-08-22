@@ -1,0 +1,738 @@
+{
+    "affiliation": "NYU Neuroscience Institute",
+    "cites_per_year": {
+        "1992": 13,
+        "1993": 5,
+        "1994": 2,
+        "1995": 6,
+        "1996": 1,
+        "1997": 4,
+        "1998": 4,
+        "1999": 7,
+        "2000": 3,
+        "2001": 9,
+        "2002": 9,
+        "2003": 13,
+        "2004": 7,
+        "2005": 12,
+        "2006": 13,
+        "2007": 40,
+        "2008": 59,
+        "2009": 83,
+        "2010": 64,
+        "2011": 65,
+        "2012": 118,
+        "2013": 145,
+        "2014": 205,
+        "2015": 152,
+        "2016": 162,
+        "2017": 189,
+        "2018": 211,
+        "2019": 200,
+        "2020": 188
+    },
+    "citedby": 2008,
+    "citedby5y": 1105,
+    "coauthors": [
+        {
+            "affiliation": "Scientist, Brain Electrophysiological Laboratory",
+            "id": "d26Pg5wAAAAJ",
+            "name": "Roma Shusterman"
+        },
+        {
+            "affiliation": "University of Oregon",
+            "id": "nU455D0AAAAJ",
+            "name": "Matthew Smear"
+        },
+        {
+            "affiliation": "Professor of Physics, Northeastern University",
+            "id": "qdKqUSwAAAAJ",
+            "name": "Sergey Kravchenko"
+        },
+        {
+            "affiliation": "Ecole des Mines de Saint-Etienne, Full Professor and Head Bioelectronics Department",
+            "id": "AnHiF3UAAAAJ",
+            "name": "Rod O'Connor, Ph.D."
+        },
+        {
+            "affiliation": "Graduate Student, Dept. of Biological Sciences, Columbia University",
+            "id": "pbje7P8AAAAJ",
+            "name": "Armen Enikolopov"
+        },
+        {
+            "affiliation": "Professor of Molecular and Cellular Biology, Harvard University",
+            "id": "56oq6hYAAAAJ",
+            "name": "Naoshige Uchida"
+        },
+        {
+            "affiliation": "Raymond Leo Erikson Life Sciences Professor of Molecular & Cellular Biology, Harvard",
+            "id": "vSeHOe4AAAAJ",
+            "name": "Venkatesh N. Murthy"
+        },
+        {
+            "affiliation": "Princeton University",
+            "id": "sPLO8tUAAAAJ",
+            "name": "William Bialek"
+        },
+        {
+            "affiliation": "Professor of Neurobiology, Harvard Medical School",
+            "id": "T-RODd8AAAAJ",
+            "name": "Rachel I. Wilson"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, NYU Medical Center",
+            "id": "NHOluhIAAAAJ",
+            "name": "Sasha Devore"
+        }
+    ],
+    "email": "@nyu.edu",
+    "hindex": 20,
+    "hindex5y": 17,
+    "i10index": 26,
+    "i10index5y": 19,
+    "id": "Uce_ZF4AAAAJ",
+    "interests": [],
+    "name": "Dmitry Rinberg",
+    "publications": [
+        {
+            "bib": {
+                "title": "Precise olfactory responses tile the sniff cycle",
+                "cites": "298",
+                "year": "2011"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse odor coding in awake behaving mice",
+                "cites": "253",
+                "year": "2006"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed-accuracy tradeoff in olfaction",
+                "cites": "247",
+                "year": "2006"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception of sniff phase in mouse olfaction",
+                "cites": "186",
+                "year": "2011"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-redundant coding of aversive odours in the main olfactory pathway",
+                "cites": "147",
+                "year": "2013"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for the influence of electron-electron interaction on the chemical potential of the two-dimensional electron gas",
+                "cites": "79",
+                "year": "1990"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse incomplete representations: a potential role of olfactory granule cells",
+                "cites": "78",
+                "year": "2011"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple perceptible signals from a single olfactory glomerulus",
+                "cites": "75",
+                "year": "2013"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In search of the structure of human olfactory space",
+                "cites": "67",
+                "year": "2011"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olfactory coding with all-or-nothing glomeruli",
+                "cites": "65",
+                "year": "2007"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A primacy code for odor identity",
+                "cites": "49",
+                "year": "2017"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olfactory neuronal dynamics in behaving animals",
+                "cites": "44",
+                "year": "2006"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novel behavioral paradigm reveals lower temporal limits on mouse olfactory decisions",
+                "cites": "42",
+                "year": "2015"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illuminating vertebrate olfactory processing",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural coding of perceived odor intensity",
+                "cites": "28",
+                "year": "2015"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pneumatic capillary gun for ballistic delivery of microparticles",
+                "cites": "28",
+                "year": "2005"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric generation of second sound by first sound in superfluid helium",
+                "cites": "22",
+                "year": "1996"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single olfactory receptors set odor detection thresholds",
+                "cites": "21",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus dependent diversity and stereotypy in the output of an olfactory functional unit",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do cockroaches \u2018know\u2019about fluid dynamics?",
+                "cites": "20",
+                "year": "2000"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike sorting in the frequency domain with overlap detection",
+                "cites": "17",
+                "year": "2003"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit board and method of manufacturing the same, and display device",
+                "cites": "14",
+                "year": "2002"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering precise temporal patterns in large-scale neural recordings through robust and interpretable time warping",
+                "cites": "13",
+                "year": "2020"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A network that performs brute-force conversion of a temporal sequence to a spatial pattern: relevance to odor recognition",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric generation of second sound in superfluid helium: Linear stability and nonlinear dynamics",
+                "cites": "12",
+                "year": "2001"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transitions between dissipationless and dissipative states at GaAs-AlxGa1 _x As heterostructures in the quantum Hall effect",
+                "cites": "11",
+                "year": "1988"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral readout of spatio-temporal codes in olfaction",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing thoracic and intra-nasal pressure transients to monitor active odor sampling during odor-guided decision making in the mouse",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The structure of human olfactory space",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Receptors, circuits, and behaviors: new directions in chemical senses",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-electrode spike sorting by clustering transfer functions",
+                "cites": "9",
+                "year": "1999"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to find decision makers in neural networks",
+                "cites": "8",
+                "year": "2005"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wind spectra and the response of the cercal system in the cockroach",
+                "cites": "8",
+                "year": "2003"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Universal broadening of frequency spectra in parametrically driven systems",
+                "cites": "8",
+                "year": "1997"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deconstructing odorant identity via primacy in dual networks",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sniff invariant odor coding",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pneumatic capillary gun for ballistic delivery of microscopic particles into tissue",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct observation of the influence of the electron-electron interaction on the chemical potential of a 2D electron gas",
+                "cites": "6",
+                "year": "1990"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the phase diagrams of the magnetoconductivity for 2D electron systems",
+                "cites": "6",
+                "year": "1990"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A stimulus generating system for studying wind sensation in the American cockroach",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise optical probing of perceptual detection",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Manipulating synthetic optogenetic odors reveals the coding logic of olfactory perception",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real\u2010Time In Situ Holographic Optogenetics Confocally Unraveled Sculpting Microscopy",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two photon holographic stimulation system for cellular-resolution interrogation of olfactory coding",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concentration invariant odor coding",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Odors in olfactory bulb are defined by a short discrete temporal sequence: recognition by brute-force conversion to a spatial pattern (chunking)",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acoustic phase conjugation in superfluid helium",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sniff Olfactometry: Temporal effects on odorant mixture perception in humans",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatially and temporally precise optical probing of neural activity readout",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primacy model and the evolution of the olfactory receptor repertoire",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to find decision makers in neural circuits?",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for influence of the interactions between electrons on the chemical potential of a two-dimensional electron gas",
+                "cites": "1",
+                "year": "1991"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Odor delivery device",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information processing by an olfactory functional unit and a primacy coding hypothesis",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mouse bio-electronic nose for sensitive and versatile chemical detection",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for Primacy Coding in Human Olfaction",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bio-electric nose",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Termoral Effects of Odorants on Mixture Perception",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of olfactory receptors sensitive to different odorants",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An all-optical system for rapid and deep interrogation of behaviorally relevant activity patterns (Conference Presentation)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concentration invariant odor identity coding",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of Olfactory Sensitivity in Sensory Neurons and Behaving Animals",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic dissection of amine sensitivity in mice",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dark matter of the bulb",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse incomplete representations: A novel role for olfactory granule cells",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combinatorial on/off Model for Olfactory Coding",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fiber bolometer and emitter with negligible reflection for second sound measurements near the \u03bb-point",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multineuron response to wind stimuli in the American cockroach",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric Generation of Second Sound by First Sound in Super\ufb02uid Helium",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On negative dielectric permittivity in the quantum Hall regime",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase diagram of the magnetoconductivity of 2D electron systems",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "Uce_ZF4AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Uce_ZF4AAAAJ"
+}

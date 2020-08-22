@@ -1,0 +1,644 @@
+{
+    "affiliation": "New York University",
+    "cites_per_year": {
+        "2005": 32,
+        "2006": 57,
+        "2007": 58,
+        "2008": 72,
+        "2009": 68,
+        "2010": 92,
+        "2011": 122,
+        "2012": 173,
+        "2013": 224,
+        "2014": 257,
+        "2015": 290,
+        "2016": 298,
+        "2017": 361,
+        "2018": 358,
+        "2019": 421,
+        "2020": 312
+    },
+    "citedby": 3235,
+    "citedby5y": 2048,
+    "coauthors": [],
+    "email": "@nyu.edu",
+    "hindex": 27,
+    "hindex5y": 24,
+    "i10index": 31,
+    "i10index5y": 30,
+    "id": "6VNQ_IkAAAAJ",
+    "interests": [
+        "stem cell",
+        "Neuroscience",
+        "Development"
+    ],
+    "name": "Esteban O Mazzoni",
+    "publications": [
+        {
+            "bib": {
+                "title": "CTCF establishes discrete functional chromatin domains at the Hox clusters during differentiation",
+                "cites": "364",
+                "year": "2015"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic spineless expression creates the retinal mosaic for colour vision",
+                "cites": "327",
+                "year": "2006"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An alternative splicing switch regulates embryonic stem cell pluripotency and reprogramming",
+                "cites": "304",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Homothorax switches function of Drosophila photoreceptors from color to polarized light sensors",
+                "cites": "160",
+                "year": "2003"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The growth regulators warts/lats and melted interact in a bistable loop to specify opposite fates in Drosophila R8 photoreceptors",
+                "cites": "156",
+                "year": "2005"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circadian pacemaker neurons transmit and modulate visual information to control a rapid behavioral response",
+                "cites": "144",
+                "year": "2005"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synergistic binding of transcription factors to cell-specific enhancers programs motor neuron identity",
+                "cites": "141",
+                "year": "2013"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drosophila CRYPTOCHROME Is a Circadian Transcriptional Repressor",
+                "cites": "136",
+                "year": "2006"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ligand-dependent dynamics of retinoic acid receptor binding during early neurogenesis",
+                "cites": "112",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global control of motor neuron topography mediated by the repressive actions of a single hox gene",
+                "cites": "108",
+                "year": "2010"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saltatory remodeling of Hox chromatin in response to rostrocaudal patterning signals",
+                "cites": "107",
+                "year": "2013"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional diversity of ESC-derived motor neuron subtypes revealed through intraspinal transplantation",
+                "cites": "105",
+                "year": "2010"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wnt signaling specifies and patterns intestinal endoderm",
+                "cites": "99",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CTCF-mediated topological boundaries during development foster appropriate gene regulation",
+                "cites": "94",
+                "year": "2016"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Iroquois complex genes induce co-expression of rhodopsins in Drosophila",
+                "cites": "92",
+                "year": "2008"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mir-17-3p controls spinal neural progenitor patterning by regulating Olig2/Irx3 cross-repressive loop",
+                "cites": "91",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RNA localization is a key determinant of neurite-enriched proteome",
+                "cites": "86",
+                "year": "2017"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CRISPR-dCas9 and sgRNA scaffolds enable dual-colour live imaging of satellite sequences and repeat-enriched individual loci",
+                "cites": "69",
+                "year": "2016"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embryonic stem cell\u2013based mapping of developmental transcriptional programs",
+                "cites": "68",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct visual pathways mediate Drosophila larval light avoidance and circadian clock entrainment",
+                "cites": "62",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrated model of multiple-condition ChIP-Seq data reveals predeterminants of Cdx2 binding",
+                "cites": "54",
+                "year": "2014"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A multi-step transcriptional and chromatin state cascade underlies motor neuron programming from embryonic stem cells",
+                "cites": "46",
+                "year": "2017"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evolving Hox activity profiles govern diversity in locomotor systems",
+                "cites": "42",
+                "year": "2014"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback from rhodopsin controls rhodopsin exclusion in Drosophila photoreceptors",
+                "cites": "40",
+                "year": "2011"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immortalized Mammary Epithelial Cells Overexpressing Protein Kinase C \u03b3 Acquire a Malignant Phenotype and Become Tumorigenic in Vivo1 1 University of Buenos Aires, the National \u2026",
+                "cites": "40",
+                "year": "2003"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping neuronal diversity one cell at a time",
+                "cites": "32",
+                "year": "2013"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u2018One receptor\u2019rules in sensory neurons",
+                "cites": "30",
+                "year": "2004"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nitric oxide synthase, arginase and cyclooxygenase are involved in muscarinic receptor activation in different murine mammary adenocarcinoma cell lines",
+                "cites": "27",
+                "year": "2002"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "cAMPr: A single-wavelength fluorescent sensor for cyclic AMP",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proneural factors Ascl1 and Neurog2 contribute to neuronal subtype identities by establishing distinct chromatin landscapes",
+                "cites": "19",
+                "year": "2019"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Iterative role of notch signaling in spinal motor neuron diversification",
+                "cites": "15",
+                "year": "2016"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deconvolving sequence features that discriminate between overlapping regulatory annotations",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The time of tumor cell division and death depends on the site of growth.",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stem cell-derived cranial and spinal motor neurons reveal proteostatic differences between ALS resistant and sensitive motor neurons",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell reprogramming: the many roads to success",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lineage-based identification of cellular states and expression programs",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hox binding specificity is directed by DNA sequence preferences and differential abilities to engage inaccessible chromatin.",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing the sequence and prior chromatin determinants of induced TF binding with bimodal neural networks",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "De novo assembly, delivery and expression of a 101 kb human gene in mouse cells",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signaling pathways regulating the expression of proteases during tumor progression",
+                "cites": "2",
+                "year": "2000"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: CTCF-mediated topological boundaries during development foster appropriate gene regulation",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simple Method to Quantify Protein Abundances from 1000 Cells",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi\u2010omics approach identifies differences between cranial and spinal motor neuron\u2013A step towards understanding ALS",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An interpretable bimodal neural network characterizes the sequence and preexisting chromatin predictors of induced TF binding",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential abilities to engage inaccessible chromatin diversify vertebrate HOX binding patterns",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple method to quantify protein abundances from one thousand cells",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of transcription factors required to maintain pluripotency by CRISPR-Cas9 screening.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding the Hox regulatory logic during motor neuron differentiation.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing regulatory sequence features that discriminate between overlapping annotation labels",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding programming logic of motor neurons from differentiated and undifferentiated cells.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Let us know how access to this document benefits you.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Review Handbook of Stem Cells, Second Edition, A. Atala & R. Lanza",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ISDN2012_0259: Constructing and deconstructing spinal motor neurons",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cdx2 and FGF cooperate to specify brachial and thoracic spinal identity of mouse embryonic stem cell-derived motor neurons",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback from rhodopsin 6 protein is required to maintain pale R8 photoreceptor identity through inhibition of rhodopsin 5 expression",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regulation of rhodopsin expression and circadian control of the visual system",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author Index Vol. 26, 2004",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contents Vol. 26, 2004",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subject Index Vol. 26, 2004",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author and Subject Index Vol. 26, No. 5\u20136, 2004",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vias de senalizacion que regulan la expresion de proteasas durante la progresion tumoral",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stem Cells As a Tool for Studying the Developmental Regulation of Gene Expression",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information for",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information for",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information for",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Data Circadian Pacemaker Neurons Transmit and Modulate Visual Information to Control a Rapid Behavioral Response",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Issue contents iii",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SH Roy, JE Clayton, J. Holmen, E. Beltz, RM Saito Control of Cdc14 activity coordinates cell cycle and development in Caenorhabditis elegans 317",
+                "cites": "0"
+            },
+            "id_citations": "6VNQ_IkAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=6VNQ_IkAAAAJ"
+}

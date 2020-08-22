@@ -1,0 +1,368 @@
+{
+    "affiliation": "Assistant Professor, Mount Sinai",
+    "cites_per_year": {
+        "2006": 20,
+        "2007": 40,
+        "2008": 34,
+        "2009": 43,
+        "2010": 43,
+        "2011": 55,
+        "2012": 62,
+        "2013": 92,
+        "2014": 76,
+        "2015": 81,
+        "2016": 115,
+        "2017": 140,
+        "2018": 163,
+        "2019": 212,
+        "2020": 136
+    },
+    "citedby": 1323,
+    "citedby5y": 847,
+    "coauthors": [
+        {
+            "affiliation": "Brandeis University, CERN, Boston University, Columbia University, Stanford Linear Accelerator",
+            "id": "ca_O-WQAAAAJ",
+            "name": "L F Abbott"
+        },
+        {
+            "affiliation": "Professor of Physics, Racah Institute of Physics, Edmond and Lily Safra Center for Brain Sciences",
+            "id": "T8o_MdkAAAAJ",
+            "name": "Haim Sompolinsky"
+        },
+        {
+            "affiliation": "Princeton University",
+            "id": "dkRSv1AAAAAJ",
+            "name": "Brian DePasquale"
+        },
+        {
+            "affiliation": "Wellcome Trust Senior Research Fellow & Associate Professor, Centre for Neural Circuits and",
+            "id": "RsHPZroAAAAJ",
+            "name": "Tim P. Vogels"
+        },
+        {
+            "affiliation": "Princeton University",
+            "id": "_LHH8DgAAAAJ",
+            "name": "David W. Tank"
+        },
+        {
+            "affiliation": "Harvard Medical School",
+            "id": "GfuZNXYAAAAJ",
+            "name": "Christopher Harvey"
+        },
+        {
+            "affiliation": "NYU School of Medicine",
+            "id": "o9cagQ8AAAAJ",
+            "name": "Robert Froemke"
+        },
+        {
+            "affiliation": "Associate Professor of Physics and Neuroscience, University of California at Berkeley",
+            "id": "DZ9-LmkAAAAJ",
+            "name": "Michael R DeWeese"
+        },
+        {
+            "affiliation": "Rutgers Brain Health Institute",
+            "id": "L4t80EUAAAAJ",
+            "name": "Ioana Carcea"
+        },
+        {
+            "affiliation": "Postdoctoral Research Fellow, Columbia University",
+            "id": "O4e8l4AAAAAJ",
+            "name": "Chris Rodgers"
+        },
+        {
+            "affiliation": "Professor of Neurophysics, Fordham University",
+            "id": "7OUdne8AAAAJ",
+            "name": "Badr F. Albanna"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "lF-pTvQAAAAJ",
+            "name": "Michele Insanally"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "BxLgolsAAAAJ",
+            "name": "Christopher J. Cueva"
+        },
+        {
+            "affiliation": "Columbia University",
+            "id": "0TMPQbwAAAAJ",
+            "name": "Sean Escola"
+        },
+        {
+            "affiliation": "Helen Hay Whitney Postdoctoral Fellow, Stanford University",
+            "id": "XmOXc8S6gUsC",
+            "name": "Aaron Andalman"
+        },
+        {
+            "affiliation": "Research Scientist at Google Brain",
+            "id": "i5FMLA4AAAAJ",
+            "name": "Ben Poole"
+        },
+        {
+            "affiliation": "Associate Professor, Neuroscience and Genetics, Stanford University",
+            "id": "bzxlnpUAAAAJ",
+            "name": "Philippe Mourrain"
+        },
+        {
+            "affiliation": "Assistant Professor, Northwestern University",
+            "id": "L4XoGqUAAAAJ",
+            "name": "Talia Lerner"
+        },
+        {
+            "affiliation": "Simons Foundation Junior Fellow, Columbia University",
+            "id": "xw1L-WoAAAAJ",
+            "name": "Logan Grosenick"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Stanford",
+            "id": "15zHkrgAAAAJ",
+            "name": "Ritchie Chen"
+        }
+    ],
+    "email": "@mssm.edu",
+    "hindex": 12,
+    "hindex5y": 10,
+    "i10index": 13,
+    "i10index5y": 11,
+    "id": "IC6n33kAAAAJ",
+    "interests": [
+        "computational neuroscience",
+        "artificial intelligence",
+        "neural networks",
+        "random matrix theory",
+        "statistical mechanics"
+    ],
+    "name": "Kanaka Rajan",
+    "publications": [
+        {
+            "bib": {
+                "title": "Neural network dynamics",
+                "cites": "8507763913207133281",
+                "year": "2005",
+                "url": "https://www.annualreviews.org/doi/full/10.1146/annurev.neuro.28.061604.135637",
+                "author": "Tim P Vogels and Kanaka Rajan and Larry F Abbott",
+                "volume": "28",
+                "pages": "357-376",
+                "publisher": "Annual Reviews",
+                "abstract": "Neural network modeling is often concerned with stimulus-driven responses, but most of the activity in the brain is internally generated. Here, we review network models of internally generated activity, focusing on three types of network dynamics: (a) sustained responses to transient stimuli, which provide a model of working memory; (b) oscillatory network activity; and (c) chaotic activity, which models complex patterns of background spiking in cortical and other circuits. We also review propagation of stimulus-driven activity through spontaneously active networks. Exploring these aspects of neural network dynamics is critical for understanding how neural circuits produce cognitive function.",
+                "eprint": "https://www.annualreviews.org/doi/full/10.1146/annurev.neuro.28.061604.135637"
+            },
+            "id_citations": "IC6n33kAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eigenvalue spectra of random matrices for neural networks",
+                "cites": "235",
+                "year": "2006"
+            },
+            "id_citations": "IC6n33kAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus-dependent suppression of chaos in recurrent neural networks",
+                "cites": "183",
+                "year": "2010"
+            },
+            "id_citations": "IC6n33kAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent Network Models of Sequence Generation and Memory",
+                "cites": "159",
+                "year": "2016"
+            },
+            "id_citations": "IC6n33kAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactions between intrinsic and stimulus-evoked activity in recurrent neural networks",
+                "cites": "48",
+                "year": "2011"
+            },
+            "id_citations": "IC6n33kAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "full-FORCE: A target-based method for training recurrent networks",
+                "cites": "42",
+                "year": "2018"
+            },
+            "id_citations": "IC6n33kAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal dynamics regulating brain and behavioral state transitions",
+                "cites": "33",
+                "year": "2019"
+            },
+            "id_citations": "IC6n33kAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximally informative \u201cstimulus energies\u201d in the analysis of neural responses to natural signals",
+                "cites": "27",
+                "year": "2013"
+            },
+            "id_citations": "IC6n33kAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning quadratic receptive fields from neural responses to natural stimuli",
+                "cites": "27",
+                "year": "2013"
+            },
+            "id_citations": "IC6n33kAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-dependent changes in the large-scale dynamics and necessity of cortical regions",
+                "cites": "24",
+                "year": "2019"
+            },
+            "id_citations": "IC6n33kAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamic brain: an exploration of neuronal variability and its functional significance",
+                "cites": "14",
+                "year": "2011"
+            },
+            "id_citations": "IC6n33kAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring stimulus selectivity from the spatial structure of neural network dynamics",
+                "cites": "13",
+                "year": "2010"
+            },
+            "id_citations": "IC6n33kAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temperature-compensated chemical reactions",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "IC6n33kAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike-timing-dependent ensemble encoding by non-classically responsive cortical neurons",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "IC6n33kAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous and stimulus-driven network dynamics",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "IC6n33kAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to study the neural mechanisms of multiple tasks",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "IC6n33kAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus-dependent suppression of intrinsic variability in recurrent neural networks",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "IC6n33kAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What do random matrices tell us about the brain",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "IC6n33kAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nominally non-responsive frontal and sensory cortical cells encode task-relevant variables via ensemble consensus-building",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "IC6n33kAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Input-Dependent Suppression of Chaos in Recurrent Neural Networks",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "IC6n33kAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEURAL NETWORK DYNAMICS",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "IC6n33kAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RESIN-IN-PULP BASED ION EXCHANGE SEPARATION OF URANIUM FROM ALKALINE LEACH SLURRY",
+                "cites": "0"
+            },
+            "id_citations": "IC6n33kAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nominally non-responsive frontal and sensory cortical cells",
+                "cites": "0"
+            },
+            "id_citations": "IC6n33kAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactions between Intrinsic and Stimulus-Evoked Activity in Recurrent Neural Networks",
+                "cites": "0"
+            },
+            "id_citations": "IC6n33kAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=IC6n33kAAAAJ",
+    "brain_inspired": {
+        "id": "913",
+        "link": "https://braininspired.co/podcast/54/",
+        "name": "Kanaka Rajan",
+        "title": "BI 054 Kanaka Rajan: How Do We Switch Behaviors?",
+        "text": "Kanaka and I discuss a few different ways she uses recurrent neural networks to understand how brains give rise to behaviors. We talk about her work showing how neural circuits transition from active to passive coping behavior in zebrafish, and how RNNs could be used to understand how we switch tasks in general and how we multi-task. Plus the usual fun speculation, advice, and more."
+    }
+}

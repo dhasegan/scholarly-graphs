@@ -1,0 +1,2994 @@
+{
+    "affiliation": "Professor of Neuroscience, Columbia University",
+    "cites_per_year": {
+        "1996": 168,
+        "1997": 93,
+        "1998": 139,
+        "1999": 247,
+        "2000": 370,
+        "2001": 635,
+        "2002": 686,
+        "2003": 991,
+        "2004": 1559,
+        "2005": 1344,
+        "2006": 1627,
+        "2007": 2049,
+        "2008": 2146,
+        "2009": 2403,
+        "2010": 2456,
+        "2011": 2814,
+        "2012": 3137,
+        "2013": 3885,
+        "2014": 3207,
+        "2015": 3670,
+        "2016": 3704,
+        "2017": 3806,
+        "2018": 4021,
+        "2019": 3823,
+        "2020": 2017
+    },
+    "citedby": 51545,
+    "citedby5y": 21052,
+    "coauthors": [
+        {
+            "affiliation": "UCL",
+            "id": "0YEXoMMAAAAJ",
+            "name": "Chris Frith"
+        },
+        {
+            "affiliation": "Queen's University",
+            "id": "DobS57gAAAAJ",
+            "name": "J Randall Flanagan"
+        },
+        {
+            "affiliation": "ATR",
+            "id": "lc7OkdAAAAAJ",
+            "name": "Mitsuo Kawato"
+        },
+        {
+            "affiliation": "Professor, University of Cambridge, and Chief Scientist, Uber",
+            "id": "0uTu7fYAAAAJ",
+            "name": "Zoubin Ghahramani"
+        },
+        {
+            "affiliation": "Senior Research Associate, Computational and Biological Learning Lab, University of Cambridge, UK",
+            "id": "LGgMwucAAAAJ",
+            "name": "Dr James N Ingram"
+        },
+        {
+            "affiliation": "University of Cambridge, UK",
+            "id": "t8-kTnUAAAAJ",
+            "name": "Sarah-Jayne Blakemore"
+        },
+        {
+            "affiliation": "Prof Motor Neuroscience, University of Birmingham",
+            "id": "WD13oT0AAAAJ",
+            "name": "Chris Miall"
+        },
+        {
+            "affiliation": "Associate Professor, Technical University of Munich",
+            "id": "gONMNVYAAAAJ",
+            "name": "David Franklin"
+        },
+        {
+            "affiliation": "University Professor (PIK), bioengineering and neuroscience, UPenn",
+            "id": "MiFqJGcAAAAJ",
+            "name": "Konrad Paul Kording"
+        },
+        {
+            "affiliation": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
+            "id": "yxUduqMAAAAJ",
+            "name": "Michael I. Jordan"
+        },
+        {
+            "affiliation": "University of Cambridge",
+            "id": "6dHxiEkAAAAJ",
+            "name": "Paul Bays"
+        },
+        {
+            "affiliation": "Professor, Ulm University",
+            "id": "sCniyigAAAAJ",
+            "name": "Daniel Alexander Braun"
+        },
+        {
+            "affiliation": "University College London",
+            "id": "NqmgC9gAAAAJ",
+            "name": "Patrick Haggard"
+        },
+        {
+            "affiliation": "Associate Professor, University of Plymouth, England",
+            "id": "qOi-2pMAAAAJ",
+            "name": "Ian S Howard"
+        },
+        {
+            "affiliation": "HHMI",
+            "id": "Q0kenzsAAAAJ",
+            "name": "michael shadlen"
+        },
+        {
+            "affiliation": "Psychology, UCL",
+            "id": "vNqtGKcAAAAJ",
+            "name": "Antonia Hamilton"
+        },
+        {
+            "affiliation": "Professor of Psychiatry and Systems Neuroscience, King's College London",
+            "id": "xHxRyA8AAAAJ",
+            "name": "sukhi s shergill"
+        },
+        {
+            "affiliation": "Assistant Professor, Donders Institute for Brain, Cognition and Behaviour",
+            "id": "G3t7WvIAAAAJ",
+            "name": "Luc Selen"
+        },
+        {
+            "affiliation": "VU University Amsterdam",
+            "id": "UNiiDfsAAAAJ",
+            "name": "Robert J. van Beers"
+        },
+        {
+            "affiliation": "New York University",
+            "id": "vVhnHm4AAAAJ",
+            "name": "Roozbeh Kiani"
+        }
+    ],
+    "email": "@columbia.edu",
+    "hindex": 90,
+    "hindex5y": 64,
+    "i10index": 202,
+    "i10index5y": 176,
+    "id": "YM8BRlUAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Computational Neuroscience",
+        "motor control",
+        "motor learning"
+    ],
+    "name": "Daniel Wolpert",
+    "publications": [
+        {
+            "bib": {
+                "title": "An internal model for sensorimotor integration",
+                "cites": "3195",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signal-dependent noise determines motor planning",
+                "cites": "2433",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple paired forward and inverse models for motor control",
+                "cites": "2279",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forward models for physiological motor control",
+                "cites": "2142",
+                "year": "1996"
+            },
+            "id_citations": "YM8BRlUAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal models in the cerebellum",
+                "cites": "2078",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise in the nervous system",
+                "cites": "1996",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational principles of movement neuroscience",
+                "cites": "1872",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian integration in sensorimotor learning",
+                "cites": "1750",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unifying computational framework for motor control and social interaction",
+                "cites": "1254",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Central cancellation of self-produced tickle sensation",
+                "cites": "1243",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abnormalities in the awareness and control of action",
+                "cites": "1144",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor prediction",
+                "cites": "1140",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is the cerebellum a smith predictor?",
+                "cites": "1102",
+                "year": "1993"
+            },
+            "id_citations": "YM8BRlUAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of sensorimotor learning",
+                "cites": "993",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational approaches to motor control",
+                "cites": "904",
+                "year": "1997"
+            },
+            "id_citations": "YM8BRlUAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspectives and problems in motor learning",
+                "cites": "878",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abnormalities in the awareness of action",
+                "cites": "865",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why can't you tickle yourself?",
+                "cites": "847",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mosaic model for sensorimotor learning and control",
+                "cites": "819",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal prediction modulates the perception of self-produced stimuli",
+                "cites": "798",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal prediction modulates the perception of self-produced stimuli",
+                "cites": "784",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explaining the symptoms of schizophrenia: abnormalities in the awareness of action",
+                "cites": "770",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian decision theory in sensorimotor control",
+                "cites": "748",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:2oMuTuaXnloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian decision theory in sensorimotor control",
+                "cites": "748",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maintaining internal representations: the role of the human superior parietal lobe",
+                "cites": "675",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cerebellum is involved in predicting the sensory consequences of action",
+                "cites": "590",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When feeling is more important than seeing in sensorimotor adaptation",
+                "cites": "549",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sources of signal-dependent noise during isometric force production",
+                "cites": "507",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational mechanisms of sensorimotor control",
+                "cites": "462",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the consequences of our own actions: the role of sensorimotor context estimation",
+                "cites": "452",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes of mind in decision-making",
+                "cites": "450",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of execution noise in movement variability",
+                "cites": "443",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are arm trajectories planned in kinematic or dynamic coordinates? An adaptation study",
+                "cites": "421",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction precedes control in motor learning",
+                "cites": "412",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two eyes for an eye: the neuroscience of force escalation",
+                "cites": "362",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for sensory prediction deficits in schizophrenia",
+                "cites": "340",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational principles of sensorimotor control that minimize uncertainty and variability",
+                "cites": "321",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Widespread access to predictive models in the motor system: a short review",
+                "cites": "306",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal models for motor control",
+                "cites": "296",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular decomposition in visuomotor learning",
+                "cites": "288",
+                "year": "1997"
+            },
+            "id_citations": "YM8BRlUAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The scaling of motor noise with muscle strength and motor unit number in humans",
+                "cites": "281",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Failure to consolidate the consolidation theory of learning for sensorimotor adaptation tasks",
+                "cites": "264",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal and amplitude generalization in motor learning",
+                "cites": "241",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The statistics of natural hand movements",
+                "cites": "238",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational motor control",
+                "cites": "237",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of uncertainty in sensorimotor control",
+                "cites": "234",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor control is decision-making",
+                "cites": "225",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor task variation induces structural learning",
+                "cites": "217",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic models in human sensorimotor control",
+                "cites": "214",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Your own action influences how you perceive another person's action",
+                "cites": "210",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kinematics and dynamics are not represented independently in motor working memory: evidence from an interference study",
+                "cites": "210",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The main sequence of saccades optimizes speed-accuracy trade-off",
+                "cites": "203",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensorimotor attenuation by central motor command signals in the absence of movement",
+                "cites": "203",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuroscience of social interaction",
+                "cites": "203",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalization to local remappings of the visuomotor coordinate transformation",
+                "cites": "201",
+                "year": "1996"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activation in posterior superior temporal sulcus parallels parameter inducing the percept of animacy",
+                "cites": "198",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mental state inference using visual control parameters",
+                "cites": "198",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disorders of body scheme",
+                "cites": "194",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical MOSAIC for movement generation",
+                "cites": "194",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cerebellum contributes to somatosensory cortical activity during self-produced tactile stimulation",
+                "cites": "181",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The loss function of sensorimotor learning",
+                "cites": "177",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating functions of probability distributions from a finite set of samples",
+                "cites": "177",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational models of sensorimotor integration",
+                "cites": "175",
+                "year": "1997"
+            },
+            "id_citations": "YM8BRlUAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A modular planar robotic manipulandum with end-point torque control",
+                "cites": "172",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception of the consequences of self-action is temporally tuned and event driven",
+                "cites": "167",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attenuation of self-generated tactile sensations is predictive, not postdictive",
+                "cites": "163",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Specificity of reflex adaptation for task-relevant variability",
+                "cites": "158",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure learning in action",
+                "cites": "156",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual distortion contributes to the curvature of human reaching movements",
+                "cites": "156",
+                "year": "1994"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deliberation in the motor system: reflex gains track evolving evidence leading to a decision",
+                "cites": "154",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for an eye-centered spherical representation of the visuomotor map",
+                "cites": "149",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the origins of suboptimality in human probabilistic inference",
+                "cites": "146",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consolidation of dynamic motor learning is not disrupted by rTMS of primary motor cortex",
+                "cites": "145",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptation to a visuomotor shift depends on the starting posture",
+                "cites": "141",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal representations of temporal statistics and feedback calibrate motor-sensory interval timing",
+                "cites": "134",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impedance control reduces instability that arises from motor noise",
+                "cites": "133",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian integration in force estimation",
+                "cites": "130",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensorimotor prediction and memory in object manipulation.",
+                "cites": "130",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common mechanism underlies changes of mind about decisions and confidence",
+                "cites": "122",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple single unit recording in the cortex of monkeys using independently moveable microelectrodes",
+                "cites": "118",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of inertial sensitivity in motor planning",
+                "cites": "114",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling the statistics of action: obstacle avoidance",
+                "cites": "113",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning",
+                "cites": "111",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning and prediction in a variable environment",
+                "cites": "105",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal control predicts human performance on objects with internal degrees of freedom",
+                "cites": "103",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Near optimal combination of sensory and motor uncertainty in time during a naturalistic perception-action task",
+                "cites": "101",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rhythm generation in monkey motor cortex explored using pyramidal tract stimulation",
+                "cites": "101",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple paired forward-inverse models for human motor learning and control",
+                "cites": "101",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nash equilibria in multi-agent motor interactions",
+                "cites": "96",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive motor learning of temporal delays",
+                "cites": "96",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional magnetic resonance imaging of impaired sensory prediction in schizophrenia",
+                "cites": "91",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kinematic cues in perceptual weight judgement and their origins in box lifting",
+                "cites": "91",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visuomotor feedback gains upregulate during the learning of novel dynamics",
+                "cites": "90",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning optimal adaptation strategies in unpredictable motor tasks",
+                "cites": "89",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal control of redundant muscles in step-tracking wrist movements",
+                "cites": "86",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensorimotor integration compensates for visual localization errors during smooth pursuit eye movements",
+                "cites": "85",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of natural movements are reflected in motor errors",
+                "cites": "83",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cortico-cortical mechanism mediating object-driven grasp in humans",
+                "cites": "82",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effective reinforcement learning following cerebellar damage requires a balance between exploration and motor noise",
+                "cites": "81",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gone in 0.6 seconds: the encoding of motor memories depends on recent sensorimotor states",
+                "cites": "78",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The temporal evolution of feedback gains rapidly update to task demands",
+                "cites": "77",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mere expectation to move causes attenuation of sensory signals",
+                "cites": "77",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of visuomotor displacements on arm movement paths",
+                "cites": "77",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of previous experience on predictive motor control",
+                "cites": "76",
+                "year": "2001"
+            },
+            "id_citations": "YM8BRlUAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context estimation for sensorimotor control",
+                "cites": "76",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal models underlying grasp can be additively combined",
+                "cites": "71",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations of uncertainty in sensorimotor control",
+                "cites": "70",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk-sensitive optimal feedback control accounts for sensorimotor behavior under uncertainty",
+                "cites": "70",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Earthquakes, influenza and cycles of Indian kala-azar",
+                "cites": "70",
+                "year": "1988"
+            },
+            "id_citations": "YM8BRlUAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parallel specification of competing sensorimotor control policies for alternative action options",
+                "cites": "69",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor planning, not execution, separates motor memories",
+                "cites": "68",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:moWhu9_CcosC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of contextual cues on the encoding of motor memories",
+                "cites": "68",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast but fleeting: adaptive motor learning processes associated with aging and cognitive decline",
+                "cites": "67",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deficits in sensory prediction are related to delusional ideation in healthy individuals",
+                "cites": "67",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where does your own action influence your perception of another person's action in the brain?",
+                "cites": "67",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple grasp-specific representations of tool dynamics mediate skillful manipulation",
+                "cites": "66",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and decay of prediction in object manipulation",
+                "cites": "66",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning of novel dynamics is not represented in a single global coordinate system: evaluation of mixed coordinate representations and local learning",
+                "cites": "65",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk-sensitivity in sensorimotor control",
+                "cites": "65",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neuroeconomics approach to inferring utility functions in sensorimotor control",
+                "cites": "65",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computations underlying sensorimotor learning",
+                "cites": "64",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-dependent coordination of rapid bimanual motor responses",
+                "cites": "64",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible representations of dynamics are used in object manipulation",
+                "cites": "60",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor effort alters changes of mind in sensorimotor decision making",
+                "cites": "58",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of somatosensory processing by action",
+                "cites": "57",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rhythmicity, randomness and synchrony in climbing fiber signals",
+                "cites": "55",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why can't you tickle yourself? NeuroReport: For Rapid Communication of Neuroscience Research, 11 (11), R11\u2013R16",
+                "cites": "55",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:R4LAE1HziJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An improvement in perception of self-generated tactile stimuli following theta-burst stimulation of primary motor cortex",
+                "cites": "53",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interference between velocity-dependent and position-dependent force-fields indicates that tasks depending on different kinematic parameters compete for motor working memory",
+                "cites": "53",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Confidence is the bridge between multi-stage decisions",
+                "cites": "52",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:jOyC0gq838wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separate representations of dynamics in rhythmic and discrete movements: evidence from motor learning",
+                "cites": "52",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling down motor memories: de-adaptation after motor learning",
+                "cites": "52",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Facilitation of learning induced by both random and gradual visuomotor task variation",
+                "cites": "51",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk-sensitivity and the mean-variance trade-off: decision making in sensorimotor control",
+                "cites": "51",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk sensitivity in a motor task with speed-accuracy trade-off",
+                "cites": "51",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High\u2010frequency repetitive transcranial magnetic stimulation over the hand area of the primary motor cortex disturbs predictive grip force scaling",
+                "cites": "51",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for an error deadzone in compensatory tracking",
+                "cites": "50",
+                "year": "1992"
+            },
+            "id_citations": "YM8BRlUAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context-dependent partitioning of motor learning in bimanual movements",
+                "cites": "49",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action plan co-optimization reveals the parallel encoding of competing reach movements",
+                "cites": "48",
+                "year": "2015"
+            },
+            "id_citations": "YM8BRlUAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The value of the follow-through derives from motor learning depending on future actions",
+                "cites": "48",
+                "year": "2015"
+            },
+            "id_citations": "YM8BRlUAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transfer of dynamic learning across postures",
+                "cites": "48",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision-making in sensorimotor control",
+                "cites": "45",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:bFFifWiqnPAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TOPS (Task Optimization in the Presence of Signal\u2010Dependent Noise) model",
+                "cites": "45",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theoretical perspectives on active sensing",
+                "cites": "44",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning movements in a simple redundant task",
+                "cites": "42",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context-dependent decay of motor memories during skill acquisition",
+                "cites": "41",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Naturalistic approaches to sensorimotor control",
+                "cites": "40",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ageing increases reliance on sensorimotor prediction through structural and functional differences in frontostriatal circuits",
+                "cites": "39",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active sensing in the categorization of visual patterns",
+                "cites": "39",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social neuroscience",
+                "cites": "39",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial representation of predictive motor learning",
+                "cites": "39",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive tomography reveals complex, task-independent mental representations",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational motor control",
+                "cites": "36",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generalized Thompson sampling for sequential decision-making and causal inference",
+                "cites": "35",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Composition and decomposition in bimanual dynamic learning",
+                "cites": "35",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting chaos with neural networks",
+                "cites": "35",
+                "year": "1990"
+            },
+            "id_citations": "YM8BRlUAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A single-rate context-dependent learning process underlies rapid adaptation to familiar object dynamics",
+                "cites": "33",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous bimanual dynamics are learned without interference",
+                "cites": "33",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Piercing of consciousness as a threshold-crossing operation",
+                "cites": "32",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:uoIO7Ko97q4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure learning in a sensorimotor association task",
+                "cites": "32",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forward models",
+                "cites": "32",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comment on \u201cSingle-trial spike trains in parietal cortex reveal discrete steps during decision-making\u201d",
+                "cites": "31",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring visuomotor priors for sensorimotor learning",
+                "cites": "31",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction: the study of social interactions",
+                "cites": "31",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing what you want to see: priors for one's own actions represent exaggerated expectations of success",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Actions and consequences in bimanual interaction are represented in different coordinate systems",
+                "cites": "26",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor systems",
+                "cites": "26",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fractionation of the visuomotor feedback response to directions of movement and perturbation",
+                "cites": "25",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive attenuation in the perception of touch",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common encoding of novel dynamic loads applied to the hand and arm",
+                "cites": "25",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayes rule in perception, action and cognition",
+                "cites": "23",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple motor memories are learned to control different points on a tool",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:vK1Ni-xiviEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When optimal feedback control is not enough: Feedforward strategies are required for optimal control with active sensing",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:H1wcazwC3NUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor coordination: when two have to act as one",
+                "cites": "22",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cerebellum as a predictive model of the motor system: a Smith Predictor hypothesis",
+                "cites": "22",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ocular limit cycles induced by delayed retinal feedback",
+                "cites": "22",
+                "year": "1993"
+            },
+            "id_citations": "YM8BRlUAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Q&A: Robotics as a tool to understand the brain",
+                "cites": "20",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sequential encoding of competing action goals involves dynamic restructuring of motor plans in working memory",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid visuomotor corrective responses during transport of hand-held objects incorporate novel object dynamics",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal adaptation of visual processing time delays",
+                "cites": "18",
+                "year": "1993"
+            },
+            "id_citations": "YM8BRlUAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of proprioceptive feedback during movement: A PET study of a deafferented subject",
+                "cites": "17",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid automatic motor encoding of competing reach options",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:t_XbbNNkFXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensorimotor learning",
+                "cites": "16",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal models in biological control",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:HM9HXerLlEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Counterfactual reasoning underlies the learning of priors in decision making",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:nk1qRvIppk4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid visuomotor feedback gains are tuned to the task dynamics",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dyGod8kC9dQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of externally generated loading on predictive grip force modulation",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target uncertainty mediates sensorimotor error correction",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:fJljFJTiP-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced crosslimb transfer of force-field learning for dynamics that are identical in extrinsic and joint-based coordinates for both limbs",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The CNS updates its context estimate in the absence of feedback",
+                "cites": "14",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forward dynamic models in human motor control: Psychophysical evidence",
+                "cites": "14",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagery of movements immediately following performance allows learning of motor skills that interfere",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:0PPYGq5nos8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient state-space modularization for planning: theory, behavioral and neural signatures",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hWqix75wD0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic mechanisms in sensorimotor control",
+                "cites": "12",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory attenuation in Parkinson\u2019s disease is related to disease severity and dopamine dose",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Dnd9Dw9jpwAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing motor noise impairs reinforcement learning in healthy individuals",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Dyy3vkn44wwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid target foraging with reach or gaze: The hand looks further ahead than the eye",
+                "cites": "11",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:M9uBOdsrCRgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "31.1: Invited Paper: Programmable Electrostatic Surface for Tactile Perceptions",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selecting optimal behaviors based on contexts",
+                "cites": "11",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal models in human motor control: A computational and psychophysical perspective",
+                "cites": "11",
+                "year": "1997"
+            },
+            "id_citations": "YM8BRlUAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An error-tuned model for sensorimotor learning",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:6UW509z96lEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coordinate representations for interference reduction in motor learning",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "YM8BRlUAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal control: When redundancy matters",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing the optimal trajectory of arm movement: the TOPS (task optimization in the presence of signal-dependent noise) model",
+                "cites": "10",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor systems: reaching out and grasping the molecular tools",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feedback modulation: a window into cortical function",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changing your mind: a computational mechanism of vacillation",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian statistics and utility functions in sensorimotor control",
+                "cites": "8",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding, imitating and influencing the actions of others: the mechanisms of social interaction-Introduction",
+                "cites": "8",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:53CL4OiWbn0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognition and imitation of movement patterns by a multiple predictor-controller architecture",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid visuomotor responses reflect value-based decisions",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:a67U_wXq1t0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grip force when reaching with target uncertainty provides evidence for motor optimization over averaging",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:wxMeWMEqLDMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning models",
+                "cites": "7",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational structure of coordinate transformations: A generalization study",
+                "cites": "7",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing muscle co-contraction speeds up internal model acquisition during dynamic motor learning",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Afq3j1Mvmz0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurophysiology: cerebral carbon copies",
+                "cites": "6",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sensorimotor system can sculpt behaviorally relevant representations for motor learning",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive coupling influences generalization of sensorimotor learning",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:bsCEZ5n1K3cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selection and control of limb posture for stability",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mirror neurons: Key for mental simulation?",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:yyP9NS4UN-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separate motor memories are formed when controlling different implicitly specified locations on a tool",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:G9rRreC9Hv4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning decline with age is related to differences in the explicit memory system",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:kMwF0kOiZPMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computations in sensorimotor learning",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic inference in human sensorimotor processing",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unimodal statistical learning produces multimodal object-like representations",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_sH1KHQ1xKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response to Kitazawa and Wolpert: Rhythmicity, randomness and synchrony in climbing fiber signals",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding, Imitating and Influencing the Actions of Others: The Mechanisms of Social Interaction: Papers of a Theme Issue",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:JNgBMBbBnUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cerebellum is involved in predicting the sensory consequences of action",
+                "cites": "2",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why can't we tickle ourselves? An fMRI study",
+                "cites": "2",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational principles of multisensory integration: Studies of adaptation to novel visuo-auditory remappings",
+                "cites": "2",
+                "year": "1995"
+            },
+            "id_citations": "YM8BRlUAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model-free robust optimal feedback mechanisms of biological motor control",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "YM8BRlUAAAAJ:PQm_lTwdG-sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual geometry of a tool modulates generalization during adaptation",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:8d0RQTsQA7wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceiving Through Moving? A Conceptual and Empirical Critique of Enactivism",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the neural basis of sensory prediction deficits in schizophrenia using fMRI",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SHORT COMMUNICATION High-frequency repetitive transcranial magnetic stimulation over the hand area of the primary motor cortex disturbs predictive grip force scaling",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:p7yqEQnaZsQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maps, modules, and internal models in human motor control",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of corticospinal activation on 15-35 hz oscillatory activity in macaque motor cortex",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Illusory warping of space during smooth pursuit eye movements",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overcoming time delays in visuomotor control.",
+                "cites": "1",
+                "year": "1992"
+            },
+            "id_citations": "YM8BRlUAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human decision making anticipates future performance in motor learning",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "YM8BRlUAAAAJ:LYW2S8xaXYEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related reduction in motor adaptation: brain structural correlates and the role of explicit memory",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "YM8BRlUAAAAJ:lCdzyD0WTL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual geometry of a tool modulates generalization during adaptation",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hr3fuUPBhqIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum to \u201cModulation of somatosensory processing by action\u201d.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:wNiDLpJVIZAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of somatosensory processing by action (vol 70, pg 356, 2013)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:pf0VL3QzzAAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum to \u201cModulation of somatosensory processing by action\u201d[Elsevier, 70 (2013) 356-362](S1053811912012293)(10.1016/j. neuroimage. 2012.12. 043)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "YM8BRlUAAAAJ:eRtW2U1rV1UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "27th Annual Computational Neuroscience Meeting (CNS* 2018): Part Two",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:m6EE8XZ9-ZkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uber psychologische und methodische Grundlagen der Lautheit",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "YM8BRlUAAAAJ:5MWWCdJses0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: Active sensing in the categorization of visual patterns",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:jMMVlDWEh88C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gaze behaviour reveals the specification of competing reach movements under conditions of target uncertainty",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:IEPzPICaOQQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual decision making from correlated samples.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:GufwhD5tNfUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory attenuation is related to dopamine dose in Parkinson\u2019s disease",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:TXeVt8n0jncC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PowerPoint Instructions for\" Piercing of consciousness as a threshold crossing operation\"",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:L2DjCdFNi3gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data for\" Piercing of consciousness as a threshold crossing operation\"",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "YM8BRlUAAAAJ:wTlTSBh5aqwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A common mechanism underlies changes of mind about decisions and confidence",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:q2fMW1XeUkEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On optimal estimation from correlated samples",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "YM8BRlUAAAAJ:A36e8EsbUSoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "and David W. Franklin 2, 3",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "YM8BRlUAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor learning of novel dynamics is not represented in",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ax16qXk-rEQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neil MT Houlsby, Ferenc Husz\u00e1r, Mohammad M. Ghassemi, Gergo Orb\u00e1n",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (December 18, 2013). doi: 10.1152/jn. 00493.2013",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ocFeo90gyj0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (February 27, 2013). doi: 10.1152/jn. 00773.2012",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:vf0YIhSwahgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SEEING WHAT YOU WANT TO SEE: A BAYESIAN ACCOUNT",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "YM8BRlUAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maps, Modules, and Internal Models",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "YM8BRlUAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Articles in PresS. J Neurophysiol (January 27, 2011). doi: 10.1152/jn. 00780.2010",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:qqRC41JmxUcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Single-Rate Context-Dependent Learning Process Underlies Rapid Adaptation to Familiar",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "YM8BRlUAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Q&A: Robotics as a tool to understand the brain",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:zEEUHg7m05MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mindblind Eyes: An Absence of Spontaneous Theory of Mind in Asperger Syndrome",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Hf1drVALF3gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural Learning in Motor Control",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:7GbmjkRdlf4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AN FMRI STUDY OF PREDICTIVE MOTOR MODELS IN SCHIZOPHRENIA",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "YM8BRlUAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor Adaptation to Single Force Pulses: Sensitive to Direction but Insensitive to Within-Movement Pulse Placement and Magnitude",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "YM8BRlUAAAAJ:0GenKHZIuKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural Learning in Visuomotor Tasks with Randomly Changing Task Parameters",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Keynote Lectures",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "YM8BRlUAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General discussion II",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General discussion IV",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General discussion III",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Final general discussion",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General discussion I",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic mechanisms in",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "YM8BRlUAAAAJ:t5t9nzMiR1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activation in superior temporal sulcus parallels a parameter inducing the percept of animacy",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chaos versus randomness",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "For personal use only--not for reproduction",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic mechanisms in sensorimotor control",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where do your own actions influence the perception of other people's actions in the brain?",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "YM8BRlUAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity in posterior superior temporal gyrus correlates inversely with kinematic information during observation of human actions",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATTENTION EFFECTS ON SUPERIOR TEMPORAL SULCUS AND GYRUS ACTIVATION DURING OBSERVATION OF INTENTIONAL OBJECTS: TH 144",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:V2uI0bKpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The body scheme.",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of interacting objects by the human brain",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PSYCHOLOGY: Two Eyes for an Eye: The Neuroscience of Force Escalation",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "YM8BRlUAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of Mimed and Real action perception",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BEHAVIORAL/SYSTEMS",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "YM8BRlUAAAAJ:My6PM0vftjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The coding of movements in primary motor cortex: a TMS study",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple linear controllers for nonlinear and nonstationary dynamics",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Planning movements in a simple redundant task",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A minimum variance model or obstacle avoidance",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localisation during smooth-pursuit eye movements: different retinal areas are integrated with gaze signals from different moments in time",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "YM8BRlUAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robotica antropomorfa website",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:B9zx5l6rxUEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anthropomorphic robotics website",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "YM8BRlUAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Re-planning and execution of externally cued movements",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "YM8BRlUAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "approaches to motor control",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "YM8BRlUAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE CURVATURE OF POINT-TO-POINT ARM MOVEMENTS AND PERCEPTION OF CURVATURE IN BLIND SUBJECTS",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "YM8BRlUAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ADAPTATION TO VISUAL PROCESSING TIME DELAYS MEASURED WITH THE PULFRICH EFFECT",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "YM8BRlUAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagery of movements immediately following performance",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:PflRiyi98mgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidenceforan Error Deadzone inCompensatoryTracking",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:RLNBYFRFzK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional Magnetic Resonance Imaging of Impaired Sensory Prediction in SchizophreniaImpaired Sensory Prediction in SchizophreniaImpaired Sensory Prediction in Schizophrenia",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:1GbOEZ86UTAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Test Case for DNA Barcodes to Identify Species",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:oA8UEeFZdjYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training videos for subjective decision time",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:lZkERF9nS_wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S1 Text: Supplementary Materials for",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:voxG-9qLvA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient state-space modularization for planning: theory, behavioral and neural signatures\u2014supplementary material\u2014",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:wXCFTzxW9NYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How far can you go with sensorimotor toolboxes?",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing the sources of suboptimality in human Bayesian inference",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Q. Why do we have a brain?",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal coordinate representations for motor adaptation and interference reduction",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Information Context-Dependent Decay of Motor Memories during Skill Acquisition",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are limb properties tuned in anticipation of dynamic events?",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational structure of coordinate transformations: A generalization study Zoubin Ghahramani zoubin@ psyche. mit. edu",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chapter Title: Sensorimotor Learning Short Title: Sensorimotor Learning",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The statistics of sensorimotor tasks and motor errors",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistics of sensorimotor tasks predicts motor errors",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Inference in Human Sensorimotor Processing",
+                "cites": "0"
+            },
+            "id_citations": "YM8BRlUAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=YM8BRlUAAAAJ"
+}
