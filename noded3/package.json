@@ -1,0 +1,17 @@
+{
+  "name": "585b2b94b29d2f4e",
+  "main": "585b2b94b29d2f4e@336.js",
+  "version": "336.0.0",
+  "homepage": "https://observablehq.com/d/585b2b94b29d2f4e",
+  "author": {
+    "name": "Daniel Hasegan",
+    "url": "https://observablehq.com/@dhasegan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  },
+  "dependencies": {
+    "@observablehq/runtime": "^4.7.3"
+  }
+}
