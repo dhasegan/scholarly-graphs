@@ -61,7 +61,7 @@ def serialize_author(author):
     }
 
 
-def process_row(row):
+def process_row(row, patterns=None):
     try:
         print('Processing Row', row['name'])
         val = _get_in('scan, next, or break s/n/b: ', ['s', 'b', 'n'])
@@ -75,6 +75,14 @@ def process_row(row):
             _sleep()
             for detail in scholarly.search_author(name):
                 print(detail)
+                if patterns:
+                    for pattern in patterns:
+                        for field in [detail.email, detail.affiliation]:
+                            if field and pattern in field.lower():
+                                found_detail = detail
+                                break
+                    if found_detail:
+                        break
                 val = _get_in('select, continue, next, or break s/c/n/b: ', ['s', 'c', 'n', 'b'])
                 if val == 's':
                     found_detail = detail
@@ -98,14 +106,17 @@ def process_row(row):
         if val in ['n', 'b']:
             return val
         elif val == 'r':
-            process_row(row)
+            process_row(row, patterns)
 
     return 'n'
 
-def run(input_path, output_dir, start_at=0, run_proxy=False):
+def run(input_path, output_dir, patterns=None, start_at=0, run_proxy=False):
     if run_proxy:
         proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()  
         scholarly.use_proxy(http=proxy, https=proxy)
+
+    if type(patterns) == str:
+        patterns = patterns.split(',')
 
     rows = []
     with open(input_path) as f:
@@ -117,7 +128,7 @@ def run(input_path, output_dir, start_at=0, run_proxy=False):
         if os.path.isfile(filename):
             continue
 
-        val = process_row(row)
+        val = process_row(row, patterns)
         if val == 'n':
             continue
         elif val == 'b':
