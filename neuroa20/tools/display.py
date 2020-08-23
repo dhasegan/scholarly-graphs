@@ -131,18 +131,20 @@ def run(input_dirs, output_file, sort_mechanism='citedby'):
             rows.append(row)
 
     rows = sorted(rows, key=lambda x:x[sort_mechanism], reverse=True)
+    rows_names = [r['name'] for r in rows]
 
     coauthors = {}
     for row in rows:
         for coauthor in row['coauthors']:
             ca_id = coauthor['name'] + coauthor['affiliation']
-            if ca_id not in coauthors:
+            if ca_id not in coauthors and coauthor['name'] not in rows_names:
                 coauthors[ca_id] = {
                     'name': coauthor['name'],
                     'affiliation': coauthor['affiliation'],
                     'links': []
                 }
-            coauthors[ca_id]['links'].append(row['name'])
+            if ca_id in coauthors:
+                coauthors[ca_id]['links'].append(row['name'])
 
     coauthors = sorted(list(coauthors.items()), key=lambda x:len(x[1]['links']), reverse=True)
 
