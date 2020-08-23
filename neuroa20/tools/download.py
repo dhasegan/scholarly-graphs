@@ -8,17 +8,8 @@ import fire
 from scholarly import scholarly
 from fp.fp import FreeProxy
 
-def _sleep():
-    wait_time = random.randint(1, 10)
-    print('waiting...', wait_time)
-    time.sleep(wait_time)
+from neuroa20.libs.user_input import _sleep, _get_in
 
-def _get_in(text, opts):
-    while True:
-        val = input(text)
-        if val in opts:
-            break
-    return val
 
 def serialize_coauthor(coauthor):
     return {
