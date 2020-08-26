@@ -56,9 +56,23 @@ def _display_row(row):
     top_papers = '\n'.join([
         ''.join([tp_li_start, _display_pub(pub), '</li>']) for pub in row['publications'][:10]])
 
+    sort_by_year = lambda arr: sorted(
+        arr,
+        key=lambda pub: int(pub['bib']['year']) * 1000 + min(int(pub['bib']['cites']), 999) if 'year' in pub['bib'] and 'cites' in pub['bib'] else 0,
+        reverse=True)
+    latest_papers = '\n'.join([
+        ''.join([tp_li_start, _display_pub(pub), '</li>']) for pub in sort_by_year(row['publications'])[:10]])
+
+    first_year_published = 999999
+    for pub in row['publications']:
+        if 'year' in pub['bib'] and first_year_published > int(pub['bib']['year']):
+            first_year_published = int(pub['bib']['year'])
+    first_year_published_html = "<h5> Starting year: {} </h5>".format(first_year_published) if first_year_published < 999999 else ''
+
     i_li_start = '<li class="list-group-item">'
     interests = '\n'.join([
         ''.join([i_li_start, interest, '</li>']) for interest in row['interests']])
+
 
     brain_inspired = ''
     if 'brain_inspired' in row:
@@ -67,10 +81,15 @@ def _display_row(row):
             row['brain_inspired']['title'],
             row['brain_inspired']['text'])
 
+    notes = ''
+    if 'notes' in row:
+        notes = '<h5> Notes </h5> <p> {} </p>'.format(row['notes'])
+
     return """
     <h1 id='{}'> {} </h1>
     <h3> {} </h3>
     <h6> cited: {} (5y: {}); hindex: {} </h6>
+    {}
 
     <div>
         <h6> Interests </h6>
@@ -84,14 +103,23 @@ def _display_row(row):
     </div>
 
     <div>
+        {}
+    </div>
+
+    <div>
         <h6> Top Papers </h6>
+        <ul class="list-group">
+            {}
+        </ul>
+
+        <h6> Latest Papers </h6>
         <ul class="list-group">
             {}
         </ul>
     </div>
 
     """.format(_row_id(row), row['name'], row['affiliation'], row['citedby'], row['citedby5y'], row['hindex'],
-        interests, brain_inspired, top_papers)
+        first_year_published_html, interests, brain_inspired, notes, top_papers, latest_papers)
 
 def _display_coauthors(coauthors):
     displayed = ''

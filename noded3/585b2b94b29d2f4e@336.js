@@ -1,8 +1,15 @@
 import define1 from "./a33468b95d0b15b0@695.js";
 
 export default function define(runtime, observer) {
+
+  const file_megan_peters = 'megan_peters.tsv';
+  const file_email_filter = 'email_filter.tsv';
+  const file_nyu = 'nyu_dope1.tsv';
+  const file_nyu_ns = 'nyu_NS2.tsv';
+  const picked_filename = `./files/${file_nyu_ns}`;
+
   const main = runtime.module();
-  const fileAttachments = new Map([["table.tsv",new URL("./files/aab4366cc0cae2b2289c37e5c86d719086bfbad5d3c52f1219750697d6f61bc0123e0a254381a3f6bb31bbfb4c5289b17bed44582df035c4e0e58e2bcfe96757",import.meta.url)]]);
+  const fileAttachments = new Map([["table.tsv", new URL(picked_filename,import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){return(
 md`# Graph of Neuroscientists
@@ -22,7 +29,7 @@ swatches({color})
 
   const simulation = d3.forceSimulation(nodes)
       .force("link", d3.forceLink(links).id(d => d.id))
-      .force("charge", d3.forceManyBody().strength(-100))
+      .force("charge", d3.forceManyBody().strength(-150))
       .force("x", d3.forceX())
       .force("y", d3.forceY());
 

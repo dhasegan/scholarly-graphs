@@ -5,7 +5,7 @@ import random
 import os
 import fire
 
-from neuroa20.libs.google_scholar import read_dirs
+from neuroa20.libs.google_scholar import read_dirs, get_prof
 
 def _add_link(links, a1, a2):
     if a1 not in links:
@@ -33,13 +33,15 @@ def create_table(
         out_filename,
         email_filter=False,
         person_filter=None,
-        person_filter_count=1):
-    items = read_dirs(google_scholar_dir)
+        person_filter_count=1,
+        list_filename_filter=None,
+        list_filename_filter_count=1):
+    scholars = read_dirs(google_scholar_dir)
 
     emails = {}
     links = {}
 
-    for item in items:
+    for item in scholars:
         n1 = item['name']
         emails[n1] = item['email']
         for coauthor in item['coauthors']:
@@ -47,14 +49,22 @@ def create_table(
             links = _add_link(links, n1, n2)
             links = _add_link(links, n2, n1)
 
-    person_filter_authors = _get_person_filter_authors(links, person_filter, person_filter_count)
+    filter_authors = _get_person_filter_authors(links, person_filter, person_filter_count)
+    orig_authors = []
+    if list_filename_filter:
+        with open(list_filename_filter) as f:
+            for row in csv.DictReader(f):
+                prof = get_prof(scholars, row['name'])
+                if prof and prof['name'] in links:
+                    orig_authors.append(prof['name'])
+                    filter_authors += _get_person_filter_authors(links, prof['name'], list_filename_filter_count)
 
     table = []
-    _get_email = lambda x: emails[x].split('.')[-1] if x in emails else '-'
+    _get_email = lambda x: 'orig' if x in orig_authors else (emails[x].split('.')[-1] if x in emails else '-')
     for a1, a1_co in links.items():
         for a2 in a1_co:
             if (not email_filter or (_get_email(a1) != '-' and _get_email(a2) != '-')) and \
-               (not person_filter_authors or (a1 in person_filter_authors and a2 in person_filter_authors)) and \
+               (not filter_authors or (a1 in filter_authors and a2 in filter_authors)) and \
                a1 < a2:
                     table.append([a1, _get_email(a1), a2, _get_email(a2)])
 
