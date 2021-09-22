@@ -44,18 +44,32 @@ def html(content):
 def _row_id(row):
     return row['name'].lower().replace(' ', '_')
 
-def _display_pub(pub):
-    bib = pub['bib']
-    year = bib['year'] + ', ' if 'year' in bib else ''
+def _pub_cites(pub):
     cites = None
-    if 'cites' in bib:
-      cites = bib['cites']
+    if 'cites' in pub['bib']:
+      cites = int(pub['bib']['cites'])
     if 'num_citations' in pub:
-      cites = str(pub['num_citations'])
+      cites = pub['num_citations']
+    return cites
+
+def _pub_year(pub):
+  if 'year' in pub['bib']:
+    return pub['bib']['year']
+  if 'pub_year' in pub['bib']:
+    return pub['bib']['pub_year']
+  return None
+
+
+def _display_pub(pub):
+    year = _pub_year(pub)
+    cites = str(_pub_cites(pub))
     return """
     {}{}
     <span class="badge badge-primary badge-pill">{}</span>
-""".format(year, bib['title'], cites if len(cites) < 6 else '-')
+""".format(
+  year + ', ' if year else '',
+  pub['bib']['title'],
+  cites if len(cites) < 6 else '-')
 
 
 def _display_row(row):
@@ -66,7 +80,7 @@ def _display_row(row):
 
     sort_by_year = lambda arr: sorted(
         arr,
-        key=lambda pub: int(pub['bib']['year']) * 1000 + min(int(pub['bib']['cites']), 999) if 'year' in pub['bib'] and 'cites' in pub['bib'] else 0,
+        key=lambda pub: int(_pub_year(pub) or 0) * 1000 + min(_pub_cites(pub) or 0, 999),
         reverse=True)
     latest_papers = '\n'.join([
         ''.join([tp_li_start, _display_pub(pub), '</li>']) for pub in sort_by_year(row['publications'])[:10]])
