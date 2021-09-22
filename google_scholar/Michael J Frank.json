@@ -1,0 +1,4385 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "counts",
+        "basics",
+        "indices",
+        "publications",
+        "coauthors"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "f-xyFpUAAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=f-xyFpUAAAAJ",
+    "name": "Michael J Frank",
+    "affiliation": "Professor, Brown University",
+    "email_domain": "@brown.edu",
+    "interests": [
+        "Computational Psychiatry",
+        "Dopamine",
+        "Cognitive Control",
+        "Reinforcement Learning",
+        "Computational Neuroscience"
+    ],
+    "citedby": 29679,
+    "cites_per_year": {
+        "2005": 87,
+        "2006": 195,
+        "2007": 355,
+        "2008": 564,
+        "2009": 829,
+        "2010": 919,
+        "2011": 1290,
+        "2012": 1598,
+        "2013": 1692,
+        "2014": 1983,
+        "2015": 2350,
+        "2016": 2357,
+        "2017": 2726,
+        "2018": 2994,
+        "2019": 3014,
+        "2020": 3294,
+        "2021": 2979
+    },
+    "citedby5y": 17430,
+    "hindex": 84,
+    "hindex5y": 68,
+    "i10index": 172,
+    "i10index5y": 167,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "By carrot or by stick: cognitive reinforcement learning in parkinsonism",
+                "pub_year": "2004"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1886,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5770261663400253775,10844261050247905823",
+            "cites_id": [
+                "5770261663400253775",
+                "10844261050247905823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal theta as a mechanism for cognitive control",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hkOj_22Ku90C",
+            "num_citations": 1247,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7661281959973595930",
+            "cites_id": [
+                "7661281959973595930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Making working memory work: a computational model of learning in the prefrontal cortex and basal ganglia",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1068,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5436275443219488449",
+            "cites_id": [
+                "5436275443219488449"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hold your horses: impulsivity, deep brain stimulation, and medication in parkinsonism",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1025,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17731558063745084614",
+            "cites_id": [
+                "17731558063745084614"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Triangulating a cognitive control network using diffusion-weighted magnetic resonance imaging (MRI) and functional MRI",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 987,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4245680834011904811",
+            "cites_id": [
+                "4245680834011904811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic dopamine modulation in the basal ganglia: a neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 947,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5522343897319847516",
+            "cites_id": [
+                "5522343897319847516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactions between frontal cortex and basal ganglia in working memory: a computational model",
+                "pub_year": "2001"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 938,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16245463690960812049",
+            "cites_id": [
+                "16245463690960812049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hold your horses: a dynamic computational role for the subthalamic nucleus in decision making",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 681,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10283463776036298764",
+            "cites_id": [
+                "10283463776036298764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From reinforcement learning models to psychiatric and neurological disorders",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 644,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11435771553740641746",
+            "cites_id": [
+                "11435771553740641746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anatomy of a decision: striato-orbitofrontal interactions in reinforcement learning, decision making, and reversal.",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 638,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16654297544076147369",
+            "cites_id": [
+                "16654297544076147369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic triple dissociation reveals multiple roles for dopamine in reinforcement learning",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 611,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12802252912472509750",
+            "cites_id": [
+                "12802252912472509750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational psychiatry as a bridge from neuroscience to clinical applications",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:L1USKYWJimsC",
+            "num_citations": 604,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9246009350391816514",
+            "cites_id": [
+                "9246009350391816514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HDDM: Hierarchical Bayesian estimation of the drift-diffusion model in Python",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 574,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17737314623978403194",
+            "cites_id": [
+                "17737314623978403194"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subthalamic nucleus stimulation reverses mediofrontal influence over decision threshold",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 502,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9979085418763102097",
+            "cites_id": [
+                "9979085418763102097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mechanistic account of striatal dopamine function in human cognition: psychopharmacological studies with cabergoline and haloperidol.",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 438,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2973334098002521210",
+            "cites_id": [
+                "2973334098002521210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error-related negativity predicts reinforcement learning and conflict biases",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 437,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=636879915616162716",
+            "cites_id": [
+                "636879915616162716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prefrontal and striatal dopaminergic genes predict individual differences in exploration and exploitation",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:roLk4NBRz8UC",
+            "num_citations": 433,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5556796647526403713,12221061594195478011,987720902455218303",
+            "cites_id": [
+                "5556796647526403713",
+                "12221061594195478011",
+                "987720902455218303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an executive without a homunculus: computational models of the prefrontal cortex/basal ganglia system",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 429,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8080953695182318921",
+            "cites_id": [
+                "8080953695182318921"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal theta links prediction errors to behavioral adaptation in reinforcement learning",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4TOpqqG69KYC",
+            "num_citations": 380,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6474530991703126585",
+            "cites_id": [
+                "6474530991703126585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Banishing the homunculus: making working memory work",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 353,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12436959717355987554",
+            "cites_id": [
+                "12436959717355987554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative symptoms of schizophrenia are associated with abnormal effort-cost computations",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 340,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4358543291413376493",
+            "cites_id": [
+                "4358543291413376493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Striatal dopamine predicts outcome-specific reversal learning and its sensitivity to dopaminergic drug administration",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:UebtZRa9Y70C",
+            "num_citations": 338,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8577597045359603957",
+            "cites_id": [
+                "8577597045359603957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How much of reinforcement learning is working memory, not reinforcement learning? A behavioral, computational, and neurogenetic analysis",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:lSLTfruPkqcC",
+            "num_citations": 323,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2219047198282649164",
+            "cites_id": [
+                "2219047198282649164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selective reinforcement learning deficits in schizophrenia support predictions from computational models of striatal-cortical dysfunction",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 314,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11723680825512478102",
+            "cites_id": [
+                "11723680825512478102"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A computational model of inhibitory control in frontal cortex and basal ganglia.",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:_xSYboBqXhAC",
+            "num_citations": 312,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5697913797034247981,6666522126889722477",
+            "cites_id": [
+                "5697913797034247981",
+                "6666522126889722477"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pupillometric and behavioral markers of a developmental shift in the temporal dynamics of cognitive control",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:aqlVkmm33-oC",
+            "num_citations": 284,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12268130489621209783",
+            "cites_id": [
+                "12268130489621209783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cognitive control over learning: creating, clustering, and generalizing task-set structure.",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:f2IySw72cVMC",
+            "num_citations": 277,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6675257761680858003",
+            "cites_id": [
+                "6675257761680858003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Seeing is believing: Trustworthiness as a dynamic belief",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 264,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5436712437521594091",
+            "cites_id": [
+                "5436712437521594091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Opponent actor learning (OpAL): modeling interactive effects of striatal dopamine on reinforcement learning and choice incentive.",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WqliGbK-hY8C",
+            "num_citations": 259,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15021302925332102351",
+            "cites_id": [
+                "15021302925332102351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single dose of a dopamine agonist impairs reinforcement learning in humans: behavioral evidence from a laboratory-based measure of reward responsiveness",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 259,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7248130431237108063",
+            "cites_id": [
+                "7248130431237108063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanisms of hierarchical reinforcement learning in corticostriatal circuits 1: computational analysis",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 258,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7249483136088091526",
+            "cites_id": [
+                "7249483136088091526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative symptoms and the failure to represent the expected reward value of actions: behavioral and computational modeling evidence",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 255,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16324189718010587430",
+            "cites_id": [
+                "16324189718010587430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neurocomputational models of basal ganglia function in learning, memory and choice",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Se3iqnhoufwC",
+            "num_citations": 249,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8014901440365768577",
+            "cites_id": [
+                "8014901440365768577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hippocampus, cortex, and basal ganglia: Insights from computational models of complementary learning systems",
+                "pub_year": "2004"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 242,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2534405673774421078",
+            "cites_id": [
+                "2534405673774421078"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Testing computational models of dopamine and noradrenaline dysfunction in attention deficit/hyperactivity disorder",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 212,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5684744382649686298",
+            "cites_id": [
+                "5684744382649686298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Instructional control of reinforcement learning: a behavioral and neurocomputational investigation",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Zph67rFs4hoC",
+            "num_citations": 208,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=522941911403062271",
+            "cites_id": [
+                "522941911403062271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Common medial frontal mechanisms of adaptive control in humans and rodents",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 207,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7478736162686005944",
+            "cites_id": [
+                "7478736162686005944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deficits in positive reinforcement learning and uncertainty-driven exploration are associated with distinct aspects of negative symptoms in schizophrenia",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 203,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13715447525806739740",
+            "cites_id": [
+                "13715447525806739740"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eye tracking and pupillometry are indicators of dissociable latent decision processes.",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:LjlpjdlvIbIC",
+            "num_citations": 201,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11205999991951800848",
+            "cites_id": [
+                "11205999991951800848"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopaminergic genes predict individual differences in susceptibility to confirmation bias",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:HDshCWvjkbEC",
+            "num_citations": 195,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15316716601842386652",
+            "cites_id": [
+                "15316716601842386652"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Freezing of gait in Parkinson\u2019s disease is associated with functional decoupling between the cognitive control network and the basal ganglia",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:HE397vMXCloC",
+            "num_citations": 194,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12819494989382786689",
+            "cites_id": [
+                "12819494989382786689"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neurogenetics and pharmacology of learning, motivation, and cognition",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 194,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14170724233844233098",
+            "cites_id": [
+                "14170724233844233098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impulse control disorders and levodopa-induced dyskinesias in Parkinson's disease: an update",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:uVUOdF_882EC",
+            "num_citations": 188,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17034640865685176283,2089520351896358166",
+            "cites_id": [
+                "17034640865685176283",
+                "2089520351896358166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal theta reflects uncertainty and unexpectedness during exploration and exploitation",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 188,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17881235230599423928",
+            "cites_id": [
+                "17881235230599423928"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rostrolateral prefrontal cortex and individual differences in uncertainty-driven exploration",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 187,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16863737778978280500",
+            "cites_id": [
+                "16863737778978280500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dopaminergic basis for working memory, learning and attentional shifting in Parkinsonism",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:8k81kl-MbHgC",
+            "num_citations": 183,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10337166007927751503",
+            "cites_id": [
+                "10337166007927751503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational models of motivated action selection in corticostriatal circuits",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:TFP_iSt0sucC",
+            "num_citations": 182,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14585251552970150880",
+            "cites_id": [
+                "14585251552970150880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An integrative perspective on the role of dopamine in schizophrenia",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:AXkvAH5U_nMC",
+            "num_citations": 178,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2150786312336056409",
+            "cites_id": [
+                "2150786312336056409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "fMRI and EEG predictors of dynamic decision parameters during human reinforcement learning",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:kh2fBNsKQNwC",
+            "num_citations": 178,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11546452665857796065",
+            "cites_id": [
+                "11546452665857796065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding decision-making deficits in neurological conditions: insights from models of natural action selection",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 178,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14445013188901659763",
+            "cites_id": [
+                "14445013188901659763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanisms of hierarchical reinforcement learning in cortico\u2013striatal circuits 2: Evidence from fMRI",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 177,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12793360274272122032",
+            "cites_id": [
+                "12793360274272122032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-based cognitive neuroscience approaches to computational psychiatry: clustering and classification",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:IUKN3-7HHlwC",
+            "num_citations": 168,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8420894442833186172",
+            "cites_id": [
+                "8420894442833186172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal theta overrides pavlovian learning biases",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:XiSMed-E-HIC",
+            "num_citations": 164,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9264759323040595129",
+            "cites_id": [
+                "9264759323040595129"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement-based decision making in corticostriatal circuits: mutual constraints by neurocomputational and diffusion models",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 162,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9763162100200301881",
+            "cites_id": [
+                "9763162100200301881"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approach and avoidance learning in patients with major depression and healthy controls: relation to anhedonia",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 162,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3395914852222332057",
+            "cites_id": [
+                "3395914852222332057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transitivity, flexibility, conjunctive representations, and the hippocampus. II. A computational analysis",
+                "pub_year": "2003"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 159,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4707624526881481953",
+            "cites_id": [
+                "4707624526881481953"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning to avoid in older age.",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:_kc_bZDykSQC",
+            "num_citations": 155,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6276912867567093270",
+            "cites_id": [
+                "6276912867567093270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Working memory contributions to reinforcement learning impairments in schizophrenia",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:NJ774b8OgUMC",
+            "num_citations": 152,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426313673814724566",
+            "cites_id": [
+                "7426313673814724566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When memory fails, intuition reigns: Midazolam enhances implicit inference in humans",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:5nxA0vEk-isC",
+            "num_citations": 152,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9376421637541710415",
+            "cites_id": [
+                "9376421637541710415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motor symptoms in Parkinson\u2019s disease: A unified framework",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:HGTzPopzzJcC",
+            "num_citations": 151,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=464162131263792781",
+            "cites_id": [
+                "464162131263792781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Charting the landscape of priority problems in psychiatry, part 1: classification and diagnosis",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:a3BOlSfXSfwC",
+            "num_citations": 144,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16519315075031261213",
+            "cites_id": [
+                "16519315075031261213"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PVLV: the primary value and learned value Pavlovian learning algorithm.",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:0EnyYjriUFMC",
+            "num_citations": 140,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3883027382904137446",
+            "cites_id": [
+                "3883027382904137446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corticostriatal output gating during selection from working memory",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:N5tVd3kTz84C",
+            "num_citations": 139,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12490289747893694177",
+            "cites_id": [
+                "12490289747893694177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single dose of a dopamine agonist impairs reinforcement learning in humans: Evidence from event\u2010related potentials and computational modeling of striatal\u2010cortical function",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 136,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1951692299732933876",
+            "cites_id": [
+                "1951692299732933876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic contributions to avoidance-based decisions: striatal D2 receptor polymorphisms",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 134,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16944230403807462460",
+            "cites_id": [
+                "16944230403807462460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Striatal D1 and D2 signaling differentially predict learning from positive and negative outcomes",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Ri6SYOTghG4C",
+            "num_citations": 132,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13085260510651793934",
+            "cites_id": [
+                "13085260510651793934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple systems in decision making: A neurocomputational perspective",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 132,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3839414332001554261",
+            "cites_id": [
+                "3839414332001554261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A role for dopamine in temporal decision making and reward maximization in parkinsonism",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 125,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17049909309093088851",
+            "cites_id": [
+                "17049909309093088851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How preparation changes the need for top\u2013down control of the basal ganglia when inhibiting premature actions",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 124,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=702185604222939254",
+            "cites_id": [
+                "702185604222939254"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Task-related dissociation in ERN amplitude as a function of obsessive\u2013compulsive symptoms",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4DMP91E08xMC",
+            "num_citations": 123,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5559799971433967744",
+            "cites_id": [
+                "5559799971433967744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Altered probabilistic learning and response biases in schizophrenia: behavioral evidence and neurocomputational modeling.",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 122,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3459742034451043716",
+            "cites_id": [
+                "3459742034451043716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stress modulates reinforcement learning in younger and older adults.",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 121,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8200051384771535455",
+            "cites_id": [
+                "8200051384771535455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Cognitive Neuroscience",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:mWEH9CqjF64C",
+            "num_citations": 118,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7280062123863203033,10993957904342807243",
+            "cites_id": [
+                "7280062123863203033",
+                "10993957904342807243"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The drift diffusion model as the choice rule in reinforcement learning",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:3bvyWxjaHKcC",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6494578346629073869",
+            "cites_id": [
+                "6494578346629073869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural mechanisms of acquired phasic dopamine responses in learning",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16916249905590853369",
+            "cites_id": [
+                "16916249905590853369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acute stress selectively reduces reward sensitivity",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:P5F9QuxV20EC",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8457387813858647739",
+            "cites_id": [
+                "8457387813858647739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neurocomputational models of motor and cognitive deficits in Parkinson\u2019s disease",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 102,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7123940503047787320",
+            "cites_id": [
+                "7123940503047787320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When logic fails: Implicit transitive inference in humans",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 101,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4866545524824429748",
+            "cites_id": [
+                "4866545524824429748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variability in dopamine genes dissociates model-based and model-free reinforcement learning",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:CB2v5VPnA5kC",
+            "num_citations": 99,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11285714409712423549",
+            "cites_id": [
+                "11285714409712423549"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Social stress reactivity alters reward and punishment learning",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 97,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13908959990244201054",
+            "cites_id": [
+                "13908959990244201054"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-task individual differences in error processing: neural, electrophysiological, and genetic components",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 95,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8079064226392136892",
+            "cites_id": [
+                "8079064226392136892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactions among working memory, reinforcement learning, and effort in value-based choice: A new paradigm and selective deficits in schizophrenia",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:kzcSZmkxUKAC",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12914295745848048231",
+            "cites_id": [
+                "12914295745848048231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic reinforcement learning in patients with schizophrenia: relationships to anhedonia and avolition",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:-7ulzOJl1JYC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18236938838055759060",
+            "cites_id": [
+                "18236938838055759060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effort cost computation in schizophrenia: a commentary on the recent literature",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:dBIO0h50nwkC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3017904151620378974",
+            "cites_id": [
+                "3017904151620378974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reinforcement learning mechanism responsible for the valuation of free choice",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2453625977322580682",
+            "cites_id": [
+                "2453625977322580682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of frontostriatal impairment in freezing of gait in Parkinson's disease",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:XiVPGOgt02cC",
+            "num_citations": 78,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6397272982093513036",
+            "cites_id": [
+                "6397272982093513036"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential, but not opponent, effects of L-DOPA and citalopram on action learning with reward and punishment",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Mojj43d5GZwC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7241137917172782481",
+            "cites_id": [
+                "7241137917172782481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pleasurable music affects reinforcement learning according to the listener",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:bnK-pcrLprsC",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8217433821784389323",
+            "cites_id": [
+                "8217433821784389323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:1r-w4gtu6w8C",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10298566677218159312",
+            "cites_id": [
+                "10298566677218159312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spontaneous eye blink rate predicts learning from negative, but not positive, outcomes",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:sNmaIFBj_lkC",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13948146714939414994",
+            "cites_id": [
+                "13948146714939414994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopamine, locus of control, and the exploration-exploitation tradeoff",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:JQOojiI6XY0C",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12472211414676018212",
+            "cites_id": [
+                "12472211414676018212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conflict acts as an implicit cost in reinforcement learning",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:7T2F9Uy0os0C",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11194127158754268024",
+            "cites_id": [
+                "11194127158754268024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dissociable responses to punishment in distinct striatal regions during reversal learning",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6331214032211547887",
+            "cites_id": [
+                "6331214032211547887"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A role for dopamine-mediated learning in the pathophysiology and treatment of Parkinson\u2019s disease",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 72,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4728459140774961929",
+            "cites_id": [
+                "4728459140774961929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic reinforcement learning in adults with autism spectrum disorders",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:k_IJM867U9cC",
+            "num_citations": 72,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16281290476720193813",
+            "cites_id": [
+                "16281290476720193813"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Within-and across-trial dynamics of human EEG reveal cooperative interplay between reinforcement learning and working memory",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:SnGPuo6Feq8C",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7135693198797214043",
+            "cites_id": [
+                "7135693198797214043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chunking as a rational strategy for lossy data compression in visual working memory.",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:VN7nJs4JPk0C",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12343691082235438491",
+            "cites_id": [
+                "12343691082235438491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Working memory load strengthens reward prediction errors",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:w1MjKQ0l0TYC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7364820620512348791",
+            "cites_id": [
+                "7364820620512348791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopaminergic basis for impairments in functional connectivity across subdivisions of the striatum in Parkinson's disease",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:tKAzc9rXhukC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7627523464904464655",
+            "cites_id": [
+                "7627523464904464655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human EEG uncovers latent generalizable rule structure during learning",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ZuybSZzF8UAC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8737857452543616316",
+            "cites_id": [
+                "8737857452543616316"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Larger error signals in major depression are associated with better avoidance learning",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:blknAaTinKkC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17015866812014466703",
+            "cites_id": [
+                "17015866812014466703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational models of reinforcement learning: the role of dopamine as a reward signal",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4239847706232012188",
+            "cites_id": [
+                "4239847706232012188"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CNTRICS final task selection: long-term memory",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17649234133399962763",
+            "cites_id": [
+                "17649234133399962763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Patients with schizophrenia demonstrate inconsistent preference judgments for affective and nonaffective stimuli",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:-f6ydRqryjwC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7846452733784985327",
+            "cites_id": [
+                "7846452733784985327"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated (in) action",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:kF1pexMAQbMC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12864987423890768501",
+            "cites_id": [
+                "12864987423890768501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Altered cingulate sub-region activation accounts for task-related dissociation in ERN amplitude as a function of obsessive-compulsive symptoms",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:qUcmZB5y_30C",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17355367010477223632",
+            "cites_id": [
+                "17355367010477223632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positive reward prediction errors during decision-making strengthen memory encoding",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:2vr6o8x5NLkC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12703000913298906915",
+            "cites_id": [
+                "12703000913298906915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theory-based computational psychiatry",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:PkcyUWeTMh0C",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15416746062277583197",
+            "cites_id": [
+                "15416746062277583197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural signature of hierarchically structured expectations predicts clustering and transfer of rule sets in reinforcement learning",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:1yWc8FF-_SYC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8467870859917512712",
+            "cites_id": [
+                "8467870859917512712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Charting the landscape of priority problems in psychiatry, part 2: pathogenesis and aetiology",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:OP4eGU-M3BUC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3654245105004284064",
+            "cites_id": [
+                "3654245105004284064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hypothetical decision making in schizophrenia: the role of expected value computation and \u201cirrational\u201d biases",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:p2g8aNsByqUC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6729884446655195775",
+            "cites_id": [
+                "6729884446655195775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity to reward and punishment in major depressive disorder: Effects of rumination and of single versus multiple experiences",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14994956206551355633",
+            "cites_id": [
+                "14994956206551355633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A cholinergic feedback circuit to regulate striatal population uncertainty and optimize reinforcement learning",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:GFxP56DSvIMC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17124653432578539247",
+            "cites_id": [
+                "17124653432578539247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How cognitive theory guides neuroscience",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9797767627385455006",
+            "cites_id": [
+                "9797767627385455006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neurocomputational account of catalepsy sensitization induced by D2 receptor blockade in rats: context dependency, extinction, and renewal",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:dhFuZR0502QC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12705011979714308801",
+            "cites_id": [
+                "12705011979714308801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feedback-driven trial-by-trial learning in autism spectrum disorders",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Fu2w8maKXqMC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13752332293215140075",
+            "cites_id": [
+                "13752332293215140075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating across-trial variability parameters of the Diffusion Decision Model: Expert advice and recommendations",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:IsPWOBWtZBwC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15071033947383906725",
+            "cites_id": [
+                "15071033947383906725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of prefrontal cortex in learning and generalizing hierarchical rules in 8-month-old infants",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:O0nohqN1r9EC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14857260615558040337",
+            "cites_id": [
+                "14857260615558040337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "8-month-old infants spontaneously learn and generalize hierarchical rules",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:DUooU5lO8OsC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548394614112607967",
+            "cites_id": [
+                "13548394614112607967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Roles of D1-like dopamine receptors in the nucleus accumbens and dorsolateral striatum in conditioned avoidance responses",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9386325673626822256",
+            "cites_id": [
+                "9386325673626822256"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Schizophrenia: a computational reinforcement learning perspective",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12915067499102488969",
+            "cites_id": [
+                "12915067499102488969"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Taming the beast: extracting generalizable knowledge from computational models of cognition",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:3NQIlFlcGxIC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1184730457443219592",
+            "cites_id": [
+                "1184730457443219592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surprise! Dopamine signals mix action, value and error",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:_OXeSy2IsFwC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367564927177106714",
+            "cites_id": [
+                "1367564927177106714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The subthalamic nucleus contributes to post-error slowing",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099142796567669149",
+            "cites_id": [
+                "7099142796567669149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The basal ganglia in reward and decision making: computational models and empirical studies",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:IWHjjKOFINEC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3564427991305340444",
+            "cites_id": [
+                "3564427991305340444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Striatal dopaminergic modulation of reinforcement learning predicts reward\u2014oriented behavior in daily life",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ziOE8S1-AIUC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17225233569022152167",
+            "cites_id": [
+                "17225233569022152167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement learning and higher level cognition: introduction to special issue.",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hC7cP41nSMkC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2458077925617049068",
+            "cites_id": [
+                "2458077925617049068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biases in the explore\u2013exploit tradeoff in addictions: the role of avoidance of uncertainty",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:bKqednn6t2AC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15779260373774945098",
+            "cites_id": [
+                "15779260373774945098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The case for adaptive neuromodulation to treat severe intractable mental disorders",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:dAp6zn-oMfAC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1237676227268750376",
+            "cites_id": [
+                "1237676227268750376"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A computational cognitive biomarker for early-stage Huntington\u2019s disease",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:prdVHNxh-e8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7798363393786577328",
+            "cites_id": [
+                "7798363393786577328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced susceptibility to confirmation bias in schizophrenia",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:_B80troHkn4C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4245411608033657801",
+            "cites_id": [
+                "4245411608033657801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Atypical learning in autism spectrum disorders: a functional magnetic resonance imaging study of transitive inference",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ODE9OILHJdcC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1404362042243190991",
+            "cites_id": [
+                "1404362042243190991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compositional clustering in task structure learning",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:eO3_k5sD8BwC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1554238335402845271",
+            "cites_id": [
+                "1554238335402845271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CNTRICS imaging biomarkers final task selection: Long-term memory and reinforcement learning",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11252387601949977472",
+            "cites_id": [
+                "11252387601949977472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the neural correlates of doorway freezing in Parkinson's disease",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:H_jBuBxbQIAC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4321693714678981991",
+            "cites_id": [
+                "4321693714678981991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical context dictates the relationship between feedback-related EEG signals and learning",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:naSTrk-c4S8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12567272880772382739",
+            "cites_id": [
+                "12567272880772382739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple dissociations between comorbid depression and anxiety on reward and punishment processing: Evidence from computationally informed EEG",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:NMlhSUseqAsC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4227975074357604831",
+            "cites_id": [
+                "4227975074357604831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hierarchical Bayesian inference for concurrent model fitting and comparison for group studies",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:c1e4I3QdEKYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1922878308039780322",
+            "cites_id": [
+                "1922878308039780322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopamine and proximity in motivation and cognitive control",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:JTqpx9DYBaYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646623411005357116",
+            "cites_id": [
+                "14646623411005357116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motivational deficits in schizophrenia are associated with reduced differentiation between gain and loss-avoidance feedback in the striatum",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:2l5NCbZemmgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=71893053625574352",
+            "cites_id": [
+                "71893053625574352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linking across levels of computation in model-based cognitive neuroscience",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ye4kPcJQO24C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9282745599776221848",
+            "cites_id": [
+                "9282745599776221848"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal network dynamics reflect neurocomputational mechanisms for reducing maladaptive biases in motivated action",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:CNPyR2KL9-0C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5729656933120627546",
+            "cites_id": [
+                "5729656933120627546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactionist neuroscience",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:F9fV5C73w3QC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14250414188220328827",
+            "cites_id": [
+                "14250414188220328827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realizing the clinical potential of computational psychiatry: Report from the Banbury Center Meeting, February 2019",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4Yq6kJLCcecC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2232025098643100831",
+            "cites_id": [
+                "2232025098643100831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transitive inference in adults with autism spectrum disorders",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7237378015232724662",
+            "cites_id": [
+                "7237378015232724662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing vs. matching: response strategy in a probabilistic learning task is associated with negative symptoms of schizophrenia",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6954469172456024228",
+            "cites_id": [
+                "6954469172456024228"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in the computational understanding of mental illness",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:EaFouW7jFu4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6070768413451403505",
+            "cites_id": [
+                "6070768413451403505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Do substantia nigra dopaminergic neurons differentiate between reward and punishment?",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15854301325725982366",
+            "cites_id": [
+                "15854301325725982366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dissecting the impact of depression on decision-making",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4e5Qn2KL_jwC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7373560336407996053",
+            "cites_id": [
+                "7373560336407996053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-task contributions of frontobasal ganglia circuitry in response inhibition and conflict-induced slowing",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:QUX0mv85b1cC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5972389036824080853",
+            "cites_id": [
+                "5972389036824080853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopamine D2 agonist affects visuospatial working memory distractor interference depending on individual differences in baseline working memory span",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:jSAVyFp_754C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8247970598778261329",
+            "cites_id": [
+                "8247970598778261329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motor demands constrain cognitive rule structures",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:-mN3Mh-tlDkC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8269574697047911550",
+            "cites_id": [
+                "8269574697047911550"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative symptoms in schizophrenia result from a failure to represent the expected value of rewards: behavioral and computational modeling evidence",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:6ZxmRoH8BuwC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11892861931742552459",
+            "cites_id": [
+                "11892861931742552459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anxiety impedes adaptive social learning under uncertainty",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:orDZ08hpP44C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15562748926858408133",
+            "cites_id": [
+                "15562748926858408133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopamine waves as a mechanism for spatiotemporal credit assignment",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:qmtmRrLr0tkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13010266174255386487",
+            "cites_id": [
+                "13010266174255386487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motivational deficits in schizophrenia relate to abnormalities in cortical learning rate signals",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:EsEWqaRxkBgC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15301798574132908687",
+            "cites_id": [
+                "15301798574132908687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A control theoretic model of adaptive learning in dynamic environments",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:tHtfpZlB6tUC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6080404945435607890",
+            "cites_id": [
+                "6080404945435607890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cognitive correlates of psychosis in patients with Parkinson's disease",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5336646695044947782",
+            "cites_id": [
+                "5336646695044947782"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reward-predictive representations generalize across tasks in reinforcement learning",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:wUn16MOA3RoC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5685771419362442123",
+            "cites_id": [
+                "5685771419362442123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approach-avoidance conflict in major depressive disorder: congruent neural findings in humans and nonhuman primates",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:R-LXmdHK_14C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11090299452951957787",
+            "cites_id": [
+                "11090299452951957787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impaired expected value computations in schizophrenia are associated with a reduced ability to integrate reward probability and magnitude of recent outcomes",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:__bU50VfleQC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8183198185977741660",
+            "cites_id": [
+                "8183198185977741660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impaired expected value computations coupled with overreliance on stimulus-response learning in schizophrenia",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:65Yg0jNCQDAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17411172098979007999",
+            "cites_id": [
+                "17411172098979007999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Social reinforcement learning as a predictor of real-life experiences in individuals with high and low depressive symptomatology",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ji7lAbPyDbYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8630028624268784855",
+            "cites_id": [
+                "8630028624268784855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction of Pavlovian bias in schizophrenia: Enhanced effects in clozapine-administered patients",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hsZV8lGYWTMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2738886554831607667",
+            "cites_id": [
+                "2738886554831607667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stop! Stay tuned for more information",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5667747521801102220",
+            "cites_id": [
+                "5667747521801102220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interrelations between cognitive dysfunction and motor symptoms of Parkinson\u2019s disease: behavioral and neural studies",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Br1UauaknNIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7544768212385524338",
+            "cites_id": [
+                "7544768212385524338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neural correlate of strategic exploration at the onset of adolescence",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:KbBQZpvPDL4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11313955621039019918",
+            "cites_id": [
+                "11313955621039019918"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Likelihood approximation networks (LANs) for fast inference of simulation models in cognitive neuroscience",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:L24QuVWYgZ0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9084099492482334542",
+            "cites_id": [
+                "9084099492482334542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous hierarchical bayesian parameter estimation for reinforcement learning and drift diffusion models: a tutorial and links to neural data",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:KS-xo-ZNxMsC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6046928996695030218",
+            "cites_id": [
+                "6046928996695030218"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalizing to generalize: humans flexibly switch between compositional and conjunctive structures during reinforcement learning",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:QsKbpXNoaWkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18311017641568072840,10932607190217107604",
+            "cites_id": [
+                "18311017641568072840",
+                "10932607190217107604"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Midazolam, hippocampal function, and transitive inference: Reply to Greene",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:TQgYirikUcIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2510535003545991582",
+            "cites_id": [
+                "2510535003545991582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When and when not to use your subthalamic nucleus: Lessons from a computational model of the basal ganglia",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12879228678523410885",
+            "cites_id": [
+                "12879228678523410885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wave-like dopamine dynamics as a mechanism for spatiotemporal credit assignment",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:3_LpOwP6eMYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9037930349280360161",
+            "cites_id": [
+                "9037930349280360161"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intact striatal dopaminergic modulation of reward learning and daily-life reward-oriented behavior in first-degree relatives of individuals with psychotic disorder",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:TlpoogIpr_IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18197967798196687083",
+            "cites_id": [
+                "18197967798196687083"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Striatal dopamine release and impaired reinforcement learning in adults with 22q11. 2 deletion syndrome",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:UuEBAcK4md4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5030174221843649911",
+            "cites_id": [
+                "5030174221843649911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stimulus discriminability may bias value-based probabilistic learning",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:YsrPvlHIBpEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16011701619637826053",
+            "cites_id": [
+                "16011701619637826053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning cognitive control.",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:raTqNPD5sRQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6300298041700926474",
+            "cites_id": [
+                "6300298041700926474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-based cognitive neuroscience approaches to computational psychiatry: clustering and classification",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:t6usbXjVLHcC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14774951911862529654",
+            "cites_id": [
+                "14774951911862529654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The importance of standards for sharing of computational models and data",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:m92CDrhVnKEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2125816819855181533",
+            "cites_id": [
+                "2125816819855181533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probability and magnitude evaluation in schizophrenia",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:jE2MZjpN3IcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7375777063633960300",
+            "cites_id": [
+                "7375777063633960300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intermittent subthalamic nucleus deep brain stimulation induces risk-aversive behavior in human subjects",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:unp9ATQDT5gC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7665311738636607056",
+            "cites_id": [
+                "7665311738636607056"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positive reward prediction errors strengthen incidental memory encoding",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:k_7cPK9k7w8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1355457725168850610",
+            "cites_id": [
+                "1355457725168850610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of basal ganglia and cerebellum in motor learning. A computational model",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:8xutWZnSdmoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7587035169460522551",
+            "cites_id": [
+                "7587035169460522551"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward an executive without a homunculus: Computational models of the prefrontal cortex/basal ganglia system.",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:6VlyvFCUEfcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14029852054811324521",
+            "cites_id": [
+                "14029852054811324521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Cognitive Neuroscience",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:xm0LlTxljI0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8293891863798988402",
+            "cites_id": [
+                "8293891863798988402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic dopamine modulation of striato-cortical circuits in cognition: Converging neuropsychological, psychopharmacological and computational studies",
+                "pub_year": "2004"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:isC4tDSrTZIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14991649375330176284",
+            "cites_id": [
+                "14991649375330176284"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "All or nothing belief updating in patients with schizophrenia reduces precision and flexibility of beliefs",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:RMgMIBzvq-4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12727097319456082580",
+            "cites_id": [
+                "12727097319456082580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slave to the striatal habit (Commentary on Tricomi et al.)",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:mB3voiENLucC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13740773173615979162",
+            "cites_id": [
+                "13740773173615979162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Psychiatry Needs Time and Context",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:yeL6HyUMUGUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10096260256466916798",
+            "cites_id": [
+                "10096260256466916798"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Retention of value representations across time in people with schizophrenia and healthy control subjects",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:7Frjd3zlGBUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9964984290237623198",
+            "cites_id": [
+                "9964984290237623198"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential effects of psychotic illness on directed and random exploration",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:rCNdntzdTkkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5510201180935528674",
+            "cites_id": [
+                "5510201180935528674"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An evidence accumulation model of motivational and developmental influences over sustained attention.",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:QoJ_w57xiyAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17858412199040637633",
+            "cites_id": [
+                "17858412199040637633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "025 The neural correlates of doorway freezing in parkinson\u2019s disease",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:AYInfyleIOsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17261274194213891075",
+            "cites_id": [
+                "17261274194213891075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A control theoretic model of adaptive behavior in dynamic environments",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:EPG8bYD4jVwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1710757370898606724",
+            "cites_id": [
+                "1710757370898606724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational psychiatry: New perspectives on mental illness",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:MIg0yeAD4ggC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18271585741120524100",
+            "cites_id": [
+                "18271585741120524100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increased conflict-induced slowing, but no differences in conflict-induced positive or negative prediction error learning in patients with schizophrenia",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Hck25ST_3aIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9090837038857056425",
+            "cites_id": [
+                "9090837038857056425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Daily-life stress differentially impacts ventral striatal dopaminergic modulation of reward processing in first-degree relatives of individuals with psychosis",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:-yGd096yOn8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1768183701680352758",
+            "cites_id": [
+                "1768183701680352758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling negative symptoms in schizophrenia",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:69ZgNCALVd0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7492568686572578741",
+            "cites_id": [
+                "7492568686572578741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intact striatal dopaminergic modulation of reward learning and daily-life reward-oriented behaviour in relatives of individuals with psychotic disorder",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:wvYxNZNCP7wC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12804791931916622557",
+            "cites_id": [
+                "12804791931916622557"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding decision-making deficits in neurological conditions: Insights from models of natural action selection",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:9shLKfS_uJEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=63111989918821415",
+            "cites_id": [
+                "63111989918821415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prefrontal and striatal dopaminergic genes predict individual differences in exploration and exploitation",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:YTuZlYwrTOUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10118962849307030786",
+            "cites_id": [
+                "10118962849307030786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lefschetz Numbers and Geometry of Operators in -Modules",
+                "pub_year": "1996"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:nPT8s1NX_-sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4114323947442373883",
+            "cites_id": [
+                "4114323947442373883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mechanistic account of striatal dopamine function in cognition: Psychopharmacological studies with cabergoline and haloperidol"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:LGlY6t8CeOMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10231162676651075744",
+            "cites_id": [
+                "10231162676651075744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The promise of computational psychiatry",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:HhcuHIWmDEUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6561733971505286568",
+            "cites_id": [
+                "6561733971505286568"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODULE WEAK BANACH\u2013SAKS AND MODULE SCHUR PROPERTIES OF HILBERT C*-MODULES",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:lYAcb2jw7qUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16131703520356408443",
+            "cites_id": [
+                "16131703520356408443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fitting drift-diffusion models in a hierarchical Bayesian framework: methods and applications",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:pS0ncopqnHgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4563799541485039252",
+            "cites_id": [
+                "4563799541485039252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement Learning and Higher Cognition",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:nPTYJWkExTIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8155653041442046405",
+            "cites_id": [
+                "8155653041442046405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The neurogenetics of exploration and exploitation Supplementary Material",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:a0OBvERweLwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4155629497914398562",
+            "cites_id": [
+                "4155629497914398562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neurocomputational account of context-dependentcatalepsy sensitization induced by haloperidol",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:geHnlv5EZngC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10226067636826446811",
+            "cites_id": [
+                "10226067636826446811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When Memory Fails, Intuition Reigns",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4aZ_i-5WJEQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3589505071408238838",
+            "cites_id": [
+                "3589505071408238838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning Working Memory Tasks by Reward Prediction in the Basal Ganglia",
+                "pub_year": "2002"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hMod-77fHWUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5063548347224019860",
+            "cites_id": [
+                "5063548347224019860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Honeycomb: a template for reproducible psychophysiological tasks for clinic, laboratory, and home use",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:R22Rs3tN8aoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mosaic of cost\u2013benefit control over cortico-striatal circuitry",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:PlWzFYVEG4EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analogous computations in working memory input, output and motor gating: Electrophysiological and computational modeling evidence",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:In6cVmBjs0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proof-of-Mechanism Study of the Phosphodiesterase 10 Inhibitor RG7203 in Patients With Schizophrenia and Negative Symptoms",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:bVQMTfhMCi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational phenotyping of brain-behavior dynamics underlying approach-avoidance conflict in major depressive disorder",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:rOcdG6UcVlcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hierarchical clustering optimizes the tradeoff between compositionality and expressivity of task structures in reinforcement learning",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ifOnle78iJkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Straw That Broke the Camel\u2019s Back: Natural Variations in 17\u03b2-Estradiol and COMT-Val158Met Genotype Interact in the Modulation of Model-Free and Model-Based Control",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:rLGzs9wiiwIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thunderstruck: The ACDC model of flexible sequences and rhythms in recurrent neural circuits",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:TesyEGJKHF4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative Symptoms in People With Schizophrenia are Associated With Reduced Long-Term Retention of Reward Information",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ndLnGcHYRF0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "T62. A COMPUTATIONAL ANALYSIS OF MOTIVATIONAL DEFICITS IN SCHIZOPHRENIA SPECTRUM DISORDERS",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:oTdOBqtIf_kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Encoder-Decoder Neural Architectures for Fast Amortized Inference of Cognitive Process Models.",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:FsLZdJ3BAzkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "T88. Human and Non-Human Primate Investigations of Approach-Avoidance Conflict: Relevance to Depression and Anxiety Disorders",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:m4fbC6XIj1kC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "T139. Dissecting the Impact of Depression on Decision-Making During a Probabilistic Reward Task",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:eI34FqJmdUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "F9. REDUCED UNCERTAINTY-DRIVEN EXPLORATION AND ASSOCIATED NEURAL REWARD-RELATED SIGNALS RELATE TO MOTIVATIONAL DEFICIT SEVERITY",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:wSy_KLzO7YEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "S45. DEFICITS IN INFORMATION-SEEKING BEHAVIOR IN SCHIZOPHRENIA: AN ALTERNATIVE MECHANISM OF AVOLITION",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:yY3RG6sOEgwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Converging evidence linking reinforcement learning deficits in schizophrenia to impairments in the representation of expected value",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:x21FZCSn4ZoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE IMPACT OF POST-ERROR ADJUSTMENTS ON EPISODIC MEMORY IN HEALTHY AND DEPRESSED ADULTS",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ZqE1mSdD_DYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal network dynamics reveal the neurocomputational mechanisms for cognitive control over motivated action",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:xGWFX6Gbr9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the neural correlates of doorway freezing in Parkinson's disease",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:iyewoVqAXLQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "S43. A PROOF-OF-MECHANISM STUDY OF THE PDE10 INHIBITOR RG7203 IN PATIENTS WITH PROBING REWARD FUNCTIONS WITH IMAGING AND BEHAVIORAL APPROACHES",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:zGdJYJv2LkUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Proof-Of-Mechanism Study of the PDE10 Inhibitor RG7203 in Patients With Schizophrenia and Negative Symptoms Probing Reward Functions With Imaging and Behavioral Approaches",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:rbm3iO8VlycC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "147. Abnormal Frontal Cortical Activity During Rapid Flexible Decision-Making in Schizophrenia: Relationships With Motivational Deficits",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:mUJArPsKIAAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPUTATIONAL PSYCHIATRY: MATHEMATICAL MODELING OF MENTAL ILLNESS",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:W2uZP3ddy8sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impaired expected value computations coupled with overreliance on prediction error learning in schizophrenia",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:DkZNVXde3BIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reward Processing and Motivational Impairment in Schizophrenia",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:-6RzNnnwWf8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Striatal dopaminergic modulation of reward processing in healthy individuals at a genetic risk for psychosis",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:1DsIQWDZLl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "This is the second of two companion papers proposing priority problems for research on mental disorders. Whereas the first paper focuses on questions of nosology and diagnosis \u2026",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:KaMxkj08jr0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MANIPULATION OF EMOTIONAL ATTRIBUTION INFLUENCES ERROR-RELATED EEG AND COGNITIVE CONTROL",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:OcBU2YAGkTUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reward Delivery Enhances Encoding of Upcoming Information: A Novel Paradigm for Detecting Memory Deficits in Anhedonic Depression",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:QYdC8u9Cj1oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Functional MRI Study of Exploratory Behaviors in Early Adolescence (P2. 243)",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:fFSKOagxvKUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PAVLOVIAN BIASES IN SCHIZOPHRENIA",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:DJbcl8HfkQkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biases in the Explore-Exploit Tradeoff in Addictions: the Role of Avoidance of Uncertainty OPEN",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ymY9cBF3mdcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HIEARCHICAL RULE LEARNING AND GENERALIZATION IN INFANCY",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:-nhnvRiOwuoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emotional Cues Influence Reward-related Decision-making in Teens and Young Adults with Borderline Personality Symptoms",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:XvxMoLDsR5gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONFLICT ACTS AS A COST IN IMPLICIT REINFORCEMENT LEARNING",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Role for Dopamine-Mediated Learning in the Pathophysiology and Treatment of Parkinson's Disease (vol 2, pg 1747, 2012)",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hGdtkIFZdKAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Liste des collaborateurs",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:zdjWy_NXXwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CORTICOSTRIATAL CONNECTIVITY, DOPAMINE, AND INDIVIDUAL DIFFERENCES IN EXPLORATION AND EXPLOITATION",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:1qzjygNMrQYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WHY DO WE STRUCTURE OUR KNOWLEDGE? TWO LEVELS OF RULE GENERALIZATION IN REINFORCEMENT LEARNING.",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WELCOME TO THE MACHINE: PATTERN CLASSIFIERS REVEAL LATENT COGNITIVE STATES",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative Symptoms in Schizophrenia are Associated with Increased Effort Cost Computations",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Erratic Decision Making in Schizophrenia: The Roles of Normative Biases and Expected Value Computation",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "15 Understanding decision-making",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SUBTHALAMIC NUCLEUS STIMULATION ABOLISHES MEDIOFRONTAL INFLUENCE OVER DECISION THRESHOLD",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning From Losses but not From Gains: A Neurobehavioral Recipe for Avolition in Schizophrenia",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SELECTIVE DEFICITS IN REWARD-DRIVEN PROBABILISTIC LEARNING IN SCHIZOPHRENIA POINT TO DOPAMINE D1 RECEPTOR DYSFUNCTION",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling Natural Action Selection: Toward an executive without a homunculus: computational models of the prefrontal cortex/basal ganglia system",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:umqufdRvDiIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adam R. Aron Department of Psychology, University of California\u2013San Diego, La Jolla, CA Timothy EJ Behrens Centre for Functional MRI of the Brain, University of Oxford, Oxford \u2026",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pharamacological and Genetic Modulation of Motivated Decision Making in Corticostriatal Circuits",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MEDIAL PFC THETA POWER SCALES WITH DEGREE OF NEGATIVE FEEDBACK PREDICTION ERROR",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DAMNED IF YOU DO, DAMNED IF YOU DON'T: DISSOCIATION OF ERROR MONITORING SYSTEMS IN OCD",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple Systems in Decision Making Michael J. Frank, Michael X. Cohen, and Alan G. Sanfey Multiple Systems in Decision Making A Neurocomputational Perspective",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Double Dissociation of Dopaminergic Medication and Deep Brain Stimulation on Distinct Forms of Impulsivity in Parkinson's Disease",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactive dynamics of corticostriatal circuits in reinforcementlearning and decision making",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reward-based learning in autism spectrum disorders: Probabilistic selection and transitive inference",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connections between Hilbert W*-modules and direct integrals",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:URolC5Kub84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Things are going worse than expected: An examination of neural systems altered by stress",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic reinforcement learning and sleep: A pilot study",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Task related dissociation in performance monitoring as a function of obsessive\u2013compulsive symptoms",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactive dynamics of striato-cortical circuits in reinforcement learning and decision making",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Patients with schizophrenia show impaired reward-driven learning, despite an increased rate of responding, in a novel go-nogo learning task",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modulation of the ERN in lose/lose trials in individuals with obsessive-compulsive and depressive symptomology",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impairments in probabilistic learning in schizophrenia: The role of reinforcement",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u591a\u5df4\u80fa\u5728\u7cbe\u795e\u5206\u88c2\u75c7\u4e2d\u4f5c\u7528\u7684\u7efc\u5408\u89c2\u70b9"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:VRfTbSk87rEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u8bc4\u4f30\u81ea\u7531\u9009\u62e9\u6743\u7684\u5f3a\u5316\u5b66\u4e60\u673a\u5236"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WWeOtg8bX_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "385 Effects of Internet use on the adolescent brain: despite popular claims, experimental evidence remains scarce 387 The source of consciousness"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:aEW5N-EHWIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hierarchical Dri-Diffusion Model"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:natZJ_-F0IUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drift Diffusion Model Analysis of Mindfulness Interventions on SRET Performance in Depressed Populations"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:YPNY0knpFBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toolbox for the Reinforcement Learning Drift Diffusion Model"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:H7nrzBkawXsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ARCHIVAL REPORTS"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:I8rxH6phXEkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u5bf9\u4e18\u8111\u5e95\u6838\u7684\u523a\u6fc0\u9006\u8f6c\u4e2d\u989d\u53f6\u5bf9\u51b3\u7b56\u9608\u503c\u7684\u5f71\u54cd"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Y0-TYkg6YM4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u57fa\u4e8e\u7406\u8bba\u7684\u8ba1\u7b97\u7cbe\u795e\u75c5\u5b66"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:tz746QTLzJkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u5bf9\u7cbe\u795e\u75be\u75c5\u7684\u8ba1\u7b97\u7406\u89e3\u65b9\u9762\u7684\u8fdb\u5c55"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:9NZAP19TdFAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In Motivation and Cognitive Control edited by Todd Braver, excellent psychologists tackle the diverse ways in which motivation influences cognition, while in turn cognition \u2026"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:7H_jS4BsgvYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MECHANISMS OF MAJOR DEPRESSION"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:DXE8ND7PrJAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Methods"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WwIwg2wKZ0QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u57fa\u5e95\u795e\u7ecf\u8282\u529f\u80fd\u5728\u5b66\u4e60, \u8bb0\u5fc6\u548c\u9009\u62e9\u65b9\u9762\u7684\u795e\u7ecf\u8ba1\u7b97\u6a21\u578b"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:PQEM9vzQD9gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposed authors (order TBD): Kenneth JD Allen, Ph. D.*, Daniel Scott, MA c, Heather T."
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:M0leSnx2MbUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Suggested searches"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:hNSvKAmkeYkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Catecholaminergic challenge uncovers distinct Pavlovian and instrumental mechanisms of motivated action"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:jlhcAiayVhoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding decision making deficits in neurological conditions: Insights from models of natural action selection Supplementary Appendix"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:zUl2_INMlC4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TUTOR: PROF. ANGELO MARCELLI"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:zwpXiJ37cpgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sp\u00e4tsommerbeobachtungen von Libellen auf Kos, Griechenland, mit vier Erstnachweisen (Odonata)"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Xl6nMSl579sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a Computational Account of Theta Band (4-8 Hz) Power Modulation in the Subthalamic Nucleus under Response Conflict"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:DrR-2ekChdkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRIORITY COMMUNICATION"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:BrOSOlqYqPUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An integrative Perspective on the Dopamine Hypothesis of Schizophrenia"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:WAzi4Gm8nLoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kompression von Hyperspektraldaten und \u00dcbertragung in einem Kanal mit reduzierten Ressourcen"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:mKu_rENv82IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Full text or abstracts of the following articles, which are currently \u201cin press\u201d in Biological Psychiatry, are available on our website now"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:1Ye0OR6EYb4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frontal Cortex and Basal Ganglia in Working Memory: A Computational Model"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:q-HalDI95KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neuroscience 139 (2006) I\u2013III http://www. neuroscience-ibro. com"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "List of contents"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Go\u201d and \u201cNoGo"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Full text or abstracts of the following articles, which are currently \u201cin press\u201d in Biological Psychiatry, are available on our website now"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JN-RM-5754-12R2"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:KxtntwgDAa4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experiential effects of musical pleasure on dopaminergic learning"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lecture Abstracts & References"
+            },
+            "filled": false,
+            "author_pub_id": "f-xyFpUAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        }
+    ],
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tZpKKm4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Randall O'Reilly",
+            "affiliation": "Professor of Psychology and Computer Science, Center for Neuroscience, University of California"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ixU93NMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "james m. gold",
+            "affiliation": "Professor of Psychiatry, Maryland Psychiatric Research Center, University of Maryland School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DJxcCWgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James A Waltz",
+            "affiliation": "Associate Professor, University of Maryland School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9rVAMiMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James F Cavanagh",
+            "affiliation": "Associate Professor, University of New Mexico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JIfeqbMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anne G.E. Collins",
+            "affiliation": "UC Berkeley"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s-Ikj-MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thomas Wiecki",
+            "affiliation": "PhD, Brown University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9Sf0vd4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ahmed Moustafa",
+            "affiliation": "A/Professor at Western Sydney University & Editor-in-chief of Discover Psychology (Springer)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KjYNz88AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Quentin Huys",
+            "affiliation": "University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lWCYz-4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Badre",
+            "affiliation": "Professor, Brown University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8CH4nIYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bradley Doll",
+            "affiliation": "data"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FX3p6Y0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tiago V. Maia",
+            "affiliation": "Associate Professor, University of Lisbon"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zgNza0oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roshan Cools",
+            "affiliation": "Professor of Cognitive Neuropsychiatry, Radboud University Nijmegen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OcKWjEwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mike X Cohen",
+            "affiliation": "Radboud University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w-fcLkEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthew Nassar",
+            "affiliation": "Assistant Professor at Brown University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BxlScrEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nathaniel D. Daw",
+            "affiliation": "Huo Professor of Computational and Theoretical Neuroscience, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TefcLpgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cameron S. Carter",
+            "affiliation": "Professor, Psychiatry and Psychology, U.C. Davis Director Imaging Research Center and the Behavioral"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PHkQv5wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marjorie Solomon",
+            "affiliation": "Professor of Psychiatry"
+        }
+    ],
+    "alternate_names": [
+        "Michael Frank"
+    ]
+}

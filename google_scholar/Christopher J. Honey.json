@@ -1,793 +1,1754 @@
 {
-    "affiliation": "Assistant Professor, Johns Hopkins University",
-    "cites_per_year": {
-        "2008": 103,
-        "2009": 226,
-        "2010": 600,
-        "2011": 666,
-        "2012": 782,
-        "2013": 973,
-        "2014": 1181,
-        "2015": 1121,
-        "2016": 1353,
-        "2017": 1541,
-        "2018": 1600,
-        "2019": 1663,
-        "2020": 1091
-    },
-    "citedby": 13023,
-    "citedby5y": 8377,
-    "coauthors": [
-        {
-            "affiliation": "Distinguished Professor, Psychological and Brain Sciences, Indiana University",
-            "id": "gzPWwdIAAAAJ",
-            "name": "Olaf Sporns"
-        },
-        {
-            "affiliation": "",
-            "id": "AeNIwJEAAAAJ",
-            "name": "leila cammoun"
-        },
-        {
-            "affiliation": "Professor of Radiology, University Hospital Lausanne, Switzerland",
-            "id": "vHwHpawAAAAJ",
-            "name": "Patric Hagmann"
-        },
-        {
-            "affiliation": "Assistant Professor, Johns Hopkins University",
-            "id": "mOwF8UEAAAAJ",
-            "name": "Janice Chen"
-        },
-        {
-            "affiliation": "Stanford University School of Medicine; Albert Einstein College of Medicine",
-            "id": "OLOPSOYAAAAJ",
-            "name": "Corey J. Keller, MD / PhD"
-        },
-        {
-            "affiliation": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
-            "id": "mII-l2cAAAAJ",
-            "name": "Jean-Philippe Thiran"
-        },
-        {
-            "affiliation": "Professor of Psychology and Neuroscience, Princeton University",
-            "id": "A4ycnDQAAAAJ",
-            "name": "Kenneth A. Norman"
-        },
-        {
-            "affiliation": "Neurosurgery, Mayo Clinic",
-            "id": "PK5gALEAAAAJ",
-            "name": "kai joshua miller"
-        },
-        {
-            "affiliation": "University of Newcastle, Australia",
-            "id": "hrx691cAAAAJ",
-            "name": "Michael Breakspear"
-        },
-        {
-            "affiliation": "Assistant Professor in Physiology and Biomedical Engineering, Mayo Clinic",
-            "id": "d33Z2KEAAAAJ",
-            "name": "Dora Hermes"
-        },
-        {
-            "affiliation": "Professor of Neurological Surgery",
-            "id": "zQJMnscAAAAJ",
-            "name": "Jeffrey Ojemann"
-        },
-        {
-            "affiliation": "Persyst Development Corporation",
-            "id": "M-rNJg0AAAAJ",
-            "name": "David M. Groppe"
-        },
-        {
-            "affiliation": "University of Pennsylvania",
-            "id": "07tNFdgAAAAJ",
-            "name": "Michael Arcaro"
-        },
-        {
-            "affiliation": "The School of Psychological Sciences, Tel-Aviv University",
-            "id": "lnb0QiQAAAAJ",
-            "name": "yaara yeshurun"
-        },
-        {
-            "affiliation": "Associate Professor, New York University",
-            "id": "OIwt344AAAAJ",
-            "name": "Thomas Thesen"
-        },
-        {
-            "affiliation": "Computer Science and Engineering, University of Washington",
-            "id": "02nHF0gAAAAJ",
-            "name": "Rajesh P. N. Rao"
-        },
-        {
-            "affiliation": "Affiliate Physician, Colorado Neurological Institute",
-            "id": "iPa3kB0AAAAJ",
-            "name": "Adam O. Hebb"
-        },
-        {
-            "affiliation": "Professor of Physiology & Biophysics, University of Washington",
-            "id": "Z1_YWEIAAAAJ",
-            "name": "Eberhard Fetz"
-        },
-        {
-            "affiliation": "Associate professor of Psychology, University of Ottawa",
-            "id": "nE_8s1YAAAAJ",
-            "name": "JP Thivierge"
-        },
-        {
-            "affiliation": "Research Centre for Natural Sciences",
-            "id": "SbP3e98AAAAJ",
-            "name": "Istvan Ulbert"
-        }
+    "container_type": "Author",
+    "filled": [
+        "counts",
+        "basics",
+        "indices",
+        "publications",
+        "coauthors"
     ],
-    "email": "@jhu.edu",
-    "hindex": 35,
-    "hindex5y": 34,
-    "i10index": 48,
-    "i10index5y": 45,
-    "id": "w2xjglQAAAAJ",
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "w2xjglQAAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=w2xjglQAAAAJ",
+    "name": "Christopher J. Honey",
+    "affiliation": "Assistant Professor, Johns Hopkins University",
+    "email_domain": "@jhu.edu",
     "interests": [
         "Cognitive Neuroscience",
         "Cognitive Psychology",
         "Computational Neuroscience",
         "Systems Neuroscience"
     ],
-    "name": "Christopher J. Honey",
+    "citedby": 15602,
+    "cites_per_year": {
+        "2008": 104,
+        "2009": 227,
+        "2010": 601,
+        "2011": 672,
+        "2012": 786,
+        "2013": 972,
+        "2014": 1193,
+        "2015": 1133,
+        "2016": 1359,
+        "2017": 1567,
+        "2018": 1571,
+        "2019": 1620,
+        "2020": 1971,
+        "2021": 1675
+    },
+    "citedby5y": 9770,
+    "hindex": 40,
+    "hindex5y": 39,
+    "i10index": 51,
+    "i10index5y": 49,
     "publications": [
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Mapping the structural core of human cerebral cortex",
-                "cites": "3483",
-                "year": "2008"
+                "pub_year": "2008"
             },
-            "id_citations": "w2xjglQAAAAJ:u5HHmVD_uO8C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3886,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17557172955649032393",
+            "cites_id": [
+                "17557172955649032393"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Predicting human resting-state functional connectivity from structural connectivity",
-                "cites": "2259",
-                "year": "2009"
+                "pub_year": "2009"
             },
-            "id_citations": "w2xjglQAAAAJ:d1gkVwhDpl0C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2614,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9789225947902105098",
+            "cites_id": [
+                "9789225947902105098"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Network structure of cerebral cortex shapes functional connectivity on multiple time scales",
-                "cites": "1423",
-                "year": "2007"
+                "pub_year": "2007"
             },
-            "id_citations": "w2xjglQAAAAJ:u-x6o8ySG0sC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1621,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12110413934484031807",
+            "cites_id": [
+                "12110413934484031807"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Identification and classification of hubs in brain networks",
-                "cites": "956",
-                "year": "2007"
+                "pub_year": "2007"
             },
-            "id_citations": "w2xjglQAAAAJ:9yKSN-GCB0IC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1080,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14611115361382469327",
+            "cites_id": [
+                "14611115361382469327"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Topographic mapping of a hierarchy of temporal receptive windows using a narrated story",
-                "cites": "446",
-                "year": "2011"
+                "pub_year": "2011"
             },
-            "id_citations": "w2xjglQAAAAJ:Tyk-4Ss8FVUC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 573,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12818232338790593733",
+            "cites_id": [
+                "12818232338790593733"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Can structure predict function in the human brain?",
-                "cites": "418",
-                "year": "2010"
+                "pub_year": "2010"
             },
-            "id_citations": "w2xjglQAAAAJ:UeHWp8X0CEIC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 501,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4435952317712196703",
+            "cites_id": [
+                "4435952317712196703"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Hierarchical process memory: memory as an integral component of information processing",
-                "cites": "309",
-                "year": "2015"
+                "pub_year": "2015"
             },
-            "id_citations": "w2xjglQAAAAJ:qUcmZB5y_30C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 406,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10524678881746542281",
+            "cites_id": [
+                "10524678881746542281"
+            ]
         },
         {
-            "bib": {
-                "title": "Dynamical consequences of lesions in cortical networks",
-                "cites": "309",
-                "year": "2008"
-            },
-            "id_citations": "w2xjglQAAAAJ:qjMakFHDy7sC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "MR connectomics: principles and challenges",
-                "cites": "269",
-                "year": "2010"
-            },
-            "id_citations": "w2xjglQAAAAJ:IjCSPb-OGe4C",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Slow cortical dynamics and the accumulation of information over long timescales",
-                "cites": "268",
-                "year": "2012"
-            },
-            "id_citations": "w2xjglQAAAAJ:MXK_kJrjxJIC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Small worlds inside big brains",
-                "cites": "259",
-                "year": "2006"
-            },
-            "id_citations": "w2xjglQAAAAJ:2osOgNQ5qMEC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Coupled neural systems underlie the production and comprehension of naturalistic narrative speech",
-                "cites": "228",
-                "year": "2014"
-            },
-            "id_citations": "w2xjglQAAAAJ:dhFuZR0502QC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Dynamic reconfiguration of the default mode network during narrative comprehension",
-                "cites": "211",
-                "year": "2016"
+                "pub_year": "2016"
             },
-            "id_citations": "w2xjglQAAAAJ:GUJN1xMjMHAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:GUJN1xMjMHAC",
+            "num_citations": 348,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906677149301359826",
+            "cites_id": [
+                "5906677149301359826"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slow cortical dynamics and the accumulation of information over long timescales",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 348,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17135388527998220034",
+            "cites_id": [
+                "17135388527998220034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Shared memories reveal shared structure in neural activity across individuals",
-                "cites": "210",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "w2xjglQAAAAJ:QndmRo8phpgC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:QndmRo8phpgC",
+            "num_citations": 343,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13752344192705228142",
+            "cites_id": [
+                "13752344192705228142"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamical consequences of lesions in cortical networks",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 332,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8983030129152019456",
+            "cites_id": [
+                "8983030129152019456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MR connectomics: principles and challenges",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 298,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8917778479936245917",
+            "cites_id": [
+                "8917778479936245917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupled neural systems underlie the production and comprehension of naturalistic narrative speech",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:dhFuZR0502QC",
+            "num_citations": 296,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11347484822343248981",
+            "cites_id": [
+                "11347484822343248981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Small worlds inside big brains",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 294,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6065519851451317856",
+            "cites_id": [
+                "6065519851451317856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Neurophysiological investigation of spontaneous correlated and anticorrelated fluctuations of the BOLD signal",
-                "cites": "193",
-                "year": "2013"
+                "pub_year": "2013"
             },
-            "id_citations": "w2xjglQAAAAJ:ULOm3_A8WrAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 210,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=583394033847632547",
+            "cites_id": [
+                "583394033847632547"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Broadband changes in the cortical surface potential track activation of functionally diverse neuronal populations",
-                "cites": "141",
-                "year": "2014"
+                "pub_year": "2014"
             },
-            "id_citations": "w2xjglQAAAAJ:qxL8FJ1GzNcC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 175,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13864996652827930568",
+            "cites_id": [
+                "13864996652827930568"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Human motor cortical activity is selectively phase-entrained on underlying rhythms",
-                "cites": "140",
-                "year": "2012"
+                "pub_year": "2012"
             },
-            "id_citations": "w2xjglQAAAAJ:0EnyYjriUFMC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 165,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15091093626338510128",
+            "cites_id": [
+                "15091093626338510128"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Future trends in Neuroimaging: Neural processes as expressed within real-life contexts",
-                "cites": "113",
-                "year": "2012"
+                "pub_year": "2012"
             },
-            "id_citations": "w2xjglQAAAAJ:UebtZRa9Y70C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 139,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16325999856175315599",
+            "cites_id": [
+                "16325999856175315599"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Mapping human brain networks with cortico-cortical evoked potentials",
-                "cites": "104",
-                "year": "2014"
+                "pub_year": "2014"
             },
-            "id_citations": "w2xjglQAAAAJ:9ZlFYXVOiuMC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 136,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6899616629257715519",
+            "cites_id": [
+                "6899616629257715519"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "A place for time: the spatiotemporal structure of neural dynamics during natural audition",
-                "cites": "99",
-                "year": "2013"
+                "pub_year": "2013"
             },
-            "id_citations": "w2xjglQAAAAJ:4TOpqqG69KYC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 131,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5720395042623852720",
+            "cites_id": [
+                "5720395042623852720"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Selective and invariant neural responses to spoken and written narratives",
-                "cites": "91",
-                "year": "2013"
+                "pub_year": "2013"
             },
-            "id_citations": "w2xjglQAAAAJ:aqlVkmm33-oC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 125,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=796972194735719107",
+            "cites_id": [
+                "796972194735719107"
+            ]
         },
         {
-            "bib": {
-                "title": "Not lost in translation: neural responses shared across languages",
-                "cites": "75",
-                "year": "2012"
-            },
-            "id_citations": "w2xjglQAAAAJ:3fE2CSJIrl8C",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Same story, different story: the neural representation of interpretive frameworks",
-                "cites": "73",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "w2xjglQAAAAJ:H0nRGT7Dr7IC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:H0nRGT7Dr7IC",
+            "num_citations": 119,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18069311903281656945",
+            "cites_id": [
+                "18069311903281656945"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Not lost in translation: neural responses shared across languages",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7915585705217225775",
+            "cites_id": [
+                "7915585705217225775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Engaged listeners: shared neural processing of powerful political speeches",
-                "cites": "73",
-                "year": "2015"
+                "pub_year": "2015"
             },
-            "id_citations": "w2xjglQAAAAJ:L8Ckcad2t8MC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 105,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8970344255933703920",
+            "cites_id": [
+                "8970344255933703920"
+            ]
         },
         {
-            "bib": {
-                "title": "Corticocortical evoked potentials reveal projectors and integrators in human brain networks",
-                "cites": "68",
-                "year": "2014"
-            },
-            "id_citations": "w2xjglQAAAAJ:mVmsd5A6BfQC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Dynamic modulation of local population activity by rhythm phase in human occipital cortex during a visual search task",
-                "cites": "68",
-                "year": "2010"
-            },
-            "id_citations": "w2xjglQAAAAJ:zYLM7Y9cAGgC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Accessing real-life episodic information from minutes versus hours earlier modulates hippocampal and high-order cortical dynamics",
-                "cites": "61",
-                "year": "2016"
-            },
-            "id_citations": "w2xjglQAAAAJ:C2yK8tfAHAgC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Genetic variants in Alzheimer disease\u2014molecular and brain network approaches",
-                "cites": "60",
-                "year": "2016"
-            },
-            "id_citations": "w2xjglQAAAAJ:tFyepMjQr3wC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "iELVis: An open source MATLAB toolbox for localizing and visualizing human intracranial electrode data",
-                "cites": "58",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "w2xjglQAAAAJ:e0CZ6poB34oC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:e0CZ6poB34oC",
+            "num_citations": 95,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2965395049858371279",
+            "cites_id": [
+                "2965395049858371279"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accessing real-life episodic information from minutes versus hours earlier modulates hippocampal and high-order cortical dynamics",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:C2yK8tfAHAgC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4989094321857350838",
+            "cites_id": [
+                "4989094321857350838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corticocortical evoked potentials reveal projectors and integrators in human brain networks",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 84,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2108814019239089678",
+            "cites_id": [
+                "2108814019239089678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic variants in Alzheimer disease\u2014molecular and brain network approaches",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:tFyepMjQr3wC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3705711693309652904",
+            "cites_id": [
+                "3705711693309652904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic modulation of local population activity by rhythm phase in human occipital cortex during a visual search task",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12303730586009888375",
+            "cites_id": [
+                "12303730586009888375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Contextual alignment of cognitive and neural dynamics",
-                "cites": "52",
-                "year": "2015"
+                "pub_year": "2015"
             },
-            "id_citations": "w2xjglQAAAAJ:QIV2ME_5wuYC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14516253644729868986",
+            "cites_id": [
+                "14516253644729868986"
+            ]
         },
         {
-            "bib": {
-                "title": "Spontaneous neural dynamics and multi-scale network organization",
-                "cites": "42",
-                "year": "2016"
-            },
-            "id_citations": "w2xjglQAAAAJ:YEBtnu9hOHUC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Neural correlates of risk perception during real-life risk communication",
-                "cites": "42",
-                "year": "2013"
-            },
-            "id_citations": "w2xjglQAAAAJ:YOwf2qJgpHMC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Loss of reliable temporal structure in event-related averaging of naturalistic stimuli",
-                "cites": "41",
-                "year": "2012"
-            },
-            "id_citations": "w2xjglQAAAAJ:hqOjcs7Dif8C",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Temporal scaling of neural responses to compressed and dilated natural speech",
-                "cites": "38",
-                "year": "2014"
-            },
-            "id_citations": "w2xjglQAAAAJ:Wp0gIr-vW9MC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Widespread correlation patterns of fMRI signal across visual cortex reflect eccentricity organization",
-                "cites": "37",
-                "year": "2015"
-            },
-            "id_citations": "w2xjglQAAAAJ:ZeXyd9-uunAC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Neural pattern change during encoding of a narrative predicts retrospective duration estimates",
-                "cites": "35",
-                "year": "2016"
+                "pub_year": "2016"
             },
-            "id_citations": "w2xjglQAAAAJ:-0tLmPFCw2kC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:-0tLmPFCw2kC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12997700327962439522",
+            "cites_id": [
+                "12997700327962439522"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Consequences of base time for redundant signals experiments",
-                "cites": "33",
-                "year": "2007"
+                "title": "Spontaneous neural dynamics and multi-scale network organization",
+                "pub_year": "2016"
             },
-            "id_citations": "w2xjglQAAAAJ:roLk4NBRz8UC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:YEBtnu9hOHUC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16971205107236345630",
+            "cites_id": [
+                "16971205107236345630"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temporal scaling of neural responses to compressed and dilated natural speech",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=682973331726470434",
+            "cites_id": [
+                "682973331726470434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Widespread correlation patterns of fMRI signal across visual cortex reflect eccentricity organization",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9466375764015567884",
+            "cites_id": [
+                "9466375764015567884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural correlates of risk perception during real-life risk communication",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8122336998453021610",
+            "cites_id": [
+                "8122336998453021610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Loss of reliable temporal structure in event-related averaging of naturalistic stimuli",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17633719044301069205",
+            "cites_id": [
+                "17633719044301069205"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Switching between internal and external modes: a multiscale learning principle",
-                "cites": "28",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "w2xjglQAAAAJ:52neCvzbxIwC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:52neCvzbxIwC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13002642135563483915",
+            "cites_id": [
+                "13002642135563483915"
+            ]
         },
         {
-            "bib": {
-                "title": "Processing timescales as an organizing principle for primate cortex",
-                "cites": "27",
-                "year": "2015"
-            },
-            "id_citations": "w2xjglQAAAAJ:MbTKqoTs-1EC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Mapping between fMRI responses to movies and their natural language annotations",
-                "cites": "24",
-                "year": "2018"
-            },
-            "id_citations": "w2xjglQAAAAJ:38eRAUXPO10C",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Principles of temporal processing across the cortical hierarchy",
-                "cites": "19",
-                "year": "2018"
-            },
-            "id_citations": "w2xjglQAAAAJ:SgTKrLvt1DcC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Induction and quantification of excitability changes in human cortical networks",
-                "cites": "19",
-                "year": "2018"
-            },
-            "id_citations": "w2xjglQAAAAJ:5-bGDoUgDrYC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Does rhythmic entrainment represent a generalized mechanism for organizing computation in the brain?",
-                "cites": "15",
-                "year": "2012"
-            },
-            "id_citations": "w2xjglQAAAAJ:8k81kl-MbHgC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Sort by Order Items per page",
-                "cites": "15",
-                "year": "1999"
-            },
-            "id_citations": "w2xjglQAAAAJ:5kvG9DmRKWYC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Elucidating relations between fMRI, ECoG, and EEG through a common natural stimulus",
-                "cites": "14",
-                "year": "2018"
-            },
-            "id_citations": "w2xjglQAAAAJ:rQKKVauEoioC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Mapping the Structural Core of Human Cerebral Cortex.",
-                "cites": "14",
-                "year": "2008"
-            },
-            "id_citations": "w2xjglQAAAAJ:DGpvO1n63MYC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "iEEG-BIDS, extending the Brain Imaging Data Structure specification to human intracranial electrophysiology",
-                "cites": "13",
-                "year": "2019"
+                "pub_year": "2019"
             },
-            "id_citations": "w2xjglQAAAAJ:6e4D8M0GhXMC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:6e4D8M0GhXMC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17348779408578305724",
+            "cites_id": [
+                "17348779408578305724"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Information flow in local cortical networks is not democratic",
-                "cites": "13",
-                "year": "2008"
+                "title": "Processing timescales as an organizing principle for primate cortex",
+                "pub_year": "2015"
             },
-            "id_citations": "w2xjglQAAAAJ:ufrVoPGSRksC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:MbTKqoTs-1EC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5625619533664203703",
+            "cites_id": [
+                "5625619533664203703"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Alzheimer's disease: a search for broken links",
-                "cites": "7",
-                "year": "2008"
+                "title": "Principles of temporal processing across the cortical hierarchy",
+                "pub_year": "2018"
             },
-            "id_citations": "w2xjglQAAAAJ:Y0pCki6q_DkC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:SgTKrLvt1DcC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10439545880485901417",
+            "cites_id": [
+                "10439545880485901417"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Mapping between natural movie fMRI responses and word-sequence representations",
-                "cites": "6",
-                "year": "2016"
+                "title": "Mapping between fMRI responses to movies and their natural language annotations",
+                "pub_year": "2018"
             },
-            "id_citations": "w2xjglQAAAAJ:LLUdpdcEW3AC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:38eRAUXPO10C",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7651007453268195089",
+            "cites_id": [
+                "7651007453268195089"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Topographic dynamics in the resting brain",
-                "cites": "6",
-                "year": "2013"
+                "title": "Consequences of base time for redundant signals experiments",
+                "pub_year": "2007"
             },
-            "id_citations": "w2xjglQAAAAJ:_kc_bZDykSQC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11109606407863138408",
+            "cites_id": [
+                "11109606407863138408"
+            ]
         },
         {
-            "bib": {
-                "title": "Temporal integration of narrative information in a hippocampal amnesic patient",
-                "cites": "3",
-                "year": "2020"
-            },
-            "id_citations": "w2xjglQAAAAJ:IwGqIHSOC8kC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Constructing and forgetting temporal context in the human cerebral cortex",
-                "cites": "3",
-                "year": "2020"
+                "pub_year": "2020"
             },
-            "id_citations": "w2xjglQAAAAJ:tswL-GKFg8UC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:tswL-GKFg8UC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4797183152357191678",
+            "cites_id": [
+                "4797183152357191678"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Induction and quantification of excitability changes in human cortical networks",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:5-bGDoUgDrYC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11130039957221960989",
+            "cites_id": [
+                "11130039957221960989"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elucidating relations between fMRI, ECoG, and EEG through a common natural stimulus",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:rQKKVauEoioC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6238994341840426766",
+            "cites_id": [
+                "6238994341840426766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping the structural core of human cerebral cortex",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:DGpvO1n63MYC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1586817832330147916",
+            "cites_id": [
+                "1586817832330147916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Information flow in local cortical networks is not democratic",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15897742778431962770",
+            "cites_id": [
+                "15897742778431962770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Does rhythmic entrainment represent a generalized mechanism for organizing computation in the brain?",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17430765944152229962",
+            "cites_id": [
+                "17430765944152229962"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temporal integration of narrative information in a hippocampal amnesic patient",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:IwGqIHSOC8kC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1668137535963574487",
+            "cites_id": [
+                "1668137535963574487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Transformation of speech sequences in human sensorimotor circuits",
-                "cites": "3",
-                "year": "2020"
+                "pub_year": "2020"
             },
-            "id_citations": "w2xjglQAAAAJ:AdGrMoNItN4C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:AdGrMoNItN4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13682707220584804819",
+            "cites_id": [
+                "13682707220584804819"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "BIDS-iEEG: an extension to the brain imaging data structure (BIDS) specification for human intracranial electrophysiology",
-                "cites": "2",
-                "year": "2018"
+                "title": "Narratives: fMRI data for evaluating models of naturalistic language comprehension",
+                "pub_year": "2021"
             },
-            "id_citations": "w2xjglQAAAAJ:vPKCt-r_nWsC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:SNyOjmPOlygC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16635225264666174358",
+            "cites_id": [
+                "16635225264666174358"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Neuroscience: when a single image can cause a seizure",
-                "cites": "2",
-                "year": "2017"
+                "title": "Topographic dynamics in the resting brain",
+                "pub_year": "2013"
             },
-            "id_citations": "w2xjglQAAAAJ:QxlgOPrhsAcC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13842301625667947549",
+            "cites_id": [
+                "13842301625667947549"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alzheimer's disease: a search for broken links",
+                "pub_year": "2008"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16971266789585262904",
+            "cites_id": [
+                "16971266789585262904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping between natural movie fMRI responses and word-sequence representations",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:LLUdpdcEW3AC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13910426843045494813",
+            "cites_id": [
+                "13910426843045494813"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Reconsidering the automaticity of visual statistical learning",
-                "cites": "1",
-                "year": "2019"
+                "pub_year": "2019"
             },
-            "id_citations": "w2xjglQAAAAJ:kVKjLOQJbwAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:kVKjLOQJbwAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15145704641734724235",
+            "cites_id": [
+                "15145704641734724235"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BIDS-iEEG: an extension to the brain imaging data structure (BIDS) specification for human intracranial electrophysiology",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:vPKCt-r_nWsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8187561505424711380",
+            "cites_id": [
+                "8187561505424711380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neuroscience: when a single image can cause a seizure",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:QxlgOPrhsAcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2399166305819335825",
+            "cites_id": [
+                "2399166305819335825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reliability and correlation of fMRI, ECOG and EEG during natural stimulus processing",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:b8wqy9DyMDUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18273393643538185756",
+            "cites_id": [
+                "18273393643538185756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The similarity structure of real-world memories",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:Sw8WaQuuSIgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2196503931013506484",
+            "cites_id": [
+                "2196503931013506484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase and amplitude dynamics of coupled oscillator systems on complex networks",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:BSZS1fLCB98C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15867031295669788138",
+            "cites_id": [
+                "15867031295669788138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Causal Evidence for a Neural Component of Spatially Global Hemodynamic Signals",
-                "cites": "1",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "w2xjglQAAAAJ:W8gSVh4kTHQC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:W8gSVh4kTHQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17936678078137055200",
+            "cites_id": [
+                "17936678078137055200"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Electrocorticographic responses to time-compressed speech vary across the cortical auditory hierarchy",
-                "cites": "1",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "w2xjglQAAAAJ:m8MyhXdlT-4C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:m8MyhXdlT-4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11217577922467785785",
+            "cites_id": [
+                "11217577922467785785"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Serial dependence transfers between perceptual objects",
-                "cites": "1",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "w2xjglQAAAAJ:pxLfhFzThFYC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:pxLfhFzThFYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2016336690137231484",
+            "cites_id": [
+                "2016336690137231484"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "How long is now? The multiple timescales of language processing",
-                "cites": "1",
-                "year": "2016"
+                "pub_year": "2016"
             },
-            "id_citations": "w2xjglQAAAAJ:oMtqKo3K3HAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:oMtqKo3K3HAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10119264960590073259",
+            "cites_id": [
+                "10119264960590073259"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A data-driven investigation of human action representations",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:YIdQ7BAI8VoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Narrative thinking lingers in spontaneous thought",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:-XtG2q47PdUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slower is Better: Revisiting the Forgetting Mechanism in LSTM for Slower Information Decay",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:LYDvBi7O6RsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping the Timescale Organization of Neural Language Models",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:8moDcb_GFzgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The representational space of action perception",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:xUD2GqFNeDMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Temporal Hierarchies in Human Cerebral Cortex",
-                "cites": "0",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "w2xjglQAAAAJ:0dtNEdnCFDAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:0dtNEdnCFDAC",
+            "num_citations": 0
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Induction and quantification of plasticity in human cortical networks",
-                "cites": "0",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "w2xjglQAAAAJ:pk6FPx6l9xIC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:pk6FPx6l9xIC",
+            "num_citations": 0
         },
         {
-            "bib": {
-                "title": "Reliability and correlation of fMRI, ECoG and EEG during natural stimulus processing",
-                "cites": "0",
-                "year": "2018"
-            },
-            "id_citations": "w2xjglQAAAAJ:b8wqy9DyMDUC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Repetitive Brain Stimulation Induces Long-Term Plasticity across Patient Populations and Spatial Scales",
-                "cites": "0",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "w2xjglQAAAAJ:KVXOKlNwS8oC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:jvrRlaHg2sAC",
+            "num_citations": 0
         },
         {
-            "bib": {
-                "title": "A Semantic Shared Response Model",
-                "cites": "0",
-                "year": "2016"
-            },
-            "id_citations": "w2xjglQAAAAJ:6sy8ByAbWgIC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Repetitive Brain Stimulation Induces Long-term Plasticity Across Patient Populations and Spatial Scales",
-                "cites": "0",
-                "year": "2016"
+                "pub_year": "2016"
             },
-            "id_citations": "w2xjglQAAAAJ:cocyvO7vrcwC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:cocyvO7vrcwC",
+            "num_citations": 0
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Optimizing Repetitive Brain Stimulation Using Direct Electrical Recordings in Human Neocortex",
-                "cites": "0",
-                "year": "2015"
+                "pub_year": "2015"
             },
-            "id_citations": "w2xjglQAAAAJ:IWHjjKOFINEC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
         },
         {
-            "bib": {
-                "title": "Proactive coping moderates the dietary intention-planning-behavior path",
-                "cites": "0",
-                "year": "2014"
-            },
-            "id_citations": "w2xjglQAAAAJ:esGtpfCv0y8C",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Articles in PresS. J Neurophysiol (August 7, 2013). doi: 10.1152/jn. 00268.2013",
-                "cites": "0",
-                "year": "2013"
+                "pub_year": "2013"
             },
-            "id_citations": "w2xjglQAAAAJ:ThYxFsVAhEkC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:ThYxFsVAhEkC",
+            "num_citations": 0
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local Cortical Activity is Phase-Entrained on Low-Frequency Rhythmsin a Gyrally-Specific Manner",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:YXeC4bxG7-IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "The Structural Core of Human Cerebral Cortex and Its Relation to the Brain's Default Network.",
-                "cites": "0",
-                "year": "2008"
+                "pub_year": "2008"
             },
-            "id_citations": "w2xjglQAAAAJ:KlAtU1dfN6UC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Modeling the effects of temporal context on neural responses across the cortical hierarchy",
-                "cites": "0"
+                "title": "A Semantic Shared Response Model"
             },
-            "id_citations": "w2xjglQAAAAJ:0BSZZHtHo6cC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:7xtfDMUJqJkC",
+            "num_citations": 0
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "A hierarchical model for sequential perception and sequence learning",
-                "cites": "0"
+                "title": "295 Testing domain-general theories of perceptual awareness with auditory brain responses 297 Emotional contagion: its scope and limits"
             },
-            "id_citations": "w2xjglQAAAAJ:wyCGhLAOp5UC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:LiF7i2gyBHwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the effects of temporal context on neural responses across the cortical hierarchy"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:0BSZZHtHo6cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hierarchical model for sequential perception and sequence learning"
+            },
+            "filled": false,
+            "author_pub_id": "w2xjglQAAAAJ:wyCGhLAOp5UC",
+            "num_citations": 0
         }
     ],
-    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=w2xjglQAAAAJ"
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gzPWwdIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Olaf Sporns",
+            "affiliation": "Distinguished Professor, Psychological and Brain Sciences, Indiana University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mOwF8UEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Janice Chen",
+            "affiliation": "Assistant Professor, Johns Hopkins University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AeNIwJEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "leila cammoun",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vHwHpawAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patric Hagmann",
+            "affiliation": "Professor of Radiology, University Hospital Lausanne, Switzerland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "A4ycnDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kenneth A. Norman",
+            "affiliation": "Professor of Psychology and Neuroscience, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mII-l2cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean-Philippe Thiran",
+            "affiliation": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OLOPSOYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Corey J. Keller, MD / PhD",
+            "affiliation": "Stanford University School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PK5gALEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "kai joshua miller",
+            "affiliation": "Neurosurgery, Mayo Clinic"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zQJMnscAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jeffrey Ojemann",
+            "affiliation": "Professor of Neurological Surgery"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lnb0QiQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "yaara yeshurun",
+            "affiliation": "The School of Psychological Sciences, Tel-Aviv University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d33Z2KEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dora Hermes",
+            "affiliation": "Assistant Professor in Physiology and Biomedical Engineering, Mayo Clinic"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hrx691cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Breakspear",
+            "affiliation": "University of Newcastle, Australia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M-rNJg0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David M. Groppe",
+            "affiliation": "Persyst Development Corporation"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "07tNFdgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Arcaro",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "E9iWhoYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hsiang-Yun Sherry Chien",
+            "affiliation": "AI/ML resident at Apple"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "An2VxEwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yuan Chang Leong",
+            "affiliation": "University of Chicago"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OIwt344AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thomas Thesen",
+            "affiliation": "Associate Professor, University of Houston"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6ggnUzYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David J Heeger",
+            "affiliation": "Professor of Psychology and Neural Science, New York University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "02nHF0gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rajesh PN Rao",
+            "affiliation": "Computer Science and Engineering, University of Washington"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iPa3kB0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adam O. Hebb",
+            "affiliation": "Affiliate Physician, Colorado Neurological Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4xvGuWMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre M\u00e9gevand",
+            "affiliation": "Assistant professor, Clinical Neuroscience, University of Geneva, Switzerland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nE_8s1YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "JP Thivierge",
+            "affiliation": "Associate professor of Psychology, University of Ottawa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SbP3e98AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Istvan Ulbert",
+            "affiliation": "Research Centre for Natural Sciences"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3VOu6oIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ralf Schm\u00e4lzle [Schmaelzle]",
+            "affiliation": "Michigan State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ssqr44UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tobias H. Donner",
+            "affiliation": "Professor of Integrative Neuroscience, Dept. of Neurophysiology, UKE Hamburg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X7bG7YYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ami Wiesel",
+            "affiliation": "Hebrew University of Jerusalem, Israel"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BW2vf1YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stephan Gerhard",
+            "affiliation": "CEO, Unidesign Solutions GmbH"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BOqO5oEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kevin Himberger",
+            "affiliation": "Johns Hopkins University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lZ9hwSsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cameron Craddock",
+            "affiliation": "The University of Texas at Austin Dell Medical School"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N4-Y6GYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Milham",
+            "affiliation": "Child Mind Institute, Nathan Kline Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1_bjrikAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "(Anne-Marie) Clare Kelly",
+            "affiliation": "Associate Professor of Functional Neuroimaging, Trinity College Institute of Neuroscience"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WYv36DIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Robert Thomas Knight",
+            "affiliation": "Professor of Psychology and Neuroscience, UC Berkeley"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lF89_z8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Brett L. Foster",
+            "affiliation": "Assistant Professor, Department of Neurosurgery, University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ymNE0hAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Greg J Stephens",
+            "affiliation": "Department of Physics, Vrije Universiteit Amsterdam and OIST Graduate University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6YJQed0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher Baldassano",
+            "affiliation": "Columbia University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BOMboVoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Peter J. Ramadge",
+            "affiliation": "Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OrhZiAIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Po-Hsuan Cameron Chen",
+            "affiliation": "Google Health"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7oBE9-oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kiran Vodrahalli",
+            "affiliation": "Ph.D. student, Columbia University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uCxafoMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrew R. Dykstra",
+            "affiliation": "Department of Biomedical Engineering, University of Miami"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2OMXR2cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Xiuyuan (Hugh) Wang",
+            "affiliation": "Weill Cornell Medicine Radiology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-9xkZW4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel R. Mercier",
+            "affiliation": "Inserm"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mxsVOIcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chris Gaiteri",
+            "affiliation": "Rush University Medical Center"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nBL0J6kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sara Mostafavi",
+            "affiliation": "University of Washington"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XA8J13IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose L Herrero",
+            "affiliation": "Assistant Professor, Feinstein Institutes for Medical Research, New York"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7T6TY5AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yuhao (Danny) Huang",
+            "affiliation": "Stanford University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "m1qAiOUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Terrence Sejnowski",
+            "affiliation": "Francis Crick Professor, Salk Institute, Distingished Professor, UC San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wQPk6NIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Scott Makeig",
+            "affiliation": "Director, Swartz Center for Computational Neuroscience, Institute for Neural Computation \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nk3OcBoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Leuthardt",
+            "affiliation": "Washington University School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-4BM5pwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lucas C. Parra",
+            "affiliation": "Professor of Biomedical Engineering, City College of New York, CUNY"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pwbAYR8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexander Todorov",
+            "affiliation": "Professor of Behavioral Science, The University of Chicago Booth School of Business"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N2Y9ptkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jordan Poppenk",
+            "affiliation": "Queen's University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FvXuJbUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karim Jerbi, PhD",
+            "affiliation": "Computational and Cognitive Neuroscience Lab (CoCo Lab), University of Montreal, QC \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QBoOiHMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexander Maier",
+            "affiliation": "Associate Professor of Psychology, Vanderbilt University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JXFqP7IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Biyu J He",
+            "affiliation": "New York University Medical Center"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CvO16b8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mikhail Katkov",
+            "affiliation": "Weizmann Institute of Science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3L1LZB8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Harald Schupp",
+            "affiliation": "University of Konstanz, Department of Psychology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nR7gRA0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aya Ben-Yakov",
+            "affiliation": "ELSC, Hebrew University of Jerusalem"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w7tVs24AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ryan EB Mruczek",
+            "affiliation": "Dept of Psychology, College of the Holy Cross"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0LtjqCYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ehren Newman",
+            "affiliation": "Indiana University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s6NTSjwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anna Schapiro",
+            "affiliation": "Assistant Professor, University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kiS5b7AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Taufik A Valiante",
+            "affiliation": "Associate Professor, Division of Neurosurgery, Department of Surgery"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3ApG_nMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James T Townsend",
+            "affiliation": "Distinguished Professor, Emeritus, Indiana University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y9X4_AkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John M. Beggs",
+            "affiliation": "Associate Professor of Physics, Indiana University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KNV93kUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "aonan tang",
+            "affiliation": "New Mexico Military Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bQDXftgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valentin Riedl",
+            "affiliation": "Technische Universit\u00e4t M\u00fcnchen (TUM)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1prOWI4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Greg Huffman",
+            "affiliation": "Naval Health Research Center"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lI5WtTIWfVwC",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Gerhard",
+            "affiliation": "Postdoctoral Research Associate, Brown Universitz, Providence, RI"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XypnRacAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erez Simony",
+            "affiliation": "Holon Institute of Technology (HIT) & Weizmann Institute of science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "coO70DcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Ames",
+            "affiliation": "Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vF9_I2QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael A. Chow",
+            "affiliation": "Independent Researcher"
+        }
+    ],
+    "alternate_names": [
+        "Chris Honey"
+    ]
 }

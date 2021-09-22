@@ -1,0 +1,1082 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "counts",
+        "basics",
+        "indices",
+        "publications",
+        "coauthors"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "JIfeqbMAAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=JIfeqbMAAAAJ",
+    "name": "Anne G.E. Collins",
+    "affiliation": "UC Berkeley",
+    "email_domain": "@berkeley.edu",
+    "interests": [
+        "reinforcement learning"
+    ],
+    "citedby": 3643,
+    "cites_per_year": {
+        "2007": 14,
+        "2008": 19,
+        "2009": 13,
+        "2010": 26,
+        "2011": 22,
+        "2012": 33,
+        "2013": 83,
+        "2014": 134,
+        "2015": 230,
+        "2016": 325,
+        "2017": 357,
+        "2018": 492,
+        "2019": 477,
+        "2020": 658,
+        "2021": 690
+    },
+    "citedby5y": 3010,
+    "hindex": 24,
+    "hindex5y": 24,
+    "i10index": 33,
+    "i10index5y": 33,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reasoning, learning, and creativity: frontal lobe function and human decision-making",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 522,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10115165716374557261",
+            "cites_id": [
+                "10115165716374557261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of human reasoning in the prefrontal cortex",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 344,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15447223180254724699,5251765698940914924",
+            "cites_id": [
+                "15447223180254724699",
+                "5251765698940914924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How much of reinforcement learning is working memory, not reinforcement learning? A behavioral, computational, and neurogenetic analysis",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 323,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2219047198282649164",
+            "cites_id": [
+                "2219047198282649164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Documenting catchment suspended sediment sources: problems, approaches and prospects",
+                "pub_year": "2004"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 315,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7567151662777856541",
+            "cites_id": [
+                "7567151662777856541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cognitive control over learning: creating, clustering, and generalizing task-set structure.",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 277,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6675257761680858003",
+            "cites_id": [
+                "6675257761680858003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Opponent actor learning (OpAL): modeling interactive effects of striatal dopamine on reinforcement learning and choice incentive.",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 259,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15021302925332102351",
+            "cites_id": [
+                "15021302925332102351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative symptoms and the failure to represent the expected reward value of actions: behavioral and computational modeling evidence",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 255,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16324189718010587430",
+            "cites_id": [
+                "16324189718010587430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Working memory contributions to reinforcement learning impairments in schizophrenia",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 152,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426313673814724566",
+            "cites_id": [
+                "7426313673814724566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ten simple rules for the computational modeling of behavioral data",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:HDshCWvjkbEC",
+            "num_citations": 149,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3241409291604579988",
+            "cites_id": [
+                "3241409291604579988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactions among working memory, reinforcement learning, and effort in value-based choice: A new paradigm and selective deficits in schizophrenia",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12914295745848048231",
+            "cites_id": [
+                "12914295745848048231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic reinforcement learning in patients with schizophrenia: relationships to anhedonia and avolition",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18236938838055759060",
+            "cites_id": [
+                "18236938838055759060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reinforcement learning mechanism responsible for the valuation of free choice",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2453625977322580682",
+            "cites_id": [
+                "2453625977322580682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Within-and across-trial dynamics of human EEG reveal cooperative interplay between reinforcement learning and working memory",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:dhFuZR0502QC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7135693198797214043",
+            "cites_id": [
+                "7135693198797214043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Working memory load strengthens reward prediction errors",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:aqlVkmm33-oC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7364820620512348791",
+            "cites_id": [
+                "7364820620512348791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human EEG uncovers latent generalizable rule structure during learning",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8737857452543616316",
+            "cites_id": [
+                "8737857452543616316"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated catchment management\u2014interweaving social process and science knowledge",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:isC4tDSrTZIC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8563021871775564451",
+            "cites_id": [
+                "8563021871775564451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural signature of hierarchically structured expectations predicts clustering and transfer of rule sets in reinforcement learning",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8467870859917512712",
+            "cites_id": [
+                "8467870859917512712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of prefrontal cortex in learning and generalizing hierarchical rules in 8-month-old infants",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14857260615558040337",
+            "cites_id": [
+                "14857260615558040337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "8-month-old infants spontaneously learn and generalize hierarchical rules",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548394614112607967",
+            "cites_id": [
+                "13548394614112607967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surprise! Dopamine signals mix action, value and error",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367564927177106714",
+            "cites_id": [
+                "1367564927177106714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond dichotomies in reinforcement learning",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15169152978316472706",
+            "cites_id": [
+                "15169152978316472706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Moving beyond ERP components: a selective review of approaches to integrate EEG and behavior",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:qUcmZB5y_30C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16239986752277840952",
+            "cites_id": [
+                "16239986752277840952"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The tortoise and the hare: Interactions between reinforcement learning and working memory",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5862883221764828219",
+            "cites_id": [
+                "5862883221764828219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disentangling the systems contributing to changes in learning during adolescence",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11054003798527262898",
+            "cites_id": [
+                "11054003798527262898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The cost of structure learning",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:4DMP91E08xMC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7997548629948700915",
+            "cites_id": [
+                "7997548629948700915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational mechanisms of effort and reward decisions in patients with depression and their association with relapse after antidepressant discontinuation",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:k_IJM867U9cC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2532332709347056904",
+            "cites_id": [
+                "2532332709347056904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement learning: Bringing together computation and cognition",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15252979784269152832",
+            "cites_id": [
+                "15252979784269152832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-task contributions of frontobasal ganglia circuitry in response inhibition and conflict-induced slowing",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5972389036824080853",
+            "cites_id": [
+                "5972389036824080853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motor demands constrain cognitive rule structures",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8269574697047911550",
+            "cites_id": [
+                "8269574697047911550"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negative symptoms in schizophrenia result from a failure to represent the expected value of rewards: behavioral and computational modeling evidence",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11892861931742552459",
+            "cites_id": [
+                "11892861931742552459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational evidence for hierarchically structured reinforcement learning in humans",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5731363475904675608",
+            "cites_id": [
+                "5731363475904675608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the influence of working memory, reinforcement, and action uncertainty on reaction time and choice during instrumental learning",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9954709994692470043",
+            "cites_id": [
+                "9954709994692470043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential control underlies robust ramping dynamics in the rostrolateral prefrontal cortex",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:mB3voiENLucC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13430978624835588375",
+            "cites_id": [
+                "13430978624835588375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of executive function in shaping reinforcement learning",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10275592455935485742",
+            "cites_id": [
+                "10275592455935485742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stimulus discriminability may bias value-based probabilistic learning",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16011701619637826053",
+            "cites_id": [
+                "16011701619637826053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temporal and state abstractions for efficient learning, transfer, and composition in humans.",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5557035486181767871",
+            "cites_id": [
+                "5557035486181767871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning under uncertainty changes during adolescence.",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:BqipwSGYUEgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=973950179395498458",
+            "cites_id": [
+                "973950179395498458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the unique advantage of adolescents in stochastic, volatile environments: combining reinforcement learning and Bayesian Inference",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:hMod-77fHWUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=38193316771143438",
+            "cites_id": [
+                "38193316771143438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase 1: looking back",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=119653491722473366",
+            "cites_id": [
+                "119653491722473366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prefrontal cortex in control: broadening the scope to identify mechanisms",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10231877264374431432",
+            "cites_id": [
+                "10231877264374431432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning structures through reinforcement",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:-f6ydRqryjwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6039015584392073875",
+            "cites_id": [
+                "6039015584392073875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apprentissage et contr\u00f4le cognitif: une th\u00e9orie computationnelle de la fonction ex\u00e9cutive pr\u00e9fontale humaine",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7917175633933493710",
+            "cites_id": [
+                "7917175633933493710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What do reinforcement learning models measure? Interpreting model parameters in cognition and neuroscience",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7517363205629573136",
+            "cites_id": [
+                "7517363205629573136"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in modeling learning and decision-making in neuroscience",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16810196230968753702",
+            "cites_id": [
+                "16810196230968753702"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling changes in probabilistic reinforcement learning during adolescence",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:lSLTfruPkqcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17267830115648311588",
+            "cites_id": [
+                "17267830115648311588"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning Rates Are Not All the Same: The Interpretation of Computational Model Parameters Depends on the Context",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=372768680673316675",
+            "cites_id": [
+                "372768680673316675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Executive function supports single-shot endowment of value to arbitrary transient goals",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10422462458800179343",
+            "cites_id": [
+                "10422462458800179343"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disentangling the systems contributing to changes in learning during adolescence (vol 41, 100732, 2020)",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648358114927243307",
+            "cites_id": [
+                "648358114927243307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dopaminergic activity and exercise behavior in anorexia nervosa",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:35N4QoGY0k4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16635685592387415430",
+            "cites_id": [
+                "16635685592387415430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Activation But Not Inhibition of the Indirect Pathway Disrupts Choice Suppression in a Freely Moving, Multiple Choice Foraging Task",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:RGFaLdJalmkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1935322775394362190",
+            "cites_id": [
+                "1935322775394362190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Event segmentation reveals working memory forgetting rate",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2492298773454445806",
+            "cites_id": [
+                "2492298773454445806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evidence for hierarchically-structured reinforcement learning in humans.",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6593473825438308451",
+            "cites_id": [
+                "6593473825438308451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "P3\u2013212: Physical activity and prevalence of cognitive impairment in community\u2010dwelling very old individuals",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13792144223595517296",
+            "cites_id": [
+                "13792144223595517296"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Executive Function Assigns Value to Novel Goal-Congruent Outcomes",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proof-of-Mechanism Study of the Phosphodiesterase 10 Inhibitor RG7203 in Patients With Schizophrenia and Negative Symptoms",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What do RL Models Measure? Interpreting Model Parameters in Cognition and Neuroscience",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plucking a string or playing a G? Degree of choice abstraction impacts human reinforcement learning",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How the Mind Creates Structure: Hierarchical Learning of Action Sequences",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Unique Advantage of Adolescents in Probabilistic Reversal: Reinforcement Learning and Bayesian Inference Provide Adequate and Complementary Models",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrigendum to \u201cDisentangling the systems contributing to changes in learning during adolescence\u201d[Dev. Cogn. Neurosci. 41, 2020, 100732]",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A role for working memory in shaping the action policy for reinforcement learning.",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Executive modulation of brain reward systems endows goals with value",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What is a choice in reinforcement learning?",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Choice suppression is achieved through opponent but not independent function of the striatal indirect pathway in mice",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the development of decision making in volatile environments using strategies, reinforcement learning, and Bayesian inference",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "S43. A PROOF-OF-MECHANISM STUDY OF THE PDE10 INHIBITOR RG7203 IN PATIENTS WITH PROBING REWARD FUNCTIONS WITH IMAGING AND BEHAVIORAL APPROACHES",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Proof-Of-Mechanism Study of the PDE10 Inhibitor RG7203 in Patients With Schizophrenia and Negative Symptoms Probing Reward Functions With Imaging and Behavioral Approaches",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WHY DO WE STRUCTURE OUR KNOWLEDGE? TWO LEVELS OF RULE GENERALIZATION IN REINFORCEMENT LEARNING.",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WELCOME TO THE MACHINE: PATTERN CLASSIFIERS REVEAL LATENT COGNITIVE STATES",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reasoning, Learning, and Creativity: Frontal Lobe Function and Human Decision-Making e1001293",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apportioning sediment pressures on watercourses in grassland dominated agricultural catchments: a new framework for policy support",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u8bc4\u4f30\u81ea\u7531\u9009\u62e9\u6743\u7684\u5f3a\u5316\u5b66\u4e60\u673a\u5236"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond simple dichotomies in reinforcement learning."
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distinct Behavioral Profiles of Information-Seeking for Reward in Euthymic Bipolar Disorder"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pFC in Control: Broadening the Scope to Identify Mechanisms"
+            },
+            "filled": false,
+            "author_pub_id": "JIfeqbMAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        }
+    ],
+    "coauthors": [],
+    "alternate_names": [
+        "Anne Collins"
+    ]
+}

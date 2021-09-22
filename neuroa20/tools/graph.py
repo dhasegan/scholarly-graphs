@@ -43,7 +43,9 @@ def create_table(
 
     for item in scholars:
         n1 = item['name']
-        emails[n1] = item['email']
+        # if 'email' not in item:
+        #   print(item)
+        emails[n1] = item['email'] if 'email' in item else item['email_domain']
         for coauthor in item['coauthors']:
             n2 = coauthor['name']
             links = _add_link(links, n1, n2)

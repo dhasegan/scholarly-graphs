@@ -10,6 +10,8 @@
 
 2. Install packages
 
+        brew install geckodriver
+
         virtualenv --system-site-packages -p python3 ./venv
 
         ve
@@ -33,6 +35,9 @@ For example:
 Then use all the pages to compile the final page
 
     py neuroa20/tools/display.py run google_scholar/ display.html
+
+    py neuroa20/tools/display.py run google_scholar/ display.html \
+        --filter_file data/new-2021/faculty.csv
 
 ### You can use this to find coauthors
 
@@ -72,3 +77,14 @@ Then use all the pages to compile the final page
         noded3/files/hakwan_meetup.tsv \
         --list_filename_filter data/other/profs_hakwan_meetup.csv \
         --list_filename_filter_count 1
+
+    py neuroa20/tools/graph.py create_table \
+        google_scholar/ \
+        noded3/files/new_2021.tsv \
+        --list_filename_filter data/new-2021/faculty.csv \
+        --list_filename_filter_count 1
+
+### Start server
+
+    cd noded3
+    python3 -m http.server 9000

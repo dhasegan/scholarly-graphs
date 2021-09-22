@@ -1,0 +1,1525 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "counts",
+        "publications",
+        "basics",
+        "coauthors",
+        "indices"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "Mp2BoDpD-2kC",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=Mp2BoDpD-2kC",
+    "name": "Angela J. Yu",
+    "affiliation": "Associate Professor of Cognitive Science, University of California San Diego",
+    "email_domain": "@ucsd.edu",
+    "interests": [
+        "Cognitive modeling",
+        "theoretical neuroscience",
+        "learning",
+        "decision-making",
+        "cognitive control"
+    ],
+    "citedby": 5221,
+    "cites_per_year": {
+        "2004": 62,
+        "2005": 74,
+        "2006": 58,
+        "2007": 88,
+        "2008": 114,
+        "2009": 153,
+        "2010": 142,
+        "2011": 187,
+        "2012": 256,
+        "2013": 376,
+        "2014": 388,
+        "2015": 379,
+        "2016": 466,
+        "2017": 458,
+        "2018": 479,
+        "2019": 445,
+        "2020": 534,
+        "2021": 482
+    },
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty, neuromodulation, and attention",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:Zph67rFs4hoC",
+            "num_citations": 1580,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12674731537595692936",
+            "cites_id": [
+                "12674731537595692936"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Should I stay or should I go? How the human brain manages the trade-off between exploitation and exploration",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:ULOm3_A8WrAC",
+            "num_citations": 1042,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13142603290569996493,5537513682296810284,1450913014828790773,12625465126173272307,17430368799173798110",
+            "cites_id": [
+                "13142603290569996493",
+                "5537513682296810284",
+                "1450913014828790773",
+                "12625465126173272307",
+                "17430368799173798110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential effects: superstition or rational behavior?",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:4TOpqqG69KYC",
+            "num_citations": 279,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11872050052323790409",
+            "cites_id": [
+                "11872050052323790409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phasic norepinephrine: a neural interrupt signal for unexpected events",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:u5HHmVD_uO8C",
+            "num_citations": 277,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15640966833817415381",
+            "cites_id": [
+                "15640966833817415381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emotion and decision-making: affect-driven belief systems in anxiety and depression",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:qxL8FJ1GzNcC",
+            "num_citations": 238,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2893337591008244222",
+            "cites_id": [
+                "2893337591008244222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acetylcholine in cortical inference",
+                "pub_year": "2002"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:YOwf2qJgpHMC",
+            "num_citations": 235,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132860395990817601",
+            "cites_id": [
+                "4132860395990817601"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian prediction and evaluation in the anterior cingulate cortex",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:aqlVkmm33-oC",
+            "num_citations": 170,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7052361614980745712",
+            "cites_id": [
+                "7052361614980745712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expected and unexpected uncertainty: ACh and NE in the neocortex",
+                "pub_year": "2003"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:u-x6o8ySG0sC",
+            "num_citations": 140,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6600006673469013478",
+            "cites_id": [
+                "6600006673469013478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biophysiologically plausible implementations of the maximum operation",
+                "pub_year": "2002"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:_kc_bZDykSQC",
+            "num_citations": 124,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7979523145060712111,11010936028922661233,2824387908036381419",
+            "cites_id": [
+                "7979523145060712111",
+                "11010936028922661233",
+                "2824387908036381419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics of attentional selection under conflict: toward a rational Bayesian account.",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:d1gkVwhDpl0C",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17887050726614154111",
+            "cites_id": [
+                "17887050726614154111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential hypothesis testing under stochastic deadlines",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:Wp0gIr-vW9MC",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910798825786672417",
+            "cites_id": [
+                "15910798825786672417"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inference, attention, and decision in a Bayesian neural architecture",
+                "pub_year": "2004"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:M3ejUd6NZC8C",
+            "num_citations": 85,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6771841461904306005",
+            "cites_id": [
+                "6771841461904306005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rational decision-making in inhibitory control",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:9yKSN-GCB0IC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4635507459142357885",
+            "cites_id": [
+                "4635507459142357885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forgetful Bayes and myopic planning: Human learning and decision-making in a bandit setting",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:QIV2ME_5wuYC",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3431274804861947016,9875967190911140539",
+            "cites_id": [
+                "3431274804861947016",
+                "9875967190911140539"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive behavior: Humans act as Bayesian learners",
+                "pub_year": "2007"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:4DMP91E08xMC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12503224120163825567",
+            "cites_id": [
+                "12503224120163825567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dependence of brown adipose tissue function on CD36-mediated coenzyme Q uptake",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:eJXPG6dFmWUC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2883949421770894066",
+            "cites_id": [
+                "2883949421770894066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ACh, uncertainty, and cortical inference",
+                "pub_year": "2002"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:35N4QoGY0k4C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14788735770316978",
+            "cites_id": [
+                "14788735770316978"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning the value of information and reward over time when solving exploration-exploitation problems",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:g5m5HwL7SMYC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1661576837382480422,3047621541285895765,17980383227354233028",
+            "cites_id": [
+                "1661576837382480422",
+                "3047621541285895765",
+                "17980383227354233028"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A rational decision making framework for inhibitory control",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:9ZlFYXVOiuMC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9917170079347735484",
+            "cites_id": [
+                "9917170079347735484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Altered neural processing of the need to stop in young adults at risk for stimulant dependence",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:dhFuZR0502QC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7674955130801325503",
+            "cites_id": [
+                "7674955130801325503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximizing masquerading as matching in human visual search choice behavior.",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:UeHWp8X0CEIC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1711392034825260064",
+            "cites_id": [
+                "1711392034825260064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximizing Masquerading as Matching in Human Visual Search Choice Behavior",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:tOudhMTPpwUC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1711392034825260064,2942451660506178346",
+            "cites_id": [
+                "1711392034825260064",
+                "2942451660506178346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal change-detection and spiking neurons",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:mVmsd5A6BfQC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6612025453686884570,15745555832579034162",
+            "cites_id": [
+                "6612025453686884570",
+                "15745555832579034162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamical analysis of Bayesian inference models for the Eriksen task",
+                "pub_year": "2009"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:2osOgNQ5qMEC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10227751352272303283",
+            "cites_id": [
+                "10227751352272303283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anhedonia and anxiety underlying depressive symptomatology have distinct effects on reward-based decision-making",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:M05iB0D1s5AC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6851495817652397081",
+            "cites_id": [
+                "6851495817652397081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Altered statistical learning and decision-making in methamphetamine dependence: evidence from a two-armed bandit task",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:KlAtU1dfN6UC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17698310664912880795",
+            "cites_id": [
+                "17698310664912880795"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active sensing as bayes-optimal sequential decision making",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:YFjsv_pBGBYC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7234807522027543666",
+            "cites_id": [
+                "7234807522027543666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impaired Bayesian learning for cognitive control in cocaine dependence",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:hC7cP41nSMkC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1619374355987184169",
+            "cites_id": [
+                "1619374355987184169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Change is in the eye of the beholder",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:7PzlFSSx8tAC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4695994508924327093",
+            "cites_id": [
+                "4695994508924327093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian neural adjustment of inhibitory control predicts emergence of problem stimulant use",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:mB3voiENLucC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=868966851898041935",
+            "cites_id": [
+                "868966851898041935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential effects: a Bayesian analysis of prior bias on reaction time and behavioral choice",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:qUcmZB5y_30C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=642822500136133623",
+            "cites_id": [
+                "642822500136133623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strategic impatience in Go/NoGo versus forced-choice decision-making",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:ZeXyd9-uunAC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8326992758501570518",
+            "cites_id": [
+                "8326992758501570518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical learning and adaptive decision-making underlie human response time variability in inhibitory control",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:-f6ydRqryjwC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5937979240970648162,6883834755405746423,16097464587044216077",
+            "cites_id": [
+                "5937979240970648162",
+                "6883834755405746423",
+                "16097464587044216077"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced neural recruitment for Bayesian adjustment of inhibitory control in methamphetamine dependence",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:J_g5lzvAfSwC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2595371170251744633",
+            "cites_id": [
+                "2595371170251744633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracting human face similarity judgments: Pairs or triplets?",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:2P1L_qKh6hAC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9335080708539429505",
+            "cites_id": [
+                "9335080708539429505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cheap but clever: human active learning in a bandit setting",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:L8Ckcad2t8MC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2220509135449008975",
+            "cites_id": [
+                "2220509135449008975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rational preference shifts in multi-attribute choice: What is fair?",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:IWHjjKOFINEC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9519250154553077306",
+            "cites_id": [
+                "9519250154553077306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Norepinephrine and neural interrupts",
+                "pub_year": "2006"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:qjMakFHDy7sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10868446382394429592",
+            "cites_id": [
+                "10868446382394429592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demystifying excessively volatile human learning: A Bayesian persistent prior and a neural approximation",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:RYcK_YlVTxYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9126944556603369442,15958487635306456844",
+            "cites_id": [
+                "9126944556603369442",
+                "15958487635306456844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reward-rate maximization in sequential identification under a stochastic deadline",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:Y0pCki6q_DkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12462490203871891797",
+            "cites_id": [
+                "12462490203871891797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Motor preparation disrupts proactive control in the stop signal task",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:u_35RYKgDlwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18426581224493428054",
+            "cites_id": [
+                "18426581224493428054"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inseparability of go and stop in inhibitory control: Go stimulus discriminability affects stopping behavior",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:GnPB-g6toBAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4048303670482201610",
+            "cites_id": [
+                "4048303670482201610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian Models of Attention",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:HDshCWvjkbEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6532783572955317153,15718689778925191287",
+            "cites_id": [
+                "6532783572955317153",
+                "15718689778925191287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cost-sensitive Bayesian control policy in human active sensing",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:iH-uZ7U-co4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10640453874213140022",
+            "cites_id": [
+                "10640453874213140022"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational modeling of social face perception in humans: Leveraging the active appearance model",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:f2IySw72cVMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7877106256548432583",
+            "cites_id": [
+                "7877106256548432583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From likely to likable: The role of statistical typicality in human social assessment of faces",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:K3LRdlH-MEoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16295981329385853925",
+            "cites_id": [
+                "16295981329385853925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian computational markers of relapse in methamphetamine dependence",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:CHSYGLWDkRkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10409651878403330809",
+            "cites_id": [
+                "10409651878403330809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Why so gloomy? A Bayesian explanation of human pessimism bias in the multi-armed bandit task",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:EUQCXRtRnyEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3744403517997128428",
+            "cites_id": [
+                "3744403517997128428"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning the value of information and reward over time when solving exploration-exploitation problems.",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:VOx2b1Wkg3QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14578029650769543816",
+            "cites_id": [
+                "14578029650769543816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decision-making tasks",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11135185824232155153,13431503892545405230",
+            "cites_id": [
+                "11135185824232155153",
+                "13431503892545405230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cognitive control, uncertainty and the brain. Research Topic",
+                "pub_year": "2010"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4591672701122943981",
+            "cites_id": [
+                "4591672701122943981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ACh and NE: Bayes, uncertainty, attention, and learning",
+                "pub_year": "2005"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8731296287408556119",
+            "cites_id": [
+                "8731296287408556119"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leveraging computer vision face representation to understand human face representation",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:fQNAKQ3IYiAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066541353027926679",
+            "cites_id": [
+                "12066541353027926679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty and neuromodulation: Acetylcholine and sustained attention",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:JV2RwH3_ST0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5463148086959438517,8464117465601813297",
+            "cites_id": [
+                "5463148086959438517",
+                "8464117465601813297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wherefore a Horse Race: Inhibitory Control as Rational Decision Making",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:R3hNpaxXUhUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2275878199625979824",
+            "cites_id": [
+                "2275878199625979824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expected and unexpected uncertainties control allocation of attention in a novel attentional learning task.",
+                "pub_year": "2004"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:uWQEDVKXjbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13014631594739920154",
+            "cites_id": [
+                "13014631594739920154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distinct motivations to seek out information in healthy and addicted individuals",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:4fKUyHm3Qg0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10491540432781211038,5451980193941197923,14568427379691788161,13989661139151445929",
+            "cites_id": [
+                "10491540432781211038",
+                "5451980193941197923",
+                "14568427379691788161",
+                "13989661139151445929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Devaluation of Unchosen Options: A Bayesian Account of the Provenance and Maintenance of Overly Optimistic Expectations.",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:Tiz5es2fbqcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4387637319940385390",
+            "cites_id": [
+                "4387637319940385390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beauty-in-averageness and its contextual modulations: A Bayesian statistical account",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:bFI3QPDXJZMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4036768684830535501",
+            "cites_id": [
+                "4036768684830535501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational models of neuromodulation",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12707512232018107779,14383622379117443043,8358408799982319548,17508132190996763077",
+            "cites_id": [
+                "12707512232018107779",
+                "14383622379117443043",
+                "8358408799982319548",
+                "17508132190996763077"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human learning and decision-making in the bandit task: Three wrongs make a right",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:KxtntwgDAa4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9504610886140440581",
+            "cites_id": [
+                "9504610886140440581"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Model-Based Investigating of the Biological Origin of Human Social Perception of Faces.",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:nb7KW1ujOQ8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7795177014494384425",
+            "cites_id": [
+                "7795177014494384425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian hierarchical model of local-global processing: Visual crowding as a case-study",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=765336435766356033",
+            "cites_id": [
+                "765336435766356033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Socially Aware Bayesian Model for Competitive Foraging",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:hFOr9nPyWt4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16929710659744343096",
+            "cites_id": [
+                "16929710659744343096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural mechanisms for the realization of maximum operations",
+                "pub_year": "2000"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:3s1wT3WcHBgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2939959297111340191",
+            "cites_id": [
+                "2939959297111340191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distinct motivations to seek out information in healthy individuals and problem gamblers",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revisiting the Role of Uncertainty-Driven Exploration in a (Perceived) Non-Stationary World",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gender differences in face-based trait perception and social decision making",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding double descent through the lens of principal component regression",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Exploration-Exploitation Dilemma as a Tool for Studying Addiction",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "889. Bayesian Neural Adjustment of \u201cthe Need to Stop\u201d Predicts Relapse in Methamphetamine-Dependent Individuals",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contextual Dependence of Human Preference for Complex Objects: A Bayesian Statistical Account",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the social dimensions of facial attractivenss",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Impact of Negative Affect on Decision-making: Evidence From a Bayesian Computational Framework",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding human facial attractiveness from multiple views.",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stop paying attention: the need for explicit stopping in inhibitory control.",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Rational Model for Individual Differences in Preference Choice",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Context-sensitive active sensing in humans",
+                "pub_year": "2013"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acetylcholine and norepinephrine in concert and opposition: a fresh look at spatial attention",
+                "pub_year": "2003"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acetylcholine and selective attention",
+                "pub_year": "2002"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anhedonia and anxiety underlying depressive symptomatology have distinct effects on reward-based decision-making Open Website"
+            },
+            "filled": false,
+            "author_pub_id": "Mp2BoDpD-2kC:LPZeul_q3PIC",
+            "num_citations": 0
+        }
+    ],
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NCkkQAMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jonathan D. Cohen",
+            "affiliation": "Professor of Psychology, Co-Director of Princeton Neuroscience Institute, Princeton \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fmaG3EIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Martin Paulus",
+            "affiliation": "Laureate Institute For Brain Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s2R11aIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samuel M. McClure",
+            "affiliation": "Department of Psychology, Arizona State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lXbPKmkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pradeep Shenoy",
+            "affiliation": "University of Washington, University of California, San Diego, Microsoft"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FgZaM_sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shunan Zhang",
+            "affiliation": "Apple"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "h3jRvWIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Katia M Harl\u00e9",
+            "affiliation": "UCSD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "k9F2HmUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "axel cleeremans",
+            "affiliation": "Professor of Cognitive Science, Universit\u00e9 libre de Bruxelles \u2014 NFSR Research Director"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WgAGy7wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "TOMASO POGGIO",
+            "affiliation": "McDermott Professor in Brain Sciences, MIT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ebo0Qn4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Martin A. Giese",
+            "affiliation": "Dept of Cognitive Neurology, HIH / CIN, Univ. Clinic of Tuebingen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yimE3hgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Irene Cogliati Dezza",
+            "affiliation": "Research Fellow, University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6VoMxawAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jaime S Ide",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ix4hhOQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chiang-shan Ray Li",
+            "affiliation": "Yale University School of Medicine, Psychiatry and Neuroscience"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4LWx24UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chaitanya K. Ryali",
+            "affiliation": "University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qPuRQ_QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dalin Guo",
+            "affiliation": "University of California San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "j98h32wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ning Ma",
+            "affiliation": "University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MEyfBqwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sheeraz Ahmad",
+            "affiliation": "Machine Learning Scientist, Google"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ijPqymkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "William Alexander",
+            "affiliation": "Florida Atlantic University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7Z13x_AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Susan Tapert",
+            "affiliation": "Professor of Psychiatry, University of California San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kfE9FzgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jennifer Lorraine Stewart",
+            "affiliation": "Laureate Institute for Brain Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xBHy_qwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Peter I Frazier",
+            "affiliation": "Associate Professor of Operations Research and Information Engineering, Cornell \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DAcPduoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "sheng zhang",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "a1Bo3jEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sien Hu",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WR875gYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Linjie Li \u674e\u7433\u5a55",
+            "affiliation": "Researcher, Microsoft"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Un41qyEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicente Malave",
+            "affiliation": "University of San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vqUdgL4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amanda Song",
+            "affiliation": "University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "02nHF0gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rajesh PN Rao",
+            "affiliation": "Computer Science and Engineering, University of Washington"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t-mPtAYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Savas Dayanik",
+            "affiliation": "Bilkent University, Departments of Industrial Engineering and Mathematics"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fhXVGZoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Simon Zhornitsky",
+            "affiliation": "Yale School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QkblqWwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gautam Reddy",
+            "affiliation": "Harvard University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QHn_WZIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Piotr Winkielman",
+            "affiliation": "University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4isBHeQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Barcel\u00f3",
+            "affiliation": "Neuropsychology Lab, University of the Balearic Islands"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DlE3Q4gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paul Bentley",
+            "affiliation": "Imperial College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KDtSFaQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ben Seymour",
+            "affiliation": "University of Oxford"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "v5hZot8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Corey Zhou",
+            "affiliation": "University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5Aut7EEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Garrison W. Cottrell",
+            "affiliation": "Professor of Computer Science and Engineering, University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0oEHlGgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "He (Crane) Huang",
+            "affiliation": "Machine Learning Researcher at Apple"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "38KGTG0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jingya Huang",
+            "affiliation": "University of California San Diego"
+        }
+    ],
+    "citedby5y": 2865,
+    "hindex": 23,
+    "hindex5y": 19,
+    "i10index": 39,
+    "i10index5y": 34,
+    "alternate_names": [
+        "Angela Yu"
+    ]
+}

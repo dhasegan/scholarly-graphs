@@ -1,569 +1,1438 @@
 {
-    "affiliation": "Assistant Professor of Psychiatry, Neuroscience, and Physics, Yale University",
-    "cites_per_year": {
-        "2010": 11,
-        "2011": 9,
-        "2012": 11,
-        "2013": 61,
-        "2014": 156,
-        "2015": 281,
-        "2016": 348,
-        "2017": 509,
-        "2018": 614,
-        "2019": 833,
-        "2020": 794
-    },
-    "citedby": 3684,
-    "citedby5y": 3390,
-    "coauthors": [
-        {
-            "affiliation": "Yale University",
-            "id": "QVS1AfkAAAAJ",
-            "name": "Alan Anticevic"
-        },
-        {
-            "affiliation": "Robert L. McNeil, Jr., Professor of Translational Research, Chair of Psychiatry, Yale University",
-            "id": "Bu-gRtYAAAAJ",
-            "name": "John Krystal"
-        },
-        {
-            "affiliation": "Global Professor of Neural Science, New York University",
-            "id": "cv-YgL0AAAAJ",
-            "name": "Xiao-Jing Wang"
-        },
-        {
-            "affiliation": "Associate Professor of Psychology, University of Ljubljana",
-            "id": "faBMKJsAAAAJ",
-            "name": "Grega Repov\u0161"
-        },
-        {
-            "affiliation": "Associate Professor of Neuroscience, Rutgers University",
-            "id": "8FK99kkAAAAJ",
-            "name": "Michael W. Cole"
-        },
-        {
-            "affiliation": "M.D.-Ph.D., Yale University; Research Track Psychiatry Resident at Mount Sinai School of Medicine",
-            "id": "Ry6RUyoAAAAJ",
-            "name": "Genevieve Yang"
-        },
-        {
-            "affiliation": "Yale University",
-            "id": "GTvOETIAAAAJ",
-            "name": "Philip Corlett"
-        },
-        {
-            "affiliation": "Psychiatry, Boston Children's Hospital and Harvard Medical School",
-            "id": "S1egpyMAAAAJ",
-            "name": "David C Glahn"
-        },
-        {
-            "affiliation": "Yale University",
-            "id": "NLQ_wyEAAAAJ",
-            "name": "Joshua B Burt"
-        },
-        {
-            "affiliation": "Johns Hopkins University",
-            "id": "iOQ3330AAAAJ",
-            "name": "Daeyeol Lee"
-        },
-        {
-            "affiliation": "Research Scientist, University of Cambridge",
-            "id": "n48pFqcAAAAJ",
-            "name": "Alberto Bernacchia"
-        },
-        {
-            "affiliation": "Departments of Radiology and Neuroscience, Washington University Medical School",
-            "id": "hqA9AugAAAAJ",
-            "name": "Matthew F. Glasser"
-        },
-        {
-            "affiliation": "Profesor de Neurociencias, Universidad Nacional Aut\u00f3noma de M\u00e9xico",
-            "id": "tghN5uYAAAAJ",
-            "name": "ranulfo romo"
-        },
-        {
-            "affiliation": "Neuroscience, Yale University School of Medicine",
-            "id": "RuIP34YAAAAJ",
-            "name": "Hyojung Seo"
-        },
-        {
-            "affiliation": "Postdoctoral Associate, IDIBAPS",
-            "id": "F7PSpL8AAAAJ",
-            "name": "Murat Demirta\u015f"
-        },
-        {
-            "affiliation": "Associate Professor, Yale University",
-            "id": "eEgNORcAAAAJ",
-            "name": "Vinod Srihari"
-        },
-        {
-            "affiliation": "Professor of Neurobiology, Wake Forest School of Medicine",
-            "id": "sEYymxQAAAAJ",
-            "name": "Christos Constantinidis"
-        },
-        {
-            "affiliation": "Washington Universtity St Louis",
-            "id": "NZvt5D8AAAAJ",
-            "name": "Camillo Padoa-Schioppa"
-        },
-        {
-            "affiliation": "University of California at Berkeley",
-            "id": "KxDMkH4AAAAJ",
-            "name": "Joni Wallis"
-        },
-        {
-            "affiliation": "The University of Chicago",
-            "id": "eegYQdMAAAAJ",
-            "name": "David J. Freedman"
-        }
+    "container_type": "Author",
+    "filled": [
+        "counts",
+        "publications",
+        "basics",
+        "coauthors",
+        "indices"
     ],
-    "email": "@yale.edu",
-    "hindex": 29,
-    "hindex5y": 28,
-    "i10index": 32,
-    "i10index5y": 32,
-    "id": "LCAIVIUAAAAJ",
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "LCAIVIUAAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=LCAIVIUAAAAJ",
+    "name": "John D. Murray",
+    "affiliation": "Associate Professor of Psychiatry, Physics, and Neuroscience, Yale University",
+    "email_domain": "@yale.edu",
     "interests": [
         "Computational Neuroscience",
         "Computational Psychiatry",
         "Cognition",
-        "Neural Circuits",
-        "Schizophrenia"
+        "Neural Circuits"
     ],
-    "name": "John D. Murray",
+    "citedby": 5002,
+    "cites_per_year": {
+        "2013": 60,
+        "2014": 157,
+        "2015": 284,
+        "2016": 358,
+        "2017": 507,
+        "2018": 618,
+        "2019": 820,
+        "2020": 1040,
+        "2021": 1045
+    },
     "publications": [
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "The role of default network deactivation in cognition and disease",
-                "cites": "634",
-                "year": "2012"
+                "pub_year": "2012"
             },
-            "id_citations": "LCAIVIUAAAAJ:WF5omc3nYNoC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 770,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14028386057884035470",
+            "cites_id": [
+                "14028386057884035470"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "A hierarchy of intrinsic timescales across primate cortex",
-                "cites": "367",
-                "year": "2014"
+                "pub_year": "2014"
             },
-            "id_citations": "LCAIVIUAAAAJ:YB4bud6kWLwC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:YB4bud6kWLwC",
+            "num_citations": 489,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9721451727252718417",
+            "cites_id": [
+                "9721451727252718417"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Characterizing thalamo-cortical disturbances in schizophrenia and bipolar illness",
-                "cites": "295",
-                "year": "2014"
+                "pub_year": "2014"
             },
-            "id_citations": "LCAIVIUAAAAJ:MXK_kJrjxJIC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 354,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9029055844880511733",
+            "cites_id": [
+                "9029055844880511733"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Altered global brain signal in schizophrenia",
-                "cites": "245",
-                "year": "2014"
+                "pub_year": "2014"
             },
-            "id_citations": "LCAIVIUAAAAJ:G1UMdFYMoxkC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:G1UMdFYMoxkC",
+            "num_citations": 279,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=414125970306202301",
+            "cites_id": [
+                "414125970306202301"
+            ]
         },
         {
-            "bib": {
-                "title": "NMDA receptor function in large-scale anticorrelated neural systems with implications for cognition and schizophrenia",
-                "cites": "195",
-                "year": "2012"
-            },
-            "id_citations": "LCAIVIUAAAAJ:W7OEmFMy1HYC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Association of thalamic dysconnectivity and conversion to psychosis in youth and young adults at elevated clinical risk",
-                "cites": "190",
-                "year": "2015"
+                "pub_year": "2015"
             },
-            "id_citations": "LCAIVIUAAAAJ:BmWJbWwHJAwC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:BmWJbWwHJAwC",
+            "num_citations": 237,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2817162248373980251",
+            "cites_id": [
+                "2817162248373980251"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Linking microcircuit dysfunction to cognitive impairment: effects of disinhibition associated with schizophrenia in a cortical working memory model",
-                "cites": "164",
-                "year": "2014"
+                "title": "NMDA receptor function in large-scale anticorrelated neural systems with implications for cognition and schizophrenia",
+                "pub_year": "2012"
             },
-            "id_citations": "LCAIVIUAAAAJ:LkGwnXOMwfcC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 217,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4235730455874297505",
+            "cites_id": [
+                "4235730455874297505"
+            ]
         },
         {
-            "bib": {
-                "title": "Stable population coding for working memory coexists with heterogeneous neural dynamics in prefrontal cortex",
-                "cites": "133",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:wUn16MOA3RoC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "N-methyl-D-aspartate receptor antagonist effects on prefrontal cortical connectivity better model early than chronic schizophrenia",
-                "cites": "116",
-                "year": "2015"
-            },
-            "id_citations": "LCAIVIUAAAAJ:RtRctb2lSbAC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Hierarchy of transcriptomic specialization across human cortex captured by structural neuroimaging topography",
-                "cites": "110",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "LCAIVIUAAAAJ:ymY9cBF3mdcC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:ymY9cBF3mdcC",
+            "num_citations": 215,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18305184043511571839",
+            "cites_id": [
+                "18305184043511571839"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Early-course unmedicated schizophrenia patients exhibit elevated prefrontal connectivity associated with longitudinal change",
-                "cites": "102",
-                "year": "2015"
+                "title": "Linking microcircuit dysfunction to cognitive impairment: effects of disinhibition associated with schizophrenia in a cortical working memory model",
+                "pub_year": "2014"
             },
-            "id_citations": "LCAIVIUAAAAJ:SxCCDk4iOpsC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 192,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12356524357049613047",
+            "cites_id": [
+                "12356524357049613047"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stable population coding for working memory coexists with heterogeneous neural dynamics in prefrontal cortex",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:wUn16MOA3RoC",
+            "num_citations": 191,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3891398327855125770",
+            "cites_id": [
+                "3891398327855125770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "N-methyl-D-aspartate receptor antagonist effects on prefrontal cortical connectivity better model early than chronic schizophrenia",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:RtRctb2lSbAC",
+            "num_citations": 131,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2504141870837655998,7690211033888413834",
+            "cites_id": [
+                "2504141870837655998",
+                "7690211033888413834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Searching for cross-diagnostic convergence: neural mechanisms governing excitation and inhibition balance in schizophrenia and autism spectrum disorders",
-                "cites": "89",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:4e5Qn2KL_jwC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:4e5Qn2KL_jwC",
+            "num_citations": 129,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1633557156616880937",
+            "cites_id": [
+                "1633557156616880937"
+            ]
         },
         {
-            "bib": {
-                "title": "Impaired tuning of neural ensembles and the pathophysiology of schizophrenia: a translational and computational neuroscience perspective",
-                "cites": "82",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:iyewoVqAXLQC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Feedforward and feedback frequency-dependent interactions in a large-scale laminar network of the primate cortex",
-                "cites": "78",
-                "year": "2016"
-            },
-            "id_citations": "LCAIVIUAAAAJ:oPLKW5k6eA4C",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Connectivity, pharmacology, and computation: toward a mechanistic understanding of neural system dysfunction in schizophrenia",
-                "cites": "76",
-                "year": "2013"
-            },
-            "id_citations": "LCAIVIUAAAAJ:kNdYIx-mwKoC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Persistent spiking activity underlies working memory",
-                "cites": "69",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "LCAIVIUAAAAJ:N4u4nq0IxgcC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:N4u4nq0IxgcC",
+            "num_citations": 127,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2184363149278070477",
+            "cites_id": [
+                "2184363149278070477"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Functional hierarchy underlies preferential connectivity disturbances in schizophrenia",
-                "cites": "66",
-                "year": "2016"
+                "title": "Early-course unmedicated schizophrenia patients exhibit elevated prefrontal connectivity associated with longitudinal change",
+                "pub_year": "2015"
             },
-            "id_citations": "LCAIVIUAAAAJ:YTuZlYwrTOUC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:SxCCDk4iOpsC",
+            "num_citations": 124,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11613733057263261368",
+            "cites_id": [
+                "11613733057263261368"
+            ]
         },
         {
-            "bib": {
-                "title": "A dendritic disinhibitory circuit mechanism for pathway-specific gating",
-                "cites": "64",
-                "year": "2016"
-            },
-            "id_citations": "LCAIVIUAAAAJ:LGlY6t8CeOMC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Hierarchical heterogeneity across human cortex shapes large-scale neural dynamics",
-                "cites": "60",
-                "year": "2019"
+                "pub_year": "2019"
             },
-            "id_citations": "LCAIVIUAAAAJ:n3vGvpFsckwC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:n3vGvpFsckwC",
+            "num_citations": 120,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13674674679818114448",
+            "cites_id": [
+                "13674674679818114448"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Mediodorsal and visual thalamic connectivity differ in schizophrenia and bipolar disorder with and without psychosis history",
-                "cites": "60",
-                "year": "2014"
+                "title": "Impaired tuning of neural ensembles and the pathophysiology of schizophrenia: a translational and computational neuroscience perspective",
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:s9ia6_kGH2AC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:iyewoVqAXLQC",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7185253813334840383",
+            "cites_id": [
+                "7185253813334840383"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Intrinsic origin of spin echoes in dipolar solids generated by strong \u03c0 pulses",
-                "cites": "54",
-                "year": "2008"
+                "title": "Feedforward and feedback frequency-dependent interactions in a large-scale laminar network of the primate cortex",
+                "pub_year": "2016"
             },
-            "id_citations": "LCAIVIUAAAAJ:qjMakFHDy7sC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:oPLKW5k6eA4C",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1002997056564999219",
+            "cites_id": [
+                "1002997056564999219"
+            ]
         },
         {
-            "bib": {
-                "title": "Multimodal gradients across mouse cortex",
-                "cites": "52",
-                "year": "2019"
-            },
-            "id_citations": "LCAIVIUAAAAJ:Vr2j17o0sqMC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Changes in global and thalamic brain connectivity in LSD-induced altered states of consciousness are attributable to the 5-HT2A receptor",
-                "cites": "51",
-                "year": "2018"
+                "pub_year": "2018"
             },
-            "id_citations": "LCAIVIUAAAAJ:WwIwg2wKZ0QC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:WwIwg2wKZ0QC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7912624379026004624,9286465541578412577",
+            "cites_id": [
+                "7912624379026004624",
+                "9286465541578412577"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multimodal gradients across mouse cortex",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:Vr2j17o0sqMC",
+            "num_citations": 95,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8255830088122682643",
+            "cites_id": [
+                "8255830088122682643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functional hierarchy underlies preferential connectivity disturbances in schizophrenia",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:YTuZlYwrTOUC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14146197657022790127",
+            "cites_id": [
+                "14146197657022790127"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Working memory and decision-making in a frontoparietal circuit model",
-                "cites": "51",
-                "year": "2017"
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:9DLIHnF0jcYC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:9DLIHnF0jcYC",
+            "num_citations": 85,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314910659496022466",
+            "cites_id": [
+                "13314910659496022466"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Schizophrenia is associated with a pattern of spatial working memory deficits consistent with cortical disinhibition",
-                "cites": "33",
-                "year": "2017"
+                "title": "A dendritic disinhibitory circuit mechanism for pathway-specific gating",
+                "pub_year": "2016"
             },
-            "id_citations": "LCAIVIUAAAAJ:OzeSX8-yOCQC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:LGlY6t8CeOMC",
+            "num_citations": 85,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1501914930223369152",
+            "cites_id": [
+                "1501914930223369152"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Functional connectivity change as shared signal dynamics",
-                "cites": "33",
-                "year": "2016"
+                "title": "Connectivity, pharmacology, and computation: toward a mechanistic understanding of neural system dysfunction in schizophrenia",
+                "pub_year": "2013"
             },
-            "id_citations": "LCAIVIUAAAAJ:t-hv7AR41mYC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 85,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11625281774275378558",
+            "cites_id": [
+                "11625281774275378558"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Bridging levels of understanding in schizophrenia through computational modeling",
-                "cites": "33",
-                "year": "2015"
+                "title": "Mediodorsal and visual thalamic connectivity differ in schizophrenia and bipolar disorder with and without psychosis history",
+                "pub_year": "2014"
             },
-            "id_citations": "LCAIVIUAAAAJ:BJrgspguQaEC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:s9ia6_kGH2AC",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6928079722604461563",
+            "cites_id": [
+                "6928079722604461563"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Altered global signal topography in schizophrenia",
-                "cites": "31",
-                "year": "2017"
+                "title": "Intrinsic origin of spin echoes in dipolar solids generated by strong \u03c0 pulses",
+                "pub_year": "2008"
             },
-            "id_citations": "LCAIVIUAAAAJ:Og1tA8FjbJAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3397019899346743917",
+            "cites_id": [
+                "3397019899346743917"
+            ]
         },
         {
-            "bib": {
-                "title": "Computational psychiatry and the challenge of schizophrenia",
-                "cites": "29",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:jlhcAiayVhoC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Enhancing single-molecule photostability by optical feedback from quantum jump detection",
-                "cites": "28",
-                "year": "2008"
-            },
-            "id_citations": "LCAIVIUAAAAJ:UeHWp8X0CEIC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Toward understanding thalamocortical dysfunction in schizophrenia through computational models of neural circuit dynamics",
-                "cites": "23",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:m4fbC6XIj1kC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Biophysical modeling of large-scale brain dynamics and applications for computational psychiatry",
-                "cites": "15",
-                "year": "2018"
-            },
-            "id_citations": "LCAIVIUAAAAJ:pYKElYtJMmwC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Rebalancing altered computations: considering the role of neural excitation and inhibition balance across the psychiatric spectrum",
-                "cites": "9",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:lg2tdxc6qMwC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Computational Psychiatry: Mathematical Modeling of Mental Illness",
-                "cites": "8",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:M0leSnx2MbUC",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Generative modeling of brain maps with spatial autocorrelation",
-                "cites": "7",
-                "year": "2020"
+                "pub_year": "2020"
             },
-            "id_citations": "LCAIVIUAAAAJ:orDZ08hpP44C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:orDZ08hpP44C",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18171916471184112307",
+            "cites_id": [
+                "18171916471184112307"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Cortical circuit models in psychiatry: Linking disrupted excitation\u2013inhibition balance to cognitive deficits associated with schizophrenia",
-                "cites": "5",
-                "year": "2018"
+                "title": "Altered global signal topography in schizophrenia",
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:1r-w4gtu6w8C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:Og1tA8FjbJAC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5386251463119549102",
+            "cites_id": [
+                "5386251463119549102"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Simulating cortical feedback modulation as changes in excitation and inhibition in a cortical circuit model",
-                "cites": "5",
-                "year": "2016"
+                "title": "Schizophrenia is associated with a pattern of spatial working memory deficits consistent with cortical disinhibition",
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:hQUaER0FWQ4C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:OzeSX8-yOCQC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9261612741363325689",
+            "cites_id": [
+                "9261612741363325689"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "A flexible framework for simulating and fitting generalized drift-diffusion models",
-                "cites": "4",
-                "year": "2020"
+                "title": "Functional connectivity change as shared signal dynamics",
+                "pub_year": "2016"
             },
-            "id_citations": "LCAIVIUAAAAJ:ndLnGcHYRF0C",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:t-hv7AR41mYC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15162750865420756793",
+            "cites_id": [
+                "15162750865420756793"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Effects of altered excitation-inhibition balance on decision making in a cortical circuit model",
-                "cites": "4",
-                "year": "2017"
+                "title": "Bridging levels of understanding in schizophrenia through computational modeling",
+                "pub_year": "2015"
             },
-            "id_citations": "LCAIVIUAAAAJ:ji7lAbPyDbYC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:BJrgspguQaEC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12109611849634116129",
+            "cites_id": [
+                "12109611849634116129"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Confluence of timing and reward biases in perceptual decision-making dynamics",
-                "cites": "3",
-                "year": "2020"
+                "title": "Computational psychiatry and the challenge of schizophrenia",
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:QsKbpXNoaWkC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:jlhcAiayVhoC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3960192138228021334",
+            "cites_id": [
+                "3960192138228021334"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Quantum computing at the frontiers of biological sciences",
-                "cites": "2",
-                "year": "2019"
+                "title": "Toward understanding thalamocortical dysfunction in schizophrenia through computational models of neural circuit dynamics",
+                "pub_year": "2017"
             },
-            "id_citations": "LCAIVIUAAAAJ:oTdOBqtIf_kC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:m4fbC6XIj1kC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629493669692898628",
+            "cites_id": [
+                "10629493669692898628"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "Effects of reward on spatial working memory in schizophrenia.",
-                "cites": "2",
-                "year": "2018"
+                "title": "Enhancing single-molecule photostability by optical feedback from quantum jump detection",
+                "pub_year": "2008"
             },
-            "id_citations": "LCAIVIUAAAAJ:PQEM9vzQD9gC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2575245489575897932",
+            "cites_id": [
+                "2575245489575897932"
+            ]
         },
         {
-            "bib": {
-                "title": "Meeting emerging challenges and opportunities in psychiatry through computational neuroscience",
-                "cites": "2",
-                "year": "2017"
-            },
-            "id_citations": "LCAIVIUAAAAJ:nPTYJWkExTIC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Ketamine\u2019s antidepressant actions: potential mechanisms in the primate medial prefrontal circuits that represent aversive experience",
-                "cites": "2",
-                "year": "2016"
-            },
-            "id_citations": "LCAIVIUAAAAJ:nPT8s1NX_-sC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "What can tracking fluctuations in dozens of sensory neurons tell about selective attention?",
-                "cites": "2",
-                "year": "2011"
-            },
-            "id_citations": "LCAIVIUAAAAJ:jtI9f0ekYq0C",
-            "source": "citations"
-        },
-        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Psilocybin induces time-dependent changes in global functional connectivity",
-                "cites": "1",
-                "year": "2020"
+                "pub_year": "2020"
             },
-            "id_citations": "LCAIVIUAAAAJ:_tF6a-HnqWAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:_tF6a-HnqWAC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10844812229166945048",
+            "cites_id": [
+                "10844812229166945048"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biophysical modeling of large-scale brain dynamics and applications for computational psychiatry",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:pYKElYtJMmwC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10040128612058057873",
+            "cites_id": [
+                "10040128612058057873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of altered excitation-inhibition balance on decision making in a cortical circuit model",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:ji7lAbPyDbYC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6716834976597811111",
+            "cites_id": [
+                "6716834976597811111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural covariance reveals alterations in control and salience network integrity in chronic schizophrenia",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:Azgs6IHzeyYC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12286722895965200694",
+            "cites_id": [
+                "12286722895965200694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A flexible framework for simulating and fitting generalized drift-diffusion models",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:ndLnGcHYRF0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1382874875847864949",
+            "cites_id": [
+                "1382874875847864949"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Schizophrenia exhibits bi-directional brain-wide alterations in cortico-striato-cerebellar circuits",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:7Frjd3zlGBUC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12011898013993513884",
+            "cites_id": [
+                "12011898013993513884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational psychiatry: Mathematical modeling of mental illness",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:M0leSnx2MbUC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10093835972703639478",
+            "cites_id": [
+                "10093835972703639478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On stability of Canonical Correlation Analysis and Partial Least Squares with application to brain-behavior associations",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:xm0LlTxljI0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9793217176476961013",
+            "cites_id": [
+                "9793217176476961013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rebalancing altered computations: considering the role of neural excitation and inhibition balance across the psychiatric spectrum",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:lg2tdxc6qMwC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8821011207675228089",
+            "cites_id": [
+                "8821011207675228089"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantum computing at the frontiers of biological sciences",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:oTdOBqtIf_kC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2693178748308556685",
+            "cites_id": [
+                "2693178748308556685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Confluence of timing and reward biases in perceptual decision-making dynamics",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:QsKbpXNoaWkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14638810303073157144",
+            "cites_id": [
+                "14638810303073157144"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortical circuit models in psychiatry: Linking disrupted excitation\u2013inhibition balance to cognitive deficits associated with schizophrenia",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:1r-w4gtu6w8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6840817738645538451",
+            "cites_id": [
+                "6840817738645538451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A circuit mechanism for decision-making biases and NMDA receptor hypofunction",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:x21FZCSn4ZoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16903594052150469109,10733110815586509460",
+            "cites_id": [
+                "16903594052150469109",
+                "10733110815586509460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating cortical feedback modulation as changes in excitation and inhibition in a cortical circuit model",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:hQUaER0FWQ4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1025393252391077270",
+            "cites_id": [
+                "1025393252391077270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Excitatory-inhibitory tone shapes decision strategies in a hierarchical neural network model of multi-attribute choice",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:W2uZP3ddy8sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3417877316560952778,3578748682235415295",
+            "cites_id": [
+                "3417877316560952778",
+                "3578748682235415295"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of reward on spatial working memory in schizophrenia.",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:PQEM9vzQD9gC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8550627249901680860",
+            "cites_id": [
+                "8550627249901680860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Timescales of cognition in the brain",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:tz746QTLzJkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2785330497142985250",
+            "cites_id": [
+                "2785330497142985250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ketamine\u2019s antidepressant actions: potential mechanisms in the primate medial prefrontal circuits that represent aversive experience",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:nPT8s1NX_-sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8565546680859090632",
+            "cites_id": [
+                "8565546680859090632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
                 "title": "Refining the empirical constraints on computational models of spatial working memory in schizophrenia",
-                "cites": "0",
-                "year": "2020"
+                "pub_year": "2020"
             },
-            "id_citations": "LCAIVIUAAAAJ:KS-xo-ZNxMsC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:KS-xo-ZNxMsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6297604526425065257",
+            "cites_id": [
+                "6297604526425065257"
+            ]
         },
         {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
             "bib": {
-                "title": "A circuit mechanism for irrationalities in decision-making and NMDA receptor hypofunction: behaviour, computational modelling, and pharmacology",
-                "cites": "0",
-                "year": "2019"
+                "title": "Computational psychiatry: New perspectives on mental illness",
+                "pub_year": "2016"
             },
-            "id_citations": "LCAIVIUAAAAJ:DXE8ND7PrJAC",
-            "source": "citations"
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:6VlyvFCUEfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18271585741120524100",
+            "cites_id": [
+                "18271585741120524100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neuromatch Academy: Teaching Computational Neuroscience with Global Accessibility",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:I8rxH6phXEkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2865906861561423202",
+            "cites_id": [
+                "2865906861561423202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anatomical and Functional Gradients Shape Dynamic Functional Connectivity in the Human Brain",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:Y0-TYkg6YM4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5551918846677758348",
+            "cites_id": [
+                "5551918846677758348"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcriptomics-informed large-scale cortical model captures topography of pharmacological neuroimaging effects of LSD",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:L24QuVWYgZ0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3975448302242234738",
+            "cites_id": [
+                "3975448302242234738"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PsychRNN: An Accessible and Flexible Python Package for Training Recurrent Neural Network Models on Cognitive Tasks",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:cBPnxVikjH8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13592952276312985380",
+            "cites_id": [
+                "13592952276312985380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational modelling of EEG and fMRI paradigms reveals a consistent loss of pyramidal cell synaptic gain in schizophrenia",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:RMgMIBzvq-4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=21197943123157951",
+            "cites_id": [
+                "21197943123157951"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trial-to-trial variability of spiking delay activity in prefrontal cortex constrains burst-coding models of working memory",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:9NZAP19TdFAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4376775838549593736",
+            "cites_id": [
+                "4376775838549593736"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometry of neural computation unifies working memory and planning",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:7H_jS4BsgvYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15518688838811335211",
+            "cites_id": [
+                "15518688838811335211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meeting Emerging Challenges and Opportunities in Psychiatry Through Computational Neuroscience",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:nPTYJWkExTIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12911348407056397413",
+            "cites_id": [
+                "12911348407056397413"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What can tracking fluctuations in dozens of sensory neurons tell about selective attention?",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:jtI9f0ekYq0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8407971438867477957",
+            "cites_id": [
+                "8407971438867477957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational circuit mechanisms underlying thalamic control of attention",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:yeL6HyUMUGUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Neuroimaging of Cognition-Emotion Interactions: Affective and Task-similar Interference Differentially Impact Working Memory",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:bVQMTfhMCi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial and temporal autocorrelation weave human brain networks",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:yTLRzDEmwhEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping Brain-Behavior Space Relationships Along the Psychosis Spectrum",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:QoJ_w57xiyAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient neuronal suppression for exploitation of new sensory evidence",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:FsLZdJ3BAzkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neuromatch Academy: a 3-week, online summer school in computational neuroscience"
+            },
+            "filled": false,
+            "author_pub_id": "LCAIVIUAAAAJ:TesyEGJKHF4C",
+            "num_citations": 0
         }
     ],
-    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=LCAIVIUAAAAJ"
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QVS1AfkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alan Anticevic",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Bu-gRtYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John Krystal",
+            "affiliation": "Robert L. McNeil, Jr., Professor of Translational Research, Chair of Psychiatry, Yale \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cv-YgL0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Xiao-Jing Wang",
+            "affiliation": "Global Professor of Neural Science, New York University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "faBMKJsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Grega Repov\u0161",
+            "affiliation": "Associate Professor of Psychology, University of Ljubljana"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ry6RUyoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Genevieve Yang",
+            "affiliation": "MD-Ph.D., Yale University; Research Track Psychiatry Resident at Mount Sinai School of \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8FK99kkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael W. Cole",
+            "affiliation": "Associate Professor of Neuroscience, Rutgers University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GTvOETIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Philip Corlett",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NLQ_wyEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joshua B Burt",
+            "affiliation": "Stealth company"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iOQ3330AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daeyeol Lee",
+            "affiliation": "Johns Hopkins University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S1egpyMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David C Glahn",
+            "affiliation": "Psychiatry, Boston Children's Hospital and Harvard Medical School"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RuIP34YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hyojung Seo",
+            "affiliation": "Psychiatry, Yale University School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "n48pFqcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alberto Bernacchia",
+            "affiliation": "Research Scientist, University of Cambridge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "F7PSpL8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Murat Demirta\u015f",
+            "affiliation": "Postdoctoral Associate, UPF"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hqA9AugAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthew F. Glasser",
+            "affiliation": "Departments of Radiology and Neuroscience, Washington University Medical School"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sEYymxQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christos Constantinidis",
+            "affiliation": "Professor of Biomedical Engineering, Vanderbilt University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "F-G27p8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Franz X. Vollenweider",
+            "affiliation": "Professor of Psychiatry, University of Z\u00fcrich"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dD6sr-YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Katrin Preller",
+            "affiliation": "University of Zurich"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WfVzDBAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Markus Helmer",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eEgNORcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vinod Srihari",
+            "affiliation": "Professor, Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ytVKRfkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maxwell Shinn",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9p2f6vUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stamatios N Sotiropoulos",
+            "affiliation": "Sir Peter Mansfield Imaging Centre, School of Medicine, University of Nottingham"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NZvt5D8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Camillo Padoa-Schioppa",
+            "affiliation": "Washington Universtity St Louis"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KxDMkH4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joni Wallis",
+            "affiliation": "University of California at Berkeley"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eegYQdMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David J. Freedman",
+            "affiliation": "The University of Chicago"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GT93Gc0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tatiana Pasternak",
+            "affiliation": "University of Rochester"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ir3GrGoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "William J. Martin, PhD",
+            "affiliation": "Janssen Pharmaceutical Companies of J&J"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6cSMGmwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amy Arnsten",
+            "affiliation": "Professor of Neuroscience"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sclivLgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher Pittenger",
+            "affiliation": "Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OYRntY0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mark J. Niciu",
+            "affiliation": "Assistant Professor of Psychiatry, University of Iowa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-XdrqBAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jennifer Foss-Feig",
+            "affiliation": "Assistant Professor, Department of Psychiatry, Icahn School of Medicine at Mount Sinai; \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eqql-X8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David C Van Essen",
+            "affiliation": "Alumni Endowed Professor of Neurobiology, Washington University in St Louis"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "74ybQz4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Henry Kennedy",
+            "affiliation": "Stem Cell and Brain Research Institut"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ROzPavkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge F. Mejias",
+            "affiliation": "Assistant Professor, University of Amsterdam"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AvNW908AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valerio Zerbi",
+            "affiliation": "ETH Z\u00fcrich"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iQYJOW4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ben D. Fulcher",
+            "affiliation": "Senior Lecturer, The University of Sydney"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hrI8aH8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guangyu Robert Yang \u6768\u5149\u5b87",
+            "affiliation": "Assistant Professor, Massachusetts Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XruzwMwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Deanna Barch",
+            "affiliation": "Washington University in St. Louis"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5Jgo1D8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adam Chekroud",
+            "affiliation": "Assistant Professor of Psychiatry, Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HJfZOe8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fran\u00e7ois Treussart",
+            "affiliation": "Professeur au d\u00e9partement de Physique, ENS Paris-Saclay"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "C4bTWFEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Laurence Hunt",
+            "affiliation": "Associate Professor, University of Oxford"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u9A0HrMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sean Cavanagh",
+            "affiliation": "UCL Queen Square Institute of Neurology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4ySvmYMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jaime E. Hallak",
+            "affiliation": "Universidade de S\u00e3o Paulo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GqHWF74AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio C. Roque",
+            "affiliation": "Professor Associado, Departamento de F\u00edsica, FFCLRP, Universidade de S\u00e3o Paulo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V6Er3zAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shaun Warrington",
+            "affiliation": "University of Nottingham"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "f0qBLVkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David A. McCormick",
+            "affiliation": "Professor, University of Oregon; Professor Emeritus, Yale University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-UmHYdgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Edward Zagha",
+            "affiliation": "University of California Riverside"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uv4QAbwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Steve Kennerley",
+            "affiliation": "Professor of Cognitive Neuroscience, Inst. of Neurology, University College London, UK"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9wJGGvMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jasmine Stone",
+            "affiliation": "MPhil in Engineering Student, Cambridge University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1c06AyMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Halassa",
+            "affiliation": "MIT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "beJXHAYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Salva Ardid",
+            "affiliation": "Gen\u2013T Distinguished Research Group Leader, Universitat Polit\u00e8cnica de Val\u00e8ncia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rytiQbMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicholas A. Roy",
+            "affiliation": "Graduate Student, Princeton University"
+        }
+    ],
+    "citedby5y": 4406,
+    "hindex": 31,
+    "hindex5y": 30,
+    "i10index": 41,
+    "i10index5y": 41,
+    "alternate_names": [
+        "John Murray"
+    ]
 }

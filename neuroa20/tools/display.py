@@ -1,6 +1,9 @@
 import json
 import os
 import fire
+import csv
+
+from neuroa20.libs.google_scholar import get_prof
 
 def html(content):
     return """
@@ -44,10 +47,15 @@ def _row_id(row):
 def _display_pub(pub):
     bib = pub['bib']
     year = bib['year'] + ', ' if 'year' in bib else ''
+    cites = None
+    if 'cites' in bib:
+      cites = bib['cites']
+    if 'num_citations' in pub:
+      cites = str(pub['num_citations'])
     return """
     {}{}
     <span class="badge badge-primary badge-pill">{}</span>
-""".format(year, bib['title'], bib['cites'] if len(bib['cites']) < 6 else '-')
+""".format(year, bib['title'], cites if len(cites) < 6 else '-')
 
 
 def _display_row(row):
@@ -147,7 +155,7 @@ def _display_link(url, text):
     </button>
     <br/>""".format(url, text)
 
-def run(input_dirs, output_file, sort_mechanism='citedby'):
+def run(input_dirs, output_file, filter_file=None, sort_mechanism='citedby'):
     if type(input_dirs) == str:
         input_dirs = input_dirs.split(',')
     files = [os.path.join(input_dir, file) for input_dir in input_dirs for file in os.listdir(input_dir)]
@@ -157,6 +165,15 @@ def run(input_dirs, output_file, sort_mechanism='citedby'):
         with open(filename) as f:
             row = json.load(f)
             rows.append(row)
+
+    if filter_file:
+      new_rows = []
+      with open(filter_file) as f:
+        for r in csv.DictReader(f):
+          prof = get_prof(rows, r['name'])
+          if prof:
+            new_rows.append(prof)
+      rows = new_rows
 
     rows = sorted(rows, key=lambda x:x[sort_mechanism], reverse=True)
     rows_names = [r['name'] for r in rows]
@@ -179,7 +196,7 @@ def run(input_dirs, output_file, sort_mechanism='citedby'):
     content = ''
     with open(output_file, 'w') as out:
         content += '\n'.join([
-            _display_link('#' + _row_id(row), '{}: {} ({})'.format(idx+1, row['name'], row['citedby']))
+            _display_link('#' + _row_id(row), '{}: {} ({}) h {}'.format(idx+1, row['name'], row['citedby'], row['hindex']))
             for idx,row in enumerate(rows)] + [_display_link('#coauthors', '=== Coauthors ===')])
 
         content += '\n'.join([_display_row(row) for row in rows])

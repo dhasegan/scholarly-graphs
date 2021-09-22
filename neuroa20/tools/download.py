@@ -12,47 +12,6 @@ from neuroa20.libs.user_input import _sleep, _get_in
 from neuroa20.libs.google_scholar import save_scholar, get_prof, read_dirs 
 
 
-def serialize_coauthor(coauthor):
-    return {
-        'affiliation': coauthor.affiliation,
-        'id': coauthor.id,
-        'name': coauthor.name,
-    }
-
-def serialize_pub(pub, idx):
-    try:
-        if False: #idx == 0:
-            _sleep()
-            print('downloading pub {}'.format(idx))
-            pub.fill()
-    except Exception as err:
-        pass
-    return {
-        'bib': pub.bib,
-        'id_citations': pub.id_citations,
-        'source': pub.source,
-    }
-
-def serialize_author(author):
-    return {
-        'affiliation': author.affiliation,
-        'cites_per_year': author.cites_per_year,
-        'citedby': author.citedby,
-        'citedby5y': author.citedby5y,
-        'coauthors': [serialize_coauthor(c) for c in author.coauthors],
-        'email': author.email,
-        'hindex': author.hindex,
-        'hindex5y': author.hindex5y,
-        'i10index': author.i10index,
-        'i10index5y': author.i10index5y,
-        'id': author.id,
-        'interests': author.interests,
-        'name': author.name,
-        'publications': [serialize_pub(p, i) for i, p in enumerate(author.publications)],
-        'url_picture': author.url_picture,
-    }
-
-
 def process_row(row, patterns=None, download_on_exact_name=False):
     try:
         print('Processing Row', row['name'])
@@ -73,7 +32,7 @@ def process_row(row, patterns=None, download_on_exact_name=False):
                         break
                     else:
                         continue
-                print(detail)
+                print(json.dumps(detail, indent=2))
                 if patterns:
                     for pattern in patterns:
                         for field in [detail.email, detail.affiliation]:
@@ -94,8 +53,7 @@ def process_row(row, patterns=None, download_on_exact_name=False):
             if found_detail:
                 _sleep()
                 print('downloading...')
-                details = found_detail.fill()
-                row['details'] = serialize_author(details)
+                row['details'] = scholarly.fill(found_detail)
                 print('done!')
                 return 'd'
 

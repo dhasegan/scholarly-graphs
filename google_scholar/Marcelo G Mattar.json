@@ -1,0 +1,997 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "counts",
+        "basics",
+        "indices",
+        "publications",
+        "coauthors"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "tcCGGDsZJUsC",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=tcCGGDsZJUsC",
+    "name": "Marcelo G Mattar",
+    "affiliation": "University of California, San Diego",
+    "email_domain": "@ucsd.edu",
+    "interests": [
+        "computational neuroscience",
+        "reinforcement learning",
+        "planning",
+        "memory",
+        "network neuroscience"
+    ],
+    "citedby": 1024,
+    "cites_per_year": {
+        "2012": 3,
+        "2013": 3,
+        "2014": 8,
+        "2015": 12,
+        "2016": 27,
+        "2017": 111,
+        "2018": 176,
+        "2019": 187,
+        "2020": 246,
+        "2021": 239
+    },
+    "citedby5y": 993,
+    "hindex": 17,
+    "hindex5y": 17,
+    "i10index": 19,
+    "i10index5y": 18,
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prioritized memory access explains planning and hippocampal replay",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:_xSYboBqXhAC",
+            "num_citations": 125,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12097708074221906396",
+            "cites_id": [
+                "12097708074221906396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A functional cartography of cognitive systems",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:2P1L_qKh6hAC",
+            "num_citations": 124,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2738139423128844948",
+            "cites_id": [
+                "2738139423128844948"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functional network dynamics of the language system",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:zA6iFVUQeVQC",
+            "num_citations": 111,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1821122560124791442",
+            "cites_id": [
+                "1821122560124791442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal trajectories of brain state transitions",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:a0OBvERweLwC",
+            "num_citations": 104,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2615938407735912177",
+            "cites_id": [
+                "2615938407735912177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A network neuroscience of human learning: potential to inform quantitative theories of brain and behavior",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:pyW8ca7W8N0C",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8440875937123677718",
+            "cites_id": [
+                "8440875937123677718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "de Bruijn cycles for neural decoding",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:u5HHmVD_uO8C",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7551453001426984535",
+            "cites_id": [
+                "7551453001426984535"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous perceptual and response biases on sequential face attractiveness judgments.",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:J_g5lzvAfSwC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2391441884677849989",
+            "cites_id": [
+                "2391441884677849989"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting future learning from baseline network architecture",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:CHSYGLWDkRkC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3175642371253689555",
+            "cites_id": [
+                "3175642371253689555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond modularity: Fine-scale mechanisms and rules for brain network reconfiguration",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:yD5IFk8b50cC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4011940480931875295",
+            "cites_id": [
+                "4011940480931875295"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The energy landscape underpinning module dynamics in the human brain connectome",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:u_35RYKgDlwC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16126691027894341834",
+            "cites_id": [
+                "16126691027894341834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Varying timescales of stimulus integration unite neural adaptation and prototype formation",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:HoB7MX3m0LUC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17596306636164345164",
+            "cites_id": [
+                "17596306636164345164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brain state flexibility accompanies motor-skill acquisition",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:D03iK_w7-QYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5265512807310901660",
+            "cites_id": [
+                "5265512807310901660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural pathways supporting swift acquisition of new visuomotor skills",
+                "pub_year": "2017"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:g5m5HwL7SMYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17630508626447338003",
+            "cites_id": [
+                "17630508626447338003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The flexible brain",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:rO6llkc54NcC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1891895009963222200",
+            "cites_id": [
+                "1891895009963222200"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective learning is accompanied by high-dimensional and efficient representations of neural activity",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:KxtntwgDAa4C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12534105949969974675,17640412212981321569",
+            "cites_id": [
+                "12534105949969974675",
+                "17640412212981321569"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reward prediction error does not explain movement selectivity in DMS-projecting dopamine neurons",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:dshw04ExmUIC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11447807321474519551,233674895728467792",
+            "cites_id": [
+                "11447807321474519551",
+                "233674895728467792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The network architecture of value learning",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:3s1wT3WcHBgC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2959962495605679625",
+            "cites_id": [
+                "2959962495605679625"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The temporal dynamics of opportunity costs: A normative account of cognitive fatigue and boredom.",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:p2g8aNsByqUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4552368172167818767",
+            "cites_id": [
+                "4552368172167818767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experience replay supports non-local learning",
+                "pub_year": "2020"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:u9iWguZQMMsC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14677822056183491958",
+            "cites_id": [
+                "14677822056183491958"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experience replay is associated with efficient nonlocal learning",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:Tiz5es2fbqcC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14722415124074634850",
+            "cites_id": [
+                "14722415124074634850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brain Network Architecture",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:fPk4N6BV_jEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4645220174703784495",
+            "cites_id": [
+                "4645220174703784495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptation decorrelates shape representations",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:NhqRSupF_l8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6485985531066301659",
+            "cites_id": [
+                "6485985531066301659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Psychoactive stimulation and psychoactive substances: Conceptual and ethical considerations",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:dfsIfKJdRG4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3704306157824030331",
+            "cites_id": [
+                "3704306157824030331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RSVP in orbit: Identification of single and dual targets in motion",
+                "pub_year": "2012"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11352900572569111699",
+            "cites_id": [
+                "11352900572569111699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual differences in response precision correlate with adaptation bias",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:xtRiw3GOFMkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15379881897598504433",
+            "cites_id": [
+                "15379881897598504433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning differentially reorganizes brain activity and connectivity",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:uWQEDVKXjbEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16518633332025791683,2202533332225185770",
+            "cites_id": [
+                "16518633332025791683",
+                "2202533332225185770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Patterns of neural oscillations in emotional memory discrimination",
+                "pub_year": "2019"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:UxriW0iASnsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7986763036544652104",
+            "cites_id": [
+                "7986763036544652104"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "De Bruijn cycles for neural decoding",
+                "pub_year": "2011"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12662379984131557896",
+            "cites_id": [
+                "12662379984131557896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connecting perceptual and procedural abstractions in physical construction",
+                "pub_year": "2021"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual differences in",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Memory mechanisms predict sampling biases in sequential decision tasks",
+                "pub_year": "2018"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Template fitting to automatically derive V1-V3 retinotopy from inter-areal functional correlations",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visual adaptation as it varies across timescales, neural populations, and individuals",
+                "pub_year": "2016"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptation decorrelates object representations: Evidence from Multivoxel Pattern Analysis",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual differences in representation precision predict adaptation bias",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptation sharpens object representations: Evidence from shape discrimination thresholds",
+                "pub_year": "2015"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupling perceptual and response biases in a sequential face judgment task",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A single mechanism of temporal integration unites neural adaptation and norm-based coding",
+                "pub_year": "2014"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connecting perceptual and procedural abstractions in physical assembly"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rational Arbitration of Hippocampal Replay"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A rational model of hippocampal experience replay"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:b0M2c_1WBrUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual differences in representation precision predict adaptation bias"
+            },
+            "filled": false,
+            "author_pub_id": "tcCGGDsZJUsC:cFHS6HbyZ2cC",
+            "num_citations": 0
+        }
+    ],
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "siYpAPsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dani S. Bassett",
+            "affiliation": "J. Peter Skirkanich Professor, University of Pennsylvania & Santa Fe Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EnjWLZQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Geoffrey K Aguirre",
+            "affiliation": "Professor of Neurology, University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "viguiLoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sharon L. Thompson-Schill",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BxlScrEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nathaniel D. Daw",
+            "affiliation": "Huo Professor of Computational and Theoretical Neuroscience, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7yJze9oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Scott Grafton MD",
+            "affiliation": "University of California at Santa Barbara"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BMQAjgQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicholas Wymbs",
+            "affiliation": "NIWC Pacific"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9_jlOXUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shi Gu",
+            "affiliation": "University of Electronic Science and Technology of China"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3j9gqsEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Richard Betzel",
+            "affiliation": "Assistant Professor, Department of Psychological and Brain Sciences, Indiana University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fMjeFt8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ankit N. Khambhati",
+            "affiliation": "Postdoctoral Fellow, Dept of Neurosurgery, University of California, San Francisco"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FkEIgboAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr Luc\u00eda Magis Weinberg",
+            "affiliation": "Institute of Human Development, University of California Berkeley"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dcpIc2EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Russell Epstein",
+            "affiliation": "Professor of Psychology, University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pFzgTV4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean M. Vettel, PhD",
+            "affiliation": "Chief Scientist for Futures & Concept Center, Combat Capabilities & Development Center \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8FK99kkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael W. Cole",
+            "affiliation": "Associate Professor of Neuroscience, Rutgers University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GZXa1zYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Peter Barrett Bryan",
+            "affiliation": "Software engineer, Lockheed Martin Space"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1CgET20AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Evelina (Ev) Fedorenko",
+            "affiliation": "MIT, Associate Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hKasFiEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Idan Asher Blank",
+            "affiliation": "Assistant Professor, UCLA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bunnQWQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lucy Chai",
+            "affiliation": "Massachusetts Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "j80xHRkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabio Pasqualetti",
+            "affiliation": "Associate Professor, UC Riverside"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "L1cyHW0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthew Cieslak",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CQbaZpMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Evelyn Tang",
+            "affiliation": "Max Planck Institute for Dynamics and Self-Organization"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i2n7LaUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chad Giusti",
+            "affiliation": "Department of Mathematical Sciences, University of Delaware"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z-R6fz0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ilana B. Witten",
+            "affiliation": "Professor, Neuroscience & Psychology, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sRqLlXYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nathan F. Parker",
+            "affiliation": "Graduate Student, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xDa6C-8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rachel Lee",
+            "affiliation": "Graduate Student, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i3l_ejQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tim Behrens",
+            "affiliation": "Professor of Computational Neuroscience, University of Oxford. Honorary Prof, UCL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JTvHJzUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yunzhe Liu",
+            "affiliation": "Wellcome Trust Centre for Neuroimaging; Max Planck UCL Centre for Computational \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RP8YtJgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raymond Dolan",
+            "affiliation": "UCL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GSoXDLMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Arian Ashourvan",
+            "affiliation": "Research Assistant Professor Center for Neural Engineering, Pennsylvania State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wawBdCQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maria Olkkonen",
+            "affiliation": "Assistant professor, Durham University; University Researcher, University of Helsinki"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "E9pynwoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Theodore D. Satterthwaite",
+            "affiliation": "Associate Professor & Director, PennLINC @ University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NLlpSFoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrew C. Murphy",
+            "affiliation": "Dept. of Bioengineering, University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vOFh3DwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ari Kahn",
+            "affiliation": "Princeton Neuroscience Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ooO8WqcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pranav Reddy",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NCkkQAMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jonathan D. Cohen",
+            "affiliation": "Professor of Psychology, Co-Director of Princeton Neuroscience Institute, Princeton \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hyfkcO0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Martin Lydon-Staley",
+            "affiliation": "Assistant Professor, Annenberg School for Communication, University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "H_fTQ0EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mayank Agrawal",
+            "affiliation": "Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fsVZIO0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Bryce Yaden",
+            "affiliation": "Johns Hopkins University School of Medicine - Psychiatry and Behavioral Sciences"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tgGZsqEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Derek Egan Anderson",
+            "affiliation": "Boston University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xaMc93oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dan Romer",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XqvgDr0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Azeez Adebimpe",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PlLtyaAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "MA Bertolero",
+            "affiliation": "University of Pennsylvania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "euSPiesAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Brad Wyble",
+            "affiliation": "Penn State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p5ylv3sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Kirsh",
+            "affiliation": "Cognitive Science, UCSD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NjZsLZwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Judith E. Fan",
+            "affiliation": "Department of Psychology, University of California, San Diego"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "A6A8ykoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Deborah Talmi",
+            "affiliation": "Lecturer, Department of Psychology, University of Cambridge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ch80vNMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Noah C. Benson",
+            "affiliation": "University of Washington"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nnir7aEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Teresa K. Pegors",
+            "affiliation": ""
+        }
+    ],
+    "alternate_names": [
+        "Marcelo Mattar"
+    ]
+}

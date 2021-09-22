@@ -2,34 +2,15 @@ import define1 from "./a33468b95d0b15b0@695.js";
 
 export default function define(runtime, observer) {
 
-  const file_megan_peters = 'megan_peters.tsv';
-  const file_email_filter = 'email_filter.tsv';
-  const file_nyu = 'nyu_dope1.tsv';
-  const file_nyu_ns = 'nyu_NS2.tsv';
   const file_hakwan = 'hakwan_meetup.tsv';
-  const picked_filename = `./files/${file_hakwan}`;
+  const file_new2021 = 'new_2021.tsv';
+  const picked_filename = `./files/${file_new2021}`;
 
   const main = runtime.module();
   const fileAttachments = new Map([["table.tsv", new URL(picked_filename,import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){return(
-md`# Graph of Neuroscientists from Consciousness Recruiting 2020
-
-Details at https://inconsciousnesswetrust.blogspot.com/2020/08/cognitive-neuroscience-of-consciousness.html
-
-Main Presenters:
-- Rachel Denison
-- Tony Ro (couldn't find his google scholar)
-- Jason Samaha
-- Emily Ward
-- Eve Isham
-- Brian Odegaard
-- Giancarlo Vanini
-- Caroline Robertson
-- Ruth Rosenholtz
-- Megan Peters
-- Michael Cohen
-- Phil Corlett
+md`# Graph of Neuroscientists
 
 The graph represents their (1-link) coauthors based on Google Scholar`
 )});
@@ -51,7 +32,7 @@ swatches({color})
       .force("y", d3.forceY());
 
   const svg = d3.create("svg")
-      .attr("viewBox", [-width / 2, -height , width, height*2])
+      .attr("viewBox", [-width / 2, -height*2 , width, height*4])
       .style("font", "12px sans-serif");
 
   // Per-type markers, as they don't inherit styles.
