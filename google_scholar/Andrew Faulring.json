@@ -1,0 +1,364 @@
+{
+    "affiliation": "Research Programmer, Carnegie Mellon University",
+    "cites_per_year": {
+        "1996": 4,
+        "1997": 17,
+        "1998": 44,
+        "1999": 33,
+        "2000": 34,
+        "2001": 32,
+        "2002": 29,
+        "2003": 41,
+        "2004": 52,
+        "2005": 44,
+        "2006": 57,
+        "2007": 80,
+        "2008": 81,
+        "2009": 105,
+        "2010": 112,
+        "2011": 101,
+        "2012": 95,
+        "2013": 114,
+        "2014": 91,
+        "2015": 88,
+        "2016": 64,
+        "2017": 70,
+        "2018": 59,
+        "2019": 49,
+        "2020": 25
+    },
+    "citedby": 1554,
+    "citedby5y": 355,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Human-Computer Interaction, Carnegie Mellon University",
+            "id": "E1cp_aYAAAAJ",
+            "name": "Brad A. Myers"
+        },
+        {
+            "affiliation": "Google",
+            "id": "YdDV_lQAAAAJ",
+            "name": "Allison Woodruff"
+        },
+        {
+            "affiliation": "Principal Research Scientist, Dept. of Brain & Cognitive Sciences, CSAIL, MIT",
+            "id": "BfE3-m0AAAAJ",
+            "name": "Ruth Rosenholtz"
+        },
+        {
+            "affiliation": "Professor, Computer Science, MIT",
+            "id": "e-c3R8QAAAAJ",
+            "name": "Robert C. Miller"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Georgia Institute of Technology",
+            "id": "YON32W4AAAAJ",
+            "name": "Duen Horng (Polo) Chau"
+        },
+        {
+            "affiliation": "Robotics Institute, Carnegie Mellon University",
+            "id": "CQ39OowAAAAJ",
+            "name": "Aaron Steinfeld"
+        },
+        {
+            "affiliation": "Professor, University of Washington",
+            "id": "TmZ3howAAAAJ",
+            "name": "Jacob O. Wobbrock"
+        },
+        {
+            "affiliation": "Professor, Human-Computer Interaction Institute, Carnegie Mellon Unviersity",
+            "id": "A-4JUL4AAAAJ",
+            "name": "John Zimmerman"
+        }
+    ],
+    "email": "@cs.cmu.edu",
+    "hindex": 18,
+    "hindex5y": 13,
+    "i10index": 22,
+    "i10index5y": 15,
+    "id": "zby0egkAAAAJ",
+    "interests": [],
+    "name": "Andrew Faulring",
+    "publications": [
+        {
+            "bib": {
+                "title": "The Amulet environment: New models for effective user interface software development",
+                "cites": "326",
+                "year": "1997"
+            },
+            "id_citations": "zby0egkAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Amulet Environment: New Models for Effective User Interface Software Development",
+                "cites": "326",
+                "year": "1996"
+            },
+            "id_citations": "zby0egkAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using thumbnails to search the Web",
+                "cites": "275",
+                "year": "2001"
+            },
+            "id_citations": "zby0egkAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of the use of text summaries, plain thumbnails, and enhanced thumbnails for Web search tasks",
+                "cites": "103",
+                "year": "2002"
+            },
+            "id_citations": "zby0egkAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What to do when search fails: finding information by association",
+                "cites": "88",
+                "year": "2008"
+            },
+            "id_citations": "zby0egkAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving API documentation using API usage information",
+                "cites": "75",
+                "year": "2009"
+            },
+            "id_citations": "zby0egkAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Citrine: providing intelligent copy-and-paste",
+                "cites": "74",
+                "year": "2004"
+            },
+            "id_citations": "zby0egkAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eyes on the road, hands on the wheel: thumb-based interaction techniques for input on steering wheels",
+                "cites": "69",
+                "year": "2007"
+            },
+            "id_citations": "zby0egkAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for generating enhanced thumbnails",
+                "cites": "66",
+                "year": "2006"
+            },
+            "id_citations": "zby0egkAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for document navigation using enhanced thumbnails",
+                "cites": "65",
+                "year": "2011"
+            },
+            "id_citations": "zby0egkAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for document navigation using enhanced thumbnails",
+                "cites": "65",
+                "year": "2006"
+            },
+            "id_citations": "zby0egkAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for generating enhanced thumbnails usable for document navigation",
+                "cites": "63",
+                "year": "2005"
+            },
+            "id_citations": "zby0egkAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Agent-assisted task management that reduces email overload",
+                "cites": "50",
+                "year": "2010"
+            },
+            "id_citations": "zby0egkAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Calcite: Completing Code Completion for Constructors Using Crowds",
+                "cites": "47",
+                "year": "2010"
+            },
+            "id_citations": "zby0egkAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic interface generation and future user interface tools",
+                "cites": "43",
+                "year": "2005"
+            },
+            "id_citations": "zby0egkAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Amulet v3.0 reference manual",
+                "cites": "39",
+                "year": "1997"
+            },
+            "id_citations": "zby0egkAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enabling rich human-agent interaction for a calendar scheduling agent",
+                "cites": "28",
+                "year": "2005"
+            },
+            "id_citations": "zby0egkAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for transitioning between thumbnails and documents based upon thumbnail appearance",
+                "cites": "26",
+                "year": "2011"
+            },
+            "id_citations": "zby0egkAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for transitioning between thumbnails and documents based upon thumbnail appearance",
+                "cites": "26",
+                "year": "2008"
+            },
+            "id_citations": "zby0egkAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for transitioning between thumbnails and documents based upon thumbnail appearance",
+                "cites": "26",
+                "year": "2002"
+            },
+            "id_citations": "zby0egkAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feldspar: A system for finding information by association",
+                "cites": "20",
+                "year": "2008"
+            },
+            "id_citations": "zby0egkAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Availability bars for calendar scheduling",
+                "cites": "18",
+                "year": "2006"
+            },
+            "id_citations": "zby0egkAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective Undo Support for Painting Applications",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "zby0egkAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Association Metrics to Help Users Navigate API Documentation",
+                "cites": "17",
+                "year": "2010"
+            },
+            "id_citations": "zby0egkAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Case Study of Using HCI Methods to Improve Tools for Programmers",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "zby0egkAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Amulet user interface development environment",
+                "cites": "12",
+                "year": "1997"
+            },
+            "id_citations": "zby0egkAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Successful User Interfaces for RADAR",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "zby0egkAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Design and Evaluation of User Interfaces for the RADAR Learning Personal Assistant",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "zby0egkAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EUKLAS: Supporting Copy-and-Paste Strategies for Integrating Example Code",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "zby0egkAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Success of an Agent-Assisted System that Reduces Email Overload",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "zby0egkAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Demonstration of the RADAR Personal Assistant.",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "zby0egkAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=zby0egkAAAAJ"
+}

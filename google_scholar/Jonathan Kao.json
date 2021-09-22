@@ -1,0 +1,581 @@
+{
+    "affiliation": "University of California, Los Angeles",
+    "cites_per_year": {
+        "2009": 4,
+        "2010": 4,
+        "2011": 7,
+        "2012": 14,
+        "2013": 50,
+        "2014": 95,
+        "2015": 98,
+        "2016": 158,
+        "2017": 229,
+        "2018": 325,
+        "2019": 281,
+        "2020": 254
+    },
+    "citedby": 1540,
+    "citedby5y": 1355,
+    "coauthors": [
+        {
+            "affiliation": "Stanford & HHMI",
+            "id": "r1S7uvEAAAAJ",
+            "name": "Krishna V Shenoy"
+        },
+        {
+            "affiliation": "Palo Alto Medical Foundation / Stanford University",
+            "id": "F4N8FgIAAAAJ",
+            "name": "Stephen Ryu"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "Y-u55cgAAAAJ",
+            "name": "Paul Nuyujukian"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Stanford University",
+            "id": "Bh9jZggAAAAJ",
+            "name": "Sergey D. Stavisky"
+        },
+        {
+            "affiliation": "Senior Research Scientist @ Google Brain, Adjunct Professor @ Stanford",
+            "id": "ebBgMSkAAAAJ",
+            "name": "David Sussillo"
+        }
+    ],
+    "email": "@seas.ucla.edu",
+    "hindex": 18,
+    "hindex5y": 18,
+    "i10index": 22,
+    "i10index5y": 22,
+    "id": "9Pu0NtAAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Neural Engineering",
+        "Statistical Signal Processing",
+        "Machine Learning"
+    ],
+    "name": "Jonathan Kao",
+    "publications": [
+        {
+            "bib": {
+                "title": "A high-performance neural prosthesis enabled by control algorithm design",
+                "cites": "383",
+                "year": "2012"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring single-trial neural population dynamics using sequential auto-encoders",
+                "cites": "155",
+                "year": "2018"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:Bg7qf7VwUHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A recurrent neural network for closed-loop intracortical brain\u2013machine interface decoders",
+                "cites": "124",
+                "year": "2012"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-trial dynamics of motor cortex and their applications to brain-machine interfaces",
+                "cites": "108",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making brain\u2013machine interfaces robust to future neural variability",
+                "cites": "79",
+                "year": "2016"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high performing brain\u2013machine interface driven by low-frequency local field potentials alone and together with spikes",
+                "cites": "70",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information systems opportunities in brain\u2013machine interface decoders",
+                "cites": "68",
+                "year": "2014"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intention estimation in brain\u2013machine interfaces",
+                "cites": "62",
+                "year": "2014"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor cortical visuomotor feedback activity is initially isolated from downstream targets in output-null neural state space dimensions",
+                "cites": "54",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A bubble-powered micro-rotor: conception, manufacturing, assembly and characterization",
+                "cites": "50",
+                "year": "2007"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-performance keyboard neural prosthesis enabled by task optimization",
+                "cites": "47",
+                "year": "2014"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Performance sustaining intracortical neural prostheses",
+                "cites": "45",
+                "year": "2014"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine scale mapping of genomic introgressions within the Drosophila yakuba clade",
+                "cites": "44",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:LgRImbQfgY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-performance neural prosthesis incorporating discrete state selection with hidden Markov models",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The need for calcium imaging in nonhuman primates: New motor neuroscience and brain-machine interfaces",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent factors and dynamics in motor cortex and their application to brain\u2013machine interfaces",
+                "cites": "22",
+                "year": "2018"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trial-by-trial motor cortical correlates of a rapidly adapting visuomotor internal model",
+                "cites": "21",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:gVv57TyPmFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain machine interface utilizing a discrete action state decoder in parallel with a continuous decoder for a neural prosthetic device",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the role of firing-rate normalization and dimensionality reduction in brain-machine interface robustness",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Leveraging neural dynamics to extend functional lifetime of brain-machine interfaces",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A nonhuman primate brain\u2013computer typing interface",
+                "cites": "15",
+                "year": "2016"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Augmenting intracortical brain-machine interface with neurally driven error detectors",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auto-deleting brain machine interface: Error detection using spiking neural activity in the motor cortex",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System identification of brain-machine interface control using a cursor jump perturbation",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hybrid decoding of both spikes and low-frequency local field potentials for brain-machine interfaces",
+                "cites": "7",
+                "year": "2014"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-performance, robust brain\u2013machine interface without retraining",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A bubble-powered micro-rotor: Manufacturing, assembly and characterization",
+                "cites": "6",
+                "year": "2006"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Leveraging historical knowledge of neural dynamics to rescue decoder performance as neural channels are lost:\u201cDecoder hysteresis\u201d",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Corrigendum: Making brain-machine interfaces robust to future neural variability",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:5icHVeHT4IsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding and perturbing decision states in real time",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feasibility analysis of genetically-encoded calcium indicators as a neural signal source for all-optical brain-machine interfaces",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-outcome error signals and their use in brain-machine interfaces",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-Machine Interface Utilizing Interventions to Emphasize Aspects of Neural Variance and Decode Speed and Angle",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A multi-stage recurrent neural network better describes decision-related activity in dorsal premotor cortex",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent neural network models of multi-area computation underlying decision-making",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-machine interface utilizing interventions to emphasize aspects of neural variance and decode speed and angle using a kinematics feedback filter that applies a covariance \u2026",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recent patents in brain-machine interfaces",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The development of high-performance communication neural prostheses",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure in Neural Activity during Observed and Executed Movements Is Shared at the Neural Population Level, Not in Single Neurons",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A low-power band of neuronal spiking activity dominated by local single units improves the performance of brain\u2013machine interfaces",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Considerations in using recurrent neural networks to probe neural dynamics",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:4X0JR2_MtJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Learning Neural Encoders for Motor Cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain\u2013machine interfaces",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements (vol 8, 16357, 2018)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Publisher Correction: Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplicative recurrent neural network for fast and robust intracortical brain machine interface decoders",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single Neuron Firing Rate Statistics in Motor Cortex During Execution and Observation of Movement",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise Estimates of Single-Trial Dynamics in Motor Cortex using Deep Learning Techniques",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Note: this document was generated by automatic conversion from the latex source. Please see the. tex and/or. pdf versions for reference.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:nVrZBo8bIpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain machine interfaces incorporating neural population dynamics",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Robust Representations with Score Invariant Learning",
+                "cites": "0"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:zCSUwVk65WsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Considerations in using recurrent neural networks to",
+                "cites": "0"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1-B-8 Augmenting intracortical brain-computer interfaces in monkeys and humans with neurally driven error detectors",
+                "cites": "0"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Review of Basic to Clinical Studies of Irreversible Electroporation Therapy....... C. Jiang, RV Davalos, and JC Bischof 4",
+                "cites": "0"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bio-Inspired Rotor Powered by a Micro-Bubble",
+                "cites": "0"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Technical Report: A High-Performance Neural Prosthesis Enabled by Control Algorithm Design",
+                "cites": "0"
+            },
+            "id_citations": "9Pu0NtAAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=9Pu0NtAAAAAJ",
+    "alternate_names": [
+        "Jonathan Kao"
+    ]
+}

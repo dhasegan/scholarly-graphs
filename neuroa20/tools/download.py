@@ -9,6 +9,7 @@ from scholarly import scholarly
 from fp.fp import FreeProxy
 
 from neuroa20.libs.user_input import _sleep, _get_in
+from neuroa20.libs.google_scholar import save_scholar, get_prof, read_dirs 
 
 
 def serialize_coauthor(coauthor):
@@ -52,12 +53,13 @@ def serialize_author(author):
     }
 
 
-def process_row(row, patterns=None):
+def process_row(row, patterns=None, download_on_exact_name=False):
     try:
         print('Processing Row', row['name'])
-        val = _get_in('scan, next, or break s/n/b: ', ['s', 'b', 'n'])
-        if val in ['b', 'n']:
-            return val
+        if not download_on_exact_name:
+            val = _get_in('scan, next, or break s/n/b: ', ['s', 'b', 'n'])
+            if val in ['b', 'n']:
+                return val
 
         for name in row['name'].split(' & '):
             if name != row['name']:
@@ -65,6 +67,12 @@ def process_row(row, patterns=None):
             found_detail = None
             _sleep()
             for detail in scholarly.search_author(name):
+                if download_on_exact_name:
+                    if detail.name == name:
+                        found_detail = detail
+                        break
+                    else:
+                        continue
                 print(detail)
                 if patterns:
                     for pattern in patterns:
@@ -101,7 +109,13 @@ def process_row(row, patterns=None):
 
     return 'n'
 
-def run(input_path, output_dir, patterns=None, start_at=0, run_proxy=False):
+def run(
+        input_path,
+        output_dir,
+        patterns=None,
+        start_at=0,
+        run_proxy=False,
+        download_on_exact_name=False):
     if run_proxy:
         proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()  
         scholarly.use_proxy(http=proxy, https=proxy)
@@ -109,24 +123,24 @@ def run(input_path, output_dir, patterns=None, start_at=0, run_proxy=False):
     if type(patterns) == str:
         patterns = patterns.split(',')
 
+    current_rows = read_dirs(output_dir)
+
     rows = []
     with open(input_path) as f:
         for row in csv.DictReader(f):
             rows.append(row)
 
     for row in rows[start_at:]:
-        filename = os.path.join(output_dir, row['name'] + '.json')
-        if os.path.isfile(filename):
+        if get_prof(current_rows, row['name']):
             continue
 
-        val = process_row(row, patterns)
+        val = process_row(row, patterns, download_on_exact_name)
         if val == 'n':
             continue
         elif val == 'b':
             break
 
-        with open(filename, 'w') as out:
-            out.write(json.dumps(row['details'], indent=4) + '\n')
+        save_scholar(row['details'], output_dir, row['name'])
 
 
 if __name__ == '__main__':

@@ -6,24 +6,39 @@ import json
 
 from bs4 import BeautifulSoup
 
+from neuroa20.libs.google_scholar import read_dirs, get_prof
 
-def details_coauthors(input_dir, output_path, min_links=2):
-    files = [f for f in os.listdir(input_dir) if f.endswith('.json')]
+
+def details_coauthors(
+        input_dir,
+        output_path, 
+        list_filename_filter=None,
+        min_links=2):
+
+    scholars = read_dirs(input_dir)
+    if list_filename_filter:
+        profs = []
+        with open(list_filename_filter) as f:
+            for row in csv.DictReader(f):
+                prof = get_prof(scholars, row['name'])
+                if prof:
+                    profs.append(prof)
+        scholars = profs
 
     current_authors = {}
     coauthors = {}
-    for file in files:
-        filename = os.path.join(input_dir, file)
-        with open(filename) as f:
-            row = json.load(f)
-            current_authors[row['name']] = True
-            for coauthor in row['coauthors']:
-                name = coauthor['name']
-                if name not in coauthors:
-                    coauthors[name] = { 'affiliation': coauthor['affiliation'], 'links': [] }
-                if coauthor['affiliation'] != coauthors[name]['affiliation']:
-                    raise "Different affiliations {} {} ".format(coauthor['affiliation'], coauthors[name]['affiliation'])
-                coauthors[name]['links'].append(row['name'])
+    for scholar in scholars:
+        current_authors[scholar['name']] = True
+        for coauthor in scholar['coauthors']:
+            name = coauthor['name']
+            if name not in coauthors:
+                coauthors[name] = { 'affiliation': coauthor['affiliation'], 'links': [] }
+            if coauthor['affiliation'] != coauthors[name]['affiliation']:
+                print("Different affiliations for {}: `{}` `{}` ".format(
+                    name,
+                    coauthor['affiliation'],
+                    coauthors[name]['affiliation']))
+            coauthors[name]['links'].append(scholar['name'])
 
     coauthors = sorted(
         [(k, v) for k,v in coauthors.items() if len(v['links']) >= min_links and k not in current_authors],

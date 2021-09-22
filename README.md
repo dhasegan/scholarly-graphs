@@ -26,13 +26,27 @@ For example:
     py neuroa20/tools/download.py run articles3.csv google_scholar3/
     py download.py run articles4.csv google_scholar4/
 
+
+    py neuroa20/tools/download.py run data/ucla/neuro_profs.csv google_scholar/ \
+        --patterns ucla
+
 Then use all the pages to compile the final page
 
     py neuroa20/tools/display.py run google_scholar/ display.html
 
 ### You can use this to find coauthors
 
-    py neuroa20/tools/parse.py coauthors google_scholar/ data/.csv
+    py neuroa20/tools/parse.py coauthors \
+        google_scholar/ \
+        data/other/profs_hakwan_coauthors.csv \
+        --list_filename_filter data/other/profs_hakwan_meetup.csv \
+        --min_links 1
+
+    py neuroa20/tools/download.py run \
+        data/other/profs_hakwan_coauthors.csv \
+        google_scholar/ \
+        --download_on_exact_name True
+
 
 ### Create table for viewing the graphs
 
@@ -52,3 +66,9 @@ Then use all the pages to compile the final page
         noded3/files/nyu_dope0.tsv \
         --list_filename_filter data/nyu/faculty.csv \
         --list_filename_filter_count 0
+
+    py neuroa20/tools/graph.py create_table \
+        google_scholar/ \
+        noded3/files/hakwan_meetup.tsv \
+        --list_filename_filter data/other/profs_hakwan_meetup.csv \
+        --list_filename_filter_count 1

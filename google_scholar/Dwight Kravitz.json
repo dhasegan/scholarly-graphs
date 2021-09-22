@@ -1,0 +1,940 @@
+{
+    "affiliation": "George Washington University",
+    "cites_per_year": {
+        "2010": 21,
+        "2011": 61,
+        "2012": 148,
+        "2013": 253,
+        "2014": 319,
+        "2015": 344,
+        "2016": 452,
+        "2017": 474,
+        "2018": 463,
+        "2019": 527,
+        "2020": 373
+    },
+    "citedby": 3475,
+    "citedby5y": 2637,
+    "coauthors": [
+        {
+            "affiliation": "Senior Investigator, NIMH",
+            "id": "RTtshYYAAAAJ",
+            "name": "Chris Baker"
+        },
+        {
+            "affiliation": "Department of Psychology, Wright State University",
+            "id": "3rokIVwAAAAJ",
+            "name": "Assaf Harel"
+        },
+        {
+            "affiliation": "Dartmouth, MIT, Harvard Society of Fellows",
+            "id": "-ja2MC4AAAAJ",
+            "name": "Caroline E Robertson"
+        },
+        {
+            "affiliation": "Professor, Cognitive Neuroscience, Carnegie Mellon University",
+            "id": "JgSIQAYAAAAJ",
+            "name": "Marlene Behrmann"
+        },
+        {
+            "affiliation": "Vision and Data Scientist, Science Applications International Corporation (SAIC)",
+            "id": "PWucXCcAAAAJ",
+            "name": "Joseph Arizpe"
+        },
+        {
+            "affiliation": "Brunel Univerity London",
+            "id": "iuF-V5oAAAAJ",
+            "name": "Annie W-Y Chan"
+        },
+        {
+            "affiliation": "Cambridge University",
+            "id": "4GAQ-RUAAAAJ",
+            "name": "Simon Baron-Cohen"
+        },
+        {
+            "affiliation": "NIH Senior Investigator, National Institute of Mental Health",
+            "id": "F-PdhBgAAAAJ",
+            "name": "Alex Martin"
+        },
+        {
+            "affiliation": "Element AI",
+            "id": "aXV9O6wAAAAJ",
+            "name": "Jan Freyberg"
+        },
+        {
+            "affiliation": "Center for Scientific Review",
+            "id": "tyQ3egMAAAAJ",
+            "name": "Cibu Thomas"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neuroscience, Columbia University",
+            "id": "w6M4YN4AAAAJ",
+            "name": "Nikolaus Kriegeskorte"
+        },
+        {
+            "affiliation": "Professor, George Washington University",
+            "id": "uVthWFoAAAAJ",
+            "name": "Sarah Shomstein"
+        },
+        {
+            "affiliation": "Professor of Biomedical Engineering and Neuroscience at Johns Hopkins School of Medicine",
+            "id": "UM8YeikAAAAJ",
+            "name": "Reza Shadmehr"
+        },
+        {
+            "affiliation": "Institute of Cognitive Neuroscience, UCL",
+            "id": "bzMZDNsAAAAJ",
+            "name": "Vincent Walsh"
+        },
+        {
+            "affiliation": "Staff Scientist, National Institute of Mental Health",
+            "id": "_4gJ4-gAAAAJ",
+            "name": "Sean Marrett"
+        },
+        {
+            "affiliation": "InatiAnalytics",
+            "id": "FnD7rOcAAAAJ",
+            "name": "Souheil Inati"
+        }
+    ],
+    "email": "@email.gwu.edu",
+    "hindex": 24,
+    "hindex5y": 22,
+    "i10index": 30,
+    "i10index5y": 29,
+    "id": "7LcDQpYAAAAJ",
+    "interests": [
+        "Vision",
+        "fMRI",
+        "Large-scale cortical circuits"
+    ],
+    "name": "Dwight Kravitz",
+    "publications": [
+        {
+            "bib": {
+                "title": "A new neural framework for visuospatial processing",
+                "cites": "870",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ventral visual pathway: an expanded neural framework for the processing of object quality",
+                "cites": "626",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-world scene representations in high-level visual cortex: it's the spaces more than the places",
+                "cites": "238",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-level visual object representations are constrained by position",
+                "cites": "144",
+                "year": "2010"
+            },
+            "id_citations": "7LcDQpYAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-dependent dissociation of visual and prefrontal cortices during working memory",
+                "cites": "137",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disentangling visual imagery and perception of real-world objects",
+                "cites": "132",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task context impacts visual object processing differentially across the cortex",
+                "cites": "121",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How position dependent is visual object recognition?",
+                "cites": "118",
+                "year": "2008"
+            },
+            "id_citations": "7LcDQpYAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deconstructing visual scenes in cortex: gradients of object and spatial layout information",
+                "cites": "112",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Slower rate of binocular rivalry in autism",
+                "cites": "90",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global motion perception deficits in autism are reflected as early as primary visual cortex",
+                "cites": "86",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A retinotopic basis for the division of high-level scene processing between lateral and ventral human occipitotemporal cortex",
+                "cites": "84",
+                "year": "2015"
+            },
+            "id_citations": "7LcDQpYAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tunnel vision: sharper gradient of spatial attention in autism",
+                "cites": "83",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical representations of bodies and faces are strongest in commonly experienced configurations",
+                "cites": "76",
+                "year": "2010"
+            },
+            "id_citations": "7LcDQpYAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Start position strongly influences fixation patterns during face processing: Difficulties with eye movements as a measure of information use",
+                "cites": "72",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Space-, object-, and feature-based attention interact to organize visual scenes",
+                "cites": "59",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a new model of scientific publishing: discussion and a proposal",
+                "cites": "51",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond perceptual expertise: revisiting the neural substrates of expert object recognition",
+                "cites": "47",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Privileged functional connectivity between the visual word form area and the language system",
+                "cites": "43",
+                "year": "2017"
+            },
+            "id_citations": "7LcDQpYAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating the correspondence between face-, scene-, and object-selectivity and retinotopic organization within lateral occipitotemporal cortex",
+                "cites": "36",
+                "year": "2016"
+            },
+            "id_citations": "7LcDQpYAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentional control: temporal relationships within the fronto-parietal network",
+                "cites": "36",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The space of an object: object attention alters the spatial gradient in the surround.",
+                "cites": "33",
+                "year": "2008"
+            },
+            "id_citations": "7LcDQpYAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations integrate the current field of view with the remembered 360 panorama in scene-selective cortex",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "7LcDQpYAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of lexical status and orthographic similarity on the multi-voxel response of the visual word form area",
+                "cites": "24",
+                "year": "2015"
+            },
+            "id_citations": "7LcDQpYAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential neural changes during motor learning in schizophrenia",
+                "cites": "19",
+                "year": "2008"
+            },
+            "id_citations": "7LcDQpYAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The temporal dynamics of scene processing: a multifaceted EEG investigation",
+                "cites": "17",
+                "year": "2016"
+            },
+            "id_citations": "7LcDQpYAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in looking at own-and other-race faces are subtle and analysis-dependent: An account of discrepant reports",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "7LcDQpYAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential sampling of visual space in ventral and dorsal early visual cortex",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The human posterior superior temporal sulcus samples visual space differently from other face-selective regions",
+                "cites": "11",
+                "year": "2020"
+            },
+            "id_citations": "7LcDQpYAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential representations of perceived and retrieved visual information in hippocampus and cortex",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity judgments and cortical visual responses reflect different properties of object and scene categories in naturalistic images",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual working memory directly alters perception",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual search: you are who you are (+ a learning curve)",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "7LcDQpYAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holding a stick at both ends: on faces and expertise",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to correctly put the \u201csubsequent\u201d in subsequent search miss errors",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atypical Lateral Interactions in Autism",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying, and correcting for, the impact of questionable research practices on false discovery rates in psychological science",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "7LcDQpYAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimates of a priori power and false discovery rates induced by post-hoc changes from thousands of independent replications",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "7LcDQpYAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing extent of category selectivity with increasing power.",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional specificity and connectivity of the visual word form area",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "7LcDQpYAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating high-level visual representations: objects, bodies, and scenes",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The structure of scene representations across the ventral visual pathway",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "7LcDQpYAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increased precision is associated with reduced variance in normal but not in schizophrenic volunteers performing a novel motor task",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "7LcDQpYAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practicing Good Laboratory Hygiene, Even in a Pandemic",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "7LcDQpYAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" How to correctly put the \u201csubsequent\u201d in subsequent search miss errors\": Correction.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction to: How to correctly put the \u201csubsequent\u201d in subsequent search miss errors",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Big Data Approach to Revealing the Nature of Carryover Effects",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Word Recognition as a Means of Addressing Top-Down Feedback",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in target-distractor similarity space with experience in complex visual search",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accurately Quantifying the Subsequent Search Miss Effect in Multiple-Target Visual Search",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "7LcDQpYAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential Sampling of Visual Space in Ventral and Dorsal Early Visual Cortex (vol 38, pg 2294, 2018)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Differential sampling of visual space in ventral and dorsal early visual cortex\": Correction.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting Ultimate Visual Search Competency from Initial Performance",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Get more out of your data: Breaking down response time to improve its usefulness",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population receptive fields in high-level visual cortex are tuned for specific categories",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User Alerts",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Tuning Curves in Visual Working Memory",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "7LcDQpYAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lingering effects of response inhibition: Evidence for both control settings and memory association mechanisms",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "7LcDQpYAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual influences of room width and depth on egocentric distance judgments in natural scenes",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "7LcDQpYAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of foveal bias on estimates of population recpetive fields",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "7LcDQpYAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Panoramic Memory Shapes Visual Representations of Scenes",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "7LcDQpYAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating the correspondence between face-, scene",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "7LcDQpYAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of information during memory retrieval compared to perception",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "7LcDQpYAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A retinotopic basis for the division of category selectivity into lateral and ventral regions",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "7LcDQpYAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential representation of information in hippocampus and visual cortex during perception and retrieval",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "7LcDQpYAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine-grained representation of visual object information retrieved from long-term memory",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond perceptual expertise: Revisiting the neural substrates of expert object recognition",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Time Course of Scene Processing: Evidence From Event-Related Potentials",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of Task on the Cortical Representations of Real-World Scenes",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "7LcDQpYAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-dependent representations in Visual and Frontal Cortex during Working Memory",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-dependent representations of visual objects",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single trial analysis of individual items across the ventral visual pathway with high-field fMRI",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "7LcDQpYAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociating object and space representations in scene-selective visual cortex",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atypical Integration of Motion Signals in Autism",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Position in space defines the structure of object representations throughout the ventral visual pathway",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The specificity and distribution of the \u201cmind's eye\u201d: Visual imagery and perception",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in looking at own-race and other-race faces",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "7LcDQpYAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The \u201cInversion Effect\u201d and Cortical Visual Processing",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "7LcDQpYAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Location of pre-stimulus fixation strongly influences subsequent eye-movement patterns during face perception",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "7LcDQpYAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing Objects, Backgrounds and Scenes along the Ventral Visual Pathway",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "7LcDQpYAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heads, shoulders, knees and toes: Body representations in human extrastriate visual cortex",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "7LcDQpYAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The pervasive influence of position on object processing: From brain to behavior",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "7LcDQpYAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collapsing Content and Process: Mental Representations are not Static and the Brain is not a Computer",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "7LcDQpYAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual statistical learning: Spatial configuration or abstract association?",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "7LcDQpYAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Position independence in object recognition",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "7LcDQpYAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object similarity modulates object-based attention and attentional faciliation in the surround",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "7LcDQpYAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of an attentional switch",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "7LcDQpYAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactions between space-and object-based attention revealed through ERP studies",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "7LcDQpYAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object-based attentional selection modulates the spatial gradient surrounding the object",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "7LcDQpYAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collapsing Content and Process: Mental Representations are not Static and the Brain is not a Computer",
+                "cites": "0"
+            },
+            "id_citations": "7LcDQpYAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "87 Sparse but not \u2018Grandmother-cell\u2019coding in the medial temporal lobe 92 The encoding\u2013retrieval relationship: retrieval as mental simulation 99 A dual-networks architecture of \u2026",
+                "cites": "0"
+            },
+            "id_citations": "7LcDQpYAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Available online at",
+                "cites": "0"
+            },
+            "id_citations": "7LcDQpYAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=7LcDQpYAAAAJ"
+}

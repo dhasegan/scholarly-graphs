@@ -1,0 +1,546 @@
+{
+    "affiliation": "Princeton University",
+    "cites_per_year": {
+        "2010": 9,
+        "2011": 30,
+        "2012": 41,
+        "2013": 75,
+        "2014": 89,
+        "2015": 108,
+        "2016": 147,
+        "2017": 188,
+        "2018": 263,
+        "2019": 364,
+        "2020": 355
+    },
+    "citedby": 1707,
+    "citedby5y": 1440,
+    "coauthors": [
+        {
+            "affiliation": "Harvard University",
+            "id": "6o4Ue_UAAAAJ",
+            "name": "Jason Mitchell"
+        },
+        {
+            "affiliation": "Assistant Professor, Department of Psychological and Brain Sciences, Dartmouth College",
+            "id": "KGU7CnEAAAAJ",
+            "name": "Mark A. Thornton"
+        },
+        {
+            "affiliation": "Northwestern University",
+            "id": "FYV5MSsAAAAJ",
+            "name": "Adam Waytz"
+        },
+        {
+            "affiliation": "Associate Professor of Marketing and Behavioral Decision Making, UCLA Anderson School of Management",
+            "id": "qGpS1NYAAAAJ",
+            "name": "Hal Hershfield"
+        },
+        {
+            "affiliation": "Department of Psychology, University of Rochester",
+            "id": "Fnbr6U8AAAAJ",
+            "name": "David Dodell-Feder"
+        },
+        {
+            "affiliation": "Professor, Psychiatry and Psychology, U.C. Davis Director Imaging Research Center and the Behavioral",
+            "id": "TefcLpgAAAAJ",
+            "name": "Cameron S. Carter"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "iwaNJrgAAAAJ",
+            "name": "Jamil Zaki"
+        },
+        {
+            "affiliation": "Michigan State University",
+            "id": "ZDiftAQAAAAJ",
+            "name": "Dar Meshi"
+        },
+        {
+            "affiliation": "University of Texas at Austin",
+            "id": "MdDjLEAAAAAJ",
+            "name": "Adrian F. Ward"
+        },
+        {
+            "affiliation": "Associate Professor of Neuroeconomics, University of Amsterdam",
+            "id": "IcJ33C8AAAAJ",
+            "name": "Jan Engelmann"
+        },
+        {
+            "affiliation": "Professor of Psychiatry, University of California at Davis",
+            "id": "-F--exQAAAAJ",
+            "name": "J. Daniel Ragland"
+        }
+    ],
+    "email": "@princeton.edu",
+    "hindex": 17,
+    "hindex5y": 16,
+    "i10index": 21,
+    "i10index5y": 21,
+    "id": "suYIDQMAAAAJ",
+    "interests": [
+        "Psychology",
+        "Social Neuroscience"
+    ],
+    "name": "Diana Tamir",
+    "publications": [
+        {
+            "bib": {
+                "title": "Disclosing information about the self is intrinsically rewarding",
+                "cites": "512",
+                "year": "2012"
+            },
+            "id_citations": "suYIDQMAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The emerging neuroscience of social media",
+                "cites": "127",
+                "year": "2015"
+            },
+            "id_citations": "suYIDQMAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of anchoring-and-adjustment during mentalizing",
+                "cites": "124",
+                "year": "2010"
+            },
+            "id_citations": "suYIDQMAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anchoring and adjustment during social inferences.",
+                "cites": "95",
+                "year": "2013"
+            },
+            "id_citations": "suYIDQMAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reading fiction and reading minds: the role of simulation in the default network",
+                "cites": "94",
+                "year": "2016"
+            },
+            "id_citations": "suYIDQMAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mental simulation and meaning in life.",
+                "cites": "92",
+                "year": "2015"
+            },
+            "id_citations": "suYIDQMAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural evidence that three dimensions organize mental state representation: Rationality, social impact, and valence",
+                "cites": "90",
+                "year": "2016"
+            },
+            "id_citations": "suYIDQMAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in risk preference predict neural responses during financial decision-making",
+                "cites": "82",
+                "year": "2009"
+            },
+            "id_citations": "suYIDQMAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The default network distinguishes construals of proximal versus distal events",
+                "cites": "78",
+                "year": "2011"
+            },
+            "id_citations": "suYIDQMAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the predictive social mind",
+                "cites": "73",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fiction reading has a small positive impact on social cognition: A meta-analysis.",
+                "cites": "46",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multivariate pattern analysis of functional magnetic resonance imaging data reveals deficits in distributed representations in schizophrenia",
+                "cites": "43",
+                "year": "2008"
+            },
+            "id_citations": "suYIDQMAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mental models accurately predict emotion transitions",
+                "cites": "33",
+                "year": "2017"
+            },
+            "id_citations": "suYIDQMAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Informing others is associated with behavioral and neural signatures of value.",
+                "cites": "32",
+                "year": "2015"
+            },
+            "id_citations": "suYIDQMAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Media usage diminishes memory for experiences",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The social brain automatically predicts others' future mental states",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Creative expertise is associated with transcending the here and now.",
+                "cites": "20",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social Rewards: From basic social building blocks to complex social behavior",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seizures from transcranial magnetic stimulation 2012\u20132016: Results of a survey of active laboratories and clinics",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active perspective taking induces flexible use of self-knowledge during social inference.",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "suYIDQMAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Old desires, new media",
+                "cites": "12",
+                "year": "2015"
+            },
+            "id_citations": "suYIDQMAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wanting without enjoying: The social value of sharing experiences",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "People represent mental states in terms of rationality, social impact, and valence: Validating the 3d Mind Model",
+                "cites": "7",
+                "year": "2020"
+            },
+            "id_citations": "suYIDQMAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "People represent their own mental states more distinctly than those of others",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous thought as an unconstrained memory process",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The brain represents people as the mental states they habitually experience",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social distance increases perceived physical distance",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Six dimensions describe action understanding: the ACT-FASTaxonomy",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "People accurately predict the transition probabilities between actions",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Considering Others\u2019 Mental States Causally Increases Feelings of Social Bonding and Information Sharing",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceiving actions before they happen: Psychological dimensions scaffold neural action prediction",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulating other people changes the self.",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accurate Emotion Prediction in Dyads and Groups and its Potential Social Benefits",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "People represent their own mental states more distinctly than others\u2019",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The 3d Mind Model characterizes how people understand mental states across modern and historical cultures",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "suYIDQMAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial overview: Tales of two motives: disclosure and concealment",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "suYIDQMAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Journal of Personality and Social Psychology",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The people around you are inside your head: Social context shapes spontaneous thought",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Determination of the defining features of texts written in isolation with a Naive Bayesian Classifier",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Emerging Neuroscience of Social Media. Trends in Cognitive Psychology",
+                "cites": "1"
+            },
+            "id_citations": "suYIDQMAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "People learn mental state concepts from mental state dynamics",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "suYIDQMAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tales of Two Motives: Disclosure and Concealment",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "suYIDQMAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Successful simulation requires bridging levels of abstraction",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "suYIDQMAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intrinsic value of self-disclosure across adolescence",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "suYIDQMAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trait information in predicting emotion transitions",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "suYIDQMAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "15 Soziale Medien und das Gehirn1",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "suYIDQMAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Step Outside Yourself",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "suYIDQMAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Social Neuroscience Perspective on Egocentric Influence",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "suYIDQMAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Mechanisms of Social Inference: Anchoring and Adjustment and the Biasing Role of Self",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "suYIDQMAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated diagnosis of schizophrenia using multivariate pattern analysis of fMRI data",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "suYIDQMAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of others\u2019 mental states grow less distinct with psychological distance",
+                "cites": "0"
+            },
+            "id_citations": "suYIDQMAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=suYIDQMAAAAJ"
+}

@@ -1,0 +1,1268 @@
+{
+    "affiliation": "University of California, Los Angeles (UCLA)",
+    "cites_per_year": {
+        "2007": 8,
+        "2008": 53,
+        "2009": 72,
+        "2010": 62,
+        "2011": 58,
+        "2012": 76,
+        "2013": 82,
+        "2014": 130,
+        "2015": 136,
+        "2016": 178,
+        "2017": 215,
+        "2018": 229,
+        "2019": 261,
+        "2020": 210
+    },
+    "citedby": 1801,
+    "citedby5y": 1232,
+    "coauthors": [
+        {
+            "affiliation": "Distinguished Professor of Psychology, University of California, Los Angeles",
+            "id": "hAg_qXEAAAAJ",
+            "name": "Keith Holyoak"
+        },
+        {
+            "affiliation": "Professor of Cognitive Science and Computer Science, Johns Hopkins University",
+            "id": "FJ-huxgAAAAJ",
+            "name": "Alan Yuille"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Canberra",
+            "id": "_xku1isAAAAJ",
+            "name": "Jeroen J.A. van Boxtel"
+        },
+        {
+            "affiliation": "Professor of Psychology, UCLA",
+            "id": "xB18jGcAAAAJ",
+            "name": "Zili Liu"
+        },
+        {
+            "affiliation": "Professor of Statistics and Computer Science, UCLA",
+            "id": "Al8dyb4AAAAJ",
+            "name": "song-chun zhu"
+        },
+        {
+            "affiliation": "Research Scientist, GE Research",
+            "id": "5S6yvqMAAAAJ",
+            "name": "James Kubricht"
+        },
+        {
+            "affiliation": "US Army Research Laboratory, HRED",
+            "id": "6t1cmZMAAAAJ",
+            "name": "Steven Thurman"
+        },
+        {
+            "affiliation": "Postdoctoral Scholar, UCLA",
+            "id": "qG9l6JEAAAAJ",
+            "name": "Yixin Zhu"
+        },
+        {
+            "affiliation": "UCLA",
+            "id": "h1xbFn4AAAAJ",
+            "name": "Yujia Peng"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "1nBmV3cAAAAJ",
+            "name": "Dawn Chen"
+        },
+        {
+            "affiliation": "University of California, Los Angeles",
+            "id": "sXSNw10AAAAJ",
+            "name": "Philip J. Kellman"
+        },
+        {
+            "affiliation": "Department of Applied Psychology, Lingnan University, Hong Kong",
+            "id": "LXkI8LkAAAAJ",
+            "name": "Alan L. F. Lee"
+        },
+        {
+            "affiliation": "Professor of Psychology, University of Southern California",
+            "id": "UeE29kAAAAAJ",
+            "name": "Bosco Tjan"
+        },
+        {
+            "affiliation": "University of Rochester, Departments of Neuroscience and Psychiatry",
+            "id": "XKeT8EwAAAAJ",
+            "name": "Brian P. Keane"
+        },
+        {
+            "affiliation": "Assistant Professor of Computer and Information Science, UPenn",
+            "id": "jTivVMEAAAAJ",
+            "name": "Chenfanfu Jiang"
+        },
+        {
+            "affiliation": "Peking Unviersity; University of California, Los Angeles",
+            "id": "MzJ0cx0AAAAJ",
+            "name": "Junzhu Su"
+        },
+        {
+            "affiliation": "KU Leuven",
+            "id": "H_LiySwAAAAJ",
+            "name": "Tom Beckers"
+        },
+        {
+            "affiliation": "Associate Professor, Yonsei University",
+            "id": "P6k8tvkAAAAJ",
+            "name": "Hee Seung Lee"
+        },
+        {
+            "affiliation": "Distinguished Professor & Chancellor's Professor of Computer Science, UCLA",
+            "id": "pKuBFaQAAAAJ",
+            "name": "Demetri Terzopoulos"
+        },
+        {
+            "affiliation": "University of Rochester",
+            "id": "5YuviyEAAAAJ",
+            "name": "Steven Silverstein"
+        }
+    ],
+    "email": "@ucla.edu",
+    "hindex": 26,
+    "hindex5y": 19,
+    "i10index": 48,
+    "i10index5y": 37,
+    "id": "ut20rf4AAAAJ",
+    "interests": [
+        "Psychology",
+        "Vision",
+        "Cognitive psychology",
+        "Perception",
+        "Computational cognition"
+    ],
+    "name": "Hongjing Lu",
+    "publications": [
+        {
+            "bib": {
+                "title": "Bayesian generic priors for causal learning.",
+                "cites": "211",
+                "year": "2008"
+            },
+            "id_citations": "ut20rf4AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A predictive coding perspective on autism spectrum disorders: a General Comment on Pellicano and Burr (2012)",
+                "cites": "92",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intuitive physics: Current research and controversies",
+                "cites": "72",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analogical and category-based inference: A theoretical integration with Bayesian causal models.",
+                "cites": "71",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impaired global, and compensatory local, biological motion processing in people with high levels of autistic traits",
+                "cites": "61",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep convolutional networks do not classify based on global object shape",
+                "cites": "60",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian analogy with relational transformations.",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "ut20rf4AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequential causal learning in humans and rats",
+                "cites": "57",
+                "year": "2008"
+            },
+            "id_citations": "ut20rf4AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in high-level biological motion tasks correlate with autistic traits",
+                "cites": "44",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural processing in biological motion perception",
+                "cites": "43",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A biological motion toolbox for reading, displaying, and manipulating motion capture data in research settings",
+                "cites": "40",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion perceptual learning: when only task-relevant information is learned",
+                "cites": "39",
+                "year": "2007"
+            },
+            "id_citations": "ut20rf4AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of gamma-band synchronization in priming of form discrimination for multiobject displays.",
+                "cites": "37",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physical and biological constraints govern perceived animacy of scrambled human forms",
+                "cites": "34",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual search by action category",
+                "cites": "34",
+                "year": "2011"
+            },
+            "id_citations": "ut20rf4AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of global motion perception using a multiple-aperture stimulus",
+                "cites": "34",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intact recognition, but attentuated adaptation, for biological motion in youth with autism spectrum disorder",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing dynamic classification images from correlation maps",
+                "cites": "33",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Signature movements lead to efficient search for threatening actions",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "ut20rf4AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception of social interactions for spatially scrambled biological motion",
+                "cites": "30",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification images reveal spatiotemporal contour interpolation",
+                "cites": "30",
+                "year": "2007"
+            },
+            "id_citations": "ut20rf4AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic simulation predicts human performance on viscous fluid-pouring problem",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning motion discrimination with suppressed MT",
+                "cites": "28",
+                "year": "2004"
+            },
+            "id_citations": "ut20rf4AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The noisy-logical distribution and its application to causal inference",
+                "cites": "27",
+                "year": "2008"
+            },
+            "id_citations": "ut20rf4AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex interactions between spatial, orientation, and motion cues for biological motion perception across visual space",
+                "cites": "26",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape recognition alters sensitivity in stereoscopic depth discrimination",
+                "cites": "26",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ideal observers for detecting motion: Correspondence noise",
+                "cites": "25",
+                "year": "2005"
+            },
+            "id_citations": "ut20rf4AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling causal learning using Bayesian generic priors on generative and preventive powers",
+                "cites": "22",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joints and their relations as critical features in action discrimination: Evidence from a classification image method",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "ut20rf4AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of analogy from relation learning",
+                "cites": "20",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual differences in spontaneous analogical transfer",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian theory of sequential causal learning and abstract transfer",
+                "cites": "19",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural adaptation in pSTS correlates with perceptual aftereffects to biological motion and with autistic traits",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal competition based on generic priors",
+                "cites": "17",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The discovery and comparison of symbolic magnitudes",
+                "cites": "17",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferential dependencies in causal inference: A comparison of belief-distribution and associative approaches.",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is interpolation cognitively encapsulated? Measuring the effects of belief on Kanizsa shape discrimination and illusory contour formation",
+                "cites": "15",
+                "year": "2012"
+            },
+            "id_citations": "ut20rf4AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian models of judgments of causal strength: A comparison",
+                "cites": "15",
+                "year": "2007"
+            },
+            "id_citations": "ut20rf4AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Amodal completion impairs stereoacuity discrimination",
+                "cites": "14",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The glare effect does not give rise to a longer-lasting afterimage",
+                "cites": "14",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Martian: Examining Human Physical Judgments across Virtual Gravity Fields",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social interactions receive priority to conscious perception",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian integration of position and orientation cues in perception of biological and non-biological forms",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning perceptual inference by contrasting",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception of Human Interaction Based on Motion Trajectories: From Aerial Videos to Decontextualized Animations",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal Action: A Fundamental Constraint on Perception and Inference About Body Movements",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Revisiting the importance of common body motion in human action perception",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two forms of aftereffects induced by transparent motion reveal multilevel adaptation",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "ut20rf4AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tale of two explanations: Enhancing human trust by explaining robot behavior",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinterpreting behavioral receptive fields: lightness induction alters visually completed shape",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unified model of short-range and long-range motion perception",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When a never-seen but less-occluded image is better recognized: Evidence from old\u2013new memory experiments",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "ut20rf4AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal invariance as an essential constraint for creating a causal representation of the world: Generalizing",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal Invariance as an Essential Constraint for Creating a Causal Representation of the World: Generalizing",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consistent probabilistic simulation underlying human judgment in substance dynamics",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional form of motion priors in human motion perception",
+                "cites": "8",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visuomotor adaptation and sensory recalibration in reversed hand movement task",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visuomotor adaptation and sensory recalibration in reversed hand movement task",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Critical Features of Joint Actions that Signal Human Interaction.",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual learning in speed discrimination of radial motion",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "ut20rf4AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatially perturbed collision sounds attenuate perceived causality in 3d launching events",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global-motion aftereffect does not depend on awareness of the adapting motion direction",
+                "cites": "6",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When a never-seen but less-occluded image is better recognized: Evidence from same-different matching experiments and a model",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "ut20rf4AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Inferences Based on Learned Relations",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General and specific perceptual learning in radial speed discrimination",
+                "cites": "5",
+                "year": "2011"
+            },
+            "id_citations": "ut20rf4AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning.",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "ut20rf4AAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flash-lag effects in biological motion interact with body orientation and action familiarity",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Animation facilitates source understanding and spontaneous analogical transfer.",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "ut20rf4AAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and generalization of abstract semantic relations: Preliminary investigation of Bayesian approaches",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decomposing Human Causal Learning: Bottom-up Associative Learning and Top-down Schema Reasoning.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Impact of Autistic Traits on Self-Recognition of Body Movements",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intact perception of coherent motion, dynamic rigid form, and biological motion in chronic schizophrenia",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human Causal Transfer: Challenges for Deep Reinforcement Learning.",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorizing coordination from the perception of joint actions",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human efficiency in detecting and discriminating biological motion",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of form processing involved in the perception of biological and nonbiological movements",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding Biological Motion",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "ut20rf4AAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding Biological Motion",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "ut20rf4AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Model selection and velocity estimation using novel priors for motion patterns",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "ut20rf4AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing the Meaning: Vision Meets Semantics in Solving Pictorial Analogy Problems",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring Human Interaction from Motion Trajectories in Aerial Videos.",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generative Inferences Based on a Discriminative Bayesian Model of Relation Learning",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generic Priors Yield Competition Between Independently-Occurring Causes",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "ut20rf4AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What the Bayesian framework has contributed to understanding cognition: Causal learning as a case study",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "ut20rf4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty and dependency in causal inference",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "ut20rf4AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncertainty in causal inference: The case of retrospective revaluation",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating analogical inference with Bayesian causal models",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "ut20rf4AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local features and global shape information in object classification by deep convolutional neural networks",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "ut20rf4AAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Verbal analogy problem sets: An inventory of testing materials",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "ut20rf4AAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual Differences in Judging Similarity Between Semantic Relations",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed Code for Semantic Relations Predicts Neural Similarity",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Convolutional Networks do not Perceive Illusory Contours.",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral Oscillations in Verification of Relational Role Bindings.",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipating an Effect from Predictive Visual Sequences: Development of Infants\u2019 Causal Inference from 9 to 18 Months",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipating an Effect from Predictive Visual Sequences: Development of Infants\u2019 Causal Inference from 9 to 18 Months",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipating an effect from predictive visual sequences: development of infants\u2019 causal inference from 9 to 18 months",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Generic priors yield competition between independently occurring preventive causes",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "ut20rf4AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recovering the functional form of the slow-and-smooth prior in global motion perception",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "ut20rf4AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the spacing effect in sequential category learning",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "ut20rf4AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion integration using competitive priors",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "ut20rf4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Amodal completion in a matching task of face recognition",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "ut20rf4AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding the visual perception of awkward body movements: how interactions go awry",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ut20rf4AAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal actions enhance perception of continuous body movements",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ut20rf4AAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Individual Differences in Self-Recognition from Body Movements.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception of continuous movements from causal actions",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Partitioning the perception of physical and social events with a unified psychological space.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural and computational mechanisms of analogical reasoning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ut20rf4AAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physical and Causal Judgments for Object Collisions Depend on Relative Motion.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ut20rf4AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring human interaction from motion trajectories in aerial videos",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "ut20rf4AAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognizing harmful intent from surveillance video viewed through the eye-movements of novice and experienced observers",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal Action: A Fundamental Constraint on Perception of Bodily Movements.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal action: a fundamental constraint on perception of bodily movements",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Critical features of joint actions that signal human interaction",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic simulation predicts human performance on viscous water-pouring problem",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ut20rf4AAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and generalizing cross-category relations using hierarchical distributed representations.",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "ut20rf4AAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion perceptual learning: When only task-relevant",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "ut20rf4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational theory for the perception of coherent motion: From ideal observer to generic models",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "ut20rf4AAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perception of Biological Motion by Human and Ideal Observers",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "ut20rf4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceived higher luminance in the glare effect does not give rise to a stronger afterimage",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "ut20rf4AAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual Interference Effect in Motor Skill Learning: An Empirical and Computational Investigation",
+                "cites": "0"
+            },
+            "id_citations": "ut20rf4AAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic simulation predicts human judgments about substance dynamics",
+                "cites": "0"
+            },
+            "id_citations": "ut20rf4AAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring human interaction from motion trajectories in aerial videos",
+                "cites": "0"
+            },
+            "id_citations": "ut20rf4AAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic simulation predicts human performance on viscous water-pouring problem",
+                "cites": "0"
+            },
+            "id_citations": "ut20rf4AAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Report from the NSF Workshop on Integrating Approaches to Computational Cognition",
+                "cites": "0"
+            },
+            "id_citations": "ut20rf4AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Causal Generalization with Particle Filters",
+                "cites": "0"
+            },
+            "id_citations": "ut20rf4AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ut20rf4AAAAJ"
+}

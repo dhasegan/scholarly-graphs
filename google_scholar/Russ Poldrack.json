@@ -1,0 +1,4904 @@
+{
+    "affiliation": "Professor of Psychology, Stanford University",
+    "cites_per_year": {
+        "2000": 161,
+        "2001": 306,
+        "2002": 564,
+        "2003": 698,
+        "2004": 794,
+        "2005": 980,
+        "2006": 1262,
+        "2007": 1444,
+        "2008": 1945,
+        "2009": 2042,
+        "2010": 2391,
+        "2011": 2731,
+        "2012": 3319,
+        "2013": 3328,
+        "2014": 3657,
+        "2015": 3955,
+        "2016": 4277,
+        "2017": 4671,
+        "2018": 5238,
+        "2019": 5908,
+        "2020": 5002
+    },
+    "citedby": 55429,
+    "citedby5y": 29115,
+    "coauthors": [
+        {
+            "affiliation": "UCLA Semel Institute for Neuroscience & Human Beha",
+            "id": "FArz2-0AAAAJ",
+            "name": "Robert M Bilder"
+        },
+        {
+            "affiliation": "University of Oxford",
+            "id": "OTJoPikAAAAJ",
+            "name": "Thomas E. Nichols"
+        },
+        {
+            "affiliation": "Associate Neuroscientist",
+            "id": "MkxbWkIAAAAJ",
+            "name": "Dara Ghahremani"
+        },
+        {
+            "affiliation": "Distinguished Professor of Psychiatry and of Neuroscience and Physiology, SUNY Upstate Medical",
+            "id": "PtJmhRwAAAAJ",
+            "name": "Stephen V. Faraone"
+        },
+        {
+            "affiliation": "Director RUBIC (Rutgers Brain Imaging Center), Professor of Psychology, Cognitive Science Center",
+            "id": "FfOAsbAAAAAJ",
+            "name": "Stephen Jos\u00e9 Hanson"
+        },
+        {
+            "affiliation": "Professor, Brown University",
+            "id": "f-xyFpUAAAAJ",
+            "name": "Michael J Frank"
+        },
+        {
+            "affiliation": "Professor of Computational Neuroscience, University of Oxford. Honorary Lecturer, UCL",
+            "id": "i3l_ejQAAAAJ",
+            "name": "Tim Behrens"
+        }
+    ],
+    "email": "@stanford.edu",
+    "hindex": 114,
+    "hindex5y": 88,
+    "i10index": 271,
+    "i10index5y": 238,
+    "id": "RbmLvDIAAAAJ",
+    "interests": [
+        "cognitive neuroscience",
+        "neuroimaging",
+        "neuroinformatics"
+    ],
+    "name": "Russ Poldrack",
+    "publications": [
+        {
+            "bib": {
+                "title": "Inhibition and the right inferior frontal cortex",
+                "cites": "3129",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale automated synthesis of human functional neuroimaging data",
+                "cites": "1914",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can cognitive processes be inferred from neuroimaging data?",
+                "cites": "1911",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of loss aversion in decision-making under risk",
+                "cites": "1734",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional specialization for semantic and phonological processing in the left inferior prefrontal cortex",
+                "cites": "1647",
+                "year": "1999"
+            },
+            "id_citations": "RbmLvDIAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical and subcortical contributions to stop signal response inhibition: role of the subthalamic nucleus",
+                "cites": "1493",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibition and the right inferior frontal cortex: one decade on",
+                "cites": "1275",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive memory systems in the human brain",
+                "cites": "1147",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural deficits in children with dyslexia ameliorated by behavioral remediation: evidence from functional MRI",
+                "cites": "1111",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recovering meaning: left prefrontal cortex guides controlled semantic retrieval",
+                "cites": "968",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of left prefrontal cortex in language and memory",
+                "cites": "959",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Competition among multiple memory systems: converging evidence from animal and human brain studies",
+                "cites": "936",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microstructure of temporo-parietal white matter as a basis for reading ability: evidence from diffusion tensor magnetic resonance imaging",
+                "cites": "888",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Triangulating a cognitive control network using diffusion-weighted magnetic resonance imaging (MRI) and functional MRI",
+                "cites": "885",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable controlled retrieval and generalized selection mechanisms in ventrolateral prefrontal cortex",
+                "cites": "847",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Construction of a 3D probabilistic atlas of human cortical structures",
+                "cites": "809",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Region of interest analysis for fMRI",
+                "cites": "694",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handbook of functional MRI data analysis",
+                "cites": "646",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of competing memory systems by distraction",
+                "cites": "642",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive neuroscience of response inhibition: relevance for genetic research in attention-deficit/hyperactivity disorder",
+                "cites": "624",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring mental states from neuroimaging data: from reverse inference to large-scale decoding",
+                "cites": "555",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scanning the horizon: towards transparent and reproducible neuroimaging research",
+                "cites": "545",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SGW5VrABaM0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural correlates of motor skill automaticity",
+                "cites": "526",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disrupted neural responses to phonological and orthographic processing in dyslexic children: an fMRI study",
+                "cites": "513",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal activation during acquisition of a cognitive skill.",
+                "cites": "505",
+                "year": "1999"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging brain plasticity: conceptual and methodological issues\u2014a theoretical review",
+                "cites": "446",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convergent cortical representation of semantic processing in bilinguals",
+                "cites": "442",
+                "year": "1999"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material-specific lateralization in the medial temporal lobe and prefrontal cortex during memory encoding",
+                "cites": "438",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional system and areal organization of a highly sampled individual human brain",
+                "cites": "435",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:jU7OWUQzBzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospect theory on the brain? Toward a cognitive neuroscience of decision under risk",
+                "cites": "429",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Guidelines for reporting an fMRI study",
+                "cites": "413",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material-specific lateralization of prefrontal activation during episodic encoding and retrieval",
+                "cites": "399",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory for items and memory for relations in the procedural/declarative memory framework",
+                "cites": "398",
+                "year": "1997"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward processing in autism",
+                "cites": "390",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hormonal cycle modulates arousal circuitry in women using functional magnetic resonance imaging",
+                "cites": "379",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disruption of the neural response to rapid acoustic stimuli in dyslexia: evidence from functional MRI",
+                "cites": "378",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deconvolving BOLD activation in event-related designs for multivoxel pattern classification analyses",
+                "cites": "367",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortico\u2010striatal contributions to feedback\u2010based learning: Converging data from neuroimaging and neuropsychology",
+                "cites": "367",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Putting names to faces:: Successful encoding of associative memories activates the anterior hippocampal formation",
+                "cites": "354",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal dopamine d2/d3 receptor availability is reduced in methamphetamine dependence and is linked to impulsivity",
+                "cites": "346",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments",
+                "cites": "335",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroVault. org: a web-based repository for collecting and sharing unthresholded statistical maps of the human brain",
+                "cites": "323",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion tensor imaging of the superior longitudinal fasciculus and working memory in recent-onset schizophrenia",
+                "cites": "322",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human midbrain sensitivity to cognitive feedback and uncertainty during classification learning",
+                "cites": "315",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Best practices in data analysis and sharing in neuroimaging using MRI",
+                "cites": "308",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QyXJ3EUuO1IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genome-wide association meta-analysis in 269,867 individuals identifies new genetic and functional links to intelligence",
+                "cites": "307",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:t-hv7AR41mYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Six problems for causal inference from fMRI",
+                "cites": "303",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamics of functional brain networks: integrated network states during cognitive task performance",
+                "cites": "299",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:CdxZDUztZiMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing the neural mechanisms of skill learning and repetition priming: evidence from mirror reading",
+                "cites": "286",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of visual skill learning: an fMRI study of mirror reading.",
+                "cites": "284",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mind the gap: bridging economic and naturalistic risk-taking with cognitive neuroscience",
+                "cites": "279",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making big data open: data sharing in neuroimaging",
+                "cites": "274",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in the hemodynamic response to event-related motor and visual paradigms as measured by near-infrared spectroscopy",
+                "cites": "274",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relations between the neural bases of dynamic auditory processing and phonological processing: evidence from fMRI",
+                "cites": "273",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common neural substrates for inhibition of spoken and manual responses",
+                "cites": "272",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unique adolescent response to reward prediction errors",
+                "cites": "268",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional neuroanatomy of working memory in adults with attention-deficit/hyperactivity disorder",
+                "cites": "264",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory lateralization in medial temporal lobe epilepsy assessed by functional MRI",
+                "cites": "257",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Greater neural pattern similarity across repetitions is associated with better memory",
+                "cites": "254",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activation during response competition",
+                "cites": "254",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the large-scale structure of brain function by classifying mental states across individuals",
+                "cites": "252",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward open sharing of task-based fMRI data: the OpenfMRI project",
+                "cites": "248",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of fMRI in cognitive neuroscience: where do we stand?",
+                "cites": "240",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered functional connectivity in frontal lobe circuits is associated with variation in the autism risk gene CNTNAP2",
+                "cites": "234",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural fate of seen and unseen faces in visuospatial neglect: a combined event-related functional MRI and event-related potential study",
+                "cites": "231",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRIPrep: a robust preprocessing pipeline for functional MRI",
+                "cites": "228",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Zh0EY9V9P6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term neural and physiological phenotyping of a single human",
+                "cites": "226",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WC9gN4BGCRcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data sharing in neuroimaging research",
+                "cites": "220",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic independent component labeling for artifact removal in fMRI",
+                "cites": "217",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive atlas: toward a knowledge foundation for cognitive neuroscience",
+                "cites": "213",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Different forms of self-control share a neurocognitive substrate",
+                "cites": "211",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category learning and the memory systems debate",
+                "cites": "208",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term test\u2013retest reliability of functional MRI in a classification learning task",
+                "cites": "207",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospect theory and the brain",
+                "cites": "203",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In praise of tedious anatomy",
+                "cites": "203",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phenomics: the systematic study of phenotypes on a genome-wide scale",
+                "cites": "198",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Striatal dopamine D2/D3 receptors mediate response inhibition and related activity in frontostriatal neural circuitry in humans",
+                "cites": "196",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Independence in ROI analysis: where is the voodoo?",
+                "cites": "194",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can the cerebral metabolic rate of oxygen be estimated with near-infrared spectroscopy?",
+                "cites": "194",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What do differences between multi-voxel and univariate analysis mean? How subject-, voxel-, and trial-level variance impact fMRI analysis",
+                "cites": "183",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BIG & QUIC: Sparse inverse covariance estimation for a million variables",
+                "cites": "179",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping mental function to brain structure: how can cognitive neuroimaging succeed?",
+                "cites": "179",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive and neural contributions to understanding the conceptual system",
+                "cites": "176",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sex differences in prefrontal cortical brain activity during fMRI of auditory verbal working memory.",
+                "cites": "175",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measurement and reliability of response inhibition",
+                "cites": "173",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural systems for rapid automatized naming in skilled readers: Unraveling the RAN-reading relationship",
+                "cites": "173",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyses of regional-average activation and multivoxel pattern information tell complementary stories",
+                "cites": "171",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progress in executive-function research: From tasks to functions to regions to networks",
+                "cites": "171",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural components underlying behavioral flexibility in human reversal learning",
+                "cites": "169",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Everything you never wanted to know about circular analysis, but were afraid to ask",
+                "cites": "167",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive neuroscience 2.0: building a cumulative science of human brain function",
+                "cites": "166",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From brain maps to cognitive ontologies: informatics and the search for mental structure",
+                "cites": "165",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How do memory systems interact? Evidence from human classification learning",
+                "cites": "165",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Study of 300,486 individuals identifies 148 independent genetic loci influencing general cognitive function",
+                "cites": "164",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:RuPIJ_LgqDgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progress and challenges in probing the human brain",
+                "cites": "163",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:3NQIlFlcGxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The future of fMRI in cognitive neuroscience",
+                "cites": "161",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CNTRICS final task selection: executive control",
+                "cites": "151",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in dorsolateral prefrontal cortex in adolescents and young adults at genetic risk for schizophrenia: an fMRI study of working memory",
+                "cites": "151",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ventral\u2013striatal/nucleus\u2013accumbens sensitivity to prediction errors during classification learning",
+                "cites": "149",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common and dissociable prefrontal loci associated with component mechanisms of analogical reasoning",
+                "cites": "147",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engagement of large-scale networks is related to individual differences in inhibitory control",
+                "cites": "146",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRIQC: Advancing the automatic prediction of image quality in MRI from unseen sites",
+                "cites": "142",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kJDgFkosVoMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GWAS meta-analysis reveals novel loci and genetic correlates for general cognitive function: a report from the COGENT consortium",
+                "cites": "141",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HJSXoJQnj-YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Orthogonalization of regressors in fMRI models",
+                "cites": "141",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is \u201cefficiency\u201d a useful concept in cognitive neuroscience?",
+                "cites": "138",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hemispheric asymmetries and individual differences in visual concept learning as measured by functional MRI",
+                "cites": "137",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural substrates of visual perceptual learning of words: implications for the visual word form area hypothesis",
+                "cites": "131",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive ontologies for neuropsychiatric phenomics research",
+                "cites": "130",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The ethics of secondary data analysis: Considering the application of Belmont principles to the sharing of neuroimaging data",
+                "cites": "127",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction: A brief history of neuroeconomics",
+                "cites": "121",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal metastates are associated with differential patterns of time-resolved connectivity, network topology, and attention",
+                "cites": "120",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rHJHxKgnXwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards an ontology of cognitive control",
+                "cites": "119",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring neural representations with fMRI: practices and pitfalls",
+                "cites": "118",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional magnetic resonance imaging during auditory verbal working memory in nonpsychotic relatives of persons with schizophrenia: a pilot study",
+                "cites": "117",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods",
+                "cites": "110",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ziOE8S1-AIUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of modafinil on learning and task-related brain activity in methamphetamine-dependent and healthy individuals",
+                "cites": "110",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective amplification of stimulus differences during categorical processing of speech",
+                "cites": "105",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decreasing ventromedial prefrontal cortex activity during sequential risk-taking: an fMRI investigation of the balloon analog risk task",
+                "cites": "104",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of working memory performance on functional MRI in schizophrenia",
+                "cites": "104",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pain in the ACC?",
+                "cites": "100",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MAUkC_7iAq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibition-related activation in the right inferior frontal gyrus in the absence of inhibitory cues",
+                "cites": "100",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changing value through cued approach: an automatic mechanism of behavior change",
+                "cites": "99",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can neuroimaging tell us about the mind? Insights from prefrontal cortex",
+                "cites": "99",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale analysis of test\u2013retest reliabilities of self-regulation measures",
+                "cites": "97",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:nqdriD65xNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pediatric functional magnetic resonance imaging: progress and challenges",
+                "cites": "96",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spaced learning enhances subsequent recognition memory by reducing neural repetition suppression",
+                "cites": "95",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering relations between mind, brain, and mental disorders using topic mapping",
+                "cites": "94",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Challenge-driven attention: Interacting frontal and brainstem systems",
+                "cites": "94",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A phenome-wide examination of neural and cognitive function",
+                "cites": "93",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1DsIQWDZLl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of response inhibition and cigarette smoking in late adolescence",
+                "cites": "93",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A consensus guide to capturing the ability to inhibit actions and impulsive behaviors in the stop-signal task",
+                "cites": "92",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:7Frjd3zlGBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of study design on pattern estimation for single-trial multivariate pattern analysis",
+                "cites": "90",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of dynamic functional connectivity using Multiplication of Temporal Derivatives",
+                "cites": "89",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:L1USKYWJimsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relationship between measures of impulsivity and alcohol misuse: an integrative structural equation modeling approach",
+                "cites": "89",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Secondary-task effects on classification learning",
+                "cites": "89",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human cognition involves the dynamic integration of neural activity and neuromodulatory systems",
+                "cites": "88",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BOlwja0KXvYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preservation of implicit memory for new associations in global amnesia",
+                "cites": "87",
+                "year": "1997"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A practical guide for improving transparency and reproducibility in neuroimaging research",
+                "cites": "85",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AXkvAH5U_nMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decomposing bias in different types of simple decisions.",
+                "cites": "85",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibitory motor control in response stopping and response switching",
+                "cites": "83",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting risky choices from brain activity patterns",
+                "cites": "82",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional anatomy of long-term memory",
+                "cites": "81",
+                "year": "1997"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating imaging biomarkers for neurodegeneration in pre-symptomatic Huntington's disease using machine learning techniques",
+                "cites": "77",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relationship between skill learning and repetition priming: Experimental and computational analyses.",
+                "cites": "75",
+                "year": "1999"
+            },
+            "id_citations": "RbmLvDIAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of dynamic network reconfiguration across diverse brain states",
+                "cites": "74",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qe6vwMD2xtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective corticostriatal dysfunction in schizophrenia: examination of motor and cognitive skill learning.",
+                "cites": "74",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activity differs between explicit and implicit learning of artificial grammar strings: An fMRI study",
+                "cites": "74",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding developmental differences and individual variability in response inhibition through predictive analyses across individuals",
+                "cites": "73",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interpreting developmental changes in neuroimaging signals",
+                "cites": "70",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automaticity in motor sequence learning does not impair response inhibition",
+                "cites": "69",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decomposing decision components in the stop-signal task: a model-based approach to individual differences in inhibitory control",
+                "cites": "68",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5icHVeHT4IsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Images of medial temporal lobe functions in human learning and memory",
+                "cites": "68",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting network modules in fMRI time series: a weighted network analysis approach",
+                "cites": "67",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional boundaries in the human cerebellum revealed by a multi-domain task battery",
+                "cites": "64",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:I8rxH6phXEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global neural pattern similarity as a common basis for categorization and recognition memory",
+                "cites": "64",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging phonology without print: assessing the neural correlates of phonemic awareness using fMRI",
+                "cites": "64",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence learning: what's the hippocampus to do?",
+                "cites": "64",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human anterior and posterior hippocampus respond distinctly to state and trait anxiety.",
+                "cites": "63",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OpenfMRI: Open sharing of task fMRI data",
+                "cites": "62",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural fate of seen and unseen faces in visuospatial neglect: A combined event-related fMRI and ERP study of visual extinction",
+                "cites": "60",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2vr6o8x5NLkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncovering the structure of self-regulation through data-driven ontology discovery",
+                "cites": "59",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:FsLZdJ3BAzkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional MRI at the crossroads",
+                "cites": "59",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale cognitive GWAS meta-analysis reveals tissue-specific neural expression and potential nootropic drug targets",
+                "cites": "57",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:27LrP4qxOz0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual criteria in the human brain",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal activity estimation for multivoxel pattern analysis with rapid event-related designs",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Challenges in phenotype definition in the whole-genome era: multivariate models of memory and intelligence",
+                "cites": "56",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroVault. org: A repository for sharing unthresholded statistical maps, parcellations, and atlases of the human brain",
+                "cites": "54",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MhiOAD_qIWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling group fMRI data",
+                "cites": "53",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What is the mechanism for fluency in successive recognition?",
+                "cites": "52",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural substrates for reversing stimulus\u2013outcome and stimulus\u2013response associations",
+                "cites": "51",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Politics and the brain",
+                "cites": "51",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of cerebral white matter for prognosis and diagnosis of neurological disorders",
+                "cites": "49",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding brain activity using a large-scale probabilistic functional-anatomical atlas of human cognition",
+                "cites": "48",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kWvqk_afx_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying the internal structure of categories using a neural typicality measure",
+                "cites": "48",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The modulation of neural gain facilitates a transition between functional segregation and integration in the brain",
+                "cites": "47",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:zdjWy_NXXwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speech perception: Cognitive foundations and cortical implementation",
+                "cites": "47",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognition: Basal ganglia role",
+                "cites": "44",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transformed neural pattern reinstatement during episodic memory retrieval",
+                "cites": "42",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The publication and reproducibility challenges of shared data",
+                "cites": "42",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Greater risk sensitivity of dorsolateral prefrontal cortex in young smokers than in nonsmokers",
+                "cites": "41",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complementary role of frontoparietal activity and cortical pattern similarity in successful episodic memory encoding",
+                "cites": "41",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding continuous variables from neuroimaging data: basic and clinical applications",
+                "cites": "41",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elaborative verbal encoding and altered anterior parahippocampal activation in adolescents and young adults at genetic risk for schizophrenia using FMRI",
+                "cites": "41",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shared genetic factors influence head motion during MRI and body mass index",
+                "cites": "40",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YsrPvlHIBpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Women are more sensitive than men to prior trial events on the S top\u2010signal task",
+                "cites": "40",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting violent behavior: What can neuroscience add?",
+                "cites": "39",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Xz60mAmATU4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Right inferior frontal cortex: addressing the rebuttals",
+                "cites": "39",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:v1_lew4L6wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Facilitating memory for novel characters by reducing neural repetition suppression in the left fusiform cortex",
+                "cites": "39",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Somatosensory-motor dysconnectivity spans multiple transdiagnostic dimensions of psychopathology",
+                "cites": "38",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rCNdntzdTkkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural systems for perceptual skill learning",
+                "cites": "38",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variability in the analysis of a single neuroimaging dataset by many teams",
+                "cites": "37",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:eH23hyXCXa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advancing functional connectivity research from association to causation",
+                "cites": "37",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:R22Rs3tN8aoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OpenNeuro\u2014a free online platform for sharing and analysis of neuroimaging data",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:0aBXIfxlw9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "13 Subtraction and Beyond: The Logic of Experimental Designs for Neuroimaging",
+                "cites": "36",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On testing for stochastic dissociations",
+                "cites": "34",
+                "year": "1996"
+            },
+            "id_citations": "RbmLvDIAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional imaging of sleep vertex sharp transients",
+                "cites": "32",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a mechanistic understanding of human decision making: Contributions of functional neuroimaging",
+                "cites": "32",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medial temporal and prefrontal lobe activation during verbal encoding following glucose ingestion in schizophrenia: a pilot fMRI study",
+                "cites": "32",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Questions and controversies in the study of time-varying functional connectivity in resting fMRI",
+                "cites": "31",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:J3LtWjKFLicC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A coordinate-based meta-analysis of overlaps in regional specialization and functional connectivity across subjective value and default mode networks",
+                "cites": "31",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SnGPuo6Feq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Power and sample size calculations for fMRI studies based on the prevalence of active peaks",
+                "cites": "31",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HGTzPopzzJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using fMRI to constrain theories of cognition",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fluency and response speed in recognition judgments",
+                "cites": "31",
+                "year": "1997"
+            },
+            "id_citations": "RbmLvDIAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Establishment of best practices for evidence for prediction: a review",
+                "cites": "30",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:vnF2_uLGgtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atlases of cognition with large-scale human brain mapping",
+                "cites": "30",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:c59VksA5Vz4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional neuroimaging of word processing in normal and dyslexic readers",
+                "cites": "29",
+                "year": "1999"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applying novel technologies and methods to inform the ontology of self-regulation",
+                "cites": "28",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1tZ8xJnm2c8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activation during response inhibition in adult attention-deficit/hyperactivity disorder: preliminary findings on the effects of medication and symptom severity",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:IsPWOBWtZBwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A structural basis for developmental dyslexia: Evidence from diffusion tensor imaging",
+                "cites": "27",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "reliability and reproducibility in functional connectomics",
+                "cites": "26",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yY3RG6sOEgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The experiment factory: standardizing behavioral experiments",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Dem6FJhTUoYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple brain networks contribute to the acquisition of bias in perceptual decision-making",
+                "cites": "26",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1taIhTC69MYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of task switching changes with skill acquisition",
+                "cites": "26",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precision neuroscience: Dense sampling of individual brains",
+                "cites": "25",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:-DxkuPiZhfEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Science in the cloud (SIC): A use case in MRI connectomics",
+                "cites": "25",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QsaTk4IG4EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Putting the brakes on the brakes: negative emotion disrupts cognitive control network functioning and alters subsequent stopping ability",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uVUOdF_882EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interdisciplinary perspectives on the development, integration, and application of cognitive ontologies",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The costs of reproducibility",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ijdKiLOsEJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of choice behavior shift using cue-approach training",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurocognitive phenotypes and genetic dissection of disorders of brain and behavior",
+                "cites": "23",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive models avoid excessive reductionism in cognitive neuroimaging",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:X0DADzN9RKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enabling an open data ecosystem for the neurosciences",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WAzi4Gm8nLoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "False discovery rate smoothing",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MpfHP-DdYjUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influencing food choices by training: evidence for modulation of frontoparietal control signals",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory and the brain: what's right and what's left?",
+                "cites": "22",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Catecholaminergic manipulation alters dynamic network topology across cognitive states",
+                "cites": "21",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:L_l9e5I586QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What's in a pattern? Examining the type of signal multivariate analysis uncovers at the group level",
+                "cites": "21",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:raTqNPD5sRQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural mechanisms that underlie decision making",
+                "cites": "21",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward learning over weeks versus minutes increases the neural representation of value in the human brain",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:CYCckWUYoCcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preprocessed consortium for neuropsychiatric phenomics dataset",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:v6i8RKmR8ToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Priming of new associations in reading time: What is learned?",
+                "cites": "19",
+                "year": "1997"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The new mind readers: What neuroimaging can and cannot reveal about our thoughts",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YB4bud6kWLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse submodular probabilistic PCA",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kw52XkFRtyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the nature of resting fMRI and time-varying functional connectivity",
+                "cites": "17",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OzeSX8-yOCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for corticostriatal dysfunction during cognitive skill learning in adolescent siblings of patients with childhood-onset schizophrenia",
+                "cites": "17",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LXmCCkuhhTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in neural activation as a function of risk-taking task parameters",
+                "cites": "17",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deficits in probabilistic classification learning and liability for schizophrenia",
+                "cites": "17",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Challenges and methods in developmental neuroimaging",
+                "cites": "17",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of nondeclarative memories",
+                "cites": "17",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aging effects on white matter integrity and processing speed: A diffusion tensor imaging study",
+                "cites": "17",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:F9fV5C73w3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Computational Neuroscience: a new conference for an emerging discipline",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:NxmKEeNBbOMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of state-based decision-making in younger and older adults",
+                "cites": "16",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special issue on mathematics in brain imaging.",
+                "cites": "16",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Should psychology ignore the language of the brain?",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct patterns of temporal and directional connectivity among intrinsic networks in the human brain",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ghEM2AJqZyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of cue-approach training",
+                "cites": "15",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:w1MjKQ0l0TYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The iPhone and the brain",
+                "cites": "15",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroimaging: Separating the promise from the pipe dreams",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Good practice in food-related neuroimaging",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:n3vGvpFsckwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Procedural Learning in humans",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:kzcSZmkxUKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frontiers in brain imaging methods grand challenge",
+                "cites": "14",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Decision making and the brain",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:z6xuaG2dYH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to this special issue: The cognitive neuroscience of reading",
+                "cites": "14",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A multi-domain task battery reveals functional boundaries in the human cerebellum",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:aDl3D7KC1E4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The processing-speed impairment in psychosis is more than just accelerated aging",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:DkZNVXde3BIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GWAS meta-analysis (N= 279,930) identifies new genes and functional links to intelligence",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:wE-fMHVdjMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On prior distributions and approximate inference for structured variables",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An exchange about localism",
+                "cites": "13",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: decision making and the brain",
+                "cites": "13",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:pS0ncopqnHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microglia\u2014a wrench in the running wheel?",
+                "cites": "13",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRIQC: predicting quality in manual MRI assessment protocols using no-reference image quality measures",
+                "cites": "12",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impaired automatization of a cognitive skill in first-degree relatives of patients with schizophrenia",
+                "cites": "12",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:gVv57TyPmFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pleiotropic meta-analysis of cognition, education, and schizophrenia differentiates roles of early neurodevelopmental and adult synaptic pathways",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:sJPMR1oEGYQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational and informatic advances for reproducible data analysis in neuroimaging",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:37UQlXuwjP4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of effort-based valuation with prospective choices",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hQUaER0FWQ4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "If all your friends jumped off a bridge: The effect of others\u2019 actions on engagement in and recommendation of risky behaviors.",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The interface between neuroscience and psychological science.",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive neuroscience of category learning",
+                "cites": "10",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Letter: Politics and the brain",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Ak0FvsSvgGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional neuroimaging of skill learning.",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scanning the Horizon: Future challenges for neuroimaging research",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hNSvKAmkeYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Decision making and the brain",
+                "cites": "9",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BJrgspguQaEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crowdsourced MRI quality metrics and expert quality annotations for training of humans and machines",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:lYAcb2jw7qUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spacing of cue-approach training leads to better maintenance of behavioral change",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:-yGd096yOn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ninety-nine independent genetic loci influencing general cognitive function include genes associated with brain health and structure (N= 280,360)",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:X9ykpCP0fEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroscience: The risks of reading the brain",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QUX0mv85b1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M., Munaf\u00f2, MR,... Yarkoni, T.(2017). Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, 18 (2), 115-126. https \u2026",
+                "cites": "8"
+            },
+            "id_citations": "RbmLvDIAAAAJ:naSTrk-c4S8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The low-dimensional neural architecture of cognitive complexity is related to activity in medial thalamic nuclei",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Vno172sVVMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncovering mental structure through data-driven ontology discovery",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:s85pQhAUCrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian structure learning for functional neuroimaging",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive atlas",
+                "cites": "7",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:orDZ08hpP44C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive atlas: employing interaction design processes to facilitate collaborative ontology creation",
+                "cites": "7",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational cognitive neuroscience of the visual system",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the fundamental role of anatomy in functional imaging: Reply to commentaries on \u201cIn praise of tedious anatomy\u201d",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics: Decision-making and the brain, 2013",
+                "cites": "7"
+            },
+            "id_citations": "RbmLvDIAAAAJ:R-LXmdHK_14C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dopamine depletion alters macroscopic network dynamics in Parkinson\u2019s disease",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:TaaCk18tZOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cognitive neuroscience of reading: A special issue of scientific studies of reading",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Example use case of sic with the ndmg pipeline (sic: ndmg)",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:I858iXPj1OkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple and provable algorithm for sparse diagonal CCA",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PyEswDtIyv0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of shared data in neuroimaging: the case of OpenfMRI. org",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Y0-TYkg6YM4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Losses loom larger than gains in the brain: Neural loss aversion predicts behavioral loss aversion",
+                "cites": "6",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Event-related fMRI of audio-visual simultaneity perception",
+                "cites": "6",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Auditory processing of temporally compressed speech: An fMRI study",
+                "cites": "6",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FUNCTIONAL BRAIN ORGANIZATION AFTER HEMISPHERECTOMY WITH FUNCTIONAL MRI",
+                "cites": "6",
+                "year": "1998"
+            },
+            "id_citations": "RbmLvDIAAAAJ:EPG8bYD4jVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroQuery, comprehensive meta-analysis of human brain mapping",
+                "cites": "5",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WzTVkKNmPSkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transitions in information processing dynamics at the whole-brain network level are driven by alterations in neural gain",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WWeOtg8bX_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Catecholaminergic manipulation alters dynamic network topology across behavioral states",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:8Xgff_V0N9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain imaging data structure-a new standard for describing and organizing human neuroimaging data",
+                "cites": "5",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond dopamine: the noradrenergic system and mental effort",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroVault. org: a web database for sharing statistical parametric maps",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The young and the reckless",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to special section on \u03b2-arrestins",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FMRIpower: a power calculation tool for 2-stage fMRI models",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Bg7qf7VwUHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural fate of neglected faces: An event-related fMRI study of visual extinction",
+                "cites": "5",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "a., Nichols TE, Van Essen DC, & Wager TD (2011)",
+                "cites": "5"
+            },
+            "id_citations": "RbmLvDIAAAAJ:X4-KO54GjGYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive impairment from early to middle adulthood in patients with affective and nonaffective psychotic disorders",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:wLxue7F8ec0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The importance of standards for sharing of computational models and data",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:cBPnxVikjH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI data of mixed gambles from the Neuroimaging Analysis Replication and Prediction Study",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yTLRzDEmwhEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Severe and pervasive violations of independence in response inhibition tasks",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:pYKElYtJMmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the nature of time-varying functional connectivity in resting fMRI",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:bVQMTfhMCi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamic basis of cognition: an integrative core under the control of the ascending neuromodulatory system",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:zUl2_INMlC4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The low dimensional dynamic and integrative core of cognition in the human brain",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:EsEWqaRxkBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational specificity in the human brain",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KNjnJ3z-R6IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding cognitive processes from functional MRI",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical modeling: Single subject analysis",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hvmnpdAuIbkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroeconomics",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SAZ1SQo2q1kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-Research: Dataset decay and the problem of sequential analyses on open datasets",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:aEW5N-EHWIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disambiguating the role of blood flow and global signal with Partial Information Decomposition",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:DXE8ND7PrJAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reply to Friedman and Banich: Right measures for the research question",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:6ZzL7HXColQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian structure learning for dynamic brain connectivity",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KWzIFqRkAKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deficits in visual working-memory capacity and general cognition in African Americans with psychosis",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YlPif8NxrbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurodesign: Optimal experimental designs for task fMRI",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rbm3iO8VlycC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deflation method for structured probabilistic PCA",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:zGdJYJv2LkUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI data analysis: state of affairs and challenges",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:g5Ck-dwhA_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering Relations Between Mind",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rqnDXT1GswoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "7 On the Proper Role of Nonindependent ROI Analysis: A Commentary on Vul and Kanwisher",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive phenomics",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QoJ_w57xiyAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroimaging and interactive memory systems",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Azgs6IHzeyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural correlates of multiple forms of self-control",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "White matter integrity and prediction of social and role functioning in subjects at ultra-high risk for psychosis",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "E-LEARNING# 2",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BmWJbWwHJAwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advancing the neuroscience of ADHD",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of phonological awareness in normal-reading children examined using functional magnetic resonance imaging",
+                "cites": "3",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The relationship between skill learning and repetition priming.",
+                "cites": "3",
+                "year": "1997"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the representational/computational properties of multiple memory systems",
+                "cites": "3",
+                "year": "1994"
+            },
+            "id_citations": "RbmLvDIAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time\u2010varying nodal measures with temporal community structure: A cautionary note to avoid misinterpretation",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:W2uZP3ddy8sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Data-Driven Analysis of the Cognitive and Perceptual Attributes of Ideological Attitudes",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:e84hm74t-eoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The human connectome project for disordered emotional states: Protocol and rationale for a research domain criteria study of brain connectivity in young adult anxiety and \u2026",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rbGdIwl2e6cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transitions in brain-network level information processing dynamics are driven by alterations in neural gain",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:N4u4nq0IxgcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Text to brain: predicting the spatial distribution of neuroimaging observations from text reports",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:mel-f30kHHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive models can overcome reductionism in cognitive neuroimaging",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:v_tt_AnqfNMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making replication prestigious",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_AeoHAGD03cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information projection and approximate inference for structured sparse variables",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HhcuHIWmDEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying spatial pattern similarity in multivariate analysis using functional anisotropy",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OBSaB-F7qqsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of thresholding on correlation-based image similarity metrics",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Materials and methods for OpenfMRI ds009: the generality of self control",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory, Overview",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1r-w4gtu6w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the special issue: toward a new era of databasing and data sharing for neuroimaging.",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum to: Decoding the large-scale structure of brain function by classifying mental states across individuals,(Psychological science,(2009), 20, 11 (1364-1372), 10.1111/j \u2026",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain imaging",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:w0F2JDEymm0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of implicit attitudes",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:iyewoVqAXLQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to \u2018Tools of the Trade\u2019",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling of the hemodynamic response function for event related motor and visual stimuli as measured by near infrared spectroscopy",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of task-based functional MRI data preprocessed with fMRIPrep",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yeL6HyUMUGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effective self-management for early career researchers in the natural and life sciences",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:cNe27ouKFcQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How can neuroscientists respond to the climate emergency?",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:as0KMg8qHbkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human es-fMRI Resource: Concurrent deep-brain stimulation and whole-brain functional MRI",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uAPFzskPt0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cautionary note on stop-signal data from the Adolescent Brain Cognitive Development [ABCD] study",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:i_7YvbSbtFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward learning and working memory: effects of massed versus spaced training and post-learning delay period",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hHIA4WEVY-EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Psychometric Analysis of the Brief Self-Control Scale",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:TGkaJS32XoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Author correction: study of 300,486 individuals identifies 148 independent genetic loci influencing general cognitive function",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:xm0LlTxljI0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the special issue on reproducibility in neuroimaging",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:3A3nxV7CjKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The identification of temporal communities through trajectory clustering correlates with single-trial behavioural fluctuations in neuroimaging data",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KS-xo-ZNxMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-trait analysis of GWAS and biological insights into cognition: A response to Hill (2018)",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LK8CI43ZvvMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational and informatics advances for reproducible data analysis in neuroimaging",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:XAp-VaTZjjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving out-of-sample prediction of quality of MRIQC",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:c_xDhezhKKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GWAS meta-analysis (N= 279,930) identifies new genes and functional links to general cognitive ability",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:-uzm3Y7AvW0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of full brain parcellation schemes using the NeuroVault database of statistical maps",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PQEM9vzQD9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Brain Imaging Data Structure: a format for organizing and describing neuroimaging data",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qwy9JoKyICEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Standardizing metadata in brain imaging",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:XUvXOeBm_78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to Cognitive Neuroscience",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Wq2b2clWBLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic fluctuations in integration and segregation within the human",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:69ZgNCALVd0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retrieval-extinction within the memory reconsolidation window does not influence appetitive choice",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:IaI1MmNe2tcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning predictive cognitive structure from fMRI using supervised topic models",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The interface between neuroscience and psychological science [Special Issue]",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:EaFouW7jFu4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroimaging and Depression",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion tensor imaging of fronto-parietal connections in recent-onset patients and patients at ultra-high risk for schizophrenia",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion tensor imaging of frontoparietal connections in patients at ultra-high-risk for schizophrenia",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive phenomics: Informatics strategies for schizophrenia research",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Deficits in Children With Dyslexia Ameliorated by Behavioral Remediation: Evidence From Functional MRI",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uUvzmPk0f8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preface to the special issue",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medial temporal lobe activation and memory in schizophrenia following glucose ingestion: an fMRI study",
+                "cites": "1",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separating stimulus-related and feedback-related activity during categorization learning using event-related fMRI",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hemodynamic modeling for event related motor and visual stimuli as measured by near infrared spectroscopy",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional magnetic resonance imaging (fMRI) of developmental dyslexia: neural response to linguistic and nonlinguistic stimuli in dyslexic children Cognitive Neuroscience \u2026",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Activity Differs Between Explicit and Implicit Learning of Artificial Grammar Strings: An fMRI Study 283 Selective Effects of Division of Attention on Discrimination \u2026",
+                "cites": "1",
+                "year": "2000"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term neural, behavioral, and physiological phenotyping of a single human}}",
+                "cites": "1"
+            },
+            "id_citations": "RbmLvDIAAAAJ:1yWc8FF-_SYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reflections on the past two decades of neuroscience",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:7VEv-pLvLSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A data resource from concurrent intracranial stimulation and functional MRI of the human brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:X5YyAB84Iw4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diving into the deep end: A personal reflection on the MyConnectome Study",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Vztgr1qGG8IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implications of the lacking relationship between cognitive task and self report measures for psychiatry",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:u3T1itk59dMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trauma in Affective and Nonaffective Psychosis: Associations and Dissociations With Cognitive Functioning in Childhood and Adulthood",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MDX3w3dAD3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Software tool to read, represent, manipulate, and apply n-dimensional spatial transforms",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:U0iAMwwPxtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:GYcXSSpN504C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroQuery, comprehensive meta-analysis of human brain mapping",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hefNtdE4IMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The physics of representation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Kqc1aDSOPooC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying Nootropic Drug Targets via Large-Scale Cognitive GWAS and Transcriptomics",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "RbmLvDIAAAAJ:NtCmTCuxid4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NiPreps: enabling the division of labor in neuroimaging beyond fMRIPrep",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:0sTkTiv_uMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BIDS and the NeuroImaging Data Model (NIDM)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:YPNY0knpFBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human cognition involves the dynamic integration of neural activity and neuromodulatory systems (vol 22, pg 289, 2019)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:q1zXlPLtbUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "T178. The Utility of Connectivity Phenotypes as Successful Biomarkers for Psychosis Diagnoses",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:6VlyvFCUEfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuroeconomics of distrust: sex differences in behavior and physiology",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:DquSII9TDu4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "peaks2maps: reconstructing unthresholded statistical maps from peak coordinates using deep neural networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:nPTYJWkExTIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Journal Devoted to Funconal Neuroanatomy and Neuroimaging",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tBlTYpvFGQIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uncovering mental and neural structure through data-driven ontology discovery",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:l6Q3WhenKVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PyBIDS: Python tools for BIDS datasets",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ifOnle78iJkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational knowledge engine for human neuroscience",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:TesyEGJKHF4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Study of 300,486 individuals identifies 148 independent genetic loci influencing general cognitive function (vol 9, 2098, 2018)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:x21FZCSn4ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Symptom Severity in Youths with Attention Deficit Hyperactivity Disorder Associated with Normalizing Effects of Treatment on fMRI Response during a Stop Signal Task",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "RbmLvDIAAAAJ:oTdOBqtIf_kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Testing the Psychotic Dysconnectivity Hypothesis in 1318 Individuals",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PVqtIyvKoSUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward Building a Causal Connectome Atlas of the Healthy Brain",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:g_UdREhPGEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods for fMRI Analysis",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:JP7YXuLIOvAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-Trait Analysis of GWAS and Biological Insights to Cognition: A response to Hill (2017)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WwIwg2wKZ0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Journal Devoted to Func\u099eonal Neuroanatomy and Neuroimaging",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AFmTUeZ1pmEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Journal Devoted to Funconal Neuroanatomy and Neuroimaging",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:w2UhwfzvF0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Journal Devoted to Functional Neuroanatomy and Neuroimaging",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:sgsej9ZJWHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning over weeks versus minutes increases the neural representation of value in the human brain",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "RbmLvDIAAAAJ:bXQfdp6S9ecC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" GWAS meta-analysis reveals novel loci and genetic correlates for general cognitive function: A report from the COGENT consortium\": Corrigendum.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AZju0d2GQJ0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2.1 Making Neuroimaging More Reproducible and Transparent",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2ywjKiB__4kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "dataset [version 1; referees: 2 approved with reservations]",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:eAlLMO4JVmQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRIQC: automatic prediction of quality and visual reporting of MRI scans",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QsKbpXNoaWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "64. The Processing-Speed Impairment in Psychosis is More than Just Accelerated Aging",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:In6cVmBjs0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "886. Can the General Cognitive Deficit in Psychosis Explain Small Working-Memory Capacity?",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Hck25ST_3aIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sex, Lies, and Brain Scans: How fMRI Reveals What Really Goes on in our Minds",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:jSAVyFp_754C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Journal Devoted to Functional Neuroanatomy and Neuroimaging",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qCpRzq7zkD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRIQC Web-API: Crowdsourcing image quality metrics and expert quality ratings of structural and functional MRI",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "RbmLvDIAAAAJ:RJOyoaXV5v8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Big Data",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:RXiHnyRawswC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interdyscyplinarne perspektywy rozwoju, integracji i zastosowa\u0144 ontologii poznawczych (Prze\u0142o\u017cy\u0142 Przemys\u0142aw Nowak)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Vr2j17o0sqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atlas poznawczy: w stron\u0119 fundament\u00f3w wiedzy w neurokognitywistyce (prze\u0142o\u017cy\u0142 Przemys\u0142aw Nowakowski)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:H_jBuBxbQIAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interdyscyplinarne perspektywy rozwoju, integracji i zastosowa\u0144 ontologii poznawczych",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:CNPyR2KL9-0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Euclidean distance as a measure of ventral and dorsal white matter connectivity",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:DrR-2ekChdkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task-set Selection in Probabilistic Environments: a Model of Task-set Inference.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "RbmLvDIAAAAJ:oi2SiIJ9l4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic fluctuations in global brain network topology characterize functional",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:-nhnvRiOwuoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroVault. org: new features and a proof of concept analysis",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hSRAE-fF4OAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to make brain imaging research efficient and reproducible: building software and standards",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2v_ZtQDX9iAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Application of the Neuroimaging Data Model to Represent and Exchange Primary and Derived Data",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:wKETBy42zhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harmonizing Clinical Connectomics: Focus on the Human Connectome Approach",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WC23djZS0W4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "J Lexia Reading",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WHdLCjDvYFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse Inference",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "RbmLvDIAAAAJ:C33y2ycGS3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple brain networks contribute to the acquisition of bias in perceptual decision-making 2",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:jE2MZjpN3IcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploratory analysis of imaging and behavioral phenotypes with sparse canonical correlation analysis (CCA)",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:QaSi33NTfwYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NeuroVault: a web repository for sharing statistical parametric maps",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:aIdbFUkbNIkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The University of Texas at Austin College of Natural Sciences Neurosciences External Review",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:pAkWuXOU-OoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Address correspondence to",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4n0clTBhZ78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developing and using the data models for neuroimaging: the NIDASH Working Group",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "RbmLvDIAAAAJ:43bX7VzcjpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modafinil-induced Enhancement of Learning and Related fMRI Activation in Humans Reflects Individual Differences in Striatal Dopamine D2/D3 Receptor Availability",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Br1UauaknNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A demo document in LATEX",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:lvd772isFD0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Science Study Break-Autoexperimentation",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuroimaging and the pathophysiology of obsessive compulsive disorder",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:hGdtkIFZdKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bibliography with Abstracts",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMPACT OF EMOTIONAL IMAGE VIEWING ON NEURAL MECHANISMS OF RESPONSE INHIBITION.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "RbmLvDIAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capacity-Based Differences in Functional Network Activation During Spatial Working Memory in Patients with Schizophrenia and Bipolar Disorder",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum to\" Engagement of large-scale networks is related to individual differences in inhibitory control.\"",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DYSFUNCTION IN A DISCRETE CORTICALSTRIATAL CIRCUIT REFLECTS LIABILITY TO SCHIZOPHRENIA",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Neurochemical Basis of Autism: From Molecules to Minicolumns.",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexibility and Generalization in Memory Systems",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum to \u201cEngagement of large-scale networks is related to individual differences in inhibitory control\u201d[NeuroImage 53/2 (2010) 653\u2013663]",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4e5Qn2KL_jwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale automated decoding of human brain activity",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "RbmLvDIAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DYSFUNCTION IN A DISCRETE CORTICALSTRIATAL CIRCUIT REFLECTS LIABILITY TO SCHIZOPHRENIA",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human Midbrain Sensitivity to Cognitive Feedback",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Facilitating Memory for Novel Characters by Reducing Neural Repetition Suppression in the Left",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:MIg0yeAD4ggC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P18-21 fMRI-EEG correlations to Vertex Sharp Transients of sleep",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "RbmLvDIAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI: Advances, problems, and the future",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:unp9ATQDT5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Graphical causal search of functional networks engaged in response inhibition",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural imaging in presymptomatic Huntington's disease confirms that the degree of atrophy of striatum and pallidum strongly predicts years to clinical onset",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modafinil boosts prediction error-related signals in the mesolimbic dopamine pathway of methamphetamine-dependent and healthy control participants",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional Connectivity Using Weighted Voxel Coexpression Network Analysis",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional activation associated with the Balloon Analog Risk Task in pathological gamblers",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rejection of risky gambles is correlated with increases in frontal-striatal functional connectivity, and varies with loss aversion.",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing networks involved in stopping and changing motor responses",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An fMRI Study of Decision and Experienced Utility in Risky Decision-Making",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "RbmLvDIAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editors\u2019 Introduction Russell A. Poldrack and Anthony D. Wagner Introduction to the Special Issue The Interface Between Neuroscience and Psychological Science",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Selective corticostriatal dysfunction in schizophrenia: Examination of motor and cognitive skill learning\": Correction to Foerde et al.(2008).",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:T_ojBgVMvoEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a Mechanistic Understanding of Human Decision Making",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:lg2tdxc6qMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Declarative Memory",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:m92CDrhVnKEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Neural Basis of Selective Attention",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Representation of Action",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to Exploit Diversity for Scientific Gain",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ORBITO-FRONTAL CORTEX SENSITIVITY TO REVERSAL OF PRE-POTENT RESPONDING: 13",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2l5NCbZemmgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in adults at genetic risk for bipolar psychosis: A functional magnetic resonance imaging study of working memory",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u00d4\u00d8 \u00c5 \u00d2\u00d9\u00d7 \u00d6 \u00d4\u00d8",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory system interactions in category learning",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "RbmLvDIAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WITHDRAWN: Elaborative Verbal Encoding and Altered Anterior Parahippocampal Activation in Adolescents and Young Adults at Genetic Risk for Schizophrenia Using fMRI",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape-based Discrimination and Classification of Cortical Surfaces",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in adults at genetic risk for bipolar psychosis: A functional magnetic resonance imaging study of working memory",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:IUKN3-7HHlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Sciences",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yMeIxYmEMEAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayes' theorem",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "RbmLvDIAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An fMRI study of verbal encoding showing altered brain activation in the parahippocampus in adolescents and young adults at genetic risk for schizophrenia",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical/striatal dysfunction in schizophrenia: Specific impairment in the dorsolateral prefrontal cortex/caudate circuit",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in dorsolateral prefrontal and parietal cortex in adolescents and young adults at genetic risk for schizophrenia: A functional magnetic resonance \u2026",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:mNrWkgRL2YcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in the parahippocampus, cingulate gyrus, and nucleus accumbens in adolescents and young adults at genetic risk for schizophrenia: A functional magnetic \u2026",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple Perspectives on Decision Making",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localizing semantics and phonology in the left inferior prefrontal cortex",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in the parahippocampus, cingulate gyrus and nucleus accumbens in adolescents and young adults at genetic risk for schizophrenia: A functional magnetic \u2026",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered brain activation in dorsolateral prefrontal and parietal cortex in adolescents and young adults at genetic risk for schizophrenia: A functional magnetic resonance \u2026",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hormones modulate brain activity in affective arousal in normals: Implications for sex differences in psychiatric disorders",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Sciences",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Declarative/Procedural Model (DP)",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI during sequence learning: the effect of automaticity and dual-task interference: Poster number: 212",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "RbmLvDIAAAAJ:An6A6Jpfc1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accessing meaning in one language facilitates access in another: Within-and cross-language repetition priming in left inferior prefrontal cortex",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of behavioral training on neural response of dyslexic children: Evidence from fMRI",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Now you see it, now you don't: The initial dip as measured using near-infrared spectroscopy and event-related paradigms",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "RbmLvDIAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "712 Functional Magnetic Resonance Imaging in the Assessment of Memory Lateralization in Medial Temporal Lobe Epilepsy",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "RbmLvDIAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional organization for rapid auditory processing is disrupted in adult dyslexics: An fMRI study.",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "RbmLvDIAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atlas poznawczy: w stron\u0119 fundament\u00f3w wiedzy w neurokognitywistyce11",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SrKkpNFED5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Les nouveaut\u00e9s de HAL v3. 0 de A \u00e0 Z (14/10/2014)",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:oqD4_j7ulsYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M., Munaf\u00f2, MR, Nichols, TE, Poline, JB, Vul, E., & Yarkoni, T.(2017). Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature Reviews \u2026",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:yIeBiWEAh44C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Cognitive Neuroscience of Reading Rebecca Sandak and Russell A. Poldrack, Guest Editors",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:txeM2kYbVNMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-Scale Cognitive GWAS Meta-Analysis Reveals Tissue-Specific Neural Expression and Potential Nootropic Drug Targets.",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:h168fVGZblEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M., Munaf\u00f2, MR,... Yarkoni, T.(2017). Scanning the horizon: towards",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:3lUAU8Oskd0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Multi-Domain Task Battery Reveals the Functional Topography of the Human Cerebellum",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:BAanoTsO0WEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sarah Brosnan",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4Yq6kJLCcecC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Dynamics of Functional Brain Networks: Integrated Network States during Cognitive Function",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qmtmRrLr0tkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary materials for: Losses loom larger than gains in the brain: Neural loss aversion predicts behavioral loss aversion Sabrina M. Tom1, Craig R. Fox1, 2, Christopher \u2026",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:ji7lAbPyDbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Neural Fate of Neglected Faces: An Event-related fMRI Study of Visual Extinction",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:m4fbC6XIj1kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction to Seaman et al.(2016)",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:z8nqeaKD1nsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Co-planar atlas of the human brain Co-planar atlas of the human brain",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AzKEL7Gb_04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research Systems Incorparated Research Systems Incorparated, 1988",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:zwpXiJ37cpgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement Learning over Time: Effects of Spacing on the Mechanisms Supporting Feedback Learning",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:qE4H1tSSYIIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Excerpt More information",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:AYInfyleIOsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SDM17 Accepted Presentations",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:isU91gLudPYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alternative Explanations",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:UuEBAcK4md4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal meta-\u2010\u2011states are associated with differential patterns of dynamic",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:rTD5ala9j4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Barrett, SE, & Rugg, MD (1990). Event-related potentials and the semantic matching of pictures. Brain Cogn, 14 (2), 201-212. Barrett, SE, Rugg, MD, & Perrett, DI (1988). Event \u2026",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:5bg8sr1QxYwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural correlates of state-based decision-making in younger and 2 older adults",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:jFemdcug13IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplement: On Prior Distributions and Approximate Inference for Structured Variables",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:7BrZ7Jt4UNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age Differences in Neural Activation Affect Selection of Future Rewards",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3 A temporal sampling framework for developmental dyslexia",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "comparative psychology",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two Great New Titles from Cambridge!",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Language, Reading, and Phonological Processing and Their Relationship to fMRI Activation in Children with Dyslexia",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CO 80309, USA",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How the brain selectively amplifies stimulus differences: the categorical processing of speech",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pediatric Functional MRI: Progress and Challenges",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging of Prefrontal Activation during a Linguistic Task Using Near-infrared Spectroscopy.",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional Contributions of Left Inferior Prefrontal Cortex: Fmri Support for the Controlled Semantic Retrieval Hypothesis",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Competition Between Declarative and Nondeclarative Memory Systems: Evidence from Probabilistic Classification.",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edited by Paul W. Glimcher, PhD",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Material: Manuscript ND-06-01343, fifth and final revision",
+                "cites": "0"
+            },
+            "id_citations": "RbmLvDIAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=RbmLvDIAAAAJ",
+    "alternate_names": [
+        "Russell Poldrack"
+    ]
+}

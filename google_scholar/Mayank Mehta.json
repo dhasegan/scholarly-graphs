@@ -1,0 +1,517 @@
+{
+    "affiliation": "Department of Physics & Astronomy, Department of Neurology, UCLA",
+    "cites_per_year": {
+        "1998": 11,
+        "1999": 16,
+        "2000": 35,
+        "2001": 50,
+        "2002": 75,
+        "2003": 99,
+        "2004": 96,
+        "2005": 132,
+        "2006": 143,
+        "2007": 202,
+        "2008": 160,
+        "2009": 170,
+        "2010": 185,
+        "2011": 167,
+        "2012": 198,
+        "2013": 217,
+        "2014": 216,
+        "2015": 301,
+        "2016": 304,
+        "2017": 324,
+        "2018": 337,
+        "2019": 306,
+        "2020": 208
+    },
+    "citedby": 3995,
+    "citedby5y": 1781,
+    "coauthors": [
+        {
+            "affiliation": "MIT",
+            "id": "OAjQDMwAAAAJ",
+            "name": "Matthew A. Wilson"
+        },
+        {
+            "affiliation": "Professor, Neuroscience, University of Lethbridge, Canada",
+            "id": "5kyOc30AAAAJ",
+            "name": "Bruce McNaughton"
+        },
+        {
+            "affiliation": "Broad Institute",
+            "id": "Jrm2Cr8AAAAJ",
+            "name": "James M McFarland"
+        },
+        {
+            "affiliation": "Professor of Neuro-biology, Weizmann Institute of Sceince",
+            "id": "jl5mgKsAAAAJ",
+            "name": "Amiram Grinvald"
+        },
+        {
+            "affiliation": "HHMI Janelia Research Campus",
+            "id": "KpqGv5AAAAAJ",
+            "name": "Albert Lee"
+        },
+        {
+            "affiliation": "Regents Professor, Psychology, Neurology and Neuroscience",
+            "id": "ujQTWgIAAAAJ",
+            "name": "Carol A. Barnes, Ph.D."
+        },
+        {
+            "affiliation": "Department of Physics, Indian Institute of Science, Bangalore",
+            "id": "gxk0AN0AAAAJ",
+            "name": "Chandan Dasgupta"
+        },
+        {
+            "affiliation": "Hebrew U",
+            "id": "B4gaBMwAAAAJ",
+            "name": "Hagai Bergman"
+        },
+        {
+            "affiliation": "Postdoctoral Scholar, NYU Langone Medical Center",
+            "id": "D-IgnYwAAAAJ",
+            "name": "Jason J. Moore"
+        }
+    ],
+    "email": "@physics.ucla.edu",
+    "hindex": 25,
+    "hindex5y": 19,
+    "i10index": 30,
+    "i10index5y": 26,
+    "id": "zY91B7UAAAAJ",
+    "interests": [
+        "Neurophysics",
+        "Hippocampus",
+        "Systems Neuroscience",
+        "computational neuroscience",
+        "Learning & memory"
+    ],
+    "name": "Mayank Mehta",
+    "publications": [
+        {
+            "bib": {
+                "title": "Interaction of sensory responses with spontaneous depolarization in layer 2/3 barrel cortex",
+                "cites": "683",
+                "year": "2003"
+            },
+            "id_citations": "zY91B7UAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of experience and oscillations in transforming a rate code into a temporal code",
+                "cites": "637",
+                "year": "2002"
+            },
+            "id_citations": "zY91B7UAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experience-dependent, asymmetric expansion of hippocampal place fields",
+                "cites": "443",
+                "year": "1997"
+            },
+            "id_citations": "zY91B7UAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experience-dependent asymmetric shape of hippocampal receptive fields",
+                "cites": "436",
+                "year": "2000"
+            },
+            "id_citations": "zY91B7UAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multisensory Control of Hippocampal Spatiotemporal Selectivity",
+                "cites": "242",
+                "year": "2013"
+            },
+            "id_citations": "zY91B7UAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impaired spatial selectivity and intact phase precession in two-dimensional virtual reality",
+                "cites": "158",
+                "year": "2015"
+            },
+            "id_citations": "zY91B7UAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase-locking of hippocampal interneurons' membrane potential to neocortical up-down states",
+                "cites": "137",
+                "year": "2006"
+            },
+            "id_citations": "zY91B7UAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hippocampal rate code: anatomy, physiology and theory",
+                "cites": "115",
+                "year": "2009"
+            },
+            "id_citations": "zY91B7UAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Running speed alters the frequency of hippocampal gamma oscillations",
+                "cites": "108",
+                "year": "2012"
+            },
+            "id_citations": "zY91B7UAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential responses of hippocampal subfields to cortical up\u2013down states",
+                "cites": "105",
+                "year": "2007"
+            },
+            "id_citations": "zY91B7UAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spontaneous persistent activity in entorhinal cortex modulates cortico-hippocampal interaction in vivo",
+                "cites": "97",
+                "year": "2012"
+            },
+            "id_citations": "zY91B7UAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal influence of visual cues on hippocampal directional selectivity",
+                "cites": "76",
+                "year": "2016"
+            },
+            "id_citations": "zY91B7UAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed controls the amplitude and timing of the hippocampal gamma rhythm",
+                "cites": "70",
+                "year": "2011"
+            },
+            "id_citations": "zY91B7UAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortico-hippocampal interaction during up-down states and memory consolidation",
+                "cites": "69",
+                "year": "2007"
+            },
+            "id_citations": "zY91B7UAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cooperative LTP can map memory sequences on dendritic branches",
+                "cites": "69",
+                "year": "2004"
+            },
+            "id_citations": "zY91B7UAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal dynamics of predictive coding",
+                "cites": "69",
+                "year": "2001"
+            },
+            "id_citations": "zY91B7UAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The upshot of up states in the neocortex: from slow oscillations to memory formation",
+                "cites": "65",
+                "year": "2007"
+            },
+            "id_citations": "zY91B7UAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of cortical dendritic membrane potential and spikes in freely behaving rats",
+                "cites": "59",
+                "year": "2017"
+            },
+            "id_citations": "zY91B7UAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From hippocampus to V1: effect of LTP on spatio-temporal dynamics of receptive fields",
+                "cites": "46",
+                "year": "2000"
+            },
+            "id_citations": "zY91B7UAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency-dependent changes in NMDAR-dependent synaptic plasticity",
+                "cites": "44",
+                "year": "2011"
+            },
+            "id_citations": "zY91B7UAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multisensory control of multimodal behavior: do the legs know what the tongue is doing?",
+                "cites": "36",
+                "year": "2013"
+            },
+            "id_citations": "zY91B7UAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Euclidean continuation of the Dirac fermion",
+                "cites": "36",
+                "year": "1990"
+            },
+            "id_citations": "zY91B7UAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A NEURAL NETWORK MODEL FOR KINDLING OF FOCAL EPILEPSY",
+                "cites": "34",
+                "year": "1996"
+            },
+            "id_citations": "zY91B7UAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From synaptic plasticity to spatial maps and sequence learning",
+                "cites": "29",
+                "year": "2015"
+            },
+            "id_citations": "zY91B7UAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effects of GluA1 deletion on the hippocampal population code for position",
+                "cites": "25",
+                "year": "2012"
+            },
+            "id_citations": "zY91B7UAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear-dynamics theory of up-down transitions in neocortical neural networks",
+                "cites": "22",
+                "year": "2012"
+            },
+            "id_citations": "zY91B7UAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explicit-duration hidden Markov model inference of UP-DOWN states from continuous signals",
+                "cites": "14",
+                "year": "2011"
+            },
+            "id_citations": "zY91B7UAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expansion and Shift of Hippocampal Place Fields: Evidence for Synaptic Potentiation During Behavior",
+                "cites": "14",
+                "year": "1997"
+            },
+            "id_citations": "zY91B7UAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of rhythms in facilitating short-term memory",
+                "cites": "13",
+                "year": "2005"
+            },
+            "id_citations": "zY91B7UAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Loss of frequencies in autocorrelations and a procedure to recover them",
+                "cites": "10",
+                "year": "1995"
+            },
+            "id_citations": "zY91B7UAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Euclideanization of Majorana and Weyl fermions",
+                "cites": "8",
+                "year": "1991"
+            },
+            "id_citations": "zY91B7UAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Euclideanization, topological theories, higher dimensions and all that",
+                "cites": "7",
+                "year": "1992"
+            },
+            "id_citations": "zY91B7UAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contribution of I h to LTP, Place Cells, and Grid Cells",
+                "cites": "6",
+                "year": "2011"
+            },
+            "id_citations": "zY91B7UAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kindling of focal epilepsy occurs due to learning: a neural network model",
+                "cites": "3",
+                "year": "1995"
+            },
+            "id_citations": "zY91B7UAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Path-integral derivation of the superconformal anomaly for the N= 1 supersymmetric Yang-Mills theory",
+                "cites": "3",
+                "year": "1991"
+            },
+            "id_citations": "zY91B7UAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Superconformal transformations of theN= 4 supersymmetric Yang-Mills theory",
+                "cites": "3",
+                "year": "1988"
+            },
+            "id_citations": "zY91B7UAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Path-integral derivation of the superconformal anomaly for the Wess-Zumino model",
+                "cites": "2",
+                "year": "1991"
+            },
+            "id_citations": "zY91B7UAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Coordination in the Brain: From Neurons to Mind",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "zY91B7UAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mayank Mehta, Gy\u00f6rgy Buzs\u00e1ki, Andreas Kreiter, Anders Lansner, J\u00f6rg L\u00fccke, Kevan Martin, Bita Moghaddam, May-Britt Moser",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "zY91B7UAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mayank Mehta, Gy\u00f6rgy Buzs\u00e1ki, Andreas Kreiter, Anders Lansner, J\u00f6rg L\u00fccke, Kevan Martin, Bita Moghaddam, May-Britt Moser",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "zY91B7UAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of nearby and infinitely far reference frames in the brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "zY91B7UAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced hippocampal theta rhythmicity and emergence of eta oscillation in virtual reality",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "zY91B7UAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hippocampus as a multisensory association circuit",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "zY91B7UAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How neural emergent dynamics creates the perception of abstract space-time",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "zY91B7UAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is hippocampal phase precession a useful temporal code?",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "zY91B7UAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can a temporal code be transferred from one brain region to another? Lessons from phase precession",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "zY91B7UAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rate and timing dependent plasticity in a biophysical model of synaptic plasticity",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "zY91B7UAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=zY91B7UAAAAJ"
+}

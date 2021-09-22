@@ -1,0 +1,949 @@
+{
+    "affiliation": "Research Scientist, Google Research",
+    "cites_per_year": {
+        "2003": 56,
+        "2004": 113,
+        "2005": 172,
+        "2006": 186,
+        "2007": 200,
+        "2008": 235,
+        "2009": 304,
+        "2010": 427,
+        "2011": 457,
+        "2012": 684,
+        "2013": 834,
+        "2014": 1083,
+        "2015": 1287,
+        "2016": 1542,
+        "2017": 1424,
+        "2018": 1436,
+        "2019": 1396,
+        "2020": 789
+    },
+    "citedby": 12755,
+    "citedby5y": 7876,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Computer Science, MIT",
+            "id": "0zZnyMEAAAAJ",
+            "name": "William T. Freeman"
+        },
+        {
+            "affiliation": "Microsoft",
+            "id": "9akH-n8AAAAJ",
+            "name": "Heung-Yeung Shum"
+        },
+        {
+            "affiliation": "Professor of Computer Science, MIT",
+            "id": "8cxDHS4AAAAJ",
+            "name": "Antonio Torralba"
+        },
+        {
+            "affiliation": "Zillow Group",
+            "id": "2rzyuRQAAAAJ",
+            "name": "Sing Bing Kang"
+        },
+        {
+            "affiliation": "Professor of Vision Science, MIT",
+            "id": "todsDfQAAAAJ",
+            "name": "Edward H Adelson"
+        },
+        {
+            "affiliation": "Research Scientist, Google",
+            "id": "ttBdcmsAAAAJ",
+            "name": "Michael Rubinstein"
+        },
+        {
+            "affiliation": "Computational Photography, Facebook",
+            "id": "3_u1jHQAAAAJ",
+            "name": "Richard Szeliski"
+        },
+        {
+            "affiliation": "CTO @ Lightform",
+            "id": "_Y46BbYAAAAJ",
+            "name": "Kevin Karsch"
+        },
+        {
+            "affiliation": "Research Scientist, Google",
+            "id": "t4rgICIAAAAJ",
+            "name": "Deqing Sun"
+        },
+        {
+            "affiliation": "Massachusetts Institute of Technology (MIT)",
+            "id": "T0-Wo0EAAAAJ",
+            "name": "Tali Dekel (Basha)"
+        },
+        {
+            "affiliation": "Facebook AI Research",
+            "id": "ZeJjFQMAAAAJ",
+            "name": "C. Lawrence Zitnick"
+        },
+        {
+            "affiliation": "Weizmann Institute of Science",
+            "id": "all0DHsAAAAJ",
+            "name": "Ohad Shamir"
+        },
+        {
+            "affiliation": "Research Scientist at Amazon.com (Formerly Prof. At UCF)",
+            "id": "EEkwehIAAAAJ",
+            "name": "Marshall Tappen"
+        },
+        {
+            "affiliation": "Principal Research Scientist, Dept. of Brain & Cognitive Sciences, CSAIL, MIT",
+            "id": "BfE3-m0AAAAJ",
+            "name": "Ruth Rosenholtz"
+        },
+        {
+            "affiliation": "Research Scientist, Dept of Brain & Cognitive Sciences, MIT",
+            "id": "GlIyobYAAAAJ",
+            "name": "Lavanya Sharan"
+        },
+        {
+            "affiliation": "Dept. Automation, Tsinghua University, Beijing, China",
+            "id": "GL9M37YAAAAJ",
+            "name": "Changshui Zhang"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Cornell University and Cornell Tech",
+            "id": "ORr4XJYAAAAJ",
+            "name": "Serge Belongie"
+        },
+        {
+            "affiliation": "Caltech",
+            "id": "Fvh5mcwAAAAJ",
+            "name": "Omer Tamuz"
+        },
+        {
+            "affiliation": "Microsoft Research",
+            "id": "gRxBNZoAAAAJ",
+            "name": "Adam Tauman Kalai"
+        },
+        {
+            "affiliation": "Distinguished Scientist, Microsoft Research",
+            "id": "h4kYmRYAAAAJ",
+            "name": "Baining Guo"
+        }
+    ],
+    "email": "@google.com",
+    "hindex": 42,
+    "hindex5y": 38,
+    "i10index": 60,
+    "i10index5y": 56,
+    "id": "j7MW4iYAAAAJ",
+    "interests": [
+        "computer vision",
+        "computer graphics",
+        "machine learning"
+    ],
+    "name": "Ce Liu",
+    "publications": [
+        {
+            "bib": {
+                "title": "Sift flow: Dense correspondence across scenes and its applications",
+                "cites": "1488",
+                "year": "2010"
+            },
+            "id_citations": "j7MW4iYAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time texture synthesis by patch-based sampling",
+                "cites": "942",
+                "year": "2001"
+            },
+            "id_citations": "j7MW4iYAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond pixels: exploring new representations and applications for motion analysis",
+                "cites": "912",
+                "year": "2009"
+            },
+            "id_citations": "j7MW4iYAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sift flow: Dense correspondence across different scenes",
+                "cites": "658",
+                "year": "2008"
+            },
+            "id_citations": "j7MW4iYAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep convolutional neural network for image deconvolution",
+                "cites": "596",
+                "year": "2014"
+            },
+            "id_citations": "j7MW4iYAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Depth Extraction from Video Using Non-parametric Sampling",
+                "cites": "516",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic estimation and removal of noise from a single image",
+                "cites": "515",
+                "year": "2007"
+            },
+            "id_citations": "j7MW4iYAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A two-step approach to hallucinating faces: global parametric model and local nonparametric model",
+                "cites": "432",
+                "year": "2001"
+            },
+            "id_citations": "j7MW4iYAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face hallucination: Theory and practice",
+                "cites": "423",
+                "year": "2007"
+            },
+            "id_citations": "j7MW4iYAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise estimation from a single image",
+                "cites": "418",
+                "year": "2006"
+            },
+            "id_citations": "j7MW4iYAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric scene parsing via label transfer",
+                "cites": "388",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric scene parsing: Label transfer via dense scene alignment",
+                "cites": "352",
+                "year": "2009"
+            },
+            "id_citations": "j7MW4iYAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion magnification",
+                "cites": "344",
+                "year": "2005"
+            },
+            "id_citations": "j7MW4iYAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised joint object discovery and segmentation in internet images",
+                "cites": "322",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Markov random fields for vision and image processing",
+                "cites": "293",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DepthTransfer: Depth Extraction from Video Using Non-parametric Sampling",
+                "cites": "291",
+                "year": "2014"
+            },
+            "id_citations": "j7MW4iYAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kullback-leibler boosting",
+                "cites": "245",
+                "year": "2003"
+            },
+            "id_citations": "j7MW4iYAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deformable spatial pyramid matching for fast dense correspondences",
+                "cites": "231",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring features in a bayesian framework for material recognition",
+                "cites": "225",
+                "year": "2010"
+            },
+            "id_citations": "j7MW4iYAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptively learning the crowd kernel",
+                "cites": "224",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human-assisted motion annotation",
+                "cites": "211",
+                "year": "2008"
+            },
+            "id_citations": "j7MW4iYAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Labelme video: Building a video database with human annotations",
+                "cites": "206",
+                "year": "2009"
+            },
+            "id_citations": "j7MW4iYAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On Bayesian adaptive video super resolution",
+                "cites": "204",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A bayesian approach to adaptive video super resolution",
+                "cites": "194",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-quality video denoising algorithm based on reliable motion estimation",
+                "cites": "172",
+                "year": "2010"
+            },
+            "id_citations": "j7MW4iYAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning gaussian conditional random fields for low-level vision",
+                "cites": "167",
+                "year": "2007"
+            },
+            "id_citations": "j7MW4iYAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognizing Materials Using Perceptually Inspired Features",
+                "cites": "156",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object recognition by scene alignment",
+                "cites": "146",
+                "year": "2007"
+            },
+            "id_citations": "j7MW4iYAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic eyeglasses removal from face images",
+                "cites": "144",
+                "year": "2004"
+            },
+            "id_citations": "j7MW4iYAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational approach for obstruction-free photography",
+                "cites": "142",
+                "year": "2015"
+            },
+            "id_citations": "j7MW4iYAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synthesizing dynamic texture with closed-loop linear dynamic system",
+                "cites": "120",
+                "year": "2004"
+            },
+            "id_citations": "j7MW4iYAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face alignment using texture-constrained active shape models",
+                "cites": "93",
+                "year": "2003"
+            },
+            "id_citations": "j7MW4iYAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic label trees for efficient large scale image classification",
+                "cites": "88",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Region-based image denoising",
+                "cites": "88",
+                "year": "2009"
+            },
+            "id_citations": "j7MW4iYAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Occluding contour detection and storage for digital photography",
+                "cites": "75",
+                "year": "2010"
+            },
+            "id_citations": "j7MW4iYAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion denoising with application to time-lapse photography",
+                "cites": "73",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Markov Random Fields for Super-resolution and Texture Synthesis",
+                "cites": "67",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian Approach to Alignment-Based Image Hallucination",
+                "cites": "63",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Annotation Propagation in Large Image Databases via Dense Image Correspondence",
+                "cites": "61",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical shape modeling for automatic face localization",
+                "cites": "57",
+                "year": "2002"
+            },
+            "id_citations": "j7MW4iYAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the depths of moving people by watching frozen people",
+                "cites": "50",
+                "year": "2019"
+            },
+            "id_citations": "j7MW4iYAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local Layering for Joint Motion Estimation and Occlusion Detection",
+                "cites": "50",
+                "year": "2014"
+            },
+            "id_citations": "j7MW4iYAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene collaging: Analysis and synthesis of natural images with semantic layers",
+                "cites": "46",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning inhomogeneous gibbs model of faces by minimax entropy",
+                "cites": "40",
+                "year": "2001"
+            },
+            "id_citations": "j7MW4iYAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of contour motions",
+                "cites": "39",
+                "year": "2007"
+            },
+            "id_citations": "j7MW4iYAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern-based texture metamorphosis",
+                "cites": "37",
+                "year": "2002"
+            },
+            "id_citations": "j7MW4iYAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards indexing representative images on the web",
+                "cites": "33",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture-constrained active shape models",
+                "cites": "33",
+                "year": "2002"
+            },
+            "id_citations": "j7MW4iYAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-modal approach to search query input",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse, smart contours to represent and edit images",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "j7MW4iYAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Longer Long-Range Motion Trajectories",
+                "cites": "27",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material recognition from an image",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Duplicate discovery on 2 billion internet images",
+                "cites": "25",
+                "year": "2013"
+            },
+            "id_citations": "j7MW4iYAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic 2D-to-stereoscopic video conversion",
+                "cites": "24",
+                "year": "2016"
+            },
+            "id_citations": "j7MW4iYAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the effectiveness of visible watermarks",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "j7MW4iYAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and apparatus for reducing structured noise in video",
+                "cites": "20",
+                "year": "2015"
+            },
+            "id_citations": "j7MW4iYAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dense Image Correspondences for Computer Vision",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "j7MW4iYAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust image stitching with multiple registrations",
+                "cites": "17",
+                "year": "2018"
+            },
+            "id_citations": "j7MW4iYAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A data-driven regularization model for stereo and flow",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "j7MW4iYAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Compositional Model for Low-Dimensional Image Set Representation",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "j7MW4iYAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying objects within an image",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "j7MW4iYAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eyeglasses verification by support vector machine",
+                "cites": "9",
+                "year": "2001"
+            },
+            "id_citations": "j7MW4iYAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supervised contrastive learning",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "j7MW4iYAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint Inference in Weakly-Annotated Image Datasets via Dense Correspondence",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "j7MW4iYAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptively learning a similarity model",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "j7MW4iYAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-causal Temporal Prior for Video Deblocking",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "William T",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "j7MW4iYAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric scene parsing via label transfer",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "j7MW4iYAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive interactive search",
+                "cites": "7",
+                "year": "2012"
+            },
+            "id_citations": "j7MW4iYAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Smart, sparse contours to represent and edit images",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "j7MW4iYAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning gaussian conditional random fields for low-level vision",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "j7MW4iYAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boundless: Generative adversarial networks for image extension",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "j7MW4iYAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion Estimation (I)",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian approach to alignment-based image hallucination",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "j7MW4iYAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking photos through visual obstructions",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "j7MW4iYAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust image stitching using multiple registrations",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "j7MW4iYAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Layered image understanding",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "j7MW4iYAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to dense optical flow",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "j7MW4iYAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Framework for Encoding Object-level Image Priors",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "j7MW4iYAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MannequinChallenge: Learning the Depths of Moving People by Watching Frozen People",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "j7MW4iYAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive glare removal and/or color correction",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "j7MW4iYAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Taking Photos Through Visual Obstructions",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "j7MW4iYAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boundless: Generative Adversarial Networks for Image Extension",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "j7MW4iYAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse, Smart Contours to Represent and Edit Images",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "j7MW4iYAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Effectiveness of Visible Watermarks",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "j7MW4iYAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model for material recognition",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "j7MW4iYAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human-assisted motion annotation for real-world videos",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "j7MW4iYAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material Learning the Depths of Moving People by Watching Frozen People",
+                "cites": "0"
+            },
+            "id_citations": "j7MW4iYAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CS104 Project Proposal",
+                "cites": "0"
+            },
+            "id_citations": "j7MW4iYAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene Collaging: Analysis and Synthesis of Natural Images with Semantic Layers\u2013Supplementary Materials",
+                "cites": "0"
+            },
+            "id_citations": "j7MW4iYAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=j7MW4iYAAAAJ"
+}

@@ -1,0 +1,1375 @@
+{
+    "affiliation": "University of California at Berkeley",
+    "cites_per_year": {
+        "1996": 40,
+        "1997": 62,
+        "1998": 72,
+        "1999": 125,
+        "2000": 134,
+        "2001": 227,
+        "2002": 176,
+        "2003": 232,
+        "2004": 288,
+        "2005": 326,
+        "2006": 325,
+        "2007": 405,
+        "2008": 476,
+        "2009": 495,
+        "2010": 484,
+        "2011": 614,
+        "2012": 749,
+        "2013": 964,
+        "2014": 883,
+        "2015": 991,
+        "2016": 996,
+        "2017": 1395,
+        "2018": 1345,
+        "2019": 1537,
+        "2020": 1003
+    },
+    "citedby": 14631,
+    "citedby5y": 7292,
+    "coauthors": [
+        {
+            "affiliation": "Associate Professor, Neurosciences Dept., Medical University of South Carolina",
+            "id": "9hkEkG0AAAAJ",
+            "name": "Thomas Naselaris"
+        },
+        {
+            "affiliation": "Alumni Endowed Professor of Neurobiology, Washington University in St Louis",
+            "id": "eqql-X8AAAAJ",
+            "name": "David C Van Essen"
+        },
+        {
+            "affiliation": "Senior Researcher (PI), CiNet, National Institute of Information and Communications Technology",
+            "id": "y1pLEGkAAAAJ",
+            "name": "Shinji Nishimoto"
+        },
+        {
+            "affiliation": "Assistant Professor CS & Neuroscience UT Austin",
+            "id": "JNXWWkIAAAAJ",
+            "name": "Alexander Huth"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Minnesota",
+            "id": "hlthz-YAAAAJ",
+            "name": "Kendrick Kay"
+        },
+        {
+            "affiliation": "Associate Professor, Oregon Hearing Research Center, Oregon Health and Science University",
+            "id": "oDwmTh8AAAAJ",
+            "name": "Stephen David"
+        },
+        {
+            "affiliation": "Montana State University",
+            "id": "pctVBoMAAAAJ",
+            "name": "James Mazer"
+        },
+        {
+            "affiliation": "Psychology and Neurosciences, UC Berkeley",
+            "id": "0gyS3z0AAAAJ",
+            "name": "Frederic THEUNISSEN"
+        },
+        {
+            "affiliation": "Graduate Student Researcher, UC Berkeley",
+            "id": "oY7AJUgAAAAJ",
+            "name": "Dustin Stansbury"
+        },
+        {
+            "affiliation": "Professor of Statistics and EECS, UC Berkeley",
+            "id": "xT19Jc0AAAAJ",
+            "name": "Bin YU"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, University of Minnesota",
+            "id": "MN2ueWEAAAAJ",
+            "name": "Benjamin Hayden"
+        },
+        {
+            "affiliation": "Assistant professor of Cognitive & Brain Sciences, UN Reno",
+            "id": "HSuy6TQAAAAJ",
+            "name": "Mark Lescroart"
+        },
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "Professor of Cognitive Biology, Magdeburg",
+            "id": "IqNtR-0AAAAJ",
+            "name": "Jochen Braun"
+        },
+        {
+            "affiliation": "Professor, UC Berkeley",
+            "id": "4aqK_74AAAAJ",
+            "name": "Bruno Olshausen"
+        },
+        {
+            "affiliation": "Oxford University",
+            "id": "Qqf2BEEAAAAJ",
+            "name": "Ben Willmore"
+        },
+        {
+            "affiliation": "Professor of Electrical Engineering",
+            "id": "5GLKJvwAAAAJ",
+            "name": "Tolga Cukur"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "1PJz5JEAAAAJ",
+            "name": "Michael Oliver"
+        },
+        {
+            "affiliation": "Visual Perception Lab G\u00f6ttingen",
+            "id": "DAT-AzgAAAAJ",
+            "name": "Christoph Nothdurft"
+        },
+        {
+            "affiliation": "Professor of Visual Neuroscience, University College London",
+            "id": "R3PGFHsAAAAJ",
+            "name": "Matteo Carandini"
+        }
+    ],
+    "email": "@berkeley.edu",
+    "hindex": 51,
+    "hindex5y": 42,
+    "i10index": 65,
+    "i10index5y": 57,
+    "id": "nSZG-vcAAAAJ",
+    "interests": [
+        "Computational",
+        "cognitive and systems neuroscience"
+    ],
+    "name": "Jack L. GALLANT",
+    "publications": [
+        {
+            "bib": {
+                "title": "Sparse coding and decorrelation in primary visual cortex during natural vision",
+                "cites": "1225",
+                "year": "2000"
+            },
+            "id_citations": "nSZG-vcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying natural images from human brain activity",
+                "cites": "1134",
+                "year": "2008"
+            },
+            "id_citations": "nSZG-vcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstructing visual experiences from brain activity evoked by natural movies",
+                "cites": "787",
+                "year": "2011"
+            },
+            "id_citations": "nSZG-vcAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural speech reveals the semantic maps that tile human cerebral cortex",
+                "cites": "722",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A continuous semantic space describes the representation of thousands of object and action categories across the human brain",
+                "cites": "660",
+                "year": "2012"
+            },
+            "id_citations": "nSZG-vcAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity for polar, hyperbolic, and Cartesian gratings in macaque visual cortex",
+                "cites": "658",
+                "year": "1993"
+            },
+            "id_citations": "nSZG-vcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do we know what the early visual system does?",
+                "cites": "585",
+                "year": "2005"
+            },
+            "id_citations": "nSZG-vcAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding in fMRI",
+                "cites": "555",
+                "year": "2011"
+            },
+            "id_citations": "nSZG-vcAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural responses to polar, hyperbolic, and Cartesian gratings in area V4 of the macaque monkey",
+                "cites": "506",
+                "year": "1996"
+            },
+            "id_citations": "nSZG-vcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of form and motion processing in the primate visual system",
+                "cites": "469",
+                "year": "1994"
+            },
+            "id_citations": "nSZG-vcAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of form and motion processing in the primate visual system",
+                "cites": "469",
+                "year": "1994"
+            },
+            "id_citations": "nSZG-vcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of natural images from human brain activity",
+                "cites": "467",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial attention effects in macaque area V4",
+                "cites": "447",
+                "year": "1997"
+            },
+            "id_citations": "nSZG-vcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating spatio-temporal receptive fields of auditory and visual neurons from their responses to natural stimuli",
+                "cites": "375",
+                "year": "2001"
+            },
+            "id_citations": "nSZG-vcAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural stimulus statistics alter the receptive field structure of v1 neurons",
+                "cites": "326",
+                "year": "2004"
+            },
+            "id_citations": "nSZG-vcAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response modulation by texture surround in primate area V1: correlates of \u201cpopout\u201d under anesthesia",
+                "cites": "315",
+                "year": "1999"
+            },
+            "id_citations": "nSZG-vcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural stimulation of the nonclassical receptive field increases information transmission efficiency in V1",
+                "cites": "299",
+                "year": "2002"
+            },
+            "id_citations": "nSZG-vcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses in area V4 depend on the spatial relationship between stimulus and attention",
+                "cites": "278",
+                "year": "1996"
+            },
+            "id_citations": "nSZG-vcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complete functional characterization of sensory neurons by system identification",
+                "cites": "267",
+                "year": "2006"
+            },
+            "id_citations": "nSZG-vcAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Goal-related activity in V4 during free viewing visual search: Evidence for a ventral stream visual salience map",
+                "cites": "267",
+                "year": "2003"
+            },
+            "id_citations": "nSZG-vcAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial frequency and orientation tuning dynamics in area V1",
+                "cites": "256",
+                "year": "2002"
+            },
+            "id_citations": "nSZG-vcAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention during natural vision warps semantic representation across the human brain",
+                "cites": "253",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a unified theory of visual area V4",
+                "cites": "242",
+                "year": "2012"
+            },
+            "id_citations": "nSZG-vcAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supreme Court decision making: Cognitive style as a predictor of ideological consistency of voting.",
+                "cites": "222",
+                "year": "1985"
+            },
+            "id_citations": "nSZG-vcAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A human extrastriate area functionally homologous to macaque V4",
+                "cites": "218",
+                "year": "2000"
+            },
+            "id_citations": "nSZG-vcAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural activity in areas V1, V2 and V4 during free viewing of natural scenes compared to controlled viewing",
+                "cites": "170",
+                "year": "1998"
+            },
+            "id_citations": "nSZG-vcAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention to stimulus features shifts spectral tuning of V4 neurons during natural vision",
+                "cites": "164",
+                "year": "2008"
+            },
+            "id_citations": "nSZG-vcAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topographic organization in and near human visual area V4",
+                "cites": "158",
+                "year": "2007"
+            },
+            "id_citations": "nSZG-vcAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting neuronal responses during natural vision",
+                "cites": "152",
+                "year": "2005"
+            },
+            "id_citations": "nSZG-vcAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A voxel-wise encoding model for early visual areas decodes mental images of remembered scenes",
+                "cites": "149",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral receptive field properties explain shape selectivity in area V4",
+                "cites": "136",
+                "year": "2006"
+            },
+            "id_citations": "nSZG-vcAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectral receptive field properties explain shape selectivity in area V4",
+                "cites": "136",
+                "year": "2006"
+            },
+            "id_citations": "nSZG-vcAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural scene statistics account for the representation of scene categories in human visual cortex",
+                "cites": "133",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time course of attention reveals different mechanisms for spatial and feature-based attention in area V4",
+                "cites": "128",
+                "year": "2005"
+            },
+            "id_citations": "nSZG-vcAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representation of natural images in visual area V2",
+                "cites": "115",
+                "year": "2010"
+            },
+            "id_citations": "nSZG-vcAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Four ethical priorities for neurotechnologies and AI",
+                "cites": "111",
+                "year": "2017"
+            },
+            "id_citations": "nSZG-vcAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A three-dimensional spatiotemporal receptive field model explains responses of area MT neurons to naturalistic movies",
+                "cites": "108",
+                "year": "2011"
+            },
+            "id_citations": "nSZG-vcAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The hierarchical cortical organization of human speech processing",
+                "cites": "91",
+                "year": "2017"
+            },
+            "id_citations": "nSZG-vcAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric reverse correlation reveals spatial linearity of retinotopic human V1 BOLD response",
+                "cites": "88",
+                "year": "2004"
+            },
+            "id_citations": "nSZG-vcAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response profiles to texture border patterns in area V1",
+                "cites": "84",
+                "year": "2000"
+            },
+            "id_citations": "nSZG-vcAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse coding in striate and extrastriate visual cortex",
+                "cites": "77",
+                "year": "2011"
+            },
+            "id_citations": "nSZG-vcAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear V1 responses to natural scenes revealed by neural network analysis",
+                "cites": "76",
+                "year": "2004"
+            },
+            "id_citations": "nSZG-vcAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding the semantic content of natural movies from human brain activity",
+                "cites": "74",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pycortex: an interactive surface visualizer for fMRI",
+                "cites": "74",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pixels to voxels: Modeling visual representation in the human brain",
+                "cites": "74",
+                "year": "2014"
+            },
+            "id_citations": "nSZG-vcAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combined effects of spatial and feature-based attention on responses of V4 neurons",
+                "cites": "69",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "I can see what you see",
+                "cites": "62",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling low\u2010frequency fluctuation and hemodynamic response timecourse in event\u2010related fMRI",
+                "cites": "61",
+                "year": "2008"
+            },
+            "id_citations": "nSZG-vcAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fourier power, subjective distance, and object categories all provide plausible models of BOLD responses in scene-selective visual areas",
+                "cites": "60",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical representation of animate and inanimate objects in complex natural scenes",
+                "cites": "60",
+                "year": "2012"
+            },
+            "id_citations": "nSZG-vcAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional subdomains within human FFA",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Working memory and decision processes in visual area v4",
+                "cites": "53",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pattern recognition, attention, and information bottlenecks in the primate visual system",
+                "cites": "53",
+                "year": "1991"
+            },
+            "id_citations": "nSZG-vcAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two-dimensional and three-dimensional texture processing in visual cortex of the macaque monkey",
+                "cites": "45",
+                "year": "1995"
+            },
+            "id_citations": "nSZG-vcAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pyrcca: regularized kernel canonical correlation analysis in python and its applications to neuroimaging",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blur into focus.",
+                "cites": "40",
+                "year": "1990"
+            },
+            "id_citations": "nSZG-vcAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding V1 fMRI responses to natural images with sparse nonparametric models",
+                "cites": "37",
+                "year": "2011"
+            },
+            "id_citations": "nSZG-vcAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The berkeley wavelet transform: a biologically inspired orthogonal wavelet transform",
+                "cites": "34",
+                "year": "2008"
+            },
+            "id_citations": "nSZG-vcAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The representation of semantic information across human cerebral cortex during listening versus reading is invariant to stimulus modality",
+                "cites": "29",
+                "year": "2019"
+            },
+            "id_citations": "nSZG-vcAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human scene-selective areas represent 3D configurations of surfaces",
+                "cites": "24",
+                "year": "2019"
+            },
+            "id_citations": "nSZG-vcAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional subdomains within scene-selective cortex: parahippocampal place area, retrosplenial complex, and occipital place area",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some effects of distance and structure on conjunction errors",
+                "cites": "21",
+                "year": "1988"
+            },
+            "id_citations": "nSZG-vcAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms of natural scene perception",
+                "cites": "13",
+                "year": "2008"
+            },
+            "id_citations": "nSZG-vcAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voxelwise encoding models with non-spherical multivariate normal priors",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "nSZG-vcAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System identification, encoding models, and decoding models: a powerful new approach to fMRI research",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "nSZG-vcAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape perception: complex contour representation in visual area V4",
+                "cites": "12",
+                "year": "2003"
+            },
+            "id_citations": "nSZG-vcAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object recognition: seeing us seeing shapes",
+                "cites": "10",
+                "year": "2000"
+            },
+            "id_citations": "nSZG-vcAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The DeepTune framework for modeling and characterizing neurons in visual cortex area V4",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "nSZG-vcAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparatus and method for decoding sensory and cognitive information from brain activity",
+                "cites": "9",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PrAGMATiC: A probabilistic and generative model of areas tiling the cortex",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movement-invariant representations in the human visual system",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "nSZG-vcAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural representation of shape",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "nSZG-vcAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NEURAL RESPONSES IN MONKEY VISUAL-CORTEX DURING FREE VIEWING OF NATURAL SCENES-MECHANISMS OF RESPONSE SUPPRESSION",
+                "cites": "8",
+                "year": "1995"
+            },
+            "id_citations": "nSZG-vcAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using a novel source-localized phase regressor technique for evaluation of the vascular contribution to semantic category area localization in BOLD fMRI",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MODULATION OF RECEPTIVE-FIELD PROFILES IN AREA V4 BY SHIFTS IN FOCAL ATTENTION",
+                "cites": "7",
+                "year": "1994"
+            },
+            "id_citations": "nSZG-vcAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A deep convolutional energy model of v4 responses to natural movies",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling complex cells in an awake macaque during natural image viewing",
+                "cites": "6",
+                "year": "1998"
+            },
+            "id_citations": "nSZG-vcAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decoding human visual cortical activity evoked by continuous time-varying movies",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain reading: Mapping, modeling, and decoding the brain under naturalistic conditions",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of object contour features in intermediate visual areas in the human brain",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian reconstruction of perceptual experiences from human brain activity",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principles of neural shape coding in area V2",
+                "cites": "3",
+                "year": "2005"
+            },
+            "id_citations": "nSZG-vcAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Both convolutional neural networks and voxel-wise encoding models of brain activity derived from ConvNets represent boundary-and surface-related features",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "nSZG-vcAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal foraging: a bird in the hand released",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "nSZG-vcAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical responses to natural scenes under controlled and free viewing conditions",
+                "cites": "2",
+                "year": "1996"
+            },
+            "id_citations": "nSZG-vcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model of surface depth and orientation predicts BOLD responses in human scene-selective cortex",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using voxel-wise encoding models to study occipito-temporal representations of the animacy, semantic and affective content of natural images.",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "nSZG-vcAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human visual areas invariant to eye movements during natural vision",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How much tuning information is lost when we average across subjects in fMRI experiments?",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "nSZG-vcAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reverse Spikeology: Predicting Single Spikes",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "nSZG-vcAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision-Retina neuroi\ufb01eport",
+                "cites": "1",
+                "year": "1998"
+            },
+            "id_citations": "nSZG-vcAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture processing in striate and extrastriate cortex of the Macaque monkey",
+                "cites": "1",
+                "year": "1993"
+            },
+            "id_citations": "nSZG-vcAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic Representation in the Human Brain under Rich, Naturalistic Conditions",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "nSZG-vcAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LO represents motion and semantic categories in addition to object boundaries",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "nSZG-vcAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A naturalistic, big-data approach to understanding the brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "nSZG-vcAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Medical Imaging Stabilization and Coregistration",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "nSZG-vcAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The unified maximum a posteriori (MAP) framework for neuronal system identification",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "nSZG-vcAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progress and Future Goals for Neuroscience",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "nSZG-vcAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "cottoncandy: scientific python package for easy cloud storage",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "nSZG-vcAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene Vision: Making Sense of What We See",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nSZG-vcAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Statistical Modeling Framework for Investigating Visual Scene Processing in the Human Brain",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nSZG-vcAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intermediate human visual areas represent the locations of silhouette edges in natural movies",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nSZG-vcAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spectro-temporal receptive fields and high-order stimulus-response functions: Methods, validation and physiological mechanisms",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "nSZG-vcAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BEYOND LOCALIZATION: MAPPING PERCEPTUAL AND COGNITIVE FUNCTIONS IN THE HUMAN BRAIN",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "nSZG-vcAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category-based attention shifts tuning toward the target object category during natural visual search",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nSZG-vcAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "[Illinois] Modeling and Decoding the Human Brain",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "nSZG-vcAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual cortex represents the statistical distributions of objects in natural scenes",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "nSZG-vcAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentional modulation in intermediate visual areas during natural vision",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "nSZG-vcAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lets see what you think! Bayesian reconstruction of perceptual experiences from human brain activity",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "nSZG-vcAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of voxel receptive fields in human visual cortex using natural images",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "nSZG-vcAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Spectral receptive field properties explain shape selectivity in area V4\": Corrigendum.",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "nSZG-vcAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special issue editorial outline",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "nSZG-vcAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DoWeKnowWhattheEarlyVisualSystemDoes?",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nSZG-vcAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A geometric model of V1 neurons",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "nSZG-vcAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fukuyama, Hidenao, 878",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "nSZG-vcAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STRFPAK (Version 5.3). Software for estimating Spatio-Temporal Receptive Fields of sensory neurons",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nSZG-vcAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kendrick Kay",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "nSZG-vcAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contextual effects in V1 and V4 during natural vision",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "nSZG-vcAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for perceptual saliency maps in area V4 during freeviewing visual search",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "nSZG-vcAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "and Motion Processing in the Primate Visual System",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "nSZG-vcAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse Coding and Decorrelation in Primary Visual Cortex During",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "nSZG-vcAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex Form Perception Deficits in a Patient with Left Hemiachromatopsia.",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "nSZG-vcAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Neural activity in areas V1, V2 and V4 during free viewing of natural scenes compared to controlled viewing (NeuroReport (January 15, 1998) 9: 1)",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "nSZG-vcAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INTERACTION BETWEEN STIMULUS POSITION, RECEPTIVE-FIELD POSITION, AND ATTENTION POSITION IN AREA V4",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "nSZG-vcAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RESPONSES OF CELLS IN AREAS V4 AND V2 OF MACAQUE VISUAL-CORTEX TO COMPLEX PERIODIC PATTERNS",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "nSZG-vcAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic aspects of receptive field organization in area VI of the macaque monkey",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "nSZG-vcAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "REPRESENTATION OF 3-D SURFACE ORIENTATION IN PRIMATE EXTRASTRIATE VISUAL-CORTEX",
+                "cites": "0",
+                "year": "1991"
+            },
+            "id_citations": "nSZG-vcAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convolutional Neural Networks Mimic the Hierarchy of Visual Representations in the Human Brain",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial neurons meet real neurons: pattern selectivity in V4",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unique Variance Found by Variance Partitioning is Superior to Total Variance Explained as a Model Comparison Metric",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Multi-View Representation Learning of Brain Responses to Natural Stimuli",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving Predictive Models Using Non-Spherical Gaussian Priors",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding and decoding with voxel-wise models",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "University of Southern California on \u201cA Neural Prosthesis for Restoring Lost Cognitive Function: Brain-Implantable Biomimetic Micro-Electronic Models of Hippocampal Input \u2026",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Responses in Area V4 Depend on the Spatial Relationship Between",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Representation of Natural Images in Visual Area V2 The Journal of Neuroscience, 10 February 2010, 30 (6): 2102-2114; doi: 10.1523/JNEUROSCI. 4099-09.2010",
+                "cites": "0"
+            },
+            "id_citations": "nSZG-vcAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=nSZG-vcAAAAJ",
+    "alternate_names": [
+        "Jack Gallant"
+    ]
+}

@@ -1,0 +1,752 @@
+{
+    "affiliation": "UCLA Integrative Biology and Physiology",
+    "cites_per_year": {
+        "2003": 16,
+        "2004": 29,
+        "2005": 21,
+        "2006": 47,
+        "2007": 68,
+        "2008": 84,
+        "2009": 114,
+        "2010": 188,
+        "2011": 145,
+        "2012": 181,
+        "2013": 242,
+        "2014": 234,
+        "2015": 213,
+        "2016": 148,
+        "2017": 178,
+        "2018": 202,
+        "2019": 263,
+        "2020": 184
+    },
+    "citedby": 2596,
+    "citedby5y": 1188,
+    "coauthors": [
+        {
+            "affiliation": "California Institute of Technology",
+            "id": "_7_WbQoAAAAJ",
+            "name": "Brian Duistermars"
+        },
+        {
+            "affiliation": "Zarem Professor of Bioengineering and Biology, Caltech",
+            "id": "kc3snaQAAAAJ",
+            "name": "Michael H Dickinson"
+        },
+        {
+            "affiliation": "Johns Hopkins University",
+            "id": "7rdTPeQAAAAJ",
+            "name": "Mehmet F Keles"
+        },
+        {
+            "affiliation": "MD PhD student, UCLA",
+            "id": "jPX_4uoAAAAJ",
+            "name": "Jacob Aptekar"
+        },
+        {
+            "affiliation": "Professor of Neurobiology, University of California, Los Angeles",
+            "id": "V6xKYw4AAAAJ",
+            "name": "Dario Ringach"
+        },
+        {
+            "affiliation": "Scientist, Tanner Research, Inc.",
+            "id": "No0A0qoAAAAJ",
+            "name": "Patrick A. Shoemaker"
+        },
+        {
+            "affiliation": "Case Western Reserve University",
+            "id": "wgNGPuwAAAAJ",
+            "name": "Jessica Fox"
+        },
+        {
+            "affiliation": "Assistant Professor of Mechanical Engineering, Pennsylvania State University",
+            "id": "aMoU0i8AAAAJ",
+            "name": "Jean-Michel Mongeau"
+        },
+        {
+            "affiliation": "professor, ucla",
+            "id": "-sPm5EkAAAAJ",
+            "name": "DAVID E             KRANTZ"
+        },
+        {
+            "affiliation": "Professor of Biology, Illinois Institute of Technology",
+            "id": "sSbD6qkAAAAJ",
+            "name": "Thomas Irving"
+        },
+        {
+            "affiliation": "Department of Biology, Union College",
+            "id": "9ygTPdgAAAAJ",
+            "name": "Leo Fleishman"
+        },
+        {
+            "affiliation": "Instituto de Neurociencias, CSIC-UMH, Spain",
+            "id": "JKt3ReoAAAAJ",
+            "name": "Alex Gomez-Marin"
+        },
+        {
+            "affiliation": "UCSB",
+            "id": "UX3e9O0AAAAJ",
+            "name": "Matthieu Louis"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Department of Psychiatry, UCLA",
+            "id": "huPauhUAAAAJ",
+            "name": "Michael C. Condro"
+        },
+        {
+            "affiliation": "Group Leader, Janelia Research Campus",
+            "id": "yiU3lZcAAAAJ",
+            "name": "Michael B. Reiser"
+        },
+        {
+            "affiliation": "McLagan Endowed Associate Professor, University of Colorado Boulder",
+            "id": "tgXkh_UAAAAJ",
+            "name": "J. Sean Humbert"
+        },
+        {
+            "affiliation": "David Geffen School of Medicine at UCLA",
+            "id": "pSEbgJIAAAAJ",
+            "name": "Bryce Bajar"
+        }
+    ],
+    "email": "@ucla.edu",
+    "hindex": 30,
+    "hindex5y": 20,
+    "i10index": 48,
+    "i10index5y": 35,
+    "id": "C1CQv3YAAAAJ",
+    "interests": [
+        "vision",
+        "olfaction",
+        "sensory processing",
+        "motor control",
+        "behavior"
+    ],
+    "name": "Mark A. Frye",
+    "publications": [
+        {
+            "bib": {
+                "title": "Free-flight odor tracking in Drosophila is consistent with an optimal intermittent scale-free search",
+                "cites": "376",
+                "year": "2007"
+            },
+            "id_citations": "C1CQv3YAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial organization of visuomotor reflexes in Drosophila",
+                "cites": "126",
+                "year": "2004"
+            },
+            "id_citations": "C1CQv3YAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Odor localization requires visual feedback during free flight in Drosophila melanogaster",
+                "cites": "126",
+                "year": "2003"
+            },
+            "id_citations": "C1CQv3YAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flies require bilateral sensory input to track odor gradients in flight",
+                "cites": "121",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fly flight: a model for the neural control of complex behavior",
+                "cites": "98",
+                "year": "2001"
+            },
+            "id_citations": "C1CQv3YAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motor output reflects the linear superposition of visual and olfactory inputs in Drosophila",
+                "cites": "76",
+                "year": "2004"
+            },
+            "id_citations": "C1CQv3YAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of optomotor responses in Drosophila to perturbations in optic flow",
+                "cites": "73",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peripheral visual circuits functionally segregate motion and phototaxis behaviors in the fly",
+                "cites": "72",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular dynamics of cyclically contracting insect flight muscle in vivo",
+                "cites": "70",
+                "year": "2005"
+            },
+            "id_citations": "C1CQv3YAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensory response patterns and the evolution of visual signal design in anoline lizards",
+                "cites": "70",
+                "year": "1999"
+            },
+            "id_citations": "C1CQv3YAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Input to the Drosophila Central Complex by Developmentally and Functionally Distinct Neuronal Populations",
+                "cites": "69",
+                "year": "2017"
+            },
+            "id_citations": "C1CQv3YAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context-dependent olfactory enhancement of optomotor flight control in Drosophila",
+                "cites": "63",
+                "year": "2008"
+            },
+            "id_citations": "C1CQv3YAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flies see second-order motion",
+                "cites": "63",
+                "year": "2008"
+            },
+            "id_citations": "C1CQv3YAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of odor-tracking: multiple sensors for enhanced perception and behavior",
+                "cites": "62",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual receptive field properties of feature detecting neurons in the dragonfly",
+                "cites": "61",
+                "year": "1995"
+            },
+            "id_citations": "C1CQv3YAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatial, temporal and contrast properties of expansion and rotation flight optomotor responses in Drosophila",
+                "cites": "60",
+                "year": "2007"
+            },
+            "id_citations": "C1CQv3YAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Crossmodal visual input for odor tracking during fly flight",
+                "cites": "59",
+                "year": "2008"
+            },
+            "id_citations": "C1CQv3YAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closing the loop between neurobiology and flight behavior in Drosophila",
+                "cites": "59",
+                "year": "2004"
+            },
+            "id_citations": "C1CQv3YAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Figure tracking by flies is supported by parallel visual streams",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "C1CQv3YAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object-Detecting Neurons in Drosophila",
+                "cites": "54",
+                "year": "2017"
+            },
+            "id_citations": "C1CQv3YAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drosophila tracks carbon dioxide in flight",
+                "cites": "52",
+                "year": "2013"
+            },
+            "id_citations": "C1CQv3YAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olfactory neuromodulation of motion vision circuitry in Drosophila",
+                "cites": "49",
+                "year": "2015"
+            },
+            "id_citations": "C1CQv3YAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurons forming optic glomeruli compute figure\u2013ground discriminations in Drosophila",
+                "cites": "46",
+                "year": "2015"
+            },
+            "id_citations": "C1CQv3YAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutation of the Drosophila vesicular GABA transporter disrupts visual figure detection",
+                "cites": "46",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of stretch receptor ablation on the optomotor control of lift in the hawkmoth Manduca sexta",
+                "cites": "37",
+                "year": "2001"
+            },
+            "id_citations": "C1CQv3YAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An olfactory circuit increases the fidelity of visual behavior",
+                "cites": "35",
+                "year": "2011"
+            },
+            "id_citations": "C1CQv3YAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic properties of large-field and small-field optomotor flight responses in Drosophila",
+                "cites": "33",
+                "year": "2007"
+            },
+            "id_citations": "C1CQv3YAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Figure\u2013ground discrimination behavior in Drosophila. II. Visual influences on head movement behavior",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "C1CQv3YAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Figure\u2013ground discrimination behavior in Drosophila. I. Spatial organization of wing-steering responses",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "C1CQv3YAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multisensory systems integration for high-performance motor control in flies",
+                "cites": "31",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding properties of the wing hinge stretch receptor in the hawkmoth Manduca sexta",
+                "cites": "28",
+                "year": "2001"
+            },
+            "id_citations": "C1CQv3YAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multisensory integration for odor tracking by flying Drosophila: behavior, circuits and speculation",
+                "cites": "27",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Binocular interactions underlying the classic optomotor responses of flying flies",
+                "cites": "26",
+                "year": "2012"
+            },
+            "id_citations": "C1CQv3YAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta motion processing in fruit flies",
+                "cites": "25",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extracting behaviorally relevant retinal image motion cues via wide-field integration",
+                "cites": "24",
+                "year": "2006"
+            },
+            "id_citations": "C1CQv3YAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuro-ecology of resource localization in Drosophila: behavioral components of perception and search",
+                "cites": "21",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drosophila spatiotemporally integrates visual signals to control saccades",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "C1CQv3YAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flies dynamically anti-track, rather than ballistically escape, aversive odor during flight",
+                "cites": "19",
+                "year": "2012"
+            },
+            "id_citations": "C1CQv3YAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A magnetic tether system to investigate visual and olfactory mediated flight control in Drosophila",
+                "cites": "18",
+                "year": "2008"
+            },
+            "id_citations": "C1CQv3YAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Invertebrate solutions for sensing gravity",
+                "cites": "17",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual edge orientation shapes free-flight behavior in Drosophila",
+                "cites": "17",
+                "year": "2007"
+            },
+            "id_citations": "C1CQv3YAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Odor identity influences tracking of temporally patterned plumes in Drosophila",
+                "cites": "16",
+                "year": "2011"
+            },
+            "id_citations": "C1CQv3YAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olfactory and neuromodulatory signals reverse visual object avoidance to approach in Drosophila",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "C1CQv3YAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Higher-order figure discrimination in fly and human vision",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "C1CQv3YAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanosensory integration for flight control in insects",
+                "cites": "13",
+                "year": "2005"
+            },
+            "id_citations": "C1CQv3YAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual stabilization dynamics are enhanced by standing flight velocity",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "C1CQv3YAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral neurobiology: a vibrating gyroscope controls fly steering maneuvers",
+                "cites": "11",
+                "year": "2007"
+            },
+            "id_citations": "C1CQv3YAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell-type-specific patterned stimulus-independent neuronal activity in the drosophila visual system during synapse formation",
+                "cites": "10",
+                "year": "2019"
+            },
+            "id_citations": "C1CQv3YAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elementary motion detectors",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "C1CQv3YAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and software for using m-sequences to characterize parallel components of higher-order visual tracking behavior in Drosophila",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "C1CQv3YAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visually mediated odor tracking during flight in Drosophila",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visuomotor strategies for object approach and aversion in Drosophila melanogaster",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "C1CQv3YAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object features and T4/T5 motion detectors modulate the dynamics of bar tracking by Drosophila",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "C1CQv3YAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Behavior: The eyes have it",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "C1CQv3YAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual attention: a cell that focuses on one object at a time",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "C1CQv3YAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A signature of salience in the Drosophila brain",
+                "cites": "5",
+                "year": "2003"
+            },
+            "id_citations": "C1CQv3YAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neuromechanics of fly flight control",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "C1CQv3YAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurobiology: fly gyro-vision",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurogenetics and the\" fly-stampede\": dissecting neural circuits involved in visual behaviors",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "C1CQv3YAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Animal behavior: fly flight moves forward",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "C1CQv3YAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual motion detection and control of flight forces In Manduca sexta.",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "C1CQv3YAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Insect Vision: A Neuron that Anticipates an Object\u2019s Path",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "C1CQv3YAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Group behavior: Social context modulates behavioral responses to sensory stimuli",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "C1CQv3YAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MEMS-enabled multi-unit neural recording from Drosophila melanogaster",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "C1CQv3YAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Animal behavior: Flying back to front",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "C1CQv3YAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-resolved x-ray diffraction patterns from indirect flight muscles in living drosophila during tethered flight.",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "C1CQv3YAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual and mechanosensory control of flight in the hawkmoth Manduca sexta.",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "C1CQv3YAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanical encoding properties of the wing hinge stretch receptor in the hawkmoth.",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "C1CQv3YAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual stabilization dynamics are enhanced by standing flight",
+                "cites": "0"
+            },
+            "id_citations": "C1CQv3YAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=C1CQv3YAAAAJ",
+    "alternate_names": [
+        "Mark Frye"
+    ]
+}

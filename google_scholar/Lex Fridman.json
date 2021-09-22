@@ -1,0 +1,796 @@
+{
+    "affiliation": "MIT",
+    "cites_per_year": {
+        "2009": 5,
+        "2010": 10,
+        "2011": 7,
+        "2012": 15,
+        "2013": 9,
+        "2014": 20,
+        "2015": 39,
+        "2016": 87,
+        "2017": 107,
+        "2018": 216,
+        "2019": 405,
+        "2020": 336
+    },
+    "citedby": 1279,
+    "citedby5y": 1204,
+    "coauthors": [
+        {
+            "affiliation": "New Jersey Institute of Technology",
+            "id": "aYvFWPgAAAAJ",
+            "name": "Moshe Kam"
+        },
+        {
+            "affiliation": "Professor of Electrical and Computer Engineering, Drexel University",
+            "id": "U12ts9EAAAAJ",
+            "name": "Steven Weber"
+        },
+        {
+            "affiliation": "Computer Science and Engineering Department, New York University",
+            "id": "FsbND-sAAAAJ",
+            "name": "Rachel Greenstadt"
+        },
+        {
+            "affiliation": "Duquesne University",
+            "id": "bvQ1U_gAAAAJ",
+            "name": "Patrick Juola"
+        },
+        {
+            "affiliation": "Drexel University",
+            "id": "57L5VtgAAAAJ",
+            "name": "Sayandeep Acharya"
+        },
+        {
+            "affiliation": "Computer Science Department, Drexel University",
+            "id": "d5PqNPgAAAAJ",
+            "name": "David Breen"
+        },
+        {
+            "affiliation": "Professor, Electrical and Computer Engineering, Drexel University",
+            "id": "I3lGtJwAAAAJ",
+            "name": "Kapil R. Dandekar"
+        },
+        {
+            "affiliation": "Postdoctoral Researcher, Jet Propulsion Laboratory",
+            "id": "Bzpt1osAAAAJ",
+            "name": "Richard Grote"
+        },
+        {
+            "affiliation": "Technical Staff, MIT Lincoln Laboratory",
+            "id": "9Qaqb4kAAAAJ",
+            "name": "Jeffrey Wildman"
+        }
+    ],
+    "email": "@mit.edu",
+    "hindex": 19,
+    "hindex5y": 18,
+    "i10index": 27,
+    "i10index5y": 24,
+    "id": "wZH_N7cAAAAJ",
+    "interests": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Autonomous Vehicles",
+        "Human-Robot Interaction",
+        "Reinforcement Learning"
+    ],
+    "name": "Lex Fridman",
+    "publications": [
+        {
+            "bib": {
+                "title": "Active authentication on mobile devices via stylometry, application usage, web browsing, and GPS location",
+                "cites": "160",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation",
+                "cites": "117",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:kF1pexMAQbMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning human identity from motion patterns",
+                "cites": "116",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MIT advanced vehicle technology study: Large-scale naturalistic driving study of driver behavior and interaction with automation",
+                "cites": "96",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Driver gaze region estimation without use of eye movement",
+                "cites": "70",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face masks against COVID-19: an evidence review",
+                "cites": "67",
+                "year": "2020"
+            },
+            "id_citations": "wZH_N7cAAAAJ:k_7cPK9k7w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-modal decision fusion for continuous authentication",
+                "cites": "52",
+                "year": "2015"
+            },
+            "id_citations": "wZH_N7cAAAAJ:AXkvAH5U_nMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "To walk or not to walk: Crowdsourced assessment of external vehicle-to-pedestrian displays",
+                "cites": "51",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:F2UWTTQJPOcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Owl and Lizard: patterns of head pose and eye pose in driver gaze classification",
+                "cites": "41",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:Dem6FJhTUoYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A machine learning approach for power allocation in HetNets considering QoS",
+                "cites": "39",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:BrOSOlqYqPUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive load estimation in the wild",
+                "cites": "35",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:EPG8bYD4jVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision fusion for multimodal active authentication",
+                "cites": "31",
+                "year": "2013"
+            },
+            "id_citations": "wZH_N7cAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Driver frustration detection from audio and video in the wild",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:U_HPUtbDl20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can be predicted from six seconds of driver glances?",
+                "cites": "25",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:NDuN12AVoxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decomposition of l-Valine under Nonthermal Dielectric Barrier Discharge Plasma",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "wZH_N7cAAAAJ:ce2CqMG-AY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simplification algorithm for visualizing the structure of complex graphs",
+                "cites": "23",
+                "year": "2008"
+            },
+            "id_citations": "wZH_N7cAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting road surface wetness from audio: A deep learning approach",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:HGTzPopzzJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human-centered autonomous vehicle systems: Principles of effective shared autonomy",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:eO3_k5sD8BwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:YsrPvlHIBpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinguishing patterns in drivers\u2019 visual attention allocation using Hidden Markov Models",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:MAUkC_7iAq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automated synchronization of driving data using vibration and steering events",
+                "cites": "18",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:-7ulzOJl1JYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral impact of drivers' roles in automated driving",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:pAkWuXOU-OoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed path planning for connectivity under uncertainty by ant colony optimization",
+                "cites": "14",
+                "year": "2008"
+            },
+            "id_citations": "wZH_N7cAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User authentication through biometric sensors and decision fusion",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "wZH_N7cAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heat transfer in plasma spray coating processes",
+                "cites": "12",
+                "year": "2007"
+            },
+            "id_citations": "wZH_N7cAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decomposition of sugars under non-thermal dielectric barrier discharge plasma",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "wZH_N7cAAAAJ:kWvqk_afx_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OMAN: A Mobile Ad Hoc Network Design System",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "wZH_N7cAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation. CoRR abs/1711.06976 (2017)",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:Hck25ST_3aIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active linguistic authentication revisited: Real-time stylometric evaluation towards multi-modal decision fusion",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "wZH_N7cAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Communication-based motion planning",
+                "cites": "9",
+                "year": "2007"
+            },
+            "id_citations": "wZH_N7cAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Plasma Processes Polym. 7, 194 (2010)",
+                "cites": "9"
+            },
+            "id_citations": "wZH_N7cAAAAJ:kzcSZmkxUKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Driver gaze estimation without using eye movement",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "wZH_N7cAAAAJ:QUX0mv85b1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cross-layer multicommodity capacity expansion on ad hoc wireless networks of cognitive radios",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "wZH_N7cAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking the Detection Response Task and the AttenD Algorithm Through Assessment of Human\u2013Machine Interface Workload",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:VN7nJs4JPk0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye contact between pedestrians and drivers",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:TlpoogIpr_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonthermal Plasma Reduces Water Consumption While Accelerating Arabidopsis thaliana Growth and Fecundity",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "wZH_N7cAAAAJ:q-HalDI95KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tesla Vehicle Deliveries and Autopilot Mileage Statistics",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:rTD5ala9j4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human side of Tesla Autopilot: Exploration of functional vigilance in real-world human-machine collaboration",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:DrR-2ekChdkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust optimal power control for ad hoc networks",
+                "cites": "5",
+                "year": "2006"
+            },
+            "id_citations": "wZH_N7cAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SideEye: A generative neural network based simulator of human peripheral vision",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:raTqNPD5sRQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hacking nonverbal communication between pedestrians and vehicles in virtual reality",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:69ZgNCALVd0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Polymerization of d-ribose in dielectric barrier discharge plasma",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:SGW5VrABaM0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semi-automated annotation of discrete states in large video datasets",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:KNjnJ3z-R6IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A framework for robust driver gaze classification",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:sszUF3NjhM4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating Drivers' Head and Glance Correspondence",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:OBSaB-F7qqsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oxidation of N-Acetylcysteine (NAC) under  Nanosecond-Pulsed Nonthermal Dielectric  Barrier Discharge Plasma",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "wZH_N7cAAAAJ:FiDNX6EVdGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active linguistic authentication using real-time stylometric evaluation for multi-modal decision fusion",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "wZH_N7cAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting road scenes from brief views of driving video",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:HJSXoJQnj-YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Value of Temporal Dynamics Information in Driving Scene Segmentation",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:mWEH9CqjF64C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the correspondence between driver head position and glance location",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:5bg8sr1QxYwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceiving the roadway in the blink of an eye-rapid perception of the road environment and prediction of events",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:-nhnvRiOwuoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precipitation of calcium ions in hard water by pulsed spark discharge",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "wZH_N7cAAAAJ:-95Q15plzcUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Coopertive surveillance in video sensor networks",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "wZH_N7cAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Path planning for network performance",
+                "cites": "2",
+                "year": "2007"
+            },
+            "id_citations": "wZH_N7cAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Owl and lizard: Patterns of head pose and eye pose in driver gaze classification. IET Computer Vision, 2016",
+                "cites": "2"
+            },
+            "id_citations": "wZH_N7cAAAAJ:pS0ncopqnHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring Adult Drivers\u2019 Use of Level 1 and 2 Driving Automation by Roadway Functional Class",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object as Distribution",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:jSAVyFp_754C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Fast Foveated Fully Convolutional Network Model for Human Peripheral Vision",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:3bvyWxjaHKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-eqilibrium plasmas in agriculture",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "wZH_N7cAAAAJ:DBa1UEJaJKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Authentication Linguistic Modalities",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "wZH_N7cAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observations on sum user rate for cellular downlink",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "wZH_N7cAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Plasma wound treatment: From physics to animal models",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "wZH_N7cAAAAJ:1DsIQWDZLl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimum statistical representation obtained from an intermediate feature level of the visual hierarchy",
+                "cites": "1"
+            },
+            "id_citations": "wZH_N7cAAAAJ:ziOE8S1-AIUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurobiologically realistic model of statistical pooling in peripheral vision",
+                "cites": "1"
+            },
+            "id_citations": "wZH_N7cAAAAJ:oi2SiIJ9l4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of pedestrian crossing decisions based on vehicle trajectories in large-scale simulated and real-world data",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "wZH_N7cAAAAJ:SnGPuo6Feq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing Toward Minimalism in Vehicle HMI",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:2l5NCbZemmgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep Learning for Understanding the Human",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "wZH_N7cAAAAJ:An6A6Jpfc1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing the road in the blink of an eye-rapid perception of the driver's visual environment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:mUJArPsKIAAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Computation of Statistical Image Properties in Peripheral Vision",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "wZH_N7cAAAAJ:w0F2JDEymm0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the joint impact of bias and power control on downlink spectral efficiency in cellular networks",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "wZH_N7cAAAAJ:-jrNzM816MMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mobile Active Authentication via Linguistic Modalities",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "wZH_N7cAAAAJ:PyEswDtIyv0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of Identity from Behavioral Biometrics for Active Authentication",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "wZH_N7cAAAAJ:QyXJ3EUuO1IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancement of Limb Growth by Non-Thermal Plasma Generated Reactive Species",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "wZH_N7cAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinical Plasma Medicine",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "wZH_N7cAAAAJ:O0nohqN1r9EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bacterial decontamination of water by bipolar pulsed discharge in a gas-liquid-solid three-phase discharge reactor",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "wZH_N7cAAAAJ:DkZNVXde3BIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sterilization of E. coli by pulsed spark discharge in continuous water circulation system",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "wZH_N7cAAAAJ:uVUOdF_882EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visualization of resource allocation in large-scale mobile ad hoc networks",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "wZH_N7cAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MIT DriveSeg (Semi-auto) Dataset: Large-scale Semi-automated Annotation of Semantic Driving Scenes",
+                "cites": "0"
+            },
+            "id_citations": "wZH_N7cAAAAJ:UuEBAcK4md4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MIT DriveSeg (Manual) Dataset for Dynamic Driving Scene Segmentation",
+                "cites": "0"
+            },
+            "id_citations": "wZH_N7cAAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Linguistic Authentication Revisited",
+                "cites": "0"
+            },
+            "id_citations": "wZH_N7cAAAAJ:IsPWOBWtZBwC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=wZH_N7cAAAAJ"
+}

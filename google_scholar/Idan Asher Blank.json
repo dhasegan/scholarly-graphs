@@ -1,0 +1,429 @@
+{
+    "affiliation": "Assistant Professor, UCLA",
+    "cites_per_year": {
+        "2013": 4,
+        "2014": 4,
+        "2015": 9,
+        "2016": 30,
+        "2017": 53,
+        "2018": 84,
+        "2019": 115,
+        "2020": 206
+    },
+    "citedby": 518,
+    "citedby5y": 506,
+    "coauthors": [
+        {
+            "affiliation": "MIT, Associate Professor",
+            "id": "1CgET20AAAAJ",
+            "name": "Evelina (Ev) Fedorenko"
+        },
+        {
+            "affiliation": "Learning Engineer, Carnegie Mellon University",
+            "id": "JM3mJpMAAAAJ",
+            "name": "Zachary Mineroff"
+        },
+        {
+            "affiliation": "Ph.D., MIT",
+            "id": "XUmFLVUAAAAJ",
+            "name": "Kyle Mahowald"
+        },
+        {
+            "affiliation": "Walter A. Rosenblith Professor of Cognitive Neuroscience",
+            "id": "XxBWSgoAAAAJ",
+            "name": "Nancy Kanwisher"
+        },
+        {
+            "affiliation": "Assistant Professor, UC Irvine Language Science",
+            "id": "BzI4ynUAAAAJ",
+            "name": "Richard Futrell"
+        },
+        {
+            "affiliation": "Professor of Cognitive Science, MIT",
+            "id": "4FsWE64AAAAJ",
+            "name": "Edward (Ted) Gibson"
+        },
+        {
+            "affiliation": "University of California, San Diego",
+            "id": "tcCGGDsZJUsC",
+            "name": "Marcelo G Mattar"
+        },
+        {
+            "affiliation": "J. Peter Skirkanich Professor, University of Pennsylvania & Santa Fe Institute",
+            "id": "siYpAPsAAAAJ",
+            "name": "Danielle S. Bassett"
+        },
+        {
+            "affiliation": "Professor, Boston University",
+            "id": "gtT4LcIAAAAJ",
+            "name": "Swathi Kiran"
+        },
+        {
+            "affiliation": "Ohio State University",
+            "id": "RcAhz9kAAAAJ",
+            "name": "Cory Shain"
+        },
+        {
+            "affiliation": "Machine Learning Team, National Institute of Mental Health",
+            "id": "HpbSzssAAAAJ",
+            "name": "Francisco Pereira"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "zykJTC4AAAAJ",
+            "name": "Steven T. Piantadosi"
+        },
+        {
+            "affiliation": "Senior Research Scientist, CSAIL;  MIT Director MIT-IBM Watson AI Lab; Co-director MIT Quest",
+            "id": "FNhl50sAAAAJ",
+            "name": "Aude Oliva"
+        },
+        {
+            "affiliation": "Assistant Professor, MIT",
+            "id": "ROILf3EAAAAJ",
+            "name": "Phillip Isola"
+        },
+        {
+            "affiliation": "Assistant Professor, University of Chicago Department of Psychology",
+            "id": "cHZ2U6UAAAAJ",
+            "name": "Wilma Alice Bainbridge"
+        },
+        {
+            "affiliation": "Cornell University",
+            "id": "AtmDLewAAAAJ",
+            "name": "Marten van Schijndel"
+        },
+        {
+            "affiliation": "Royal Society Dorothy Hodgkin Research Fellow, Cognition and Brain Sciences Unit, Medical Research",
+            "id": "ON4jbJAAAAAJ",
+            "name": "Yaara Erez"
+        },
+        {
+            "affiliation": "Doctoral student, Vanderbilt University",
+            "id": "9wQWoSYAAAAJ",
+            "name": "Evgeniia Diachek"
+        },
+        {
+            "affiliation": "Department of Hearing and Speech Sciences, Vanderbilt University Medical Center",
+            "id": "ZrNu26kAAAAJ",
+            "name": "Melissa Duff"
+        },
+        {
+            "affiliation": "Associate Professor, Department of Psychology & Human Development, Vanderbilt University",
+            "id": "zrFm4_YAAAAJ",
+            "name": "Sarah Brown-Schmidt"
+        }
+    ],
+    "email": "@psych.ucla.edu",
+    "hindex": 12,
+    "hindex5y": 12,
+    "i10index": 16,
+    "i10index5y": 15,
+    "id": "hKasFiEAAAAJ",
+    "interests": [
+        "Cognitive neuroscience",
+        "language processing",
+        "conceptual representations"
+    ],
+    "name": "Idan Asher Blank",
+    "publications": [
+        {
+            "bib": {
+                "title": "A functional dissociation between language and multiple-demand systems revealed in patterns of BOLD signal fluctuations",
+                "cites": "89",
+                "year": "2014"
+            },
+            "id_citations": "hKasFiEAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional network dynamics of the language system",
+                "cites": "86",
+                "year": "2016"
+            },
+            "id_citations": "hKasFiEAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Syntactic processing is distributed across the language system",
+                "cites": "77",
+                "year": "2016"
+            },
+            "id_citations": "hKasFiEAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The natural stories corpus",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "hKasFiEAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A robust dissociation among the language, multiple demand, and default mode networks: evidence from inter-region correlations in effect size",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "hKasFiEAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain-general brain regions do not track linguistic input as closely as language-selective regions",
+                "cites": "27",
+                "year": "2017"
+            },
+            "id_citations": "hKasFiEAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functionally distinct language and Theory of Mind networks are synchronized at rest and during language comprehension",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "hKasFiEAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Establishing a database for studying human face photograph memory",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "hKasFiEAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lack of selectivity for syntax relative to word meanings throughout the language network",
+                "cites": "20",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An attempt to conceptually replicate the dissociation between syntax and semantics during sentence comprehension",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "hKasFiEAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI reveals language-specific predictive coding during naturalistic sentence comprehension",
+                "cites": "14",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrated neural framework for dynamic and static face processing",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "hKasFiEAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "hKasFiEAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The domain-general multiple demand (MD) network does not support core aspects of language comprehension: a large-scale fMRI investigation",
+                "cites": "11",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The structure of face\u2013space is tolerant to lighting and viewpoint transformations",
+                "cites": "11",
+                "year": "2011"
+            },
+            "id_citations": "hKasFiEAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Broca\u2019s area is not a natural kind",
+                "cites": "10",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can neuroimaging help aphasia researchers? Addressing generalizability, variability, and interpretability",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "hKasFiEAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Activity in the fronto-parietal multiple-demand network is robustly associated with individual differences in working memory and fluid intelligence",
+                "cites": "6",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Syntactic dependencies correspond to word pairs with high mutual information",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "hKasFiEAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expanding the language network: Domain-specific hippocampal recruitment during high-level linguistic processing",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "hKasFiEAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "No evidence for differences among language regions in their temporal receptive windows",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional reorganization of the large-scale brain networks that support high-level cognition following brain damage in aphasia",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "hKasFiEAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incremental language comprehension difficulty predicts activity in the language network but not the multiple demand network",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Functional architecture of language comprehension mechanisms: fundamental principles revealed with fMRI",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "hKasFiEAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Artificial Neural Networks Accurately Predict Language Processing in the Brain",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "hKasFiEAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The small and efficient language network of polyglots and hyper-polyglots",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "hKasFiEAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstracts Fourth Biennial Conference on Resting State Brain Connectivity September 11\u201313, 2014 Boston/Cambridge, Massachusetts, USA",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "hKasFiEAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tolerance is tolerance of similarities: behavioral and computational evidence for a view-tolerant identity representation in face-space",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "hKasFiEAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Third Order Isomorphism Between Transformation-specific Similarities in Face-space: A Cognitive Account of Tolerance to Identity-preserving Transformations in Face Processing",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "hKasFiEAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is Face-Space a Solution to the Invariance Problem?",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "hKasFiEAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Word meanings and sentence structure recruit the same set of fronto-temporal regions",
+                "cites": "0"
+            },
+            "id_citations": "hKasFiEAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Does linguistic ability impact nonlinguistic learning? The neural bases of nonlinguistic learning in aphasia",
+                "cites": "0"
+            },
+            "id_citations": "hKasFiEAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic projection: Recovering human knowledge of multiple, distinct object properties from natural word collocations",
+                "cites": "0"
+            },
+            "id_citations": "hKasFiEAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=hKasFiEAAAAJ",
+    "alternate_names": [
+        "Idan Blank"
+    ]
+}

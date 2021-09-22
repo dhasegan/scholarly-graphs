@@ -1,0 +1,509 @@
+{
+    "affiliation": "School of Computing and Information Systems, The University of Melbourne",
+    "cites_per_year": {
+        "2009": 17,
+        "2010": 54,
+        "2011": 158,
+        "2012": 266,
+        "2013": 386,
+        "2014": 549,
+        "2015": 573,
+        "2016": 726,
+        "2017": 805,
+        "2018": 638,
+        "2019": 742,
+        "2020": 410
+    },
+    "citedby": 5359,
+    "citedby5y": 3899,
+    "coauthors": [],
+    "email": "@unimelb.edu.au",
+    "hindex": 16,
+    "hindex5y": 14,
+    "i10index": 19,
+    "i10index5y": 16,
+    "id": "EdGfpdcAAAAJ",
+    "interests": [
+        "vision",
+        "computer vision",
+        "artificial intelligence"
+    ],
+    "name": "Krista Ehinger",
+    "publications": [
+        {
+            "bib": {
+                "title": "Sun database: Large-scale scene recognition from abbey to zoo",
+                "cites": "2177",
+                "year": "2010"
+            },
+            "id_citations": "EdGfpdcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to predict where humans look",
+                "cites": "1864",
+                "year": "2009"
+            },
+            "id_citations": "EdGfpdcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modelling search for people in 900 scenes: A combined source model of eye guidance",
+                "cites": "336",
+                "year": "2009"
+            },
+            "id_citations": "EdGfpdcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sun database: Exploring a large collection of scene categories",
+                "cites": "223",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognizing scene viewpoint using panoramic place representation",
+                "cites": "185",
+                "year": "2012"
+            },
+            "id_citations": "EdGfpdcAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking the role of top-down attention in vision: Effects attributable to a lossy representation in peripheral vision",
+                "cites": "136",
+                "year": "2012"
+            },
+            "id_citations": "EdGfpdcAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Turkergaze: Crowdsourcing saliency with webcam based eye tracking",
+                "cites": "114",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A general account of peripheral encoding also predicts scene perception performance",
+                "cites": "56",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel graph-based optimization framework for salient object detection",
+                "cites": "33",
+                "year": "2017"
+            },
+            "id_citations": "EdGfpdcAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating scene typicality from human ratings and image features",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "EdGfpdcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of color in visual search in real-world scenes: Evidence from contextual cuing",
+                "cites": "27",
+                "year": "2008"
+            },
+            "id_citations": "EdGfpdcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CB Database: A change blindness database for objects in natural indoor scenes",
+                "cites": "20",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Through the looking-glass: Objects in the mirror are less real",
+                "cites": "20",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When is it time to move to the next map? Optimal foraging in guided visual search",
+                "cites": "19",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic level scene understanding: categories, attributes and structures",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "EdGfpdcAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How visual and semantic information influence learning in familiar contexts.",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "EdGfpdcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Guided Search 5.0: Meeting the challenge of hybrid search and multiple-target foraging",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparing search patterns in digital breast tomosynthesis and full-field digital mammography: an eye tracking study",
+                "cites": "13",
+                "year": "2017"
+            },
+            "id_citations": "EdGfpdcAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Canonical views of scenes depend on the shape of the space",
+                "cites": "10",
+                "year": "2011"
+            },
+            "id_citations": "EdGfpdcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A prior-based graph for salient object detection",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "EdGfpdcAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local depth edge detection in humans and deep neural networks",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "EdGfpdcAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Change blindness for cast shadows in natural scenes: Even informative shadow changes are missed",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic level scene understanding: From labels to structure and beyond",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "EdGfpdcAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A taxonomy of visual scenes: Typicality ratings and hierarchical classification",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "EdGfpdcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hypergraph optimization for salient region detection based on foreground and background queries",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "EdGfpdcAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic hypergraph optimization for salient object detection",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "EdGfpdcAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How is visual search guided by shape? using features from deep learning to understand preattentive shape space",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling visual search in a thousand scenes: the roles of saliency, target features, and scene context",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "EdGfpdcAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual search through a 3D volume: studying novices in order to help radiologists",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What can we learn from eye tracking data on 20,000 images?",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foraging in satellite imagery: When is it time to move to the next map?",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Through the Looking-Glass: Are objects in mirrors really objects?",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "EdGfpdcAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Foraging and navigating in a virtual orchard: Which tree do you visit next?",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "EdGfpdcAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual features for scene recognition and reorientation",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "EdGfpdcAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monocular depth discrimination in natural scenes: Humans vs. deep networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "EdGfpdcAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of 2D Shape on Contour Depth Perception",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "EdGfpdcAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human-Centered Categorization of Natural Scenes",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "EdGfpdcAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Use of local image information in depth edge classification by humans and neural networks",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "EdGfpdcAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to identify depth edges in real-world images with 3D ground truth",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "EdGfpdcAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum to: A novel graph-based optimization framework for salient object detection [Pattern Recognition 64C (2017) 39\u201350]",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "EdGfpdcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How did you hide my bunny? Using a genetic algorithm to investigate preattentive processing of shape in visual search.",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of simple primitive shapes in complex distractors: Do shared features affect search times?",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A general account of peripheral encoding also predicts scene perception",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "EdGfpdcAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When is stereopsis useful in visual search?",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "EdGfpdcAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture statistics predict human performance on a range of scene-perception tasks",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "EdGfpdcAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying boundary extension in scenes",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "EdGfpdcAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What determines the canonical view of a scene?",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "EdGfpdcAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What Did the Early American Presidents Really Look Like? Gilbert Stuart Portraits as a \u201cRosetta Stone\u201d to the Pre-Photography Era",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "EdGfpdcAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene categorization and detection: the power of global features",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "EdGfpdcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing the shape and texture of natural objects using Active Appearance Models",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "EdGfpdcAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Closer Look at Generalisation in RAVEN",
+                "cites": "0"
+            },
+            "id_citations": "EdGfpdcAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Building a taxonomy of visual scenes: Typicality ratings and hierarchical classification",
+                "cites": "0"
+            },
+            "id_citations": "EdGfpdcAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognizing Scene Viewpoint using Panoramic Place Representation Supplementary Material: Algorithm Analysis",
+                "cites": "0"
+            },
+            "id_citations": "EdGfpdcAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=EdGfpdcAAAAJ"
+}

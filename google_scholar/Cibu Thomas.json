@@ -1,0 +1,444 @@
+{
+    "affiliation": "Center for Scientific Review",
+    "cites_per_year": {
+        "2007": 13,
+        "2008": 44,
+        "2009": 86,
+        "2010": 103,
+        "2011": 163,
+        "2012": 165,
+        "2013": 192,
+        "2014": 228,
+        "2015": 248,
+        "2016": 274,
+        "2017": 321,
+        "2018": 300,
+        "2019": 307,
+        "2020": 224
+    },
+    "citedby": 2712,
+    "citedby5y": 1681,
+    "coauthors": [
+        {
+            "affiliation": "Professor, Cognitive Neuroscience, Carnegie Mellon University",
+            "id": "JgSIQAYAAAAJ",
+            "name": "Marlene Behrmann"
+        },
+        {
+            "affiliation": "Senior Investigator, NIMH",
+            "id": "RTtshYYAAAAJ",
+            "name": "Chris Baker"
+        },
+        {
+            "affiliation": "NIBIB, NIH",
+            "id": "sF8PNIIAAAAJ",
+            "name": "Carlo Pierpaoli"
+        }
+    ],
+    "email": "@nih.gov",
+    "hindex": 17,
+    "hindex5y": 17,
+    "i10index": 19,
+    "i10index5y": 17,
+    "id": "tyQ3egMAAAAJ",
+    "interests": [
+        "Cognitive Neuroscience"
+    ],
+    "name": "Cibu Thomas",
+    "publications": [
+        {
+            "bib": {
+                "title": "Anatomical accuracy of brain connections derived from diffusion MRI tractography is inherently limited",
+                "cites": "470",
+                "year": "2014"
+            },
+            "id_citations": "tyQ3egMAAAAJ:TGkaJS32XoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing it differently: visual processing in autism",
+                "cites": "453",
+                "year": "2006"
+            },
+            "id_citations": "tyQ3egMAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mirror up to nature",
+                "cites": "377",
+                "year": "2008"
+            },
+            "id_citations": "tyQ3egMAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced structural connectivity in ventral visual cortex in congenital prosopagnosia",
+                "cites": "297",
+                "year": "2009"
+            },
+            "id_citations": "tyQ3egMAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Teaching an adult brain new tricks: a critical review of evidence for training-dependent structural plasticity in humans",
+                "cites": "229",
+                "year": "2013"
+            },
+            "id_citations": "tyQ3egMAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Normal movement selectivity in autism",
+                "cites": "194",
+                "year": "2010"
+            },
+            "id_citations": "tyQ3egMAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The anatomy of the callosal and visual-association pathways in high-functioning autism: a DTI tractography study",
+                "cites": "121",
+                "year": "2011"
+            },
+            "id_citations": "tyQ3egMAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduction in white matter connectivity, revealed by diffusion tensor imaging, may account for age-related changes in face perception",
+                "cites": "116",
+                "year": "2008"
+            },
+            "id_citations": "tyQ3egMAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global motion perception deficits in autism are reflected as early as primary visual cortex",
+                "cites": "86",
+                "year": "2014"
+            },
+            "id_citations": "tyQ3egMAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinical feasibility of using mean apparent propagator (MAP) MRI to characterize brain tissue microstructure",
+                "cites": "56",
+                "year": "2016"
+            },
+            "id_citations": "tyQ3egMAAAAJ:XAp-VaTZjjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Limits to anatomical accuracy of diffusion tractography using modern approaches",
+                "cites": "55",
+                "year": "2019"
+            },
+            "id_citations": "tyQ3egMAAAAJ:V_vSwabWVtYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of time-of-day on brain morphometric measures derived from T1-weighted magnetic resonance imaging",
+                "cites": "44",
+                "year": "2016"
+            },
+            "id_citations": "tyQ3egMAAAAJ:M_lZXyI38BkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enabling global processing in simultanagnosia by psychophysical biasing of visual pathways",
+                "cites": "41",
+                "year": "2012"
+            },
+            "id_citations": "tyQ3egMAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emerging structure\u2013function relations in the developing face processing system",
+                "cites": "39",
+                "year": "2014"
+            },
+            "id_citations": "tyQ3egMAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DR-TAMAS: Diffeomorphic Registration for Tensor Accurate Alignment of Anatomical Structures",
+                "cites": "28",
+                "year": "2016"
+            },
+            "id_citations": "tyQ3egMAAAAJ:v_tt_AnqfNMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion MRI properties of the human uncinate fasciculus correlate with the ability to learn visual associations",
+                "cites": "24",
+                "year": "2015"
+            },
+            "id_citations": "tyQ3egMAAAAJ:0sTkTiv_uMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impact of time-of-day on diffusivity measures of brain tissue derived from diffusion tensor imaging",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "tyQ3egMAAAAJ:SpPTWFSNUtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impairments in face perception",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "tyQ3egMAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Remodeling human cortex through training: comment on May",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "tyQ3egMAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On evidence, biases and confounding factors: Response to commentaries",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "tyQ3egMAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An integrative approach towards understanding the psychological and neural basis of congenital prosopagnosia",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "tyQ3egMAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tensor\u2010based morphometry using scalar and directional information of diffusion tensor MRI data (DTBM): Application to hereditary spastic paraplegia",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "tyQ3egMAAAAJ:cNe27ouKFcQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Congenital and acquired prosopagnosia: Flip sides of the same coin?",
+                "cites": "5",
+                "year": "2010"
+            },
+            "id_citations": "tyQ3egMAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dysfunctional mirror neurons and Autism\u2013A doubtful connection",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "tyQ3egMAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disruption in structural connectivity in ventral cortex in congenital prosopagnosia",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "tyQ3egMAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding the baby in the bath water\u2013evidence for task-specific changes in resting state functional connectivity evoked by training",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "tyQ3egMAAAAJ:4n0clTBhZ78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of time of day on reward circuitry. A discussion of Byrne et al. 2017",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "tyQ3egMAAAAJ:sbeIDTyQOFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain morphometry driven by DTI data in Moebius syndrome and hereditary congenital facial paresis",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "tyQ3egMAAAAJ:uAPFzskPt0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual perceptual organization in adults with autism",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "tyQ3egMAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The spatiotemporal profile of diffusion MRI based measures of microstructural changes in white matter evoked by learning novel visual scenes",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "tyQ3egMAAAAJ:MDX3w3dAD3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding the baby in the bath water\u2013evidence for training-specific changes in MRI measures of brain structure and function",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "tyQ3egMAAAAJ:RfUwGJFMQ-0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prospective Motion Correction (PROMO) enabled MP2RAGE for multi-contrast high-resolution brain imaging",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "tyQ3egMAAAAJ:hHIA4WEVY-EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural properties of white matter circuits necessary for face perception",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "tyQ3egMAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anatomical Accuracy of Diffusion MRI Tractography: Testing the Fundamental Limits",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "tyQ3egMAAAAJ:rbGdIwl2e6cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Atypical Integration of Motion Signals in Autism",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "tyQ3egMAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Position in space defines the structure of object representations throughout the ventral visual pathway",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "tyQ3egMAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The basis of global and local visual perception revealed by psychophysical \u2018lesions\u2019",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "tyQ3egMAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal and spatial properties of shape processing in the human visual cortex: combined fMRI and MEG adaptation",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "tyQ3egMAAAAJ:q0uBw5dMOAkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are there perceptual alterations in modalities other than vision?",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "tyQ3egMAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-dimensional crustal structure of the Erzincan basin, Eastern Turkey and relocations of the 1992 Erzincan earthquake (Ms= 6.8) aftershock sequence B. Kaypak and H. Eyidogan \u2026",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "tyQ3egMAAAAJ:g_UdREhPGEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global and local visual processing in autism: Insights from heterogeneous hierarchical letter stimuli.",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "tyQ3egMAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding the baby in the bath water\u2013evidence for task-specific changes in resting state functional connectivity evoked by training",
+                "cites": "0"
+            },
+            "id_citations": "tyQ3egMAAAAJ:0ngZmJvimKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "106 The variable nature of cognitive control: a dual mechanisms framework 114 Brain-to-brain coupling: a mechanism for creating and sharing a social world",
+                "cites": "0"
+            },
+            "id_citations": "tyQ3egMAAAAJ:X4-KO54GjGYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual white-matter matters",
+                "cites": "0"
+            },
+            "id_citations": "tyQ3egMAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=tyQ3egMAAAAJ"
+}

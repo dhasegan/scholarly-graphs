@@ -1,0 +1,2112 @@
+{
+    "affiliation": "University of California, San Francisco",
+    "cites_per_year": {
+        "1998": 52,
+        "1999": 73,
+        "2000": 74,
+        "2001": 96,
+        "2002": 71,
+        "2003": 68,
+        "2004": 79,
+        "2005": 117,
+        "2006": 157,
+        "2007": 232,
+        "2008": 266,
+        "2009": 370,
+        "2010": 515,
+        "2011": 638,
+        "2012": 844,
+        "2013": 1001,
+        "2014": 1275,
+        "2015": 1299,
+        "2016": 1645,
+        "2017": 1622,
+        "2018": 1479,
+        "2019": 1686,
+        "2020": 1161
+    },
+    "citedby": 15068,
+    "citedby5y": 8922,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Neuroscience and Psychology, University of California,Berkeley",
+            "id": "s7gOlh8AAAAJ",
+            "name": "Mark D'Esposito"
+        }
+    ],
+    "email": "@ucsf.edu",
+    "hindex": 58,
+    "hindex5y": 47,
+    "i10index": 119,
+    "i10index5y": 111,
+    "id": "0aOK9u4AAAAJ",
+    "interests": [
+        "Cognitive Neuroscience",
+        "Neuroscience"
+    ],
+    "name": "Adam Gazzaley",
+    "publications": [
+        {
+            "bib": {
+                "title": "Video game training enhances cognitive control in older adults",
+                "cites": "1236",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation: bridging selective attention and working memory",
+                "cites": "944",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down suppression deficit underlies working memory impairment in normal aging",
+                "cites": "895",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alterations in the BOLD fMRI signal with ageing and disease: a challenge for neuroimaging",
+                "cites": "861",
+                "year": "2003"
+            },
+            "id_citations": "0aOK9u4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring functional connectivity during distinct stages of a cognitive task",
+                "cites": "709",
+                "year": "2004"
+            },
+            "id_citations": "0aOK9u4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal role of the prefrontal cortex in top-down modulation of visual processing and working memory",
+                "cites": "550",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down enhancement and suppression of the magnitude and speed of neural activity",
+                "cites": "519",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related top-down suppression deficit in the early stages of cortical visual memory processing",
+                "cites": "433",
+                "year": "2008"
+            },
+            "id_citations": "0aOK9u4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential regulation of NMDAR1 mRNA and protein by estradiol in the rat hippocampus",
+                "cites": "432",
+                "year": "1996"
+            },
+            "id_citations": "0aOK9u4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional connectivity during working memory maintenance",
+                "cites": "346",
+                "year": "2004"
+            },
+            "id_citations": "0aOK9u4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional interactions between prefrontal and visual association cortex contribute to top-down modulation of visual processing",
+                "cites": "266",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural suppression of irrelevant information underlies optimal working memory performance",
+                "cites": "262",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top\u2010down modulation and normal aging",
+                "cites": "235",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of perceptual training on working memory in older adults",
+                "cites": "234",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deficit in switching between functional brain networks underlies the impact of multitasking on working memory in older adults",
+                "cites": "216",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of noninvasive brain stimulation on cognitive function in healthy aging and Alzheimer's disease: a systematic review and meta-analysis",
+                "cites": "203",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit-specific alterations of N-methyl-D-aspartate receptor subunit 1 in the dentate gyrus of aged monkeys",
+                "cites": "203",
+                "year": "1996"
+            },
+            "id_citations": "0aOK9u4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measurement of cerebral perfusion with arterial spin labeling: Part 1. Methods",
+                "cites": "201",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential coupling of visual cortex with default or frontal-parietal network based on goals",
+                "cites": "187",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reward modulation of prefrontal and visual association cortex during an incentive working memory task",
+                "cites": "159",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fronto-parietal network: flexible hub of cognitive control",
+                "cites": "157",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early top\u2013down control of visual processing predicts working memory performance",
+                "cites": "156",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of working memory disruption by external interference",
+                "cites": "155",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The distracted mind: Ancient brains in a high-tech world",
+                "cites": "154",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Influence of early attentional modulation on working memory",
+                "cites": "153",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The use and effectiveness of mobile apps for depression: results from a fully remote clinical trial",
+                "cites": "151",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subjective aspects of cognitive control at different stages of processing",
+                "cites": "149",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related changes in 1/f neural electrophysiological noise",
+                "cites": "145",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic adjustments in prefrontal, hippocampal, and inferior temporal interactions with increasing visual working memory load",
+                "cites": "137",
+                "year": "2008"
+            },
+            "id_citations": "0aOK9u4AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct mechanisms for the impact of distraction and interruption on working memory in aging",
+                "cites": "134",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preserved number of entorhinal cortex layer II neurons in aged macaque monkeys",
+                "cites": "129",
+                "year": "1997"
+            },
+            "id_citations": "0aOK9u4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reducing vascular variability of fMRI data across aging populations using a breathholding task",
+                "cites": "123",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential subcellular regulation of NMDAR1 protein and mRNA in dendrites of dentate gyrus granule cells after perforant path transection",
+                "cites": "123",
+                "year": "1997"
+            },
+            "id_citations": "0aOK9u4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation of visual feature processing: the role of the inferior frontal junction",
+                "cites": "119",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic distribution of the AMPA-GluR2 subunit and its colocalization with calcium-binding proteins in rat cerebral cortex: an immunohistochemical study using a GluR2-specific \u2026",
+                "cites": "117",
+                "year": "1996"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Delays in neural processing during working memory encoding in normal aging",
+                "cites": "115",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unifying prefrontal cortex function: Executive control, neural networks, and top-down modulation.",
+                "cites": "112",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of non-visual working memory load on top-down modulation of visual processing",
+                "cites": "111",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Authority, anxiety, and canon: essays in Vedic interpretation",
+                "cites": "108",
+                "year": "1994"
+            },
+            "id_citations": "0aOK9u4AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related deficits in component processes of working memory.",
+                "cites": "106",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related changes in orienting attention in time",
+                "cites": "105",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expectation-driven changes in cortical functional connectivity influence working memory and long-term memory performance",
+                "cites": "101",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention and ageing.",
+                "cites": "96",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinical\u2010neuroimaging characteristics of dysexecutive mild cognitive impairment",
+                "cites": "95",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive training diminishes distractibility in aging across species",
+                "cites": "92",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Homing in on consciousness in the nervous system: An action-based synthesis",
+                "cites": "88",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural mechanisms underlying the impact of visual distraction on retrieval of long-term memory",
+                "cites": "85",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Is the prefrontal cortex necessary for delay task performance? Evidence from lesion and FMRI data",
+                "cites": "84",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive knowledge of stimulus relevance does not influence top-down suppression of irrelevant information in older adults",
+                "cites": "83",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conducting a fully mobile and randomised clinical trial for depression: access, engagement and expense",
+                "cites": "80",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Video games, cognitive exercises, and the enhancement of cognitive abilities",
+                "cites": "78",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response bias and aging on a recognition memory task",
+                "cites": "74",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cathodal transcranial direct current stimulation over left dorsolateral prefrontal cortex area promotes implicit motor learning in a golf putting task",
+                "cites": "73",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Video games for neuro-cognitive optimization",
+                "cites": "70",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structural and functional differences in medial prefrontal cortex underlie distractibility and suppression deficits in ageing",
+                "cites": "68",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An expectation-based memory deficit in aging",
+                "cites": "62",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible rule use: common neural substrates in children and adults",
+                "cites": "58",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural indices of improved attentional modulation over middle childhood",
+                "cites": "58",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conscious thoughts from reflex-like processes: A new experimental paradigm for consciousness research",
+                "cites": "57",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practice-related improvement in working memory is modulated by changes in processing external interference",
+                "cites": "56",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indirect cognitive control through top\u2010down activation of perceptual symbols",
+                "cites": "55",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Delayed enhancement of multitasking performance: effects of anodal transcranial direct current stimulation on the prefrontal cortex",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "External control of the stream of consciousness: Stimulus-based effects on involuntary thought sequences",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociation of motor and sensory inhibition processes in normal aging",
+                "cites": "53",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic spine plasticity in hippocampus",
+                "cites": "52",
+                "year": "2002"
+            },
+            "id_citations": "0aOK9u4AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prolonged disengagement from attentional capture in normal aging.",
+                "cites": "50",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Homing in on the brain mechanisms linked to consciousness: Buffer of the perception-and-action interface",
+                "cites": "48",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving methodological standards in behavioral interventions for cognitive enhancement",
+                "cites": "47",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive conflict and consciousness.",
+                "cites": "47",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diminished top-down control underlies a visual imagery deficit in normal aging",
+                "cites": "44",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BOLD functional MRI and cognitive aging",
+                "cites": "44",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancing cognition in the presence of distraction and/or interruption",
+                "cites": "43",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Involuntary symbol manipulation (Pig Latin) from external control: Implications for thought suppression",
+                "cites": "43",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of auditory distraction on retrieval of visual memories",
+                "cites": "38",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurorehabilitation of executive function",
+                "cites": "35",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cholinergic enhancement of functional networks in older adults with mild cognitive impairment",
+                "cites": "34",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harnessing the neuroplastic potential of the human brain & the future of cognitive rehabilitation",
+                "cites": "33",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The impact of visual distraction on episodic retrieval in older adults",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training sensory signal-to-noise resolution in children with ADHD in a global mental health setting",
+                "cites": "30",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural plasticity underlying visual perceptual learning in aging",
+                "cites": "30",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention distributed across sensory modalities enhances perceptual performance",
+                "cites": "29",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recommendations for the use of serious games in neurodegenerative disorders: 2016 Delphi Panel",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to assess gaming-induced benefits on attention and working memory",
+                "cites": "28",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distractibility during episodic retrieval is exacerbated by perturbation of left ventrolateral prefrontal cortex",
+                "cites": "28",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cognitive framework for understanding and improving interference resolution in the brain",
+                "cites": "27",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability measures of functional magnetic resonance imaging in a longitudinal evaluation of mild cognitive impairment",
+                "cites": "26",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closed-loop cognition: the next frontier arrives",
+                "cites": "25",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional oculomotor network and saccadic cognitive control in healthy elders",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network dynamics predict improvement in working memory performance following donepezil administration in healthy young adults",
+                "cites": "23",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-equivalent top\u2013down modulation during cross-modal selective attention",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural networks: an empirical neuroscience approach toward understanding cognition",
+                "cites": "22",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preparatory encoding of the fine scale of human spatial attention",
+                "cites": "21",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancing spatial attention and working memory in younger and older adults",
+                "cites": "20",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural sources of performance decline during continuous multitasking",
+                "cites": "19",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closed-loop rehabilitation of age-related cognitive disorders",
+                "cites": "19",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The acute and chronic impact of technology on our brain",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anticipatory alpha phase influences visual working memory performance",
+                "cites": "17",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Traditional response interference effects from anticipated action outcomes: A response\u2013effect compatibility paradigm",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The contribution of functional brain imaging to our understanding of cognitive aging",
+                "cites": "17",
+                "year": "2003"
+            },
+            "id_citations": "0aOK9u4AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid functional reorganization in human cortex following neural perturbation",
+                "cites": "16",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u25a0 REVIEW: Glutamate Receptors: Emerging Links Between Subunit Proteins and Specific Excitatory Circuits in Primate Hippocampus and Neocortex",
+                "cites": "16",
+                "year": "1996"
+            },
+            "id_citations": "0aOK9u4AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preserved discrimination performance and neural processing during crossmodal attention in aging",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancement of multitasking performance and neural oscillations by transcranial alternating current stimulation",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentional updating and monitoring and affective shifting are impacted independently by aging in macaque monkeys",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconciling the influence of task-set switching and motor inhibition processes on stop signal after-effects",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparable mechanisms of working memory interference by auditory and visual motion in youth and aging",
+                "cites": "14",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closed-loop digital meditation improves sustained attention in young adults",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processor Implemented Systems and Methods for Measuring Cognitive Abilities",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expectations of task demands dissociate working memory and long-term memory systems",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attenuated lesion-induced N-methyl-D-aspartate receptor (NMDAR) plasticity in the dentate gyrus of aged rats following perforant path lesions",
+                "cites": "13",
+                "year": "2001"
+            },
+            "id_citations": "0aOK9u4AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using mobile apps to assess and treat depression in Hispanic and Latino populations: fully remote randomized clinical trial",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial attention and the effects of frontoparietal alpha band stimulation",
+                "cites": "12",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The distracted mind",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method of suppressing of irrelevant stimuli",
+                "cites": "11",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cross-species approaches to cognitive neuroplasticity research",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Characterizing cognitive and visuomotor control in children with sensory processing dysfunction and autism spectrum disorders.",
+                "cites": "10",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "External distraction impairs categorization performance in older adults.",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation in visual working memory",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predictive cues and age-related declines in working memory performance",
+                "cites": "9",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related changes in expectation-based modulation of motion detectability",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can age-associated memory decline be treated?",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Externally controlled involuntary cognitions and their relations with other representations in consciousness",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retrieval of high-fidelity memory arises from distributed cortical networks",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring the potential of the iPad and Xbox Kinect for cognitive science research",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selective attention and inhibitory control in the aging brain.",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Passive frame theory: A new synthesis.",
+                "cites": "7",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subjective aspects of action control for delayed actions: action-related imagery.",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods of Enhancing Cognition and Systems for Practicing the Same",
+                "cites": "6",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methodological and conceptual issues in the study of the aging brain",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age differences in N170 amplitude modulation by selective attention and working memory load",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unifying prefrontal cortex function",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum: Top-down suppression deficit underlies working memory impairment in normal aging",
+                "cites": "6",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric effects of transcranial alternating current stimulation on multitasking performance",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential impact of interference on internally-and externally-directed attention",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subjective aspects of working memory performance: Memoranda-related imagery",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations in working memory yield interference effects found with externally-triggered representations",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related alterations of the N-methyl-D-aspartate receptor in the dentate gyrus.",
+                "cites": "5",
+                "year": "1996"
+            },
+            "id_citations": "0aOK9u4AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A videogame-based digital therapeutic to improve processing speed in people with multiple sclerosis: a feasibility study",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence of a causal role for mid-ventrolateral prefrontal cortex based functional networks in retrieving high-fidelity memory",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "and the Ageing Brain",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulating the aging brain",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Considerations for the application of BOLD functional magnetic resonance imaging to neurologically impaired populations",
+                "cites": "4",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurobiological correlates of imaging",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Aging of the frontal lobe",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Focus on the breath: Brain decoding reveals internal states of attention during meditation",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods of Enhancing Performance on a Cognitive Task by Improved Self-Regulation of Internal Distraction and Computer Readable Medium and Devices for Practicing the Same",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation: The crossroads of perception, attention and memory",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "White matter microstructure associations of cognitive and visuomotor control in children: a sensory processing perspective",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tablet-based assessment of rhythmic ability",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The frontal lobes and cognitive control.",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Plasticity of cognitive control in adolescents with adverse childhood experiences",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Cognitive Paradigm to Investigate Interference in Working Memory by Distractions and Interruptions",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flavanol-rich food for thought",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentional control of multisensory integration is preserved in aging",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unifying the prefrontal cortex: executive control, neural networks and top-down modulation",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional MRI and Alzheimer\u2019s disease",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for a capacity-limited working memory control mechanism in the posterior frontolateral cortex",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linked sources of neural noise contribute to age-related cognitive decline",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closed-loop digital meditation for neurocognitive and behavioral development in adolescents with childhood neglect",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Involuntary mental rotation and visuospatial imagery from external control",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancing Cognition in the Presence of Distraction and/or Interruption",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "0aOK9u4AAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IC-P-141: Exercise to enhance hippocampal function and memory in older adults: Proof of concept findings from a 12-week exercise intervention trial",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of stimulus anticipation in an age-related topdown suppression deficit",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "0aOK9u4AAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Changes Induced by Cognitive Task Practice: An fMRI Model for Studying Cognitive Rehabilitation P02. 110",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Considerations for the application of BOLD fMRI to neurologically impaired populations",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation of visual association cortex in younger and older adults",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal sensory integration: Diminishing returns in rhythmic synchronization.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal attention is not affected by working memory load",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:sNmaIFBj_lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel in-home digital treatment to improve processing speed in people with multiple sclerosis: A pilot study",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards a compassionate intersectional neuroscience: Increasing diversity and equity in contemplative neuroscience",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linking inhibitory control to math achievement via comparison of conflicting decimal numbers",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinical And Demographic Features Predict The Response To A Digital Treatment Designed To Improve Processing Speed In People With Multiple Sclerosis",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced Attention Using Head-mounted Virtual Reality",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Processor-implemented systems and methods for enhancing cognitive abilities by personalizing cognitive training regimens",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Involuntary attentional shifts as a function of set and processing fluency",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "0aOK9u4AAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How do we validate approaches that aim to harness reserve to improve the aging brain?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EVENT RELATED POTENTIALS OF EMOTIONALLY VALENCED STIMULI DURING A WORKING MEMORY TASK",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel home-based digital treatment to improve processing speed in people with multiple sclerosis: a pilot study",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximal Oxygen Uptake Responders Versus Non-responders Show Differing Cognitive Responses to Movement-based Video Game Training: 3082: Board# 128 May 31 3: 30 PM-5: 00 PM",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "JMIR Publications",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "0aOK9u4AAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "0750 SLEEP DURATION AND QUALITY ARE ASSOCIATED WITH PERFORMANCE ON A COGNITIVELY TAXING GAIT TASK",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SLEEP LOADING IMPROVES VISUAL SEARCH RESPONSE TIME AND REDUCES FATIGUE IN PROFESSIONAL BASEBALL PLAYERS",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "0aOK9u4AAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The term attention is multifaceted and often refers to a set of cognitive processes that transcends a single definition or overarching theory (Parasuraman, 1998). The goal of \u2026",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological And Cognitive Adaptations To 8 Weeks Of Training On A Movement-based Video Game: 3225 Board# 290 June 3, 2: 00 PM-3: 30 PM",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training sensory signal-to-noise resolution in children with ADHD in a global mental health setting",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "0aOK9u4AAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Academic biography",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing plasticity of attention and working memory processes induced by video game play.",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "0aOK9u4AAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "David A. Ziegler, Ph. D.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "0aOK9u4AAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preserved discrimination performance and neural processing during crossmodal attention in aging",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-Related Changes in Expectation-Based Modulation of Motion Detectability",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P3\u2013107: Test\u2010retest reliability of task fMRI across three sessions in people with mild cognitive impairment",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "It's the Right Brain: The Impact of Education on Higher-Level Brain Organization in Healthy Elders Performing an Executive Function Task (P01. 006)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INCREASED VISUAL CORTICAL NOISE DECREASES CUED VISUAL ATTENTION DISTRIBUTION",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Timing of cortical excitability during a visual working memory task",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BOTH PERCEPTUAL AND CENTRAL INTERFERENCE CONTRIBUTE TO DUAL-TASK COSTS",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Impact of Interference on Working Memory and Long-Term Memory in Aging",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related differences in multitasking under working memory load",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DISTRACTION IMPAIRS VISUAL ORIENTATION DISCRIMINATION AND CATEGORIZATION ABILITIES IN OLDER ADULTS",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Restorative effects of nature image breaks on multitasking performance",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of age and external noise on self-regulation of internal distractions",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Effects of Aging on White Matter and Cognitive Rhythms",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "0aOK9u4AAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P1\u2010168: A longitudinal fMRI study of cholinergic modulation in nondemented patients with mild memory impairment",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BNA REVEALS FM-THETA NETWORK IN A WORKING MEMORY TASK PERFORMED UNDER DONEPEZIL AND PLACEBO CONDITIONS.: OI-A-2",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Conflict and Consciousness",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "0aOK9u4AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Role of neurotransmitter dopamine and acetylcholine during the interaction of selective attention and working memory",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "0aOK9u4AAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mathematical model of human inhibitory control",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P1\u2010430: Functional MRI BOLD Modulation in Attention and Memory Systems in MCI",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "0aOK9u4AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OHBM",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "0aOK9u4AAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Malleable attentional resources theory: A new explanation for the effects of mental underload on performance",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "0aOK9u4AAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in brain networks with selective attention and cholinesterase inhibition: Enhanced fidelity of information representations",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "0aOK9u4AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social support, verbal interaction, and cognitive function among middle-aged and older adults in the Wisconsin registry for Alzheimer\u2019s prevention (WRAP) study",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P2\u2013235: Cognitive correlates of frontal lobe and hippocampal volumes in MCI",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P2\u2013233: Frontal lobe MRI volumes differ in amnestic and executive subgroups of MCI",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "0aOK9u4AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cholinergic regulation of top-down modulation in visual processing.",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct prefrontal and parietal contributions to top-down enhancement and suppression of visual processing",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "0aOK9u4AAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ebbinghaus illusion in the tactile modality",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "0aOK9u4AAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fukuyama, Hidenao, 878",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "0aOK9u4AAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elger, Christian E., 377 Espejo, Carmen, 455",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "0aOK9u4AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Glutamate receptor plasticity in the hippocampus: Implications for age-related memory and learning deficits.",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "0aOK9u4AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FREED, WILLIAM J., 179, 313 FRIDEN, PHILLIP M., 47",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "0aOK9u4AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficacy of Synergized Cognitive-Physical Training for Children with Inattention",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closed-Loop Neurofeedback of Alpha Synchrony During Goal-Directed Attention",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:2VqYfGB8ITEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distractibility during retrieval of long-term memory: domain-general interference, neural networks and increased susceptibility in normal aging",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Test-retest reliability of task fMRI across 3 sessions in patients with mild cognitive impairment",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Are You a Self-Interrupter?",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Top-down modulation of low-level visual processing: Bridging attention and working memory",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conscious Thought As a Reflexive Process: A New, Robust Paradigm for Consciousness Research",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Aging Brain: Exploring the Crossroads of Memory and Attention",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curriculum Vitae\u2013July 2009",
+                "cites": "0"
+            },
+            "id_citations": "0aOK9u4AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=0aOK9u4AAAAJ"
+}

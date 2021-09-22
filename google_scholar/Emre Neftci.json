@@ -1,0 +1,745 @@
+{
+    "affiliation": "Assistant Professor, Department of Cognitive Sciences and Department of Computer Science, UC Irvine",
+    "cites_per_year": {
+        "2010": 7,
+        "2011": 18,
+        "2012": 25,
+        "2013": 21,
+        "2014": 50,
+        "2015": 82,
+        "2016": 113,
+        "2017": 203,
+        "2018": 249,
+        "2019": 321,
+        "2020": 259
+    },
+    "citedby": 1352,
+    "citedby5y": 1229,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Bioengineering and Co-Director, Institute for Neural Computation, UC San Diego",
+            "id": "KZQz_7AAAAAJ",
+            "name": "Gert Cauwenberghs"
+        },
+        {
+            "affiliation": "Institute of Neuroinformatics, University of Zurich and ETH Zurich",
+            "id": "kdHjCAMAAAAJ",
+            "name": "Giacomo Indiveri"
+        },
+        {
+            "affiliation": "Postdoctoral Scholar, UC San Diego",
+            "id": "sn1x_9oAAAAJ",
+            "name": "Bruno U Pedroni"
+        },
+        {
+            "affiliation": "Faculty of Technology and CITEC, Bielefeld University",
+            "id": "1Jb5faUAAAAJ",
+            "name": "Elisabetta Chicca"
+        },
+        {
+            "affiliation": "Professor of Computational Neuroscience",
+            "id": "WYmxljYAAAAJ",
+            "name": "Rodney Douglas"
+        },
+        {
+            "affiliation": "Assistant Professor at University of Notre Dame, Dept. of Comp. Science and Eng. and Dept. of",
+            "id": "PegsFZ8AAAAJ",
+            "name": "Siddharth Joshi"
+        },
+        {
+            "affiliation": "University of California Irvine",
+            "id": "PgA8YpAAAAAJ",
+            "name": "Georgios Detorakis"
+        },
+        {
+            "affiliation": "Carnegie Mellon University",
+            "id": "iUe4TdgAAAAJ",
+            "name": "Maruan Al-Shedivat"
+        },
+        {
+            "affiliation": "Staff Research Scientist, Intel Circuit Research Labs",
+            "id": "Dok-N2oAAAAJ",
+            "name": "Charles Augustine"
+        },
+        {
+            "affiliation": "Intel Corporation",
+            "id": "Xri-2r0AAAAJ",
+            "name": "somnath paul"
+        },
+        {
+            "affiliation": "UCSD",
+            "id": "ZyEhJAMAAAAJ",
+            "name": "Ken Kreutz-Delgado"
+        },
+        {
+            "affiliation": "Senior RnD Engineer, aiCTX",
+            "id": "J5Z-oUwAAAAJ",
+            "name": "Sadique Sheik"
+        },
+        {
+            "affiliation": "Research scientist, Intel Corporation",
+            "id": "gXuEJfsAAAAJ",
+            "name": "Hesham Mostafa"
+        },
+        {
+            "affiliation": "Electrical and Computer Engineering, King Abdullah University of Science and Technology (KAUST)",
+            "id": "wRUKAMMAAAAJ",
+            "name": "Khaled Nabil Salama"
+        },
+        {
+            "affiliation": "University of California, Berkeley",
+            "id": "kRFgB60AAAAJ",
+            "name": "Rawan Naous"
+        },
+        {
+            "affiliation": "Chief Scientist, MITRE Corporation",
+            "id": "OZaq4gUAAAAJ",
+            "name": "Guido Zarrella"
+        },
+        {
+            "affiliation": "PhD, ETH Z\u00fcrich",
+            "id": "B1LRKM0AAAAJ",
+            "name": "Peter Udo Diehl"
+        },
+        {
+            "affiliation": "Research Staff Member, IBM Research",
+            "id": "R7BvSIYAAAAJ",
+            "name": "Andrew S. Cassidy"
+        },
+        {
+            "affiliation": "Mila, Montreal",
+            "id": "oD1W8a4AAAAJ",
+            "name": "Jonathan Binas"
+        },
+        {
+            "affiliation": "Universitat Polit\u00e8cnica de Catalunya",
+            "id": "oAe0nMkAAAAJ",
+            "name": "Jordi Fonollosa"
+        }
+    ],
+    "email": "@uci.edu",
+    "hindex": 18,
+    "hindex5y": 17,
+    "i10index": 27,
+    "i10index5y": 24,
+    "id": "yYT6jtkAAAAJ",
+    "interests": [
+        "Neuromorphic Engineering",
+        "Computational Neuroscience",
+        "Cognitive Systems and Behavior",
+        "Machine Learning"
+    ],
+    "name": "Emre Neftci",
+    "publications": [
+        {
+            "bib": {
+                "title": "Event-driven contrastive divergence for spiking neuromorphic systems",
+                "cites": "171",
+                "year": "2014"
+            },
+            "id_citations": "yYT6jtkAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Event-driven random back-propagation: Enabling neuromorphic deep learning machines",
+                "cites": "146",
+                "year": "2017"
+            },
+            "id_citations": "yYT6jtkAAAAJ:lYAcb2jw7qUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synthesizing cognition in neuromorphic electronic systems",
+                "cites": "125",
+                "year": "2013"
+            },
+            "id_citations": "yYT6jtkAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic synapses enable efficient brain-inspired learning machines",
+                "cites": "89",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:BmWJbWwHJAwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conversion of Artificial Recurrent Neural Networks to Spiking Neural Networks for Low-power Neuromorphic Hardware",
+                "cites": "88",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:m4fbC6XIj1kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surrogate gradient learning in spiking neural networks",
+                "cites": "79",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:QoJ_w57xiyAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A 65k-neuron 73-Mevents/s 22-pJ/event asynchronous micro-pipelined integrate-and-fire array transceiver",
+                "cites": "59",
+                "year": "2014"
+            },
+            "id_citations": "yYT6jtkAAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A systematic method for configuring VLSI networks of spiking neurons",
+                "cites": "56",
+                "year": "2011"
+            },
+            "id_citations": "yYT6jtkAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Truehappiness: Neuromorphic emotion recognition on truenorth",
+                "cites": "46",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:-yGd096yOn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforcement learning in artificial and biological systems",
+                "cites": "39",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:1r-w4gtu6w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning of chunking sequences in cognition and behavior",
+                "cites": "39",
+                "year": "2015"
+            },
+            "id_citations": "yYT6jtkAAAAJ:qE4H1tSSYIIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training a probabilistic graphical model with resistive switching electronic synapses",
+                "cites": "32",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:TaaCk18tZOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A device mismatch compensation method for VLSI neural networks",
+                "cites": "30",
+                "year": "2010"
+            },
+            "id_citations": "yYT6jtkAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data and power efficient intelligence with neuromorphic learning machines",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "yYT6jtkAAAAJ:m92CDrhVnKEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic architectures with electronic synapses",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:RtRctb2lSbAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memristor-based neural networks: Synaptic versus neuronal stochasticity",
+                "cites": "22",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:X0DADzN9RKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)",
+                "cites": "21",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:xm0LlTxljI0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systematic configuration and automatic tuning of neuromorphic systems",
+                "cites": "20",
+                "year": "2011"
+            },
+            "id_citations": "yYT6jtkAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inherently stochastic spiking neurons for probabilistic neural computation",
+                "cites": "18",
+                "year": "2015"
+            },
+            "id_citations": "yYT6jtkAAAAJ:qwy9JoKyICEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "State-dependent sensory processing in networks of VLSI spiking neurons",
+                "cites": "17",
+                "year": "2010"
+            },
+            "id_citations": "yYT6jtkAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural and synaptic array transceiver: A brain-inspired computing framework for embedded learning",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ijdKiLOsEJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PyNCS: a microkernel for high-level definition and configuration of neuromorphic electronic systems",
+                "cites": "16",
+                "year": "2014"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forward table-based presynaptic event-triggered spike-timing-dependent plasticity",
+                "cites": "13",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:oPLKW5k6eA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time inference in a VLSI spiking neural network",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "yYT6jtkAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic state and parameter estimation applied to neuromorphic systems",
+                "cites": "13",
+                "year": "2012"
+            },
+            "id_citations": "yYT6jtkAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Independent component analysis using RRAMs",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "yYT6jtkAAAAJ:4e5Qn2KL_jwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic adaptations of restricted boltzmann machines and deep belief networks",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "yYT6jtkAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrastive Hebbian learning with random feedback weights",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:2vr6o8x5NLkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuromorphic engineering",
+                "cites": "9",
+                "year": "2015"
+            },
+            "id_citations": "yYT6jtkAAAAJ:DyXnQzXoVgIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic synaptic plasticity with memristor crossbar arrays",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:s85pQhAUCrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Restricted boltzmann machines and continuous-time contrastive divergence in spiking neuromorphic systems",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "yYT6jtkAAAAJ:YB4bud6kWLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embodied event-driven random backpropagation",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:9DLIHnF0jcYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic neuromorphic learning machines for weakly labeled data",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:z8nqeaKD1nsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Event-driven contrastive divergence: neural sampling foundations",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "yYT6jtkAAAAJ:pAkWuXOU-OoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contraction properties of VLSI cooperative competitive neural networks of spiking neurons",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "yYT6jtkAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic synapses as resource for efficient deep learning machines",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "yYT6jtkAAAAJ:Og1tA8FjbJAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synaptic sampling in hardware spiking neural networks",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:LK8CI43ZvvMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning, inference, and replay of hidden state sequences in recurrent spiking neural networks",
+                "cites": "5",
+                "year": "2014"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Noise robustness and spatially patterned synchronization of cortical oscillators",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Srinjoy Das, Bruno Pedroni, Kenneth Kreutz-Delgado, and Gert Cauwenberghs. 2014. Event-driven contrastive divergence for spiking neuromorphic systems",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "yYT6jtkAAAAJ:N4u4nq0IxgcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Error-triggered three-factor learning dynamics for crossbar arrays",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:PQEM9vzQD9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking neural networks for inference and learning: A memristor-based design perspective",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ymY9cBF3mdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory-efficient synaptic connectivity for spike-timing-dependent plasticity",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:nPTYJWkExTIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of calibration transfer strategies between Metal Oxide gas sensor arrays",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ghEM2AJqZyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systematic construction of finite state automata using VLSI spiking neurons",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "yYT6jtkAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Function approximation with uncertainty propagation in a VLSI spiking neural network",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "yYT6jtkAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural generative models with stochastic synapses capture richer representations",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "yYT6jtkAAAAJ:-nhnvRiOwuoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning non-deterministic representations with energy-based ensembles",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "yYT6jtkAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maruan Al-Shedivat, and Gert Cauwenberghs. Stochastic Synapses Enable E cient Brain-Inspired Learning Machines",
+                "cites": "2"
+            },
+            "id_citations": "yYT6jtkAAAAJ:yY3RG6sOEgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On-chip Few-shot Learning with Surrogate Gradient Descent on a Neuromorphic Processor",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:WwIwg2wKZ0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embodied neuromorphic vision with event-driven random backpropagation",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:Vr2j17o0sqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inherent Weight Normalization in Stochastic Neural Networks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:lg2tdxc6qMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards VLSI spiking neuron assemblies as general-purpose processors",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "yYT6jtkAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online Few-shot Gesture Learning on a Neuromorphic Processor",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:x21FZCSn4ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial: Spiking Neural Network Learning, Benchmarking, Programming and Executing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:6VlyvFCUEfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory Organization for Energy-Efficient Learning and Inference in Digital Neuromorphic Accelerators",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:oTdOBqtIf_kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Live Demonstration: On-chip Few-shot Learning with Surrogate Gradient Descent on a Neuromorphic Processor",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:Azgs6IHzeyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:7Frjd3zlGBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spiking Neural Network Learning, Benchmarking, Programming and Executing",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "yYT6jtkAAAAJ:ndLnGcHYRF0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of Asymmetric Nonlinearity Dynamics in RRAMs on Spiking Neural Network Performance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "yYT6jtkAAAAJ:KS-xo-ZNxMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Recurrent Neural Network Based Model of Predictive Smooth Pursuit Eye Movement in Primates",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "yYT6jtkAAAAJ:wUn16MOA3RoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training a Probabilistic Graphical Model with Resistive Switching Electronic Synapses",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:_tF6a-HnqWAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuro-Inspired Computing with Stochastic Electronics",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "yYT6jtkAAAAJ:c59VksA5Vz4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Device Mismatch Compensation Method for VLSI Neural Networks",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "yYT6jtkAAAAJ:pYKElYtJMmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DYNAMICAL FIELD INSTABILITIES ON A I&N CHIP",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "yYT6jtkAAAAJ:wLxue7F8ec0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical processing on distributed networks of VLSI Integrate & Fire neurons",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "yYT6jtkAAAAJ:QsKbpXNoaWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ENERGY EFFICIENT NEURO-INSPIRED COMPUTING WITH STOCHASTIC ELECTRONICS",
+                "cites": "0"
+            },
+            "id_citations": "yYT6jtkAAAAJ:hGdtkIFZdKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sequence learning in spiking winnerless competition networks.",
+                "cites": "0"
+            },
+            "id_citations": "yYT6jtkAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=yYT6jtkAAAAJ"
+}

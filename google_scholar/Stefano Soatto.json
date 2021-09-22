@@ -1,0 +1,4041 @@
+{
+    "affiliation": "Professor of Computer Science, UCLA",
+    "cites_per_year": {
+        "2000": 61,
+        "2001": 92,
+        "2002": 152,
+        "2003": 300,
+        "2004": 455,
+        "2005": 616,
+        "2006": 863,
+        "2007": 1070,
+        "2008": 1022,
+        "2009": 1128,
+        "2010": 1284,
+        "2011": 1313,
+        "2012": 1311,
+        "2013": 1424,
+        "2014": 1413,
+        "2015": 1441,
+        "2016": 1564,
+        "2017": 1459,
+        "2018": 1615,
+        "2019": 1728,
+        "2020": 1270
+    },
+    "citedby": 22070,
+    "citedby5y": 9089,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Computer Vision, University of Bern",
+            "id": "w_XDRRsAAAAJ",
+            "name": "Paolo Favaro"
+        },
+        {
+            "affiliation": "Professor of Electrical and Computer Engineering, Georgia Tech",
+            "id": "CZiW6c8AAAAJ",
+            "name": "Anthony Yezzi"
+        },
+        {
+            "affiliation": "Professor of EECS, University of California, Berkeley",
+            "id": "XqLiBQMAAAAJ",
+            "name": "Yi Ma (\u9a6c\u6bc5)"
+        },
+        {
+            "affiliation": "Professor of Automatic Control, University of Padova",
+            "id": "9Pl5k60AAAAJ",
+            "name": "Alessandro Chiuso"
+        },
+        {
+            "affiliation": "California Institute of Technology",
+            "id": "j29kMCwAAAAJ",
+            "name": "Pietro Perona"
+        },
+        {
+            "affiliation": "University of California",
+            "id": "KgZxzjsAAAAJ",
+            "name": "Shankar Sastry"
+        },
+        {
+            "affiliation": "Senior Principal Scientist, Adobe Research",
+            "id": "DQOT0OMAAAAJ",
+            "name": "Hailin Jin"
+        },
+        {
+            "affiliation": "George Mason University",
+            "id": "sQ6l4sMAAAAJ",
+            "name": "Jana Kosecka"
+        },
+        {
+            "affiliation": "University of Oxford",
+            "id": "bRT7t28AAAAJ",
+            "name": "Andrea Vedaldi"
+        },
+        {
+            "affiliation": "Associate Professor of Computer Science and Electrical Engineering, West Virginia University",
+            "id": "ReEG0FwAAAAJ",
+            "name": "Gianfranco Doretto"
+        },
+        {
+            "affiliation": "Applied Scientist, Amazon Web Services",
+            "id": "LiwtZz4AAAAJ",
+            "name": "Alessandro Achille"
+        },
+        {
+            "affiliation": "Technical University of Munich",
+            "id": "cXQciMEAAAAJ",
+            "name": "Daniel Cremers"
+        },
+        {
+            "affiliation": "Johns Hopkins University, Amazon, NORCE",
+            "id": "uT8fgagAAAAJ",
+            "name": "Rene Vidal"
+        },
+        {
+            "affiliation": "Chung-Ang University, Seoul, Korea",
+            "id": "gYk4eAgAAAAJ",
+            "name": "Byung-Woo Hong"
+        },
+        {
+            "affiliation": "",
+            "id": "JId76kkAAAAJ",
+            "name": "Brian Fulkerson"
+        },
+        {
+            "affiliation": "University of Pennsylvania",
+            "id": "c_z5hWEAAAAJ",
+            "name": "Pratik Chaudhari"
+        },
+        {
+            "affiliation": "UCLA Department of Statistics",
+            "id": "7k_1QFIAAAAJ",
+            "name": "Ying Nian Wu"
+        },
+        {
+            "affiliation": "Software Engineer at Google Inc.",
+            "id": "YNi1eSQAAAAJ",
+            "name": "Michalis Raptis"
+        },
+        {
+            "affiliation": "AWS",
+            "id": "28p_eLYAAAAJ",
+            "name": "Avinash Ravichandran"
+        },
+        {
+            "affiliation": "Software Engineer, Self-Driving Cars, Waymo",
+            "id": "3P1gs1sAAAAJ",
+            "name": "Alper Ayvaci"
+        }
+    ],
+    "email": "@ucla.edu",
+    "hindex": 74,
+    "hindex5y": 44,
+    "i10index": 218,
+    "i10index5y": 159,
+    "id": "lH1PdF8AAAAJ",
+    "interests": [
+        "Computer Vision",
+        "Machine Learning",
+        "Video Analysis",
+        "Augmented Reality",
+        "Robotics"
+    ],
+    "name": "Stefano Soatto",
+    "publications": [
+        {
+            "bib": {
+                "title": "An invitation to 3-d vision",
+                "cites": "2408",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An invitation to 3-d vision: from images to geometric models",
+                "cites": "2323",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:TiIbgCYny7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic textures",
+                "cites": "1048",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:gFrPXmx1TSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quick shift and kernel methods for mode seeking",
+                "cites": "786",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Class segmentation and object localization with superpixel neighborhoods",
+                "cites": "770",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kernel density estimation and intrinsic alignment for shape priors in level set segmentation",
+                "cites": "435",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-inertial navigation, mapping and localization: A scalable real-time causal approach",
+                "cites": "411",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure from motion causally integrated over time",
+                "cites": "398",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic texture recognition",
+                "cites": "383",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion estimation via dynamic vision",
+                "cites": "364",
+                "year": "1996"
+            },
+            "id_citations": "lH1PdF8AAAAJ:8p8iYwVyaVcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic textures",
+                "cites": "353",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:-vzq6BoH5oUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An algebraic geometric approach to the identification of a class of linear hybrid systems",
+                "cites": "350",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion competition: A variational approach to piecewise parametric motion segmentation",
+                "cites": "321",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A geometric approach to shape from defocus",
+                "cites": "309",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entropy-sgd: Biasing gradient descent into wide valleys",
+                "cites": "299",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:idthP5jqfYAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integral invariants for shape matching",
+                "cites": "296",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observability of linear hybrid systems",
+                "cites": "288",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discovering discriminative action parts from mid-level video representations",
+                "cites": "250",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:NDuN12AVoxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time feature tracking and outlier rejection with changes in illumination",
+                "cites": "235",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of invariance and disentanglement in deep representations",
+                "cites": "230",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:SrKkpNFED5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic texture segmentation",
+                "cites": "223",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape from defocus via diffusion",
+                "cites": "215",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localizing objects with smart dictionaries",
+                "cites": "211",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observability and identifiability of jump linear systems",
+                "cites": "209",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognition of human gaits",
+                "cites": "203",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two-view multibody structure from motion",
+                "cites": "201",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparatus and method for tracking handwriting from visual input",
+                "cites": "200",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:IsPWOBWtZBwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face verification across age progression using discriminative methods",
+                "cites": "199",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rOcdG6UcVlcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparse occlusion detection with optical flow",
+                "cites": "193",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracklet descriptors for action modeling and video analysis",
+                "cites": "188",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A study of face recognition as people age",
+                "cites": "187",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information dropout: Learning optimal representations through noisy computation",
+                "cites": "186",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ybfzIt2tCtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stereoscopic segmentation",
+                "cites": "186",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:__bU50VfleQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-view stereo beyond lambert",
+                "cites": "182",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-view stereo reconstruction of dense shape and complex appearance",
+                "cites": "164",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-learning with differentiable convex optimization",
+                "cites": "160",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WM2K3OHRCGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deformotion: Deforming motion, shape average and the joint registration and approximation of structures in images",
+                "cites": "154",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:CdxZDUztZiMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A pseudo-distance for shape priors in level set segmentation",
+                "cites": "151",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integral invariant signatures",
+                "cites": "146",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast human pose estimation using appearance and motion via multi-dimensional boosting regression",
+                "cites": "144",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observing shape from defocused images",
+                "cites": "132",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A semi-direct approach to structure from motion",
+                "cites": "131",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic Gradient Descent Performs Variational Inference, Converges to Limit Cycles for Deep Networks",
+                "cites": "130",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:yCjxvIMm6_oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Domain-size pooling in local descriptors: DSP-SIFT",
+                "cites": "125",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4e5Qn2KL_jwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3-D motion and structure from 2-D motion causally integrated over time: Implementation",
+                "cites": "121",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reducing Structure from Motion: a framework for dynamic vision. 1. Modeling",
+                "cites": "121",
+                "year": "1998"
+            },
+            "id_citations": "lH1PdF8AAAAJ:I858iXPj1OkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proximity distribution kernels for geometric context in category recognition",
+                "cites": "119",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intent-aware long-term prediction of pedestrian motion",
+                "cites": "113",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:6ZzL7HXColQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Causal video object segmentation from persistence of occlusions",
+                "cites": "113",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:QsKbpXNoaWkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new geometric metric in the space of curves, and applications to tracking deforming objects by prediction and filtering",
+                "cites": "112",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursive 3-d visual motion estimation using subspace constraints",
+                "cites": "111",
+                "year": "1997"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3-d shape estimation and image restoration: Exploiting defocus and motion-blur",
+                "cites": "104",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editable dynamic textures",
+                "cites": "104",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking deformable moving objects under severe occlusions",
+                "cites": "99",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting humans via their pose",
+                "cites": "97",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deformotion deforming motion, shape average and the joint registration and segmentation of images",
+                "cites": "97",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:QsaTk4IG4EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal structure from motion: Local ambiguities and global estimates",
+                "cites": "95",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WC9gN4BGCRcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relevant feature selection for human pose estimation and localization in cluttered images",
+                "cites": "94",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Background subtraction on distributions",
+                "cites": "93",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal structure from motion: Local ambiguities and global estimates",
+                "cites": "93",
+                "year": "1998"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursive motion and structure estimation with complete error characterization",
+                "cites": "92",
+                "year": "1993"
+            },
+            "id_citations": "lH1PdF8AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tales of shape and radiance in multiview stereo",
+                "cites": "91",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3-d structure from visual motion: Modeling, representation and observability",
+                "cites": "90",
+                "year": "1997"
+            },
+            "id_citations": "lH1PdF8AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deep relaxation: partial differential equations for optimizing deep neural networks",
+                "cites": "89",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:RfUwGJFMQ-0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control theory and fast marching techniques for brain connectivity mapping",
+                "cites": "89",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple view feature descriptors from image sequences via kernel principal component analysis",
+                "cites": "85",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Actionable information in vision",
+                "cites": "83",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kernel density estimation and intrinsic alignment for knowledge-driven segmentation: Teaching level sets to walk",
+                "cites": "83",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Empirical study of the topology and geometry of deep networks",
+                "cites": "79",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:za7pDTvVV8kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct sparse deblurring",
+                "cites": "79",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ZqLB7dQ1iF4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Steps towards a theory of visual information: Active perception, signal-to-symbol conversion and the interplay between sensing and control",
+                "cites": "78",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kvJssbFybhEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segmentation of dynamic scenes from the multibody fundamental matrix",
+                "cites": "78",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classification and recognition of dynamical models: The role of phase, independent components, kernels and optimal transport",
+                "cites": "77",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Really quick shift: Image segmentation on a GPU",
+                "cites": "76",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing beyond occlusions (and other marvels of a finite lens aperture)",
+                "cites": "75",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reducing \u201cStructure from Motion\u201d: a general framework for dynamic vision. 2. Experimental Evaluation",
+                "cites": "73",
+                "year": "1998"
+            },
+            "id_citations": "lH1PdF8AAAAJ:xGWFX6Gbr9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robustness of classifiers to universal perturbations: A geometric perspective",
+                "cites": "72",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:bCjgOgSFrM0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational space-time motion segmentation",
+                "cites": "71",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of PWARX hybrid models with unknown and possibly different orders",
+                "cites": "70",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:oYLFIHfuHKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Euclidean reconstruction and reprojection up to subgroups",
+                "cites": "70",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shedding light on stereoscopic segmentation",
+                "cites": "69",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A variational approach to shape from defocus",
+                "cites": "68",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:HKviVsUxM5wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning shape from defocus",
+                "cites": "68",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A fast ransac-based registration algorithm for accurate localization in unknown environments using lidar measurements",
+                "cites": "67",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Features for recognition: Viewpoint invariance for non-planar scenes",
+                "cites": "66",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Lagrangian formulation of nonholonomic path following",
+                "cites": "66",
+                "year": "1998"
+            },
+            "id_citations": "lH1PdF8AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time 3D motion and structure of point features: a front-end system for vision-based control and interaction",
+                "cites": "65",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:R-LXmdHK_14C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion estimation on the essential manifold",
+                "cites": "65",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qbqt7gslDFUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mathematics of deep learning",
+                "cites": "64",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:inmFHauC9wsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual representations: defining properties and deep approximations",
+                "cites": "64",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kUhpeDhEZMUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inertial structure from motion with autocalibration",
+                "cites": "64",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:MNNNGtAgD4EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local features, all grown up",
+                "cites": "63",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and system for selecting and designing eyeglass frames",
+                "cites": "63",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ijdKiLOsEJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A variational approach to scene reconstruction and image segmentation from motion-blur cues",
+                "cites": "63",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A variational approach to problems in calibration of multiple cameras",
+                "cites": "61",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Warping background subtraction",
+                "cites": "60",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive regularization with the structure tensor",
+                "cites": "59",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:x21FZCSn4ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape matching using multiscale integral invariants",
+                "cites": "59",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dAp6zn-oMfAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3-d reconstruction of shaded objects from multiple images under unknown illumination",
+                "cites": "58",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "KALMANSAC: Robust filtering by consensus",
+                "cites": "58",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the set of images modulo viewpoint and contrast changes",
+                "cites": "57",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model (in) validation approach to gait classification",
+                "cites": "57",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Ul_CLA4dPeMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Region-based segmentation on evolving surfaces with application to 3D reconstruction of shape and piecewise constant radiance",
+                "cites": "55",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure from motion for scenes without features",
+                "cites": "53",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inpainting from multiple views",
+                "cites": "51",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic shape and appearance modeling via moving and deforming layers",
+                "cites": "50",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape representation based on integral kernels: Application to image matching and segmentation",
+                "cites": "50",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatially homogeneous dynamic textures",
+                "cites": "50",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edge descriptors for robust wide-baseline correspondence",
+                "cites": "48",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of 3d surface shape and smooth radiance from 2d images: A level set approach",
+                "cites": "48",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion segmentation with occlusions on the superpixel graph",
+                "cites": "47",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlocal similarity image filtering",
+                "cites": "46",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3d shape from anisotropic diffusion",
+                "cites": "46",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detachable object detection: Segmentation and depth ordering from short-baseline video",
+                "cites": "45",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast marching method for generic shape from shading",
+                "cites": "44",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hybrid dynamical models of human motion for the recognition of human gaits",
+                "cites": "43",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint data alignment up to (lossy) transformations",
+                "cites": "43",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Video-based descriptors for object recognition",
+                "cites": "42",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic shape and appearance models",
+                "cites": "42",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient minimal-surface regularization of perspective depth maps in variational stereo",
+                "cites": "41",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:orDZ08hpP44C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Critical learning periods in deep neural networks",
+                "cites": "39",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:nWoA1JPTheMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task2vec: Task embedding for meta-learning",
+                "cites": "38",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:oAywNP-vUhwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SmartLDWS: A robust and scalable lane departure warning system for the smartphones",
+                "cites": "38",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Video stabilization of atmospheric turbulence distortion",
+                "cites": "37",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ce2CqMG-AY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The scale of a texture and its application to segmentation",
+                "cites": "37",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonrigid registration combining global and local statistics",
+                "cites": "36",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape and radiance estimation from the information divergence of blurred images",
+                "cites": "36",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shapefit and shapekick for robust, scalable structure from motion",
+                "cites": "34",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:M_lZXyI38BkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust inference for visual-inertial sensor fusion",
+                "cites": "34",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:iyewoVqAXLQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observability, identifiability and sensitivity of vision-aided inertial navigation",
+                "cites": "33",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ndLnGcHYRF0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monte Carlo filtering on Lie groups",
+                "cites": "33",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Region matching with missing parts",
+                "cites": "32",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applications of hybrid system identification in computer vision",
+                "cites": "31",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heartbeat of a nest: Using imagers as biological sensors",
+                "cites": "30",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape representation via harmonic embedding",
+                "cites": "30",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three dimensional transparent structure segmentation and multiple 3d motion estimation from monocular perspective image sequences",
+                "cites": "30",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving forward in structure from motion",
+                "cites": "29",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zero shot learning via multi-scale manifold regularization",
+                "cites": "28",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:CMvovTBb2okC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Boosting convolutional features for robust object proposals",
+                "cites": "28",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:DXE8ND7PrJAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A linear systems approach to imaging through turbulence",
+                "cites": "28",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:8Xgff_V0N9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning and matching multiscale template descriptors for real-time detection, localization and tracking",
+                "cites": "28",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Earth mover distance on superpixels",
+                "cites": "28",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gait recognition using dynamic affine invariants",
+                "cites": "28",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stereoscopic shading: Integrating multi-frame shape cues in a variational framework",
+                "cites": "28",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-occlusions and disocclusions in causal video object segmentation",
+                "cites": "27",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:PlWzFYVEG4EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Filtering internet image search results towards keyword based category recognition",
+                "cites": "27",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biopsy needle detection in transrectal ultrasound",
+                "cites": "26",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TST/BTD: An end-to-end visual recognition system",
+                "cites": "26",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dense depth posterior (ddp) from single image and sparse range",
+                "cites": "25",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:MGPUR4WVBMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlled recognition bounds for visual learning and exploration",
+                "cites": "25",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:g5Ck-dwhA_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flexible dictionaries for action classification",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:V3AGJWp-ZtQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relaxed matching kernels for robust image comparison",
+                "cites": "25",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Layered active appearance models",
+                "cites": "25",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling and synthesis of facial motion driven by speech",
+                "cites": "25",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A baseline for few-shot image classification",
+                "cites": "24",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hB2aVRuWZNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-inertial-semantic scene representation for 3D object detection",
+                "cites": "24",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:cNe27ouKFcQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On exploiting occlusions in multiple-view geometry",
+                "cites": "24",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geo-supervised visual depth prediction",
+                "cites": "23",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:gmHTDCtJMcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mono3d++: Monocular 3d vehicle detection with two-scale 3d hypotheses and task priors",
+                "cites": "22",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:GJVTs2krol4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S2F: Slow-to-fast interpolator flow",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rqnDXT1GswoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the energy landscape of deep networks",
+                "cites": "22",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Tfl4UtY-dJUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information-seeking control under visibility-based uncertainty",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:X9ykpCP0fEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active frame, location, and detector selection for automated and manual video annotation",
+                "cites": "22",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:X0DADzN9RKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the design and analysis of multiple view descriptors",
+                "cites": "22",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:LGlY6t8CeOMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic rigid motion estimation from weak perspective",
+                "cites": "22",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised domain adaptation via regularized conditional alignment",
+                "cites": "21",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:GUYAmugLYisC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust poisson surface reconstruction",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WwIwg2wKZ0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring tradeoffs in accuracy, energy and latency of scale invariant feature transform in wireless camera networks",
+                "cites": "21",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autonomous off-road driving in the DARPA Grand Challenge",
+                "cites": "21",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:2Q0AJrNhS-QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spike train driven dynamical models for human actions",
+                "cites": "20",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowing a good feature when you see it: ground truth and methodology to evaluate local features for recognition",
+                "cites": "20",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wide-sense estimation on the special orthogonal group",
+                "cites": "20",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A complexity-distortion approach to joint pattern alignment",
+                "cites": "20",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure-independent visual motion control on the essential manifold",
+                "cites": "20",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast visual feature selection and tracking in a hybrid reconfigurable architecture",
+                "cites": "18",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-Q-Learning",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:3x-KLxxGyuUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where is the information in a deep neural network?",
+                "cites": "17",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:mJbmKSuM8toC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional prior networks for optical flow",
+                "cites": "17",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:pUxgyZctzPYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multimodal registration via spatial-context mutual information",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curious snakes: a minimum latency solution to the cluttered background problem in active contours",
+                "cites": "17",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Classifying human dynamics without contact forces",
+                "cites": "17",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Viewpoint induced deformation statistics and the design of viewpoint invariant features: Singularities and occlusions",
+                "cites": "17",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Few-shot learning with embedded class models and shot-free meta training",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Q3-QASNKTMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geonet: Deep geodesic networks for point cloud analysis",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:GiYFt9mpioMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parle: parallelizing stochastic gradient descent",
+                "cites": "16",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qCpRzq7zkD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Actionable saliency detection: Independent motion detection without independent motion estimation",
+                "cites": "16",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:mKu_rENv82IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Embedded imagers: Detecting, localizing, and recognizing objects and events in natural habitats",
+                "cites": "16",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Golem Group/University of California at Los Angeles autonomous ground vehicle in the DARPA grand challenge",
+                "cites": "16",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Information Complexity of Learning Tasks, their Structure and their Distance",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:s1ouQE5r0WUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic video segmentation from occlusion relations within a convex optimization framework",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:H_jBuBxbQIAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised multiphase segmentation: A recursive approach",
+                "cites": "15",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards plenoptic dynamic textures",
+                "cites": "15",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bilateral cyclic constraint and adaptive regularization for unsupervised monocular depth prediction",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:pxXbYLTb8EgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reinforced temporal attention and split-rate transfer for depth-based person re-identification",
+                "cites": "14",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:8RAEygVn5_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-inertial sensor fusion for navigation, localization, mapping, and 3d reconstruction",
+                "cites": "14",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:QaSi33NTfwYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How well can a cnn marginalize simple nuisances it is designed for",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:7Frjd3zlGBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A factorization method for 3D multi-body motion estimation and segmentation",
+                "cites": "14",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:wLxue7F8ec0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perspective distortion modeling, learning and compensation",
+                "cites": "13",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:cBPnxVikjH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward understanding catastrophic forgetting in continual learning",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:jRIwE-1ttnoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unsupervised moving object detection via contextual information separation",
+                "cites": "12",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hKjooKYXoHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intraocular robotic interventional surgical system (IRISS): Semi\u2010automated OCT\u2010guided cataract removal",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_mQi-xiA4oYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Saas: Speed as a supervisor for semi-supervised learning",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rFyVMFCKTwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture regimes for entropy-based multiscale image analysis",
+                "cites": "12",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extensible sensing system: An advanced network design for microclimate sensing",
+                "cites": "12",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:2v_ZtQDX9iAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A separation principle for control in the age of deep learning",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:K4-iKlO5MD4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-inertial object detection and mapping",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:S2WlVNSe3u4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OATM: Occlusion aware template matching by consensus set maximization",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Gpwnp1kGG20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A power-performance approach to comparing sensor families, with application to comparing neuromorphic to traditional vision sensors",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:FsLZdJ3BAzkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CLAM: Coupled localization and mapping with efficient outlier handling",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:z6xuaG2dYH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-inertial ego-motion estimation for humanoid platforms",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qwy9JoKyICEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the distance between non-stationary time series",
+                "cites": "11",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion from fixation",
+                "cites": "11",
+                "year": "1997"
+            },
+            "id_citations": "lH1PdF8AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DeepRadiologyNet: Radiologist level pathology detection in CT head images",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Oo1CbQkBAzEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting occlusions as an inverse problem",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:QoJ_w57xiyAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture representations for image and video synthesis",
+                "cites": "10",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_tF6a-HnqWAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cavlectometry: Towards holistic reconstruction of large mirror objects",
+                "cites": "10",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:wSy_KLzO7YEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-range spatio-temporal modeling of video with application to fire detection",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple instance filtering",
+                "cites": "10",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:3NQIlFlcGxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autocalibration and uncalibrated reconstruction of shape from defocus",
+                "cites": "10",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:cOfwuRB03ygC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volumetric reconstruction applied to perceptual studies of size and weight",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hGdtkIFZdKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Superfloxels: A mid-level representation for video sequences",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rbm3iO8VlycC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A non-local approach to shape from ambient shading",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic data factorization",
+                "cites": "9",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion and structure from 2 perspective views of p localized features: noise sensitivity analysis",
+                "cites": "9",
+                "year": "1992"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rTD5ala9j4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Second-order shape optimization for geometric inverse problems in vision",
+                "cites": "8",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BmWJbWwHJAwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information forests",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:-7ulzOJl1JYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enforcing local context into shape statistics",
+                "cites": "8",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Mumford-Shah functional: From segmentation to stereo",
+                "cites": "8",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:w0odbtu79TwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual tracking of human body with deforming motion and shape average",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image-based modeling of human gaits with higher-order statistics",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Dem6FJhTUoYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MFm: 3-d motion from 2-d motion causally integrated over time-part i: Theory",
+                "cites": "8",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:sJK75vZXtG0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observability of shape from focus",
+                "cites": "8",
+                "year": "1998"
+            },
+            "id_citations": "lH1PdF8AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual motion estimation from point features: unified view",
+                "cites": "8",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:HGTzPopzzJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active-vision control systems for complex adversarial 3-D environments",
+                "cites": "7",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:EBV337fEn3EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time warping under dynamic constraints",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards unsupervised detection of actions in clutter",
+                "cites": "7",
+                "year": "2002"
+            },
+            "id_citations": "lH1PdF8AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System-theoretic aspects of dynamic vision",
+                "cites": "7",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:-DxkuPiZhfEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive regularization of some inverse problems in image analysis",
+                "cites": "6",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:i_7YvbSbtFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple hierarchical pooling data structure for loop closure",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:natZJ_-F0IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture compression",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hSRAE-fF4OAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast planar object detection and tracking via edgel templates",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing diving: a dataset for judging action quality",
+                "cites": "6",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint priors for variational shape and appearance modeling",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:1yWc8FF-_SYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the blind classification of time series",
+                "cites": "6",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure from visual motion as a nonlinear observation problem",
+                "cites": "6",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:JWITY9-sCbMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trajectory Design of Multiple Near Earth Asteroids Exploration Using Solar Sail Based on Deep Neural Network",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:5F1dSjz1ScoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voiced: Depth completion from inertial odometry and vision",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:-38epGy1wY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Dynamics and Reachability of Learning Tasks",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4QKQTXcH0q8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VL-SLAM: Real-Time Visual-Inertial Navigation and Semantic Mapping",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:l6Q3WhenKVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust surface reconstruction",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:YPNY0knpFBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correspondence transfer for the registration of multimodal images",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A vision system to infer avian nesting behavior",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rpSJNIKeXWsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "One-shot integral invariant shape priors for variational segmentation",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling human gaits with subtleties",
+                "cites": "5",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking the Hyperparameters for Fine-tuning",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dhpJJ7xvgBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Asymmetric sparse kernel approximations for large-scale visual search",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:z8nqeaKD1nsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information driven exploration using Poisson sampling over using marginals",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:SWgZeABleR0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Video upscaling via spatio-temporal self-similarity",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:pAkWuXOU-OoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable dense large-scale mapping and navigation",
+                "cites": "4",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards backward-compatible representation learning",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:gkldIfsazJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Person depth reid: Robust person re-identification with commodity depth sensors",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:MDX3w3dAD3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Power-Performance Approach to Comparing Sensor Families",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:AZju0d2GQJ0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entropy-scale profiles for texture segmentation",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:q-HalDI95KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational methods for shape reconstruction in computer vision, Washington University, St",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:vofGIMt6cyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mumford-Shah for Segmentation and Stereo",
+                "cites": "3",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase consistent ecological domain adaptation",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:JdL-Xu2nR38C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fda: Fourier domain adaptation for semantic segmentation",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ZYsTHYU9jrMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zero shot learning with the isoperimetric loss",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:3BvdIg-l-ZAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-label Segmentation via Residual-driven Adaptive Regularization",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:sbeIDTyQOFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spirometry system and disposable volume spirometry apparatus",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:nPTYJWkExTIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting occlusions as an inverse problem",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4tNoA7Af41QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to discriminate in the wild: Representationlearning network for nuisance-invariant image comparison",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:V_vSwabWVtYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinearly constrained MRFs: exploring the intrinsic dimensions of higher-order cliques",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:T_ojBgVMvoEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene-aware video modeling and compression",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Edgel templates for fast planar object detection and pose estimation",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "lH1PdF8AAAAJ:U_HPUtbDl20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cataloging birds in their natural habitat",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorization in natural time-varying image sequences",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining topological and geometric features of mammograms to detect masses",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Habitat sensing at the James San Jacinto Mountains Reserve",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:cF7EPgIk0B4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using Bilinear Models for View-invariant Identity Recognition from Gait",
+                "cites": "2"
+            },
+            "id_citations": "lH1PdF8AAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qSd0DAb9jMoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continual Universal Object Detection",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:RgznTc0nqo4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to Manipulate Individual Objects in an Image",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:wlzmIqt2EaEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A geometric interpretation of stochastic gradient descent using diffusion metrics",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:o-PowTg_VKEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LaTeS: Latent Space Distillation for Teacher-Student Driving Policy Learning",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:FQ36aI_S1AEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Neural Networks",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:h1pkognVyKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding Structure in Point Cloud Data with the Robust Isoperimetric Loss",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:s2G-WRnXBicC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A mid-level representation of visual structures for video compression",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:PuOEWVtPfzwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploiting temporal redundancy of visual structures for video compression",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:W2uZP3ddy8sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature tracking and object recognition on a hand-held",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ICPSAC: A New Robust and Accurate Registration Algorithm",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dFKc6_kCK1wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Robust and Physically Plausible Shaded Stereoscopic Segmentation",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling dynamic scenes: an overview of dynamic textures",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimation of Multiple Motions from Two Views",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:sA9dB-pw3HoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Snippets of system identification in computer vision",
+                "cites": "1",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Region Matching and Tracking under Deformations or Occlusions",
+                "cites": "1",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The accommodation cue in vision",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "lH1PdF8AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion and attitude estimation for articulated bodies via dynamic vision",
+                "cites": "1",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:pRWBApOjXDcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meta-analysis of Continual Learning",
+                "cites": "1"
+            },
+            "id_citations": "lH1PdF8AAAAJ:jq04SsiGh3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time-Supervised Primary Object Segmentation",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:uWy0R8PweswC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk-Averse MPC via Visual-Inertial Input and Recurrent Networks for Online Collision Avoidance",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:1Aeql8wG3wEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:e0LTWoPxLYMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Targeted Adversarial Perturbations for Monocular Depth Prediction",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:e9bUPLv0EjcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stochastic batch size for adaptive regularization in deep network optimization",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:mgoTDWlsYNUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incremental Meta-Learning via Indirect Discriminant Alignment",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "lH1PdF8AAAAJ:KqW5X_olkfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ICRA 2019 Best Paper Award Recipients Announced",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:dMpQl7XwOw4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual-inertial sensor fusion for navigation, localization, mapping, and 3d reconstruction",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:YGhAHpnIhDoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MARL-PPS: Multi-agent Reinforcement Learning with Periodic Parameter Sharing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:j2GSQqY3pL0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "5TH INTERNATIONAL CONFERENCE ON LEARNING REPRESENTATIONS, ICLR 2017-CONFERENCE TRACK PROCEEDINGS",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:fF_gHTpLxhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Input and Weight Space Smoothing for Semi-supervised Learning",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BW2nPTmhBn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Sensing Representations for Navigation and Visual Scene Analysis",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:adHtZc2wMuEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bilateral Cyclic Constraint and Adaptive Regularization for Learning a Monocular Depth Prior",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BPS1z4jHU5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving cast shadows detection using ratio edge",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "lH1PdF8AAAAJ:a2necdfpwlEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Block-Cyclic Stochastic Coordinate Descent for Deep Neural Networks",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hfzGNhXhx5MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis-Driven Design of Representations For Sensing-Action Systems",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:7VEv-pLvLSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Discretizations for Non-smooth Variational Vision",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "lH1PdF8AAAAJ:0ngZmJvimKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UCLA TR CSD160005",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:AFmTUeZ1pmEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Theory of Local Matching: SIFT and Beyond",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Vno172sVVMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Visual Representations: Defining Properties and Deep Approximations",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "lH1PdF8AAAAJ:tFzHCjejgA0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonparametric Representations for Integrated Inference, Control, and Sensing",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:NtCmTCuxid4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlled Visual Sensing and Exploration",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ukw-9cB-YDkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CONTROLLED VISUAL SENSING AND EXPLORATION AFOSR FA9550-12-1-0364",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:bbjcffOLshcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "198: 534 Computer Vision Spring 2015",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BAanoTsO0WEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Scene Representations",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:onKP9CxGSkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scene Segmentation with Dense Reconstruction From Monocular Video",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:w2UhwfzvF0QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Visual Representations",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:9VeumLvkZSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Information Theory and Visual Representation for Achieving Provable Bounds in Vision-Based Control and Decision",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:PQEM9vzQD9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2013 IEEE Control Systems Society Awards",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:RVqaWcrwK10C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape Matching using Multiscale Integral Invariants",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BCdnXsLIVDwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamical Systems in Video Analysis",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:d4tt_xEv1X8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Correspondence, the Lambert-Ambient Shape Space and the Systematic Design of Feature Descriptors",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "lH1PdF8AAAAJ:t-hv7AR41mYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observability, Identifiability and Sensitivity of Vision-Assisted Navigation",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "lH1PdF8AAAAJ:6Zm5LS9gQ5UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding scene structures for video compression",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "lH1PdF8AAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curious snakes: an active contour formulation of information-driven minimum-latency boundary detection",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:lg2tdxc6qMwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "and Events in Natural Habitats Embedded Imagers: Detecting, Localizing, and Recognizing Objects This paper explores information extraction problems\u2014Such as changes in \u2026",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ziOE8S1-AIUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editorial for the Special Issue on Photometric Analysis for Computer Vision",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "lH1PdF8AAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imagers as Biological Sensors",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "lH1PdF8AAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alessandro Chiuso, Giorgio Picci, and Stefano Soatto",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:XeErXHja3Z8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From Dynamic Texture to Dynamic Shape and Appearance Models",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_AeoHAGD03cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "2005 Conference on Computer Vision and Pattern Recognition CVPR 2005",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings Workshop on Photometric Analysis for Computer Vision (PACV'2007)",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of Imagers in a Biological Sensing Deployment",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust Estimation and Organization of Shapes from Multiple Cues",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:M0leSnx2MbUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Meaningful Correspondence, Local Contex and Shape Statistics in Deformable Templates",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic models of image formation",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:L_l9e5I586QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dealing with occlusions",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:0aBXIfxlw9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dealing with motion: Unifying defocus and motion blur",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:eGYfIraVYiQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Least-squares shape from defocus",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ghEM2AJqZyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enforcing positivity: Shape from defocus and image restoration by minimizing I-divergence",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:wE-fMHVdjMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dealing with multiple moving objects",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:zdjWy_NXXwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Some analysis: When can 3-D shape be reconstructed from blurred images?",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "lH1PdF8AAAAJ:YlPif8NxrbYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Vision for Control",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High Performance Feature Detection on a Reconfigurable Co-Processor",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control Theory and Fast Marching Methods for Brain Connectivity Mapping",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:KqnX2w3egDsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low-Level Vision, Image Features-Viewpoint Induced Deformation Statistics and the Design of Viewpoint Invariant Features: Singularities and Occlusions",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ujxm2eEBZHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adventures in Automating Ecological Image Analysis (TER 3)",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "lH1PdF8AAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An invitation to 3-D vision. From images to geometric models, by Yi Ma, Stefano Soatto, Jana Ko\u0161ecka and S. Shankar Sastry. Pp. 526. \u00a361.50. 2004. ISBN 0 387 \u2026",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:J4E9jCG1tHUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shiny Correspondence: Multiple-View Features for Non-Lambertian Scenes",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:4E1Y8I9HL1wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SIP0: CENS Sensor Information Processing Research Overview",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:raTqNPD5sRQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conference on Computer Vision and Pattern Recognition",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Automated Analysis of Minirhizotron Images",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning Riemannian Metrics for Classification of Dynamical Models",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Errata of An Invitation to 3-D Vision",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:v_tt_AnqfNMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A variational framework for reconstructing complex 3-D shape and photometry from multiple images",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:tHtfpZlB6tUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust Multi-Scale Shape Distance and Correspondence via Integral Invariants",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extension to General Incidence Relations",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qe6vwMD2xtsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple-View Geometry of Points and Lines",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:CYCckWUYoCcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Geometry and Reconstruction from Symmetry",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:DyXnQzXoVgIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Feedback",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:UmS_249rOGwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image Primitives and Correspondence",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:SIv7DqKytYAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Localization and Mapping with Multiple View Features",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "lH1PdF8AAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual Optics, Visual Radiometry, The Imaging Equation, and Their Role in Visual Reconstruction",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controllable Visual Cues",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ECE 598: An Invitation to 3-D Vision: From Images to Geometric Models",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:NnTm98qLMbgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision for Control: Optimality and Usability",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape from defocus in computer vision.",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:vjZqxyZ7hS4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Structure From Motion for Scenes Without Features",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:v_xunPV0uK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On Exploiting Occlusions in Multiple-view Geometry",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:isU91gLudPYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision Based Navigation",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE MUMFORD-SHAH FUNCTIONAL: FROM SEGMENTATION TO STEREO",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "lH1PdF8AAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling Beauty-Perceptual Representation and Control of Geometric Shape Spaces",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:OBSaB-F7qqsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Textures",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "lH1PdF8AAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Towards Unsupervised Detection of Actions in Clutter",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond Point Features",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "lH1PdF8AAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer Vision and Image Analysis-Reducing Structure From Motion: A General Framework for Dynamic Vision Part 2: Implementation and Experimental Assessment",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "lH1PdF8AAAAJ:wkm4DBaukwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Depth from Brightness of Moving Images",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion from X by Compensating Y",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "lH1PdF8AAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recursive 3D Visual Motion Estimation Using Subspace Constraints",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hEXC_dOfxuUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementation and Uncertainty Analysis of a Feature Tracking Algorithm",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:eO3_k5sD8BwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "and Control Applications\" at the 33 rd Conference on Decision and Control",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Observability/IdentifiabiIity of Rigid Motion",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rbGdIwl2e6cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incremental Few-Shot Meta-Learning via Indirect Discriminant Alignment",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:EsrhoZGmrkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature Tracking and Object Recognition on a Hand-held",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:6IBXqrN-DEwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Area Chairs",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:8JTMrWI6FdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Terrence E. Boult, University Colorado at Colorado Springs, USA",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Mx5hWS9ctUkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3DV 2016 Keynote Talks",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:oXKBmVzQOggC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model (In) Validation Approach to Gait Recognition",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:yKzB5RS27GgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "stereoscopic shading: Integrating Multi-frame shape Cues in a Variational Framework",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:IExZWSxeYXUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Material of Unsupervised Domain Adaptation via Regularized Conditional Alignment",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:g30IDTdgJMgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational stereo in the presence of specular reflections",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ynsZFq2pu0MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract popular",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:KIRwYnRZzWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "California Institute of Technology 116-81, Pasadena {CA 91125",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:IvSMUa3B7yYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Congratulations to the 2013 Elected Fellows of EMBS",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:o9ULDYDKYbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Workshop Proceedings: Opportunities and Challenges of Joint Inference and Control in Mobile Robotics",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:IyxfXMz2bNAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Workshop On Dymanical Vision ICCV2007",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:rzmi0EmCOGEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Scene Representations",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:U5uP8zs9lfgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "California Institute of Technology 116-81, Pasadena {CA 91125| soatto@ caltech. edu",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:L7vk9XBBNxgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking and Recognition on a Hand-held",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:_IsBomjs8bsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mario Micheli, Yifei Lou, Stefano Soatto & Andrea L. Bertozzi",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:5rMqqAh47xYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Complexity-Distortion Approach to Joint Pattern Alignment",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:DGzKIA18-3YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UCLA CSD-TR 050047",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ufKn5pxu7C0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deforming Motion, Shape Average and the Joint Registration and Segmentation of Images?",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:It0W0vAlS5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knowing a Good Feature When You See It",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:I9gX6wnfuA8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UCLA CSD-TR 050045",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:B2rIPIGFPLEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplementary Materials S2F: Slow-To-Fast Interpolator Flow",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:X5YyAB84Iw4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adaptive Multiscale Discretizations for Vision",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:qsWQJNntlusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMAGEin Ecology",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:Y9VhQm-5nPIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Occlusion Detection by Temporal Integration of Optical Flow",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:BOlwja0KXvYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How can Representation Learning deal with the problem of nuisance variability in Computer Vision?",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:s9ia6_kGH2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motion and structure from 2 perspective views of",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:TlpoogIpr_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1 Scene representation and notation",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:QUX0mv85b1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A. Vedaldi H. Ling",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:F2UWTTQJPOcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robotic Strawberry Harvester",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UCLA CSD-TR 050046",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From Dynamic Texture to Dynamic Shape and Appearance Models: An Overview",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Closing the Recognition Loop: Recognizing and Searching for Objects in the Real World",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Control and Dynamical Systems (CDS){California Institute of Technology 116-81, Pasadena {CA 91125. E-mail soatto@ systems. caltech. edu Universita di Padova, Dipartimento di \u2026",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "4th international workshop on dynamical vision",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Controlling Beauty",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "University of California, Los Angeles\u2013CA 90095, email soatto@ ucla. edu Georgia Institute of Technology, Atlanta\u2013GA 30332, email ayezzi@ ece. gatech. edu",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shading\u201d",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M\u00e9thode de \u201cFast Marching\u201d g\u00e9n\u00e9rique pour le \u201cShape From Shading\u201d\u201cGeneric\u201d Fast Marching Method for the Shape From Shading problem.",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual Detection and Classification of Humans, Their Pose and Their Motion",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "STRUCTURE-INDEPENDENT VISUAL MOTION CON-TROL ON THE ESSENTIAL MANIFOLD",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time Warping Under Dynamic Constraints With Application to Non-Stationary Action Alignment and Classification",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global Motion Registration via Long-term Photometric Memory",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multi-view Stereo Beyond Lambert \u0122",
+                "cites": "0"
+            },
+            "id_citations": "lH1PdF8AAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=lH1PdF8AAAAJ"
+}

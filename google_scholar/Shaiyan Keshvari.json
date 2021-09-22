@@ -1,0 +1,282 @@
+{
+    "affiliation": "York University",
+    "cites_per_year": {
+        "2010": 1,
+        "2011": 6,
+        "2012": 8,
+        "2013": 13,
+        "2014": 30,
+        "2015": 29,
+        "2016": 41,
+        "2017": 87,
+        "2018": 73,
+        "2019": 49,
+        "2020": 40
+    },
+    "citedby": 379,
+    "citedby5y": 320,
+    "coauthors": [
+        {
+            "affiliation": "Principal Research Scientist, Dept. of Brain & Cognitive Sciences, CSAIL, MIT",
+            "id": "BfE3-m0AAAAJ",
+            "name": "Ruth Rosenholtz"
+        },
+        {
+            "affiliation": "Associate professor, University of Stockholm",
+            "id": "QUDXhooAAAAJ",
+            "name": "Ronald van den Berg"
+        },
+        {
+            "affiliation": "Professor of Neuroscience and Psychology at New York University",
+            "id": "2370JKUAAAAJ",
+            "name": "Wei Ji Ma / Whee Ky Ma"
+        },
+        {
+            "affiliation": "University of Washington",
+            "id": "ZSZG9VYAAAAJ",
+            "name": "Fang Jiang"
+        },
+        {
+            "affiliation": "Stanford University, Research Associate",
+            "id": "Ubm2PnsAAAAJ",
+            "name": "Vaidehi Natu"
+        },
+        {
+            "affiliation": "The University of Texas at Dallas",
+            "id": "YoGrOPUAAAAJ",
+            "name": "Alice J. O'Toole"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Universitaet Siegen",
+            "id": "jYCidWgAAAAJ",
+            "name": "Volker Blanz"
+        }
+    ],
+    "email": "@yorku.ca",
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 5,
+    "i10index5y": 5,
+    "id": "chEp86AAAAAJ",
+    "interests": [
+        "Perception",
+        "Vision",
+        "Short-Term Memory",
+        "Peripheral Vision"
+    ],
+    "name": "Shaiyan Keshvari",
+    "publications": [
+        {
+            "bib": {
+                "title": "No evidence for an item limit in change detection",
+                "cites": "97",
+                "year": "2013"
+            },
+            "id_citations": "chEp86AAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic computation in human perception under variability in encoding precision",
+                "cites": "93",
+                "year": "2012"
+            },
+            "id_citations": "chEp86AAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable neural patterns of facial identity across changes in viewpoint",
+                "cites": "70",
+                "year": "2010"
+            },
+            "id_citations": "chEp86AAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pooling of continuous features provides a unifying account of crowding",
+                "cites": "69",
+                "year": "2016"
+            },
+            "id_citations": "chEp86AAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Colors--Messengers of Concepts: Visual Design Mining for Learning Color Semantics",
+                "cites": "26",
+                "year": "2017"
+            },
+            "id_citations": "chEp86AAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Challenges to pooling models of crowding: Implications for visual mechanisms",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "chEp86AAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Web pages: What can you see in a single fixation?",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "chEp86AAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SideEye: A generative neural network based simulator of human peripheral vision",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "chEp86AAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-dimensional pooling model accounts for seemingly conflicting substitution effects in crowding",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "chEp86AAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Fast Foveated Fully Convolutional Network Model for Human Peripheral Vision",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "chEp86AAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peripheral material perception",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "chEp86AAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representations of facial identity over changes in viewpoint",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "chEp86AAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of non-local shape information in deep neural networks",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "chEp86AAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Example outputs of the Texture Tiling Model (\" mongrels\")",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "chEp86AAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling perceptual grouping in peripheral vision for information visualization",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "chEp86AAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for configural superiority effects in convolutional neural networks",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "chEp86AAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "At the interface of materials and objects in peripheral vision",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "chEp86AAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of grouping on crowding with informative flankers",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "chEp86AAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "No Evidence for an Item Limit in Change Detection (Open Access)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "chEp86AAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual grouping in peripheral vision for information visualization",
+                "cites": "0"
+            },
+            "id_citations": "chEp86AAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FastICA\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "chEp86AAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal change detection under internal fluctuations in precision",
+                "cites": "0"
+            },
+            "id_citations": "chEp86AAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Substitution vs. pooling Late crowding",
+                "cites": "0"
+            },
+            "id_citations": "chEp86AAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dissociable representations of view-invariant facial identity in the ventral temporal cortex",
+                "cites": "0"
+            },
+            "id_citations": "chEp86AAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=chEp86AAAAAJ"
+}

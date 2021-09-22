@@ -1,0 +1,1638 @@
+{
+    "affiliation": "Principal Research Scientist, Dept. of Brain & Cognitive Sciences, CSAIL, MIT",
+    "cites_per_year": {
+        "1994": 27,
+        "1995": 28,
+        "1996": 36,
+        "1997": 54,
+        "1998": 80,
+        "1999": 59,
+        "2000": 71,
+        "2001": 72,
+        "2002": 91,
+        "2003": 110,
+        "2004": 125,
+        "2005": 136,
+        "2006": 177,
+        "2007": 219,
+        "2008": 240,
+        "2009": 244,
+        "2010": 249,
+        "2011": 304,
+        "2012": 325,
+        "2013": 397,
+        "2014": 419,
+        "2015": 423,
+        "2016": 497,
+        "2017": 836,
+        "2018": 433,
+        "2019": 479,
+        "2020": 350
+    },
+    "citedby": 6567,
+    "citedby5y": 3020,
+    "coauthors": [
+        {
+            "affiliation": "Research Scientist, Dept of Brain & Cognitive Sciences, MIT",
+            "id": "GlIyobYAAAAJ",
+            "name": "Lavanya Sharan"
+        },
+        {
+            "affiliation": "Associate Professor, Department of Psychology, North Dakota State University",
+            "id": "saGHcdkAAAAJ",
+            "name": "Benjamin Balas"
+        },
+        {
+            "affiliation": "Professor of Vision Science, MIT",
+            "id": "todsDfQAAAAJ",
+            "name": "Edward H Adelson"
+        },
+        {
+            "affiliation": "Google",
+            "id": "YdDV_lQAAAAJ",
+            "name": "Allison Woodruff"
+        },
+        {
+            "affiliation": "Professor of EECS, UC Berkeley",
+            "id": "oY9R5YQAAAAJ",
+            "name": "Jitendra Malik"
+        },
+        {
+            "affiliation": "",
+            "id": "k1eaag4AAAAJ",
+            "name": "Yuanzhen Li"
+        },
+        {
+            "affiliation": "",
+            "id": "zpunoJsAAAAJ",
+            "name": "Alvin Raj"
+        },
+        {
+            "affiliation": "Research Programmer, Carnegie Mellon University",
+            "id": "zby0egkAAAAJ",
+            "name": "Andrew Faulring"
+        },
+        {
+            "affiliation": "York University",
+            "id": "chEp86AAAAAJ",
+            "name": "Shaiyan Keshvari"
+        },
+        {
+            "affiliation": "Postdoctoral Associate, Brain and Cognitive Sciences (and CSAIL), MIT",
+            "id": "1YBcrmYAAAAJ",
+            "name": "Benjamin A Wolfe"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "NfyVi8AAAAAJ",
+            "name": "Bryan Reimer"
+        },
+        {
+            "affiliation": "Research Scientist, Google Research",
+            "id": "j7MW4iYAAAAJ",
+            "name": "Ce Liu"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Hasso Plattner Institute",
+            "id": "GdRdhYwAAAAJ",
+            "name": "Patrick Baudisch"
+        },
+        {
+            "affiliation": "School of Computing and Information Systems, The University of Melbourne",
+            "id": "EdGfpdcAAAAJ",
+            "name": "Krista Ehinger"
+        },
+        {
+            "affiliation": "Chief Vision Scientist, Apple",
+            "id": "RjkjOcAAAAAJ",
+            "name": "Andrew Watson"
+        },
+        {
+            "affiliation": "Professor of Ophthalmology & Radiology, Harvard Medical School, Brigham & Women's Hospital",
+            "id": "av3q_DgAAAAJ",
+            "name": "Jeremy Wolfe"
+        },
+        {
+            "affiliation": "Postdoctoral Fellow, Northeastern University",
+            "id": "kbjFM9cAAAAJ",
+            "name": "Anna A Kosovicheva"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "wZH_N7cAAAAJ",
+            "name": "Lex Fridman"
+        },
+        {
+            "affiliation": "Sivantos GmbH",
+            "id": "Pl6UrqoAAAAJ",
+            "name": "Nadja Schinkel-Bielefeld"
+        },
+        {
+            "affiliation": "Professor of Psychology, Harvard University",
+            "id": "qU8dld4AAAAJ",
+            "name": "George A. Alvarez"
+        }
+    ],
+    "email": "@mit.edu",
+    "hindex": 36,
+    "hindex5y": 27,
+    "i10index": 52,
+    "i10index5y": 41,
+    "id": "BfE3-m0AAAAJ",
+    "interests": [
+        "Human vision",
+        "information visualization",
+        "HCI"
+    ],
+    "name": "Ruth Rosenholtz",
+    "publications": [
+        {
+            "bib": {
+                "title": "Iterative procedures for reduction of blocking effects in transform image coding",
+                "cites": "707",
+                "year": "1992"
+            },
+            "id_citations": "BfE3-m0AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring visual clutter",
+                "cites": "631",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halo: a technique for visualizing off-screen objects",
+                "cites": "537",
+                "year": "2003"
+            },
+            "id_citations": "BfE3-m0AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature congestion: a measure of display clutter",
+                "cites": "340",
+                "year": "2005"
+            },
+            "id_citations": "BfE3-m0AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A summary-statistic representation in peripheral vision explains visual crowding",
+                "cites": "300",
+                "year": "2009"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A simple saliency model predicts a number of motion popout phenomena",
+                "cites": "278",
+                "year": "1999"
+            },
+            "id_citations": "BfE3-m0AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using thumbnails to search the Web",
+                "cites": "275",
+                "year": "2001"
+            },
+            "id_citations": "BfE3-m0AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computing local surface orientation and shape from texture for curved surfaces",
+                "cites": "273",
+                "year": "1997"
+            },
+            "id_citations": "BfE3-m0AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material perception: What can you see in a brief glance?",
+                "cites": "233",
+                "year": "2009"
+            },
+            "id_citations": "BfE3-m0AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring features in a bayesian framework for material recognition",
+                "cites": "225",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A summary statistic representation in peripheral vision explains visual search",
+                "cites": "196",
+                "year": "2012"
+            },
+            "id_citations": "BfE3-m0AAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual search for arbitrary objects in real scenes",
+                "cites": "165",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognizing materials using perceptually inspired features",
+                "cites": "156",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capabilities and limitations of peripheral vision",
+                "cites": "152",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search asymmetries? What search asymmetries?",
+                "cites": "142",
+                "year": "2001"
+            },
+            "id_citations": "BfE3-m0AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking the role of top-down attention in vision: Effects attributable to a lossy representation in peripheral vision",
+                "cites": "136",
+                "year": "2012"
+            },
+            "id_citations": "BfE3-m0AAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of the use of text summaries, plain thumbnails, and enhanced thumbnails for Web search tasks",
+                "cites": "103",
+                "year": "2002"
+            },
+            "id_citations": "BfE3-m0AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surface orientation from texture: Isotropy or homogeneity (or both)?",
+                "cites": "96",
+                "year": "1997"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual adaptive JPEG coding",
+                "cites": "94",
+                "year": "1996"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Popout prism: adding perceptual principles to overview+ detail document interfaces",
+                "cites": "89",
+                "year": "2002"
+            },
+            "id_citations": "BfE3-m0AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accuracy and speed of material categorization in real-world images",
+                "cites": "78",
+                "year": "2014"
+            },
+            "id_citations": "BfE3-m0AAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual search for orientation among heterogeneous distractors: Experimental results and implications for signal-detection theory models of search.",
+                "cites": "70",
+                "year": "2001"
+            },
+            "id_citations": "BfE3-m0AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pooling of continuous features provides a unifying account of crowding",
+                "cites": "69",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do predictions of visual perception aid design?",
+                "cites": "68",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for generating enhanced thumbnails",
+                "cites": "66",
+                "year": "2006"
+            },
+            "id_citations": "BfE3-m0AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for document navigation using enhanced thumbnails",
+                "cites": "65",
+                "year": "2006"
+            },
+            "id_citations": "BfE3-m0AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for generating enhanced thumbnails usable for document navigation",
+                "cites": "63",
+                "year": "2005"
+            },
+            "id_citations": "BfE3-m0AAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VisualIDs: automatic distinctive icons for desktop interfaces",
+                "cites": "63",
+                "year": "2004"
+            },
+            "id_citations": "BfE3-m0AAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cube search, revisited",
+                "cites": "58",
+                "year": "2015"
+            },
+            "id_citations": "BfE3-m0AAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What your visual system sees where you are not looking",
+                "cites": "57",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A general account of peripheral encoding also predicts scene perception performance",
+                "cites": "56",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of background color on asymmetries in color search",
+                "cites": "56",
+                "year": "2004"
+            },
+            "id_citations": "BfE3-m0AAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A differential method for computing local shape-from-texture for planar and curved surfaces",
+                "cites": "55",
+                "year": "1993"
+            },
+            "id_citations": "BfE3-m0AAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Systems and method for automatically choosing visual characteristics to highlight a target against a background",
+                "cites": "49",
+                "year": "2006"
+            },
+            "id_citations": "BfE3-m0AAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture perception",
+                "cites": "37",
+                "year": "2014"
+            },
+            "id_citations": "BfE3-m0AAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recovering surface curvature and orientation from texture distortion: A least squares algorithm and sensitivity analysis",
+                "cites": "36",
+                "year": "1994"
+            },
+            "id_citations": "BfE3-m0AAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "More than the Useful Field: Considering peripheral vision in driving",
+                "cites": "34",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New exploration of classic search tasks",
+                "cites": "33",
+                "year": "2014"
+            },
+            "id_citations": "BfE3-m0AAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An intuitive model of perceptual grouping for HCI design",
+                "cites": "33",
+                "year": "2009"
+            },
+            "id_citations": "BfE3-m0AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peripheral object recognition with informative natural context",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "BfE3-m0AAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptually tuned sub-band image coder",
+                "cites": "32",
+                "year": "1990"
+            },
+            "id_citations": "BfE3-m0AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three-dimensional active vision with glyph address carpet",
+                "cites": "31",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for transitioning between thumbnails and documents based upon thumbnail appearance",
+                "cites": "26",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Significantly different textures: A computational model of pre-attentive texture segmentation",
+                "cites": "26",
+                "year": "2000"
+            },
+            "id_citations": "BfE3-m0AAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robust estimation of multiple surface shapes from occluded textures",
+                "cites": "20",
+                "year": "1995"
+            },
+            "id_citations": "BfE3-m0AAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Rorschach test for visual classification strategies",
+                "cites": "18",
+                "year": "1997"
+            },
+            "id_citations": "BfE3-m0AAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Affine structure and photometry",
+                "cites": "14",
+                "year": "1996"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model for shape from texture",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bridging text spotting and slam with junction features",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "BfE3-m0AAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What your design looks like to peripheral vision",
+                "cites": "11",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Capacity limits and how the visual system copes with them",
+                "cites": "10",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational form of the statistical saliency model for visual search",
+                "cites": "10",
+                "year": "2005"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual identifiers for digital data",
+                "cites": "9",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature congestion: A measure of visual clutter",
+                "cites": "9",
+                "year": "2006"
+            },
+            "id_citations": "BfE3-m0AAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search performance is better predicted by tileability than presence of a unique basic feature",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search for arbitrary objects in natural scenes is remarkably efficient",
+                "cites": "8",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Challenges to pooling models of crowding: Implications for visual mechanisms",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond Bouma's window: How to explain global aspects of crowding?",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Web pages: What can you see in a single fixation?",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "BfE3-m0AAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Uniform versus random orientation in fading and filling-in",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "General-purpose localization of textured image regions",
+                "cites": "7",
+                "year": "1999"
+            },
+            "id_citations": "BfE3-m0AAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Age-related differences in the legibility of degraded text",
+                "cites": "6",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of brake lights while distracted: separating peripheral vision from cognitive load",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context mitigates crowding: Peripheral object recognition in real-world images",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SideEye: A generative neural network based simulator of human peripheral vision",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A crowded model of visual search",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "BfE3-m0AAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eye movements for shape and material perception",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid holistic perception and evasion of road hazards.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A high-dimensional pooling model accounts for seemingly conflicting substitution effects in crowding",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature Congestion and Subband Entropy measures of visual clutter",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How and why we perceive sets: What does modeling tell us?",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demystifying visual awareness: Peripheral encoding plus limited decision complexity resolve the paradox of rich visual experience and curious perceptual failures",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "BfE3-m0AAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting road scenes from brief views of driving video",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceiving the roadway in the blink of an eye-rapid perception of the road environment and prediction of events",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Speed of Material vs. Object Recognition Depends upon Viewing Condition",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The visual system as statistician: statistical representation in early vision",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond texture processing: further implications of statistical representations",
+                "cites": "2",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic signal detection theory model for visual search does not predict performance with heterogeneous distractors",
+                "cites": "2",
+                "year": "1997"
+            },
+            "id_citations": "BfE3-m0AAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SHAPE FROM TEXTURE ISOTROPY OR HOMOGENEITY (OR BOTH)",
+                "cites": "2",
+                "year": "1995"
+            },
+            "id_citations": "BfE3-m0AAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A differential method for computing local shape-from-texture for",
+                "cites": "2",
+                "year": "1993"
+            },
+            "id_citations": "BfE3-m0AAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What modern vision science reveals about the awareness puzzle: Summary-statistic encoding plus decision limits underlie the richness of visual perception and its quirky failures",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Fast Foveated Fully Convolutional Network Model for Human Peripheral Vision",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Those pernicious items",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduction in Legibility with Degradation in Older and Younger Observers",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material recognition is fast, but not superfast",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An ideal saccadic targeting model acting on pooled summary statistics predicts visual search performance",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical saliency model incorporating motion saliency and an application to driving",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Filtering in feature space: A computational model of grouping by proximity and similarity",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Significantly different textures: a texture segmentation algorithm",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "BfE3-m0AAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What statistics determine segmentation of orientation-defined textures?",
+                "cites": "1",
+                "year": "1997"
+            },
+            "id_citations": "BfE3-m0AAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An ideal observer model for shape from texture",
+                "cites": "1",
+                "year": "1994"
+            },
+            "id_citations": "BfE3-m0AAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimum statistical representation obtained from an intermediate feature level of the visual hierarchy",
+                "cites": "1"
+            },
+            "id_citations": "BfE3-m0AAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurobiologically realistic model of statistical pooling in peripheral vision",
+                "cites": "1"
+            },
+            "id_citations": "BfE3-m0AAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward a theory of visual information acquisition in driving",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture Tiling Model",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "BfE3-m0AAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The occurrence of illusory conjunctions correlates with the spatial noise in peripheral vision",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual factors in mental maze solving",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why Uber Drivers Scare You: Detecting Road Hazards With Peripheral Vision",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern Vision Science for Designers: Making Designs Clear at a Glance",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Example outputs of the Texture Tiling Model (\" mongrels\")",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human Vision at a Glance (Invited Talk)",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "BfE3-m0AAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Similarity effects in peripheral vision: improved representation or cuing?",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "BfE3-m0AAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Was that a moose on the road? Gist-like perception of emerging driving hazards",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "BfE3-m0AAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rethinking capacity limits in visual processing: Peripheral vision, attention, and decision limits",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "BfE3-m0AAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling perceptual grouping in peripheral vision for information visualization",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "BfE3-m0AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual and attentional factors in detection of driving-relevant visual events",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Summary statistic encoding plus limits on decision complexity underlie the richness of visual perception as well as its quirky failures",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Seeing the road in the blink of an eye-rapid perception of the driver's visual environment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for configural superiority effects in convolutional neural networks",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural Computation of Statistical Image Properties in Peripheral Vision",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "BfE3-m0AAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why don't we see the gorilla? Looking in the wrong places, attending to the wrong stuff, or doing the wrong task?",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A general account of peripheral encoding also predicts scene perception",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search performance is better predicted by tileability than presence of a unique",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "BfE3-m0AAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Home/Publications",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BfE3-m0AAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why don't we see the gorilla? Looking in the wrong place, attending to the wrong objects, or doing the wrong task?",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of grouping on crowding with informative flankers",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "BfE3-m0AAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "If you can see it, you spot it sooner: Peripheral change detection is correlated with performance onSpot-The-Difference'puzzles",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "BfE3-m0AAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The power of pooling in high dimensions",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture statistics predict human performance on a range of scene-perception tasks",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "If you cannot see it, you look at it: Visual conspicuity in real-world scenes is correlated with fixations",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ambiguous statistics-how a statistical encoding in the periphery affects perception",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peripheral object recognition in natural images: Effect of window size",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "BfE3-m0AAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Inefficiencies in Visual Search",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BfE3-m0AAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Intuitive Model Framework for Gestalt Grouping Principles",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BfE3-m0AAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Peripheral representation by summary statistics: An alternative to 3-D shape and lighting direction as basic features for search",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BfE3-m0AAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A unilateral field advantage in visual search and detection",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "BfE3-m0AAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User Alerts",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collinearity and Containment Grouping have Different Effects on Object Substitution Masking",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A summary-statistic model of the visual periphery predicts the difficulty of visual curve tracing",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "BfE3-m0AAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A computational model for material recognition",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Symposium Summary",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "BfE3-m0AAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Can reduced contour detection performance in the periphery be explained by larger integration fields?",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "BfE3-m0AAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Texture processing model visualizes perception of Pinna-Gregory illusion",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "BfE3-m0AAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connection structures underlying human contour integration",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A texture-perception model of crowding for general stimuli, Version 1.0",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DesignEye: a tool for design teams to analyze and address visual clutter",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "BfE3-m0AAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Software for modeling set perception",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "BfE3-m0AAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Letter search is influenced by the frequency of occurrence of the letters of the alphabet",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "BfE3-m0AAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Language, Categorization, and Visual Search",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "BfE3-m0AAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "9.07 Statistical Methods in Brain and Cognitive Science, Spring 2004",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "BfE3-m0AAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Search isocontours as a tool for understanding visual search",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "BfE3-m0AAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dependence of Asymmetries in Color Search on Background Color",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "BfE3-m0AAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of background color on asymmetries in color search",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "BfE3-m0AAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Size does matter in judgements of numerosity.",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "BfE3-m0AAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of background colour on asymmetries in colour search",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "BfE3-m0AAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of element size on judgments of object number and density",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "BfE3-m0AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A saliency model for search for motion or colour",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "BfE3-m0AAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Change detection in textured patterns",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "BfE3-m0AAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptually-Based Adaptive JPEG Coding",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "BfE3-m0AAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Local shape from texture.",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "BfE3-m0AAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A COMPUTATIONAL MODEL FOR SHAPE FROM TEXTURE FOR MULTIPLE TEXTURES",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "BfE3-m0AAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TEXTURE IS LIKE MOTION-DEMONSTRATION OF A TEXTURE APERTURE EFFECT AND TEXTURE TRANSPARENCY",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "BfE3-m0AAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A COMPUTATIONAL MODEL FOR SHAPE FROM TEXTURE",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "BfE3-m0AAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SIMS 247: Information Visualization and Presentation",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptual grouping in peripheral vision for information visualization",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "9.59 J/24.905 J Psycholinguistics, Spring 2005\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Substitution vs. pooling Late crowding",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vision Science Meets Visualization",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Map 25: Peninsula\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1 WHAT IS TEXTURE, AND WHY DO WE WANT TO FIND IT? In a number of problems in computer vision and image processing, one must distinguish between image regions that correspond to \u2026",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A statistical model of peripheral vision predicts the Pinna-Gregory illusion",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FastICA\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature Congestion and Subband Entropy measures of visual clutter\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Professor Nicholas Ashford Interview at the ILO Conference on the Future of Work 8-10 July 2019 Geneva\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human Contour Integration is Optimized for Natural Images",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shape from Multiple, Transparent, and Occluded Textures",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Software for modeling set perception\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "BfE3-m0AAAAJ:mB3voiENLucC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=BfE3-m0AAAAJ"
+}

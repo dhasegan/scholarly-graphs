@@ -1,0 +1,4201 @@
+{
+    "affiliation": "Professor & Chair of Neurosurgery, UCLA",
+    "cites_per_year": {
+        "2003": 96,
+        "2004": 127,
+        "2005": 189,
+        "2006": 431,
+        "2007": 504,
+        "2008": 686,
+        "2009": 955,
+        "2010": 1162,
+        "2011": 1413,
+        "2012": 1665,
+        "2013": 1926,
+        "2014": 2017,
+        "2015": 2088,
+        "2016": 1945,
+        "2017": 2083,
+        "2018": 2204,
+        "2019": 2295,
+        "2020": 1843
+    },
+    "citedby": 24061,
+    "citedby5y": 12487,
+    "coauthors": [
+        {
+            "affiliation": "UCLA",
+            "id": "6-vSif8AAAAJ",
+            "name": "Timothy Cloughesy"
+        },
+        {
+            "affiliation": "UCLA",
+            "id": "Z2z9ZdIAAAAJ",
+            "name": "Robert Prins"
+        },
+        {
+            "affiliation": "",
+            "id": "IvSY4O8AAAAJ",
+            "name": "Paul Mischel"
+        },
+        {
+            "affiliation": "Professor of Pathology, UC Irvine and UCLA Schools of Medicine",
+            "id": "m-ZmA4cAAAAJ",
+            "name": "William Yong"
+        },
+        {
+            "affiliation": "Professor of Radiology, David Geffen School of Medicine at UCLA",
+            "id": "YtvbCjYAAAAJ",
+            "name": "Whitney B. Pope"
+        },
+        {
+            "affiliation": "Professor of Human Genetics, UCLA",
+            "id": "gurKt_QAAAAJ",
+            "name": "Stan Nelson"
+        },
+        {
+            "affiliation": "Professor of Human Genetics and Biostatistics, University of California, Los Angeles",
+            "id": "mEM8q5cAAAAJ",
+            "name": "Steve Horvath"
+        },
+        {
+            "affiliation": "UCLA Neurosurgery",
+            "id": "hZk5YTEAAAAJ",
+            "name": "Richard G Everson"
+        },
+        {
+            "affiliation": "",
+            "id": "sWk83fEAAAAJ",
+            "name": "Harley Kornblum"
+        },
+        {
+            "affiliation": "Neurosurgeon UCLA",
+            "id": "tYKsgIkAAAAJ",
+            "name": "Isaac Yang"
+        }
+    ],
+    "email": "@mednet.ucla.edu",
+    "hindex": 69,
+    "hindex5y": 56,
+    "i10index": 149,
+    "i10index5y": 128,
+    "id": "bDpdeJIAAAAJ",
+    "interests": [
+        "Brain Tumors",
+        "Brain Cancer",
+        "Neurosurgical Oncology"
+    ],
+    "name": "Linda Liau",
+    "publications": [
+        {
+            "bib": {
+                "title": "Cancer-associated IDH1 mutations produce 2-hydroxyglutarate",
+                "cites": "3088",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular determinants of the response of glioblastomas to EGFR kinase inhibitors",
+                "cites": "1563",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assessing the significance of chromosomal aberrations in cancer: methodology and application to glioma",
+                "cites": "1053",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-throughput oncogene mutation profiling in human cancer",
+                "cites": "1044",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene expression profiling of gliomas strongly predicts survival",
+                "cites": "732",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subgroup-specific structural variation across 1,000 medulloblastoma genomes",
+                "cites": "641",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of oncogenic signaling networks in glioblastoma identifies ASPM as a molecular target",
+                "cites": "604",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Antitumor activity of rapamycin in a Phase I trial for patients with recurrent PTEN-deficient glioblastoma",
+                "cites": "581",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging proliferation in brain tumors with 18F-FLT PET: comparison with 18F-FDG",
+                "cites": "500",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell vaccination in glioblastoma patients induces systemic and intracranial T-cell responses modulated by the local central nervous system tumor microenvironment",
+                "cites": "491",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase II study of bevacizumab plus temozolomide during and after radiation therapy for patients with newly diagnosed glioblastoma multiforme",
+                "cites": "472",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for sequenced molecular evolution of IDH1 mutant glioblastoma from a distinct cell of origin",
+                "cites": "383",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene expression profile correlates with T-cell infiltration and relative survival in glioblastoma patients vaccinated with dendritic cell immunotherapy",
+                "cites": "374",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Intertumoral heterogeneity within medulloblastoma subgroups",
+                "cites": "364",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Epidermal growth factor receptor activation in glioblastoma through novel missense mutations in the extracellular domain",
+                "cites": "320",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene expression profiling identifies molecular subtypes of gliomas",
+                "cites": "318",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The whole-genome landscape of medulloblastoma subtypes",
+                "cites": "316",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Somatic mutations of the Parkinson's disease\u2013associated gene PARK2 in glioblastoma and other human malignancies",
+                "cites": "307",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of molecular subtypes of glioblastoma by gene expression profiling",
+                "cites": "296",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Treatment of intracranial gliomas with bone marrow\u2014derived dendritic cells pulsed with tumor antigens",
+                "cites": "295",
+                "year": "1999"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subgroup-specific prognostic implications of TP53 mutation in medulloblastoma",
+                "cites": "292",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential sensitivity of glioma-versus lung cancer\u2013specific EGFR mutations to EGFR kinase inhibitors",
+                "cites": "263",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recurrent somatic mutation of FAT1 in multiple human cancers leads to aberrant Wnt activation",
+                "cites": "255",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Non-invasive detection of 2-hydroxyglutarate and other metabolites in IDH1 mutant glioma patients using magnetic resonance spectroscopy",
+                "cites": "255",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bevacizumab and chemotherapy for recurrent glioblastoma: a single-institution experience",
+                "cites": "246",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distinct transcription profiles of primary and secondary glioblastoma subgroups",
+                "cites": "246",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary glioblastomas express mesenchymal stem-like properties",
+                "cites": "237",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The tyrosine phosphatase PTPRD is a tumor suppressor that is frequently inactivated and mutated in glioblastoma and other human cancers",
+                "cites": "236",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurosphere formation is an independent predictor of clinical outcome in malignant glioma",
+                "cites": "236",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cytogenetic prognostication within medulloblastoma subgroups",
+                "cites": "221",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bead-based profiling of tyrosine kinase phosphorylation identifies SRC as a potential target for glioblastoma therapy",
+                "cites": "221",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BEAMing and droplet digital PCR analysis of mutant IDH1 mRNA in glioma patient serum and cerebrospinal fluid extracellular vesicles",
+                "cites": "210",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active matrix metalloproteinase 9 expression is associated with primary glioblastoma subtype",
+                "cites": "193",
+                "year": "2002"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase II pilot study of bevacizumab in combination with temozolomide and regional radiation therapy for up-front treatment of patients with newly diagnosed glioblastoma \u2026",
+                "cites": "191",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recurrent glioblastoma",
+                "cites": "190",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zGdJYJv2LkUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The TLR-7 agonist, imiquimod, enhances dendritic cell survival and promotes tumor antigen-specific T cell priming: relation to central nervous system antitumor immunity",
+                "cites": "187",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene expression analysis of glioblastomas identifies the major molecular basis for the prognostic benefit of younger age",
+                "cites": "184",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of a human glioma-associated growth factor gene, granulin, using differential immuno-absorption",
+                "cites": "164",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maternal embryonic leucine zipper kinase is a key regulator of the proliferation of malignant brain tumors, including brain tumor stem cells",
+                "cites": "149",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proteasomal and genetic inactivation of the NF1 tumor suppressor in gliomagenesis",
+                "cites": "144",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship between gene expression and enhancement in glioblastoma multiforme: exploratory DNA microarray analysis",
+                "cites": "140",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cytomegalovirus immunity after vaccination with autologous glioblastoma lysate",
+                "cites": "140",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic radiographic atlas of glioblastoma phenotypes",
+                "cites": "135",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Indoor wireless voice and data distribution system",
+                "cites": "134",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:z6xuaG2dYH0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular properties of CD133+ glioblastoma stem cells derived from treatment-refractory recurrent brain tumors",
+                "cites": "132",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "First results on survival from a large Phase 3 clinical trial of an autologous dendritic cell vaccine in newly diagnosed glioblastoma",
+                "cites": "129",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mUJArPsKIAAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TERT promoter mutations are highly recurrent in SHH subgroup medulloblastoma",
+                "cites": "128",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An essential requirement for the SCAP/SREBP signaling axis to protect cancer cells from lipotoxicity",
+                "cites": "122",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overexpression of isocitrate dehydrogenase mutant proteins renders glioma cells more sensitive to radiation",
+                "cites": "122",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Treatment of a glioblastoma patient by vaccination with autologous dendritic cells pulsed with allogeneic major histocompatibility complex class I\u2013matched tumor peptides: case \u2026",
+                "cites": "121",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The phosphatase and tensin homolog regulates epidermal growth factor receptor (EGFR) inhibitor response by targeting EGFR for degradation",
+                "cites": "116",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immunotherapeutic targeting of shared melanoma-associated antigens in a murine glioma model",
+                "cites": "116",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genomic landscape of meningiomas",
+                "cites": "114",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The TLR7 agonist imiquimod enhances the anti-melanoma effects of a recombinant Listeria monocytogenes vaccine",
+                "cites": "107",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship between survival and edema in malignant gliomas: role of vascular endothelial growth factor and neuronal pentraxin 2",
+                "cites": "106",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of glioma-associated antigen peptide-loaded versus autologous tumor lysate-loaded dendritic cell vaccination in malignant glioma patients",
+                "cites": "104",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combined analysis of O6-methylguanine-DNA methyltransferase protein expression and promoter methylation provides optimized prognostication of glioblastoma \u2026",
+                "cites": "102",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase 1 trial of vocimagene amiretrorepvec and 5-fluorocytosine for recurrent high-grade glioma",
+                "cites": "99",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Therapeutic impact of cytoreductive surgery and irradiation of posterior fossa ependymoma in the molecular era: a retrospective multicohort analysis",
+                "cites": "98",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A microfluidic platform for systems pathology: multiparameter single-cell signaling measurements of clinical brain tumor specimens",
+                "cites": "95",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prolonged survival of rats with intracranial C6 gliomas by treatment wit~ TGF-\u03b2 antisense gene",
+                "cites": "89",
+                "year": "1998"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "p53 disruption profoundly alters the response of human glioblastoma cells to DNA topoisomerase I inhibition",
+                "cites": "84",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiinstitutional validation of the University of California at San Francisco low-grade glioma prognostic scoring system",
+                "cites": "83",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monitoring of regulatory T cell frequencies and expression of CTLA-4 on T cells, before and after DC vaccination, can predict survival in GBM patients",
+                "cites": "82",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stem cell associated gene expression in glioblastoma multiforme: relationship to survival and the subventricular zone",
+                "cites": "82",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modulation of major histocompatibility complex Class I molecules and major histocompatibility complex\u2014bound immunogenic peptides induced by interferon-\u03b1 and interferon-\u03b3 \u2026",
+                "cites": "80",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immunosuppressive tumor-infiltrating myeloid cells mediate adaptive immune resistance via a PD-1/PD-L1 mechanism in glioblastoma",
+                "cites": "74",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of wild-type EGFR amplification and EGFRvIII mutation in CSF-derived extracellular vesicles of glioblastoma patients",
+                "cites": "70",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:XUvXOeBm_78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional diffusion maps (fDMs) evaluated before and after radiochemotherapy predict progression-free and overall survival in newly diagnosed glioblastoma",
+                "cites": "69",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bioluminescent imaging of melanoma in live mice",
+                "cites": "69",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tumor immunity within the central nervous system stimulated by recombinant Listeria monocytogenes vaccination",
+                "cites": "69",
+                "year": "2002"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PD-1 blockade enhances the vaccination-induced immune response in glioma",
+                "cites": "68",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Ak0FvsSvgGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autologous tumor lysate-pulsed dendritic cell immunotherapy for pediatric patients with newly diagnosed or recurrent high-grade gliomas",
+                "cites": "67",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anti-tumor activity and trafficking of self, tumor-specific T cells against tumors located in the brain",
+                "cites": "63",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "pH-weighted molecular imaging of gliomas using amine chemical exchange saturation transfer MRI",
+                "cites": "61",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:yFnVuubrUp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IDH mutations in human glioma",
+                "cites": "61",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perfusion and diffusion MRI signatures in histologic and genetic subtypes of WHO grade II\u2013III diffuse gliomas",
+                "cites": "60",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hsZV8lGYWTMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AACR cancer progress report 2014",
+                "cites": "60",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of retinol binding protein 1 promoter hypermethylation in isocitrate dehydrogenase 1 and 2 mutant gliomas",
+                "cites": "58",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Altered functional connectivity of the default mode network in diffuse gliomas measured with pseudo-resting state fMRI",
+                "cites": "57",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell vaccines for brain tumors",
+                "cites": "57",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pathology and pathophysiology of head injury",
+                "cites": "57",
+                "year": "1995"
+            },
+            "id_citations": "bDpdeJIAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NK and CD4 cells collaborate to protect against melanoma tumor formation in the brain",
+                "cites": "55",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gliomas: advances in molecular analysis and characterization",
+                "cites": "55",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disruption of the PACAP gene promotes medulloblastoma in ptc1 mutant mice",
+                "cites": "53",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immunology and immunotherapy in neurosurgical disease",
+                "cites": "53",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deferred use of bevacizumab for recurrent glioblastoma is not associated with diminished efficacy",
+                "cites": "51",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Knockdown of CypA inhibits interleukin-8 (IL-8) and IL-8-mediated proliferation and tumor growth of glioblastoma cells through down-regulated NF-\u03baB",
+                "cites": "48",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Durable complete responses in some recurrent high-grade glioma patients treated with Toca 511+ Toca FC",
+                "cites": "45",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:w1MjKQ0l0TYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decitabine immunosensitizes human gliomas to NY-ESO-1 specific T lymphocyte targeting through the Fas/Fas ligand pathway",
+                "cites": "43",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human TERT promoter mutation enables survival advantage from MGMT promoter methylation in IDH1 wild-type primary glioblastoma treated by standard chemoradiotherapy",
+                "cites": "41",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular immunity and immunotherapy of brain tumors",
+                "cites": "41",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large-scale assessment of the gliomasphere model system",
+                "cites": "39",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5icHVeHT4IsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autocrine endothelin-3/endothelin receptor B signaling maintains cellular and molecular properties of glioblastoma stem cells",
+                "cites": "39",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of 2-hydroxyglutaric acid in vivo by proton magnetic resonance spectroscopy in U87 glioma cells overexpressing isocitrate dehydrogenase\u20131 mutation",
+                "cites": "38",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular and vaccine therapeutic approaches for gliomas",
+                "cites": "38",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficacy of systemic adoptive transfer immunotherapy targeting NY-ESO-1 for glioblastoma",
+                "cites": "37",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:fFSKOagxvKUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Protective properties of radio-chemoresistant glioblastoma stem cell clones are associated with metabolic adaptation to reduced glucose dependence",
+                "cites": "37",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of immune responses after immunotherapy in glioblastoma using PET and MRI",
+                "cites": "36",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TCR sequencing can identify and track glioma-infiltrating T cells after DC vaccination",
+                "cites": "35",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Use of language mapping to aid in resection of gliomas in eloquent brain regions",
+                "cites": "34",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pituitary adenylyl cyclase activating polypeptide inhibits gli1 gene expression and proliferation in primary medulloblastoma derived tumorsphere cultures",
+                "cites": "34",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current status of clinical trials for glioblastoma",
+                "cites": "34",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WNT activation by lithium abrogates TP53 mutation associated radiation resistance in medulloblastoma",
+                "cites": "33",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4hFrxpcac9AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ribosomal proteins RPS11 and RPS20, two stress-response markers of glioblastoma stem cells, are novel predictors of poor prognosis in glioblastoma patients",
+                "cites": "32",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HeT0ZceujKMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRI perfusion measurements calculated using advanced deconvolution techniques predict survival in recurrent glioblastoma treated with bevacizumab",
+                "cites": "32",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:OTTXONDVkokC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The histone deacetylase inhibitor, LBH589, promotes the systemic cytokine and effector responses of adoptively transferred CD8+ T cells",
+                "cites": "32",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contrast\u2010enhancing tumor growth dynamics of preoperative, treatment\u2010naive human glioblastoma",
+                "cites": "31",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immunotherapy for patients with malignant glioma: from theoretical principles to clinical applications",
+                "cites": "31",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Robustness of gene expression profiling in glioma specimen samplings and derived cell lines",
+                "cites": "31",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MART-1 adenovirus-transduced dendritic cell immunization in a murine model of metastatic central nervous system tumor",
+                "cites": "31",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tumor-suppressive miR148a is silenced by CpG island hypermethylation in IDH1-mutant gliomas",
+                "cites": "30",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative probabilistic functional diffusion mapping in newly diagnosed glioblastoma treated with radiochemotherapy",
+                "cites": "30",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endogenous vaults and bioengineered vault nanoparticles for treatment of glioblastomas: implications for future targeted therapies",
+                "cites": "28",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bone morphogenetic protein 7 sensitizes O6-methylguanine methyltransferase expressing-glioblastoma stem cells to clinically relevant dose of temozolomide",
+                "cites": "27",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:yqoGN6RLRZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cytokine responsiveness of CD8+ T cells is a reproducible biomarker for the clinical efficacy of dendritic cell vaccination in glioblastoma patients",
+                "cites": "27",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Mojj43d5GZwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Heterogeneity within the PF-EPN-B ependymoma subgroup",
+                "cites": "26",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:EPG8bYD4jVwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simulation, phantom validation, and clinical evaluation of fast pH\u2010weighted molecular imaging using amine chemical exchange saturation transfer echo planar imaging (CEST\u2010EPI \u2026",
+                "cites": "26",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:sJsF-0ZLhtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "HLA markers DQ8 and DR53 are associated with lymphocytic hypophysitis and may aid in differential diagnosis",
+                "cites": "26",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:3htObqc8RwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tumor immunology, immunomics and targeted immunotherapy for central nervous system malignancies",
+                "cites": "26",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mahaley Clinical Research Award: extent of glioma resection using low-field (0.2 T) versus high-field (1.5 T) intraoperative MRI and image-guided frameless neuronavigation.",
+                "cites": "26",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:k_7cPK9k7w8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain tumor immunotherapy",
+                "cites": "26",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relationship Between [18F]FDOPA PET Uptake, Apparent Diffusion Coefficient (ADC), and Proliferation Rate in Recurrent Malignant Gliomas",
+                "cites": "25",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:a9-T7VOCCH8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE ACCURACY OF [18F]FLUORODEOXYGLUCOSE POSITRON EMISSION TOMOGRAPHY AS CONFIRMED BY BIOPSY IN THE DIAGNOSIS OF SPINE \u2026",
+                "cites": "25",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Central Nervous System Tumor Immunity Generated by a Recombinant Listeria monocytogenes Vaccine Targeting Tyrosinase Related Protein-2 and Real-Time \u2026",
+                "cites": "25",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compositions and methods for treatment and detection of multiple cancers",
+                "cites": "24",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hamartin expression and interaction with tuberin in tumor cell lines and primary cultures",
+                "cites": "23",
+                "year": "2001"
+            },
+            "id_citations": "bDpdeJIAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved leakage correction for single-echo dynamic susceptibility contrast perfusion MRI estimates of relative cerebral blood volume in high-grade gliomas by accounting for \u2026",
+                "cites": "20",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:nVrZBo8bIpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immunotherapy for neuro-oncology: the critical rationale for combinatorial therapy",
+                "cites": "20",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lyophilized brain tumor specimens can be used for histologic, nucleic acid, and protein analyses after 1 year of room temperature storage",
+                "cites": "20",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced sensitivity to IL-2 signaling regulates the clinical responsiveness of IL-12\u2013primed CD8+ T cells in a melanoma model",
+                "cites": "20",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Incidence, survival, pathology, and genetics of adult Latino Americans with glioblastoma",
+                "cites": "19",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kw52XkFRtyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous p H\u2010sensitive and oxygen\u2010sensitive MRI of human gliomas at 3 T using multi\u2010echo amine proton chemical exchange saturation transfer spin\u2010and\u2010gradient echo echo \u2026",
+                "cites": "17",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:w0F2JDEymm0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metabolic characterization of isocitrate dehydrogenase (IDH) mutant and IDH wildtype gliomaspheres uncovers cell type-specific vulnerabilities",
+                "cites": "16",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-nhnvRiOwuoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging biomarkers for antiangiogenic therapy in malignant gliomas",
+                "cites": "15",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Targeting stem cells in brain tumors",
+                "cites": "15",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell immunotherapy for brain tumors",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chronic inflammation drives glioma growth: cellular and molecular factors responsible for an immunosuppressive microenvironment",
+                "cites": "13",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "It Takes a CAD to Kill a Tumor Cell with a LMP",
+                "cites": "13",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase 2 study of bortezomib combined with temozolomide and regional radiation therapy for upfront treatment of patients with newly diagnosed glioblastoma multiforme: safety and \u2026",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kWvqk_afx_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combinations of checkpoint inhibitors and therapeutics to treat cancer",
+                "cites": "12",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Essential gene pathways for glioblastoma stem cells: clinical implications for prevention of tumor recurrence",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjuvant treatment for gliomas",
+                "cites": "12",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cytotoxic properties of a DEPTOR-mTOR inhibitor in multiple myeloma cells",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4X0JR2_MtJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optical imaging for brain tissue characterization using relative fluorescence lifetime imaging",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Implementing preclinical study findings to protocol design: translational studies with alloreactive CTL for gliomas",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recombinant adenovirus-transduced dendritic cell immunization in a murine model of central nervous system tumor",
+                "cites": "11",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High order diffusion tensor imaging in human glioblastoma",
+                "cites": "10",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods for detection and treatment of neural cancers",
+                "cites": "10",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "C-terminally truncated form of \u03b1B-crystallin is associated with IDH1 R132H mutation in anaplastic astrocytoma",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonlinear distortion correction of diffusion MR images improves quantitative DTI measurements in glioblastoma",
+                "cites": "9",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Management of low-grade glioma: a systematic review and meta-analysis",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Br1UauaknNIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Expression of PD-1 by T cells in malignant glioma patients reflects exhaustion and activation",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple calcifying pseudoneoplasms of the neuraxis (MCAPNON): Distinct entity, CAPNON variant, or old neurocysticercosis?",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quality assessment of acute viral bronchiolitis clinical practice guidelines",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "When less is more: Dexamethasone dosing for brain tumors",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:0aBXIfxlw9sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combinations of checkpoint inhibitors and therapeutics to treat cancer",
+                "cites": "7",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:KbBQZpvPDL4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The incidence of cerebrovascular accidents and second brain tumors in patients with pituitary adenoma: a population-based study",
+                "cites": "7",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:naSTrk-c4S8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving B0 correction for pH-weighted amine proton chemical exchange saturation transfer (CEST) imaging by use of K-means clustering and Lorentzian estimation",
+                "cites": "6",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:DkZNVXde3BIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Harnessing T-cell immunity to target brain tumors",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "pH-weighted amine chemical exchange saturation transfer echoplanar imaging (CEST-EPI) as a potential early biomarker for bevacizumab failure in recurrent glioblastoma",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:DyXnQzXoVgIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mono-exponential, diffusion kurtosis and stretched exponential diffusion MR imaging response to chemoradiation in newly diagnosed glioblastoma",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ziOE8S1-AIUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early experience with formalin-fixed paraffin-embedded (FFPE) based commercial clinical genomic profiling of gliomas-robust and informative with caveats",
+                "cites": "5",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:q-HalDI95KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell vaccination in combination with TLR-7 agonist, imiquimod, following radio-chemotherapy for newly diagnosed glioblastoma",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neurosurgical and other treatment options for metastatic melanoma in the central nervous system: Part II",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extent of glioma resection using low-field (0.2 T) versus high-field (1.5 T) intra-operative MRI and image-guided frameless neuronavigation",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microarrays and the genetic analysis of brain tumors",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metabolic characterization of human IDH mutant and wild type gliomas using simultaneous pH-and oxygen-sensitive molecular MRI",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:X9ykpCP0fEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GPIHBP1 expression in gliomas promotes utilization of lipoprotein-derived nutrients",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ghEM2AJqZyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Association between tumor acidity and hypervascularity in human gliomas using pH-weighted amine chemical exchange saturation transfer echo-planar imaging and dynamic \u2026",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zdjWy_NXXwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "D-2-Hydroxyglutarate Is Necessary and Sufficient for Isocitrate Dehydrogenase 1 Mutant\u2013Induced MIR148A Promoter Methylation",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HhcuHIWmDEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell-based immunotherapy of gliomas",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5bg8sr1QxYwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tissue microarray analysis for epithelial membrane protein-2 as a novel biomarker for gliomas",
+                "cites": "4",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:KaMxkj08jr0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AT-02 INTRATUMORAL DELIVERY OF THE RETROVIRAL REPLICATING VECTOR (RRV) TOCA 511 IN SUBJECTS WITH RECURRENT HIGH GRADE GLIOMA: INTERIM REPORT OF PHASE 1 STUDY (NCT 01156584)",
+                "cites": "4",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:9pM33mqn1YgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of 2-hydroxyglutarate in mutant brain tumors in vivo using proton magnetic resonance spectroscopy",
+                "cites": "4",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Induction of cytomegalovirus-specific anti-tumor immunity after autologous tumor lysate-pulsed dendritic cell vaccination in a patient with glioblastoma",
+                "cites": "4",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlation of commercially available quantitative MGMT (O-6-methylguanine-DNA methyltransferase) promoter methylation scores and GBM patient survival",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:2l5NCbZemmgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SPINT2 is hypermethylated in both IDH1 mutated and wild-type glioblastomas, and exerts tumor suppression via reduction of c-Met activation",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:CYCckWUYoCcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maintenance of Certification: perceptions and attitudes of neurosurgeons",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:pAkWuXOU-OoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The aging neurosurgeon: when is enough, enough? Attitudes toward ceasing practice and testing in late career",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NDuN12AVoxsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ACTR-07. Efficacy of a novel antibody-drug conjugate (ADC), ABT-414, as monotherapy in epidermal growth factor receptor (EGFR) amplified (EGFRamp), recurrent glioblastoma (rGBM)",
+                "cites": "3",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IT-05ADMINISTRATION OF TOCA 511 TO SUBJECTS WITH RECURRENT HGG UNDERGOING REPEAT RESECTION",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NO-97. DEFERRED USE OF BEVACIZUMAB FOR RECURRENT GLIOBLASTOMA IS NOT ASSOCIATED WITH DIMINISHED EFFICACY",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene therapy for malignant gliomas",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimal heating trajectories of controlling green tapes of YSZ electrolyte deformation using TMA during thermal processing",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular characterization of brain tumors.",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dopamine receptor antagonist trifluoperazine prevents phenotype conversion and improves survival in mouse models of glioblastoma",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ZqE1mSdD_DYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction to: First results on survival from a large Phase 3 clinical trial of an autologous dendritic cell vaccine in newly diagnosed glioblastoma",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kzcSZmkxUKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATIM-12. NEOADJUVANT ANTI-PD-1 IMMUNOTHERAPY PROMOTES INTRATUMORAL AND SYSTEMIC IMMUNE RESPONSES IN RECURRENT GLIOBLASTOMA: AN IVY CONSORTIUM TRIAL",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SnGPuo6Feq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATIM-25. neoadjuvant PD-1 antibody blockade is associated with focal upregulation of PD-L1 and CD8 T cell infiltrate in recurrent glioblastoma",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:qwy9JoKyICEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rationale and design of the 500-patient, 3-year, and prospective Vigilant ObservatIon of GlIadeL WAfer ImplaNT registry",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mKu_rENv82IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ACTR-53. SAFETY AND EFFICACY EVALUATION OF A PHASE II STUDY OF BORTEZOMIB IN COMBINATION WITH TEMOZOLOMIDE AND REGIONAL RADIATION THERAPY FOR UPFRONT TREATMENT OF PATIENTS WITH \u2026",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-jrNzM816MMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Association of aggressive resection with survival and progression-free survival in adult low-grade glioma: A systematic review and meta-analysis with numbers needed to treat.",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:3NQIlFlcGxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long-term follow-up data from 126 patients with recurrent high grade glioma from three phase 1 trials of Toca 511 and Toca FC: update and justification for a phase 2/3 trial",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:6bLC7aUMtPcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "325 Maintenance of certification and the aging neurosurgeon",
+                "cites": "2",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Treatment with tumor lysate-pulsed autologous dendritic cells prolongs survival in patients with recurrent glioblastoma multiforme",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:OR75R8vi5nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prolonged survival for patients with recurrent glioblastoma multiforme who are treated with tumour lysate\u2011pulsed autologous dendritic cells",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:IsPWOBWtZBwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ascending dose trials of the safety and tolerability of Toca 511, a retroviral replicating vector encoding cytosine deaminase, in patients with recurrent high-grade glioma.",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction of GBM outcome using combined analysis of MGMT protein expression and promoter methylation.",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Brain tumor immunotherapy",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Therapeutic targeting of molecular pathways that induce brain tumor development",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell immunotherapy for brain tumors",
+                "cites": "2",
+                "year": "2001"
+            },
+            "id_citations": "bDpdeJIAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Targeted next-generation sequencing of 565 neuro-oncology patients at UCLA: A single-institution experience",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BJrgspguQaEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms of resistance to EGFR inhibition reveal metabolic vulnerabilities in human GBM",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:RJOyoaXV5v8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patterns of long-term survivorship following bevacizumab treatment for recurrent glioma: a case series",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:AYInfyleIOsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Validation of vessel size imaging (VSI) in high-grade human gliomas using magnetic resonance imaging, image-guided biopsies, and quantitative immunohistochemistry",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:UmS_249rOGwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATIM-39. IMPROVED SURVIVAL NOTED IN GLIOBLASTOMA PATIENTS TREATED WITH ADJUVANT TLR-3 AGONIST IN SETTING OF AUTOLOGOUS LYSATE-PULSED DC VACCINATION",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:8Xgff_V0N9gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recognized focused practice: Does sub-specialty designation offer value to the neurosurgeon?",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:RoXSNcbkSzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PATH-17. CORRELATION OF COMMERCIALLY-AVAILABLE QUANTITATIVE MGMT (O-6-METHYLGUANINE-DNA METHYLTRANSFERASE) METHYLATION \u2026",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HGTzPopzzJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Durable complete responses observed in IDH1 mutated high grade glioma at first recurrence undergoing treatment with Toca 511 and Toca FC.",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:CdxZDUztZiMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PROTEIN MICROARRAY ANALYSIS OF GLIOBLASTOMA PATIENT SERA BEFORE AND AFTER DENDRITIC CELL VACCINATION",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-95Q15plzcUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SIMULTANEOUS QUANTITATIVE PH MAPPING AND HYPOXIA IMAGING USING FAST MULTI-ECHO AMINE CEST-EPI IN HUMAN GLIOMAS",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-mN3Mh-tlDkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATIM-05. COMPLEMENTARY CLINICAL AND ANCILLARY DATA FROM 123 PATIENTS WITH RECURRENT HIGH GRADE GLIOMA FROM THREE PHASE 1 TRIALS OF TOCA 511 AND TOCA FC: UPDATE AND \u2026",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PD-1 EXPRESSION BY TUMOR INFILTRATING LYMPHOCYTES IN GLIOBLASTOMA IS A MARKER OF BOTH ACTIVATION AND EXHAUSTION",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Successful cancer-selective gene delivery following intravenous Toca 511 delivery in patients with recurrent high grade glioma (HGG)",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:PVgj2kMGcgYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TCR sequencing can identify and track tumor-specific T cell populations and is a predictive biomarker of response to DC vaccination in glioblastoma patients",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Benefit of MGMT methylation in glioblastoma in relation to hTERT promoter mutation.",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:yxmsSjX2EkcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of an integrated practice unit: Utilizing a lean approach to impact value of care for brain tumor patients.",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMCT-10A Phase I dose escalation study to test the safety of intratumoral adoptive immune therapy with alloctl in recurrent glioma patients",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIMG-24HIGH SPATIOTEMPORAL DYNAMIC SUSCEPTIBILITY CONTRAST (DSC) PERFUSION MRI USING MULTIBAND ECHOPLANAR IMAGING (MB-EPI)",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IT-01PD1/PDL1 INTERACTIONS MEDIATE SUPPRESSION OF ANTI-TUMOR IMMUNE ACTIVITY IN GLIOMA",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RA-022. MRI CHANGES ASSOCIATED WITH BEVACIZUMAB DIFFER BETWEEN TUMOR RECURRENCE AND CEREBRAL RADIATION NECROSIS",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WC9gN4BGCRcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IT-006. EVIDENCE SUPPORTING MECHANISM OF ACTION AND DRUG ACTIVITY IN PHASE I TRIAL OF PATIENTS WITH RECURRENT HIGH GRADE GLIOMA ADMINISTERED TOCA 511 AT SURGICAL RESECTION \u2026",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ongoing Clinical Trials",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "American Association for Cancer Research Genetics and Biology of Brain Cancers 2009, December 13\u201315, 2009, San Diego, CA",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cancer-associated IDH1 mutations produce 2-hydroxyglutarate",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HtEfBTGE9r8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhanced IL-2 signaling renders IL-12 primed CD8+ T-cells superior in adoptive immunotherapy.(131.20)",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combination of Intracranial Temozolomide With Intracranial Carmustine Improves Survival When Compared With Either Treatment Alone in a Rodent Glioma Model COMMENT",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bead-based kinase phosphorylation profiling identifies SRC as a therapeutic target in glioblastoma",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of A2B5 (+) CD133-tumor-initiating cells in adult human gliomas-Comments",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene expression profiling identifies molecular subtypes of gliomas",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cancer immunotherapy at the crossroads: how tumors evade immunity and what can be done",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human IDH mutant 1p/19q co-deleted gliomas have low tumor acidity as evidenced by molecular MRI and PET: a retrospective study",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Og1tA8FjbJAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Voxel-Wise and Patient-Wise Correlation of 18F-FDOPA PET, rCBV, and ADC in Treatment-Na\u00efve Diffuse Gliomas with Different Molecular Subtypes",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:sJPMR1oEGYQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Results From the CheckMate 143 Clinical Trial: Stalemate or New Game Strategy for Glioblastoma Immunotherapy?",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Ic1VZgkJnDsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffusion Magnetic Resonance Imaging Phenotypes Predict Overall Survival Benefit From Bevacizumab or Surgery in Recurrent Glioblastoma With Large Tumor Burden",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:lYAcb2jw7qUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Maximum Uptake and Hypermetabolic Volume of 18F-FDOPA PET Estimates Overall Survival in Low-Grade Gliomas",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:pQTOvowfQioC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improved Survival for GBM Patients Treated with DC Vaccine and Adjuvant TLR-3 Agonist in Phase II Clinical Trial",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:z8nqeaKD1nsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engineering T Cell Receptors to Target H3. 3G34 Mutant GlioblastomaEngineering T Cell Receptors to Target H3. 3G34 Mutant Glioblastoma",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:X0DADzN9RKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjuvant TLR-3 administration enhances proinflammatory immune responses and is associated with extended survival in glioblastoma patients treated with dendritic cell vaccination.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LK8CI43ZvvMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PR13 Adjuvant TLR-3 administration enhances proinflammatory immune responses and is associated with extended survival in glioblastoma patients treated with dendritic cell \u2026",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zUl2_INMlC4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract PR13: Adjuvant TLR-3 administration enhances proinflammatory immune responses and is associated with extended survival in glioblastoma patients treated with dendritic \u2026",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LGlY6t8CeOMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human IDH mutant 1p/19q co-deleted gliomas have low tumor acidity as evidenced by molecular MRI and PET: a retrospective study",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:eI34FqJmdUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synergistic Effects of the DRD2/3 Antagonist ONC201 and Radiation in Glioblastoma",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:AZju0d2GQJ0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combined Treatment with Dopamine Receptor Antagonists and Radiation Creates a Metabolic Vulnerability in Mouse Models of Glioblastoma",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:G1UMdFYMoxkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1-[(4-Nitrophenyl) sulfonyl]-4-phenylpiperazine Treatment After Brain Irradiation Preserves Cognitive Function in Mice",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "bDpdeJIAAAAJ:RuPIJ_LgqDgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TMIC-06. MYELOID POPULATIONS AND THE EFFECT OF NEOADJUVANT PD-1 INHIBITION IN THE GLIOBLASTOMA MICROENVIRONMENT: A SURFACEOMIC AND TRANSCRIPTOMIC DISSECTION AT THE SINGLE-CELL \u2026",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:CNPyR2KL9-0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-33. IMMUNE PROFILING REVEALS INHIBITORY MACROPHAGES AND A DISTINCT SPATIAL DISTRIBUTION OF IMMUNE CELLS IN DIFFERENT TYPES OF BRAIN METASTASES",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zwpXiJ37cpgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIMG-60. IDH MUTANT GLIOMAS WITH 1p/19q CO-DELETION ARE LESS ACIDIC THAN NON-CO-DELETED GLIOMAS AS MEASURED WITH PH-WEIGHTED AMINE CEST-MRI AND AMINO ACID PET",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NxmKEeNBbOMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-50. SYSTEMIC ADOPTIVE TRANSFER IMMUNOTHERAPY WITH TCR-TRANSDUCED T-CELLS TARGETING NY-ESO-1 FOR MENINGIOMA",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-yGd096yOn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VIGILANT OBSERVATION OF GLIADEL WAFER IMPLANT (VIGILANT) REGISTRY: INTERIM ANALYSIS",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hQUaER0FWQ4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VALIDATION OF RESPONSE TO NEOADJUVANT ANTI-PD-1 IMMUNOTHERAPY IN RECURRENT GLIOBLASTOMA",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:oPLKW5k6eA4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMPREHENSIVE CHARACTERIZATION OF THE INTRINSIC APOPTOTIC MACHINERY REVEALS THE MOLECULAR BLOCKS RESPONSIBLE FOR RESISTANCE TO CELL DEATH IN GLIOBLASTOMA",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:YTuZlYwrTOUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "INTEGRATED LIPIDOMIC AND MOLECULAR ANALYSIS REVEALS A SUBSET OF GLIOBLASTOMA VULNERABLE TO FERROPTOSIS",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:t-hv7AR41mYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TMIC-26. PRECLINICAL MODEL SYSTEMS OF GLIOBLASTOMA REVEAL MICROENVIRONMENTAL PROGRAMS AND DEPENDENCIES IN PATIENT TUMORS",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-uzm3Y7AvW0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-02. NEOANTIGENS ARISING FROM ALTERNATIVE SPLICING EVENTS MAY BE TARGETED BY TUMOR INFILTRATING LYMPHOCYTES IN GLIOBLASTOMAS",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:JP7YXuLIOvAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decorin Expression Is Associated With Diffusion MR Phenotypes in Glioblastoma",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:qE4H1tSSYIIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The UCLA brain tumor bank: a comprehensive approach including autopsies, sGluc-GFP xenografts and ethnic diversity",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Xz60mAmATU4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Next-Generation Sequencing and Personalized Medicine for Brain Cancer",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:pS0ncopqnHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TMOD-03. GLIOMAPDOX: A MOLECULARLY DIVERSE LIBRARY OF DIRECT-FROM-PATIENT ORTHOTOPIC GLIOMA XENOGRAFTS RECAPITULATES INTRATUMOR HETEROGENEITY",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:wvYxNZNCP7wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-28. HIGH-DIMENSIONAL SINGLE CELL CHARACTERIZATION OF THE SYSTEMIC INFLUENCE OF NEOADJUVANT PD-1 BLOCKADE IN PATIENTS WITH RECURRENT GLIOBLASTOMA",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HJSXoJQnj-YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIMG-59. VALIDATION OF QUANTITATIVE VESSEL SIZE IMAGING (VSI) IN HUMAN GLIOMAS USING IMAGE-GUIDED STEREOTACTIC BIOPSIES",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:DrR-2ekChdkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-21. MULTIDIMENSIONAL CHARACTERIZATION OF IMMUNE CELL POPULATIONS IN THE GLIOMA TUMOR MICROENVIRONMENT REVEALS A DOMINANT PROPORTION OF CELLS DERIVED FROM THE MYELO \u2026",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:TlpoogIpr_IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GLIOMAPDOX: A MOLECULARLY DIVERSE LIBRARY OF DIRECT-FROM-PATIENT ORTHOTOPIC GLIOMA XENOGRAFTS RECAPITULATES INTRATUMOR HETEROGENEITY: TMOD-03.",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:s9ia6_kGH2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIMG-15. DIFFERENTIATION OF IDH1 MUTANT AND WILD TYPE GLIOMAS USING pH-AND OXYGEN-SENSITIVE MOLECULAR MRI",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:g5Ck-dwhA_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-37. VEMURAFENIB ENHANCES THE CYTOTOXICITY OF NY-ESO-1 TCR ENGINEERED T-CELLS FOR BRAF MUTANT BRAIN TUMORS",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:2v_ZtQDX9iAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "214 Noninvasive Monitoring of Immunotherapeutic Responses in Glioblastoma Using Novel Imaging Techniques",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tHtfpZlB6tUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding this complex disease and its treatment options",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "25 Durable complete responses observed in patients with recurrent high grade glioma treated with Toca 511 & Toca FC",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:An6A6Jpfc1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toca 511 & Toca FC: Evaluation of Durable Response Rate in the Post-Resection Setting and Association with Survival in Patients with Recurrent High Grade Glioma (S23. 006)",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:3bvyWxjaHKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Risk factors for platelet transfusion in glioblastoma surgery",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:VN7nJs4JPk0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuro-Oncology Practice",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:37UQlXuwjP4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overview of Dendritic Cell Vaccines for Brain Tumors",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:FiDNX6EVdGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstract A085: Durable responses observed in recurrent high-grade glioma (rHGG) with Toca 511 and Toca FC treatment",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ce2CqMG-AY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GENE-41. EPIGENETIC DOWN-REGULATION OF THE METALLOTHIONEIN FAMILY IN ISOCITRATE DEHYDROGENASE (IDH) MUTANT GLIOMAS",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:MAUkC_7iAq8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NCMP-01. SEIZURE CONTROL AFTER INITIAL PRESENTATION IN IDH MUTATED GLIOMA PATIENTS",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Dem6FJhTUoYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMU-20. CHARACTERIZING THE IMMUNE LANDSCAPE OF PD-1/PD-L1 IN BRAIN TUMOR IMMUNE CELL POPULATION USING CyTOF MASS CyTOMETRY",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:PyEswDtIyv0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIMG-36. DELINEATION OF IMMUNE RESPONSES AFTER IMMUNOTHERAPY IN GLIOBLASTOMA USING PET AND MRI",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:QyXJ3EUuO1IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SCDT-06. QUANTIFIABLE LEVELS OF THE TRANSGENE, CYTOSINE DEAMINASE, IN TUMOR SAMPLES FOLLOWING INTRAVENOUS DELIVERY OF TOCA 511 IN PATIENTS WITH RECURRENT HIGH GRADE GLIOMA",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:OBSaB-F7qqsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATIM-21. INTRAVENOUS DELIVERY OF TOCA 511 IN PATIENTS WITH HIGH GRADE GLIOMA RESULTS IN QUANTIFIABLE EXPRESSION OF CYTOSINE DEAMINASE IN TUMOR TISSUE",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:jE2MZjpN3IcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinicopathologic differences between Latino American patients with gross total resection of glioblastoma compared to those without",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:jFemdcug13IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantifying the benefit of chemotherapy and radiation in low-grade glioma: A systematic review and meta-analysis of numbers needed to treat.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LPtt_HFRSbwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MANAGEMENT OF LOW-GRADE GLIOMA: A SYSTEMATIC REVIEW AND META-ANALYSIS",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:dAp6zn-oMfAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "973. Plasticity of motor representations in patients with brain lesions: a navigated TMS study",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ijdKiLOsEJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Olig2 as a novel target for IDH1mutant tumors",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving care coordination for brain tumor patients through value-based care redesign of a virtual integrated practice unit.",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:jU7OWUQzBzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Durable Responses Observed in Recurrent High Grade Glioma (rHGG) with Toca 511 & Toca FC Treatment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SAZ1SQo2q1kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic Cell Therapy for Brain Tumors",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "bDpdeJIAAAAJ:U_HPUtbDl20C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase IIa clinical trial evaluating dendritic cell vaccine for the treatment of low-grade gliomas",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:QVtou7C4vgoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SUBTYPE-SPECIFIC CELLULAR COMPOSITION OF THE GLIOBLASTOMA MICROENVIRONMENT",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:uVUOdF_882EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CASE-MATCHED STUDY OF EFFECT OF INTRAOPERATIVE MRI ON EXTENT OF RESECTION AND CLINICAL OUTCOME IN GLIOMA PATIENTS UNDERGOING SURGICAL RESECTION",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TUMOR LYSATE-PULSED DC VACCINATION INDUCES NEOANTIGEN-SPECIFIC T CELL RESPONSES",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NON-INVASIVE IMMUNE MONITORING FOLLOWING DC VACCINATION EFFECTIVELY DELINEATES IMMUNE RESPONSES IN GLIOBLASTOMA",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TMIC-18. ROLE OF MICROGLIA IN THE EARLY STEPS OF THE BRAIN METASTATIC CASCADE",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:jL-93Qbq4QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A study of 82 glioblastoma autopsies including subset evaluation of PD-1 and PDL-1",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LgRImbQfgY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "848. Efficacy of i-Factor\u2122 Bone Graft versus Autograft in ACDF: Prospective Randomized FDA IDE Study Results",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:QUX0mv85b1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Glioma-infiltrating iAPCs mediate T cell recruitment to and activation in the tumor microenvironment",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:gVv57TyPmFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Three early studies mark progress in checkpoint cancer immunotherapy",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "bDpdeJIAAAAJ:oi2SiIJ9l4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjuvant inhibition of iAPC function in the tumor microenvironment promotes therapeutic immunity in the setting of vaccination-induced T cell anti-tumor response",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LhH-TYMQEocC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NIMG-25IMPROVED LEAKAGE CORRECTION FOR DYNAMIC SUSCEPTIBILITY CONTRAST (DSC) PERFUSION MRI ESTIMATES OF RELATIVE CEREBRAL BLOOD VOLUME (rCBV) IN HIGH-GRADE GLIOMAS BY \u2026",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMPS-19 Retroviral replicating vector-mediated delivery of an immunodominant neo-antigen epitope target for viro-immunotherapy in experimental glioma",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:lvd772isFD0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TMIC-04THERAPEUTIC ANTI-GLIOMA IMMUNITY IS DEPENDENT ON VACCINATION-INDUCED T CELL RESPONSES AND INHIBITION OF iAPC FUNCTION IN THE TUMOR MICROENVIRONMENT",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EPIG-11 The implication of CpG island and SPINT2 hypermethylation in both IDH1 wild-type and mutant adult diffuse gliomas",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMCT-11NEXT GENERATION T CELL RECEPTOR SEQUENCING CAN IDENTIFY, QUANTIFY, AND TRACK TUMOR-SPECIFIC T CELL POPULATIONS BEFORE AND AFTER DENDRITIC CELL VACCINATION IN \u2026",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MPTH-27A LARGE-SCALE UCLA GLIOMA TISSUE MICROARRAY IDENTIFIES EMP2 AS A NOVEL BIOMARKER FOR GBM THAT CORRELATES WITH OVERALL PROGNOSIS",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ATPS-62TARGETING OF NOVEL GBM BIOMARKER EMP2 RESULTS IN DECREASED TUMOR GROWTH AND INCREASED TUMOR NECROSIS",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction: brain tumor immunotherapy",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ODE9OILHJdcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vault Immunotherapy",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:cWzG1nlazyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "846. Characterization of brain tumor mutations from cell-free DNA in cerebrospinal fluid",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mWEH9CqjF64C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enhancing Nanoparticle Immunotherapeutic Treatments for Glioblastoma Utilizing Histotripsy Ultrasound Radiotherapy",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Administration of Toca 511 to Subjects with Recurrent HGG Undergoing Repeat Resection-A Ph1 Study",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Early experience with FFPE-based commercial cancer genomic profiling of gliomas",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:DJbcl8HfkQkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetically Engineered T Cell Immunotherapy for Gliomas and Other Solid Tumors",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:1taIhTC69MYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Radial Mobility and Cytotoxic Function of Retroviral Replicating Vector Transduced, Non-adherent Alloresponsive T Lymphocytes",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:6ZxmRoH8BuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMUNE MONITORING OF SOLID TUMOR PATIENTS THAT RECEIVED INTRATUMORAL INJECTION OF ACTIVATED DENDRITIC CELLS",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "bDpdeJIAAAAJ:umqufdRvDiIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WNT activation by lithium abrogates TP53 mutation associated radiation resistance in medulloblastoma.",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:PYBJJbyH-FwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NC-01 ATTENTIONAL AND LANGUAGE FUNCTIONING IN ADULT PATIENTS WITH GLIOMA: A VOXEL-BASED LESION-SYMPTOM MAPPING STUDY",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "NI-32 ENHANCING TUMOR RESPONSE USING QUANTITATIVE VOLUMETRY FROM T1 SUBTRACTION MAPS IN MALIGNANT GLIOMA TREATED WITH DENDRITIC CELL VACCINATION",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "BI-10pH-WEIGHTED MRI IN HUMAN GLIOMAS",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:bz8QjSJIRt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The IDH1 mutation in human glioblastoma and its effects on epigenetic modification and cell fate selection",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Journal Watch",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ELEVATED PD-1 EXPRESSION IN TUMOR AND PERIPHERAL BLOOD LYMPHOCYTES OF PEDIATRIC AND ADULT GLIOMA PATIENTS",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Glioblastoma Presenting As Lung Metastasis: A Unique Case Report And Review Of The Literature",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "HIGH GRADE GLIOMAS AND DIPG",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interim Report from Two Ongoing Ascending Dose Trials of a Retroviral Replicating Vector (Toca 511) in Patients with Recurrent High Grade Glioma",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "bDpdeJIAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RA-017. PROLIFERATION RATE ESTIMATES DERIVED FROM SERIAL DIFFUSION MRI CORRELATES WITH 18F-FLT PET SUV VALUES IN RECURRENT GLIOBLASTOMA TREATED WITH BEVACIZUMAB",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:UuEBAcK4md4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RA-019. SPATIAL CORRELATION BETWEEN APPARENT DIFFUSION COEFFICIENT AND 18F-FDOPA PET IN DIFFUSE GLIOMAS",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ET-085. DENDRITIC CELL THERAPY AGAINST VIRALLY DELIVERED TARGET ANTIGENS IS EFFECTIVE IN A MURINE MODEL OF GLIOBLASTOMA",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IR-012. EFFECT OF TLR AGONISTS ON DENDRITIC CELL MATURATION AND THEIR USE IN GENERATING ALLORESPONSIVE CYTOTOXIC T LYMPHOCYTES TO GLIOMAS",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMUNOLOGY RESEARCH",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IT-022. CASE STUDY OF A RECURRENT ANAPLASTIC GLIOMA PATIENT TREATED WITH INTRATUMORAL ADOPTIVE ALLOGENEIC T CELL IMMUNOTHERAPY",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IT-007. CYTOTOXIC T CELL FUNCTIONAL RESPONSIVENESS MAY PREDICT CLINICAL EFFICACY OF DENDRITIC CELL VACCINATION IN GLIOBLASTOMA PATIENTS",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RA-020. USING A PROBABILITISTIC RADIOGRAPHIC BRAIN TUMOR ATLAS CONSTRUCTED FROM 500 GLIOBLASTOMA PATIENTS TO PREDICT INDIVIDUAL PATIENT\"-OMIC\" SIGNATURES AND TREATMENT RESPONSES",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EXPERIMENTAL THERAPEUTICS AND PHARMACOLOGY",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMUNOTHERAPY/BIOLOGICAL THERAPIES",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TERT promoter mutations are highly recurrent in SHH subgroup medulloblastoma",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:wKETBy42zhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Long Term Outcomes And Survival Analysis For Intracranial Chordoma",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Review of MGMT Testing Using Combined Methylation Specific PCR and Immunohistochemistry",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overcoming of radiochemoresistance in glioblastoma stem cells via inhibition of lipid catabolism and SIRT1 deacetylase.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-throughput RNAi screening identifies genes controlling glioblastoma stem cell migration and survival.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prognostic Factors for Tumor Control Following Surgical Resection and Adjuvant Radiotherapy for Intracranial Chordomas",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "bDpdeJIAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Highlights from the literature",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:HIFyuExEbWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "COMPARISON OF GLIOMA-ASSOCIATED ANTIGEN PEPTIDE-LOADED VERSUS AUTOLOGOUS TUMOR LYSATE-LOADED DENDRITIC CELL VACCINATION IN MALIGNANT GLIOMA PATIENTS",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:wUn16MOA3RoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OVEREXPRESSION OF ISOCITRATE DEHYDROGENASE 1/2 (IDH1/2) MUTANT PROTEIN RENDERS GLIOMA CELLS MORE SENSITIVE TO RADIATION",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:JWITY9-sCbMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RA-36. QUANTITATIVE PROLIFERATION RATE ESTIMATION FROM SERIAL DIFFUSION MRI PREDICTS RESPONSE TO STANDARD RADIOCHEMOTHERAPY, RADIOSENSITIZING AGENTS, ANTI-ANGIOGENIC THERAPY \u2026",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RB-01. BROMODOMAIN PROTEIN BRD4 INSULATES CHROMATIN FROM DNA DAMAGE SIGNALING AND IS ASSOCIATED WITH GLIOBLASTOMA RESISTANCE TO IRRADIATION",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prodrug activator gene therapy for brain tumors by Retroviral Replicating Vectors delivered via allogeneic cell carriers: translational update",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RA-01. ADVANCED IMAGING STUDIES IN A PATIENT WITH TRANSITIONAL CELL CARCINOMA OF THE BLADDER WITH BRAIN METASTASES",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IR-18. ADOPTIVE TRANSFER IMMUNOTHERAPY TARGETING NY-ESO-1 FOR TREATMENT OF GLIOBLASTOMA",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bevacizumab Treatment in Glioblastoma Patients is Associated with an Increased Development of Secondary Gliosarcoma",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of Retinol Binding Protein 1 (RBP1) Methylation as a Marker of IDH1 and IDH2 Mutation in Gliomas",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increased Frequency of Presenting with Seizures in Patients with Isocitrate Dehydrogenase 1 (IDH1) Mutant Gliomas",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "198 An Antigen Vault Nanoparticle Vaccine Can Effectively Stimulate Dendritic Cells and Activate a Specific T cell Immune Response",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lyophilization of Brain Tumor Biospecimens Significantly Limits DNA and RNA Degradation from Freeze-thaw Cycles",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analysis of 223 Brain Tumor Patients Treated at a Level 1 Trauma County Medical Center",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: Monitoring of Regulatory T Cell Frequencies and Expression of CTLA-4 on T Cells, before and after DC Vaccination, Can Predict Survival in GBM Patients",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active immunotherapy in glioma: Focus on cell-based approaches",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pediatric Medulloblastoma: Pituitary Adenylyl Cyclase Activating Peptide/Protein Kinase A Antagonism of Hedgehog Signaling",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "bDpdeJIAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EP-01. ETHNIC DISPARITIES IN THE ACCESSIBILITY OF NEUROSURGICAL SERVICES AT A COUNTY ACADEMIC HOSPITAL",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:F9fV5C73w3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IM-26. DECITABINE IMMUNOSENSITIZES HUMAN GLIOMAS TO NY-ESO-1 T CELL RECEPTOR-TRANSDUCED LYMPHOCYTE TARGETING BY THE FAS/FAS LIGAND PATHWAY",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OT-23. A PHASE I ASCENDING DOSE TRIAL OF THE SAFETY AND TOLERABILITY OF TOCA 511 IN SUBJECTS WITH RECURRENT HIGH-GRADE GLIOMA",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TUMOR MODELS (IN VIVO/IN VITRO)",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TM-13. REDUCED GLUTAMATE AND GLUTAMINE LEVELS IN TUMOR CELLS OVER-EXPRESSING MUTANT IDH1",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMUNOTHERAPY",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Ascending Dose Phase 1 Trial of the Safety and Tolerability of Toca 511 in Subjects with Recurrent High Grade Glioma",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vaccination with Dendritic Cells Pulsed with Autologous Tumor Lysate is Associated with Prolonged Overall Survival Compared to Dendritic Cells Loaded with Tumor-Associated \u2026",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phospho-specific Flow Cytometric Immune Monitoring of Glioblastoma Patients Undergoing Dendritic Cell Immunotherapy",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Elevated 2-Hydroxyglutarate (2-HG) in Human Glioma Samples Harboring the R132 Isocitrate Dehydrogenase 1 (IDH1) Mutation",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genomic Landscape of Meningiomas (vol 20, pg 751, 2010)",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Endothelin 3/endothelin receptor B signaling pathway blockade depletes radio-chemoresistant glioblastoma stem cells",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PERIPHERAL BLOOD LYMPHOCYTE IMMUNE CORRELATES IN GLIOBLASTOMA PATIENTS UNDERGOING DENDRITIC CELL VACCINE IMMUNOTHERAPY",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "bDpdeJIAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "OM-18. IDH1 MUTANT GLIOBLASTOMA: EVIDENCE FOR SEQUENCED MOLECULAR EVOLUTION FROM A DEVELOPMENTALLY RESTRICTED CELL OF ORIGIN",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "-Omics and Prognostic Markers",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Primary Myxopapillary Ependymoma of the Medulla: Case Report COMMENTS",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Genetic signature of malignant glioma is associated with responsiveness to autologous tumor lysate-pulsed dendritic cell vaccination+ TLR agonists",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:NXb4pA-qfm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proteomic identification of activated, essential tyrosine kinases in human cancers",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Platelet-Derived Growth Factor BB Mediates the Tropism of Human Mesenchymal Stem Cells for Malignant Gliomas COMMENTS",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PHOSPHO-FLOW AS AN IMMUNE MONITORING ASSAY FOR GLIOBLASTOMA PATIENTS UNDERGOING IMMUNOTHERAPY",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "bDpdeJIAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disruption of the PACAP gene promotes medulloblastoma in PTC1 mutant mice",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ADJUNCTIVE USE OF THE HDAC INHIBITOR, LBH589, TOGETHER WITH IMMUNOTHERAPY IS ASSOCIATED WITH AN INCREASED EFFECTOR T CELL: REGULATORY T-CELL RATIO AND ENHANCED ANTITUMOR \u2026",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IMMUNOTHERAPEUTIC TARGETING OF BRAIN TUMOR STEM CELLS",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ANTITUMOR TREATMENT USING INTERLEUKIN-12-SECRETING MARROW STROMAL CELLS IN AN INVASIVE GLIOMA MODEL COMMENTS",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "HUMAN LEUKOCYTE ANTIGEN FREQUENCY IN HUMAN HIGH-GRADE GLIOMAS: A CASE-CONTROL STUDY IN SICILY COMMENTS",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid Imunohistochemistical Staining of Paraffin and Frozen Brain Tumor Samples Using the Celerus Wave Immunostainer",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE SURVIVAL IMPACT OF POSTOPERATIVE INFECTION IN PATIENTS WITH GLIOBLASTOMA MULTIFORME COMMENT",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Histone deacetylase inhibitor, LBH589, synergizes with an immunotherapy treatment in an in vivo murine brain tumor model (41.35)",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P16 PROMOTER METHYLATION IN THE SERUM AS A BASIS FOR THE MOLECULAR DIAGNOSIS OF GLIOMAS COMMENTS",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EPIGENETIC REGULATION OF CANCER-TESTES ANTIGENS IN HUMAN GLIOMA AND POTENTIAL IMMUNE SENSITIZATION",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EPIGENETIC REGULATION OF TUMOR-ASSOCIATED ANTIGENS ENHANCES IMMUNOTHERAPY BY SENSITIZING MURINE GLIOMA CELLS TO CELL DEATH BY TUMOR-SPECIFIC CD8+ T CELLS",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GDOX IS AN ONCOGENE THAT IS OVEREXPRESSED IN GLIOMAS",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SEQUENTIAL SALVAGE CHEMOTHERAPY FOR RECURRENT INTRACRANIAL HEMANGIOPERICYTOMA COMMENTS",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autologous tumor-lysate pulsed dendritic cell vaccination, together with the TLR-7 agonist 5% imiquimod, and serum pro-inflammatory cytokine levels in glioblastoma patients",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell vaccination, together with systemic IL-2/IL-2 mAb in combination, can selectively expand adoptively transferred tumor specific CD8+ T cells in the myeloablative \u2026",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:IRz6iEL74y4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kinase phosphorylation profiling identifies SRC as a therapeutic target in glioblastoma",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:_5tno0g5mFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inhibition of NF kappa B reduces cellular viability in GH3 pituitary adenoma cells-Comments",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proteomics: Present and future implications in neuro-oncology-Comments",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Limitations of diffusion-weighted imaging in the diagnosis of postoperative infections: Commentary",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An account of the life and achievements of Miss Diana Beck, neurosurgeon (1902-1956)-Comments",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editors\u00d4\u00c7\u00d6 Message to the Readership",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:silx2ntsSuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Angiogenesis and gliomas: Current issues and development of surrogate markers-Comments",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Targeting the alpha 1 subunit of the sodium pump to combat glioblastoma cells-Comments",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New candidate chromosomal regions for chordoma development-Commentary",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:BrOSOlqYqPUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A phase II clinical trial to test the efficacy of DCVax-brain, autologous dendritic cells pulsed with autologous tumor lysate, for the treatment of patients with glioblastoma \u2026",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular characteristics of tumor suppressors in human brain cancer stem cells",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:9c2xU6iGI7YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell vaccination in combination with the TLR7/8 agonist, imiquimod, following radiotherapy and concomitant chemotherapy for newly diagnosed glioblastoma",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mlAyqtXpCwEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Suicide gene therapy combined with adoptive immunotherapy for human gliomas using alloreactive T lymphocytes as producer cells for replication-competent retrovirus vectors",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:DUooU5lO8OsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular genetics of meningiomas: From basic research to potential clinical applications-Comments",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A means for targeting therapeutics to peripheral nervous system neurons with axonal damage-Comments",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinical significance of ABCA2, a possible molecular marker for oligodendrogliomas-Comments",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Response of C-reactive protein after craniotomy for microsurgery of intracranial tumors-Comments",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "p53 may play an orchestrating role in apoptotic cell death after experimental subarachnoid hemorrhage-Comments",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "277 EPIGENETIC MODIFICATIONS OF CANCER ANTIGEN EXPRESSION IN GLIOMAS.",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "bDpdeJIAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adoptive Immunotherapy and In Vivo Imaging of Melanoma Antigen-Specific T Cells for CNS Tumors",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:yMeIxYmEMEAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic cell vaccination in patients with malignant gliomas: Current status and future directions-Comments",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dendritic Cell Vaccination in Combination With TLR7 Agonist Imiquimod Following Radio-chemotherapy for Newly Diagnosed Glioblastoma",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variant of the CHEK2 gene as a prognostic marker in glioblastoma multiforme-Comments",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Defective receptor expression and dendritic cell differentiation of monocytes in glioblastomas-Comments",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Current Status of Immunotherapeutic Strategies for Central Nervous System Tumors.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time in vivo imaging and adoptive immunotherapy of melanoma antigen-specific T-cells for CNS tumors",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alloreactive cytotoxic T lymphocytes (alloCTL) engineered as replication competent retrovirus (RCR) vector producer cells",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pediatric primary spinal glioblastoma with EWS gene rearrangement",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural stem cell genes and brain tumors: Identification of maternal embryonic leucine zipper kinase (MELK) as an important regulator of glioblastoma multiforme and \u2026",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mesenchymal properties in human glioblastoma stem cells",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unpulsed dendritic cells induce anti-tumor immunity to CNS tumors that are dependent upon NK Cells and CD4+ T cells",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EXPERIMENTAL STUDIES-Central Nervous System Tumor Immunity Generated by a Recombinant Listeria monocytogenes Vaccine Targeting Tyrosinase Related Protein-2 and Real-Time \u2026",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:jmjb1lOE9QIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A phase I clinical trial in patients with newly diagnosed glioblastoma vaccinated with autologous dendritic cells pulsed with autologous tumor lysate.",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "bDpdeJIAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adjuvant effects of the toll-like receptor agonist, imiquimod, for treating central nervous system tumors with dendritic cell immunotherapy",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural stem cells, brain tumors, and brain tumor stem cells",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pages 1 of 1 Oasis, Online Abstract Submission and Invitation System-Program Planner",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "bDpdeJIAAAAJ:XvxMoLDsR5gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Alterations in'gene expression networks in glioblastonla predict survival",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting the survival of patients with brain tumors using FDG, FLT, and FDOPA-PET tracer uptake measures",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "791 Extent of Brain Tumor Resection Using High-field (1.5-T) versus Low-field (0.2-T) Intraoperative Magnetic Resonance Imaging",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LABORATORY INVESTIGATIONS-Modulation of major histocompatibilty complex Class I molecules and major histocompatibilty complex-bound immunogenic peptides induced by interferon-a \u2026",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:sA9dB-pw3HoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "315 Molecular signature of the PTEN tumor suppressor-identification of IGFBP2 as a surrogate marker for PTEN/Akt signaling",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "bDpdeJIAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gene expression based classification of malignant gliomas provides more accurate prediction of survival than histologic grading.",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification and pathway mapping of brain tumor progression associated genes.",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "bDpdeJIAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active MMP-9 expression is associated with primary glioblastoma subtype.",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Molecular Oncology, Markers, Clinical Correlates-Active Matrix Metalloproteinase 9 Expression Is Associated with Primary Glioblastoma Subtype.",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "bDpdeJIAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Glioma gene expression profiling and hierarchical clustering.",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "bDpdeJIAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "767 cDNA Microarray Hybridization Analysis of Invasive versus Non-Invasive Pituitary Tumors",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification and characterization of tumor-associated genes in malignant gliomas.",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Regular Articles-Molecular Biology and Genetics-Identification of a Human Glioma-associated Growth Factor Gene, granulin, Using Differential Immuno-absorption",
+                "cites": "0",
+                "year": "2000"
+            },
+            "id_citations": "bDpdeJIAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Use of recombinant adenovirus-transduced dendritic cells for immunotherapy of central nervous system tumors",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "bDpdeJIAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Treatment of gliomas with a recombinant listeria vaccine in rats",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "bDpdeJIAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cell-mediated immunity stimulated by a recombinant listeria monocytogenes vaccine protects against subcutaneous and intracranial challenges with gliosarcomas expressing a \u2026",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "bDpdeJIAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PMC2206628.",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:mel-f30kHHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutation in isocitrate dehydrogenase 1 (IDH1) leads to increased T2, ADC and decreased lactate and glutamate in glioblastoma model",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:c1e4I3QdEKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PMC2735113.",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:A8cqit5AE6sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of wtEGFR Amplification and EGFRvIII Mutation in CSF-Derived Extracellular Vesicles of Glioblastoma PatientsDetection of EGFRvIII in CSF of Glioblastoma Patients",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:QsaTk4IG4EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Our thanks to all those who have helped with this issue of CNS Oncology. Listed below are authors, referees and others who have kindly given their time, effort and expertise \u2026",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:eO3_k5sD8BwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autocrine endothelin-3/endothelin receptor B signaling maintains cellular and molecular properties of tumorigenic glioblastoma stem cells",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:AXkvAH5U_nMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic and Translational Investigations",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A novel dynamic proteomic strategy to analyze the effects of perillyl alcohol on glioblastoma cells (A172)",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reviews/Other",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Basic and Translational Investigations",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Qualitative detection of ceramide and other metabolites in brain tumor by localized correlated spectroscopy",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuro-Oncology 14: vi43\u2013vi49, 2012.",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ted Kennedy\u2019s Recent Diagnosis of Glioblastoma Raises Awareness of Brain Cancer",
+                "cites": "0"
+            },
+            "id_citations": "bDpdeJIAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=bDpdeJIAAAAJ"
+}

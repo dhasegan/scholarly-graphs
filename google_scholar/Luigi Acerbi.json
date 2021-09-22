@@ -1,0 +1,303 @@
+{
+    "affiliation": "Postdoctoral Researcher at University of Geneva",
+    "cites_per_year": {
+        "2008": 5,
+        "2009": 7,
+        "2010": 4,
+        "2011": 1,
+        "2012": 17,
+        "2013": 20,
+        "2014": 27,
+        "2015": 22,
+        "2016": 41,
+        "2017": 46,
+        "2018": 167,
+        "2019": 119,
+        "2020": 89
+    },
+    "citedby": 571,
+    "citedby5y": 486,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Robotics, University of Edinburgh; Programme Director at The Alan Turing Institute, UK",
+            "id": "JdRs1sQAAAAJ",
+            "name": "Sethu Vijayakumar"
+        },
+        {
+            "affiliation": "Professor of Neuroscience, Columbia University",
+            "id": "YM8BRlUAAAAJ",
+            "name": "Daniel Wolpert"
+        },
+        {
+            "affiliation": "Professor of Neuroscience and Psychology at New York University",
+            "id": "2370JKUAAAAJ",
+            "name": "Wei Ji Ma / Whee Ky Ma"
+        },
+        {
+            "affiliation": "Dipartimento di Informatica, Sistemistica e Comunicazione, Universit\u00e0 degli Studi di Milano-Bicocca",
+            "id": "K-2En4IAAAAJ",
+            "name": "Alberto Dennunzio"
+        },
+        {
+            "affiliation": "Professor in Computer Science, Universit\u00e9 C\u00f4te d'Azur",
+            "id": "tsumSv0AAAAJ",
+            "name": "Enrico Formenti"
+        },
+        {
+            "affiliation": "Professor of Psychology and Neural Science, New York University",
+            "id": "o87mqj4AAAAJ",
+            "name": "Michael S Landy"
+        },
+        {
+            "affiliation": "Graduate student, New York University",
+            "id": "t95nO60AAAAJ",
+            "name": "Bas van Opheusden"
+        },
+        {
+            "affiliation": "UC Irvine, Advanced Telecommunications Research Institute International",
+            "id": "ErvkcKcAAAAJ",
+            "name": "Megan A. K. Peters"
+        },
+        {
+            "affiliation": "York University, Toronto",
+            "id": "1W8ODjAAAAAJ",
+            "name": "Bernard Marius 't Hart"
+        },
+        {
+            "affiliation": "NYU",
+            "id": "YkT8jLoAAAAJ",
+            "name": "Emin Orhan"
+        }
+    ],
+    "email": "@unige.ch",
+    "hindex": 10,
+    "hindex5y": 8,
+    "i10index": 10,
+    "i10index5y": 8,
+    "id": "QYBZoGwAAAAJ",
+    "interests": [
+        "Machine Learning",
+        "Bayesian Optimization",
+        "Computational Neuroscience",
+        "Probabilistic Inference",
+        "Decision-making"
+    ],
+    "name": "Luigi Acerbi",
+    "publications": [
+        {
+            "bib": {
+                "title": "On the Origins of Suboptimality in Human Probabilistic Inference",
+                "cites": "151",
+                "year": "2014"
+            },
+            "id_citations": "QYBZoGwAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal Representations of Temporal Statistics and Feedback Calibrate Motor-Sensory Interval Timing",
+                "cites": "136",
+                "year": "2012"
+            },
+            "id_citations": "QYBZoGwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Practical Bayesian Optimization for Model Fitting with Bayesian Adaptive Direct Search",
+                "cites": "79",
+                "year": "2017"
+            },
+            "id_citations": "QYBZoGwAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conservation of some dynamical properties for operations on cellular automata",
+                "cites": "52",
+                "year": "2009"
+            },
+            "id_citations": "QYBZoGwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Framework for Testing Identifiability of Bayesian Models of Perception",
+                "cites": "46",
+                "year": "2014"
+            },
+            "id_citations": "QYBZoGwAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian comparison of explicit and implicit causal inference strategies in multisensory heading perception",
+                "cites": "27",
+                "year": "2018"
+            },
+            "id_citations": "QYBZoGwAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shifting and lifting of cellular automata",
+                "cites": "23",
+                "year": "2007"
+            },
+            "id_citations": "QYBZoGwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayesian Monte Carlo",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "QYBZoGwAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target Uncertainty Mediates Sensorimotor Error Correction",
+                "cites": "14",
+                "year": "2017"
+            },
+            "id_citations": "QYBZoGwAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Surjective multidimensional cellular automata are non-wandering: A combinatorial proof",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "QYBZoGwAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human online adaptation to changes in prior probability",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "QYBZoGwAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Exploration of Acquisition and Mean Functions in Variational Bayesian Monte Carlo",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "QYBZoGwAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Complex internal representations in sensorimotor decision making: a Bayesian investigation",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "QYBZoGwAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Unbiased and Efficient Log-Likelihood Estimation with Inverse Binomial Sampling",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "QYBZoGwAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Role of Sensory Uncertainty in Simple Contour Integration",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "QYBZoGwAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variational Bayesian Monte Carlo with Noisy Likelihoods",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "QYBZoGwAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Approximate Inference through Sequential Measurements of Likelihoods Accounts for Hick's Law.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "QYBZoGwAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Role of Memory Uncertainty in Change Localization",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "QYBZoGwAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of uncertainty in perceptual organization",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "QYBZoGwAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of memory uncertainty in change detection",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "QYBZoGwAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimality under fire: Dissociating learning from Bayesian integration",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "QYBZoGwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian causal inference drives temporal sensorimotor recalibration",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "QYBZoGwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Comparison of Explicit and Implicit Causal Inference Strategies in Multisensory Heading Perception Appendix S1 Supplemental methods",
+                "cites": "0"
+            },
+            "id_citations": "QYBZoGwAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probing the sources of suboptimality in human Bayesian inference",
+                "cites": "0"
+            },
+            "id_citations": "QYBZoGwAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=QYBZoGwAAAAJ"
+}

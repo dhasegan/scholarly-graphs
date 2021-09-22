@@ -5,17 +5,17 @@
         "2010": 127,
         "2011": 273,
         "2012": 371,
-        "2013": 425,
+        "2013": 426,
         "2014": 435,
-        "2015": 499,
+        "2015": 500,
         "2016": 568,
-        "2017": 506,
-        "2018": 629,
-        "2019": 599,
-        "2020": 443
+        "2017": 509,
+        "2018": 633,
+        "2019": 585,
+        "2020": 518
     },
-    "citedby": 4995,
-    "citedby5y": 3250,
+    "citedby": 5066,
+    "citedby5y": 3319,
     "coauthors": [
         {
             "affiliation": "University of Western Ontario",
@@ -76,7 +76,7 @@
         {
             "bib": {
                 "title": "Willful modulation of brain activity in disorders of consciousness",
-                "cites": "1252",
+                "cites": "1262",
                 "year": "2010"
             },
             "id_citations": "a7kG9R4AAAAJ:u5HHmVD_uO8C",
@@ -85,7 +85,7 @@
         {
             "bib": {
                 "title": "Willful modulation of brain activity in disorders of consciousness",
-                "cites": "1246",
+                "cites": "1256",
                 "year": "2010"
             },
             "id_citations": "a7kG9R4AAAAJ:M3ejUd6NZC8C",
@@ -94,7 +94,7 @@
         {
             "bib": {
                 "title": "The role of the right inferior frontal gyrus: inhibition and attentional control",
-                "cites": "945",
+                "cites": "959",
                 "year": "2010"
             },
             "id_citations": "a7kG9R4AAAAJ:u-x6o8ySG0sC",
@@ -103,7 +103,7 @@
         {
             "bib": {
                 "title": "The vegetative state",
-                "cites": "249",
+                "cites": "250",
                 "year": "2010"
             },
             "id_citations": "a7kG9R4AAAAJ:d1gkVwhDpl0C",
@@ -112,7 +112,7 @@
         {
             "bib": {
                 "title": "Statistical analysis of fMRI time-series: a critical review of the GLM approach",
-                "cites": "224",
+                "cites": "226",
                 "year": "2011"
             },
             "id_citations": "a7kG9R4AAAAJ:Tyk-4Ss8FVUC",
@@ -121,7 +121,7 @@
         {
             "bib": {
                 "title": "Diffusion weighted imaging distinguishes the vegetative state from the minimally conscious state",
-                "cites": "189",
+                "cites": "191",
                 "year": "2011"
             },
             "id_citations": "a7kG9R4AAAAJ:qjMakFHDy7sC",
@@ -130,7 +130,7 @@
         {
             "bib": {
                 "title": "Functional neuroanatomy of deductive inference: a language-independent distributed network",
-                "cites": "124",
+                "cites": "127",
                 "year": "2007"
             },
             "id_citations": "a7kG9R4AAAAJ:2osOgNQ5qMEC",
@@ -139,7 +139,7 @@
         {
             "bib": {
                 "title": "Spectral signatures of reorganised brain networks in disorders of consciousness",
-                "cites": "116",
+                "cites": "121",
                 "year": "2014"
             },
             "id_citations": "a7kG9R4AAAAJ:L8Ckcad2t8MC",
@@ -157,10 +157,19 @@
         {
             "bib": {
                 "title": "The boundaries of language and thought in deductive inference",
-                "cites": "112",
+                "cites": "113",
                 "year": "2009"
             },
             "id_citations": "a7kG9R4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Optimized brain extraction for pathological brains (optiBET)",
+                "cites": "107",
+                "year": "2014"
+            },
+            "id_citations": "a7kG9R4AAAAJ:ZeXyd9-uunAC",
             "source": "citations"
         },
         {
@@ -174,26 +183,8 @@
         },
         {
             "bib": {
-                "title": "Optimized brain extraction for pathological brains (optiBET)",
-                "cites": "105",
-                "year": "2014"
-            },
-            "id_citations": "a7kG9R4AAAAJ:ZeXyd9-uunAC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Thought beyond language: Neural dissociation of algebra and natural language",
-                "cites": "100",
-                "year": "2012"
-            },
-            "id_citations": "a7kG9R4AAAAJ:eQOLeE2rZwMC",
-            "source": "citations"
-        },
-        {
-            "bib": {
                 "title": "Dynamic change of global and local information processing in propofol-induced loss and recovery of consciousness",
-                "cites": "98",
+                "cites": "101",
                 "year": "2013"
             },
             "id_citations": "a7kG9R4AAAAJ:4DMP91E08xMC",
@@ -201,8 +192,17 @@
         },
         {
             "bib": {
+                "title": "Thought beyond language: Neural dissociation of algebra and natural language",
+                "cites": "101",
+                "year": "2012"
+            },
+            "id_citations": "a7kG9R4AAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
                 "title": "Non-invasive ultrasonic thalamic stimulation in disorders of consciousness after severe brain injury: a first-in-man report",
-                "cites": "87",
+                "cites": "90",
                 "year": "2016"
             },
             "id_citations": "a7kG9R4AAAAJ:iH-uZ7U-co4C",
@@ -247,10 +247,19 @@
         {
             "bib": {
                 "title": "Impaired consciousness is linked to changes in effective connectivity of the posterior cingulate cortex within the default mode network",
-                "cites": "62",
+                "cites": "64",
                 "year": "2015"
             },
             "id_citations": "a7kG9R4AAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in resting corticolimbic functional connectivity in bipolar I euthymia",
+                "cites": "60",
+                "year": "2013"
+            },
+            "id_citations": "a7kG9R4AAAAJ:UebtZRa9Y70C",
             "source": "citations"
         },
         {
@@ -282,17 +291,8 @@
         },
         {
             "bib": {
-                "title": "Differences in resting corticolimbic functional connectivity in bipolar I euthymia",
-                "cites": "58",
-                "year": "2013"
-            },
-            "id_citations": "a7kG9R4AAAAJ:UebtZRa9Y70C",
-            "source": "citations"
-        },
-        {
-            "bib": {
                 "title": "Weighing brain activity with the balance: Angelo Mosso\u2019s original manuscripts come to light",
-                "cites": "57",
+                "cites": "58",
                 "year": "2014"
             },
             "id_citations": "a7kG9R4AAAAJ:ULOm3_A8WrAC",
@@ -301,7 +301,7 @@
         {
             "bib": {
                 "title": "Thalamic atrophy in antero-medial and dorsal nuclei correlates with six-month outcome after severe brain injury",
-                "cites": "52",
+                "cites": "53",
                 "year": "2013"
             },
             "id_citations": "a7kG9R4AAAAJ:aqlVkmm33-oC",
@@ -310,7 +310,7 @@
         {
             "bib": {
                 "title": "A multimodal approach to the assessment of patients with disorders of consciousness",
-                "cites": "51",
+                "cites": "52",
                 "year": "2009"
             },
             "id_citations": "a7kG9R4AAAAJ:zYLM7Y9cAGgC",
@@ -319,7 +319,7 @@
         {
             "bib": {
                 "title": "Logic, language and the brain",
-                "cites": "47",
+                "cites": "48",
                 "year": "2012"
             },
             "id_citations": "a7kG9R4AAAAJ:WF5omc3nYNoC",
@@ -328,7 +328,7 @@
         {
             "bib": {
                 "title": "Disentangling disorders of consciousness: Insights from diffusion tensor imaging and machine learning",
-                "cites": "38",
+                "cites": "39",
                 "year": "2017"
             },
             "id_citations": "a7kG9R4AAAAJ:TFP_iSt0sucC",
@@ -337,7 +337,7 @@
         {
             "bib": {
                 "title": "Testing proposed neuronal models of effective connectivity within the cortico-basal ganglia-thalamo-cortical loop during loss of consciousness",
-                "cites": "31",
+                "cites": "32",
                 "year": "2017"
             },
             "id_citations": "a7kG9R4AAAAJ:j3f4tGmQtD8C",
@@ -373,10 +373,19 @@
         {
             "bib": {
                 "title": "Brain function and responsiveness in disorders of consciousness",
-                "cites": "19",
+                "cites": "20",
                 "year": "2016"
             },
             "id_citations": "a7kG9R4AAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sleep quality and adolescent default mode network connectivity",
+                "cites": "19",
+                "year": "2018"
+            },
+            "id_citations": "a7kG9R4AAAAJ:J_g5lzvAfSwC",
             "source": "citations"
         },
         {
@@ -399,17 +408,8 @@
         },
         {
             "bib": {
-                "title": "Sleep quality and adolescent default mode network connectivity",
-                "cites": "16",
-                "year": "2018"
-            },
-            "id_citations": "a7kG9R4AAAAJ:J_g5lzvAfSwC",
-            "source": "citations"
-        },
-        {
-            "bib": {
                 "title": "Neural representations of magnitude for natural and rational numbers",
-                "cites": "16",
+                "cites": "17",
                 "year": "2016"
             },
             "id_citations": "a7kG9R4AAAAJ:bEWYMUwI8FkC",
@@ -418,10 +418,19 @@
         {
             "bib": {
                 "title": "At the core of reasoning: Dissociating deductive and non\u2010deductive load",
-                "cites": "11",
+                "cites": "12",
                 "year": "2018"
             },
             "id_citations": "a7kG9R4AAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Network analysis in disorders of consciousness: four problems and one proposed solution (Exponential Random Graph Models)",
+                "cites": "11",
+                "year": "2018"
+            },
+            "id_citations": "a7kG9R4AAAAJ:SeFeTyx0c_EC",
             "source": "citations"
         },
         {
@@ -431,15 +440,6 @@
                 "year": "2018"
             },
             "id_citations": "a7kG9R4AAAAJ:dhFuZR0502QC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "Network analysis in disorders of consciousness: four problems and one proposed solution (Exponential Random Graph Models)",
-                "cites": "10",
-                "year": "2018"
-            },
-            "id_citations": "a7kG9R4AAAAJ:SeFeTyx0c_EC",
             "source": "citations"
         },
         {
@@ -489,6 +489,15 @@
         },
         {
             "bib": {
+                "title": "The role of language in structure-dependent cognition",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "a7kG9R4AAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
                 "title": "Emerging theory and practice in neuroprosthetics",
                 "cites": "8",
                 "year": "2014"
@@ -503,15 +512,6 @@
                 "year": "2013"
             },
             "id_citations": "a7kG9R4AAAAJ:qxL8FJ1GzNcC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "The role of language in structure-dependent cognition",
-                "cites": "7",
-                "year": "2017"
-            },
-            "id_citations": "a7kG9R4AAAAJ:TQgYirikUcIC",
             "source": "citations"
         },
         {
@@ -543,6 +543,15 @@
         },
         {
             "bib": {
+                "title": "The language of music: Common neural codes for structured sequences in music and natural language",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "a7kG9R4AAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
                 "title": "Vegetative state",
                 "cites": "5",
                 "year": "2009"
@@ -552,11 +561,11 @@
         },
         {
             "bib": {
-                "title": "The language of music: Common neural codes for structured sequences in music and natural language",
+                "title": "Imaging biomarkers of posttraumatic epileptogenesis",
                 "cites": "4",
-                "year": "2018"
+                "year": "2019"
             },
-            "id_citations": "a7kG9R4AAAAJ:BqipwSGYUEgC",
+            "id_citations": "a7kG9R4AAAAJ:WA5NYHcadZ8C",
             "source": "citations"
         },
         {
@@ -579,15 +588,6 @@
         },
         {
             "bib": {
-                "title": "Imaging biomarkers of posttraumatic epileptogenesis",
-                "cites": "3",
-                "year": "2019"
-            },
-            "id_citations": "a7kG9R4AAAAJ:WA5NYHcadZ8C",
-            "source": "citations"
-        },
-        {
-            "bib": {
                 "title": "Stent graft or balloon angioplasty alone for dialysis-access grafts.",
                 "cites": "3",
                 "year": "2010"
@@ -597,11 +597,29 @@
         },
         {
             "bib": {
-                "title": "Toward a Global and Reproducible Science for Brain Imaging in Neurotrauma: The ENIGMA Adult Moderate/Severe Traumatic Brain Injury Working Group",
+                "title": "Toward a global and reproducible science for brain imaging in neurotrauma: the ENIGMA adult moderate/severe traumatic brain injury working group",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "a7kG9R4AAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separability of logic and language: a TMS study",
                 "cites": "2",
                 "year": "2019"
             },
-            "id_citations": "a7kG9R4AAAAJ:HE397vMXCloC",
+            "id_citations": "a7kG9R4AAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The thalamic basis of outcome and cognitive impairment in traumatic brain injury",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "a7kG9R4AAAAJ:D_sINldO8mEC",
             "source": "citations"
         },
         {
@@ -615,11 +633,20 @@
         },
         {
             "bib": {
-                "title": "Separability of logic and language: a TMS study",
+                "title": "The Curing Coma Campaign: Framing Initial Scientific Challenges\u2014Proceedings of the First Curing Coma Campaign Scientific Advisory Council Meeting",
                 "cites": "1",
-                "year": "2019"
+                "year": "2020"
             },
-            "id_citations": "a7kG9R4AAAAJ:SP6oXDckpogC",
+            "id_citations": "a7kG9R4AAAAJ:fEOibwPWpKIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distributed code for semantic relations predicts neural similarity during analogical reasoning",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "a7kG9R4AAAAJ:z_wVstp3MssC",
             "source": "citations"
         },
         {
@@ -638,15 +665,6 @@
                 "year": "2019"
             },
             "id_citations": "a7kG9R4AAAAJ:q3oQSFYPqjQC",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "The thalamic basis of outcome and cognitive impairment in traumatic brain injury",
-                "cites": "1",
-                "year": "2019"
-            },
-            "id_citations": "a7kG9R4AAAAJ:D_sINldO8mEC",
             "source": "citations"
         },
         {
@@ -687,20 +705,20 @@
         },
         {
             "bib": {
+                "title": "Relational Integration in the Human Brain: A Review and Synthesis",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "a7kG9R4AAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
                 "title": "Subcortical atrophy correlates with the Perturbational Complexity Index in patients with disorders of consciousness",
                 "cites": "0",
                 "year": "2020"
             },
             "id_citations": "a7kG9R4AAAAJ:uJ-U7cs_P_0C",
-            "source": "citations"
-        },
-        {
-            "bib": {
-                "title": "The Curing Coma Campaign: Framing Initial Scientific Challenges\u2014Proceedings of the First Curing Coma Campaign Scientific Advisory Council Meeting",
-                "cites": "0",
-                "year": "2020"
-            },
-            "id_citations": "a7kG9R4AAAAJ:fEOibwPWpKIC",
             "source": "citations"
         },
         {
@@ -728,6 +746,15 @@
                 "year": "2020"
             },
             "id_citations": "a7kG9R4AAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo structural MRI-based atlas of human thalamic nuclei",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "a7kG9R4AAAAJ:t7zJ5fGR-2UC",
             "source": "citations"
         },
         {
@@ -1021,5 +1048,8 @@
             "source": "citations"
         }
     ],
-    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=a7kG9R4AAAAJ"
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=a7kG9R4AAAAJ",
+    "alternate_names": [
+        "Martin M. Monti"
+    ]
 }

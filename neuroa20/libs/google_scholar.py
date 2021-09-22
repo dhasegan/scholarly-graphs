@@ -1,5 +1,8 @@
 import os
 import json
+from deepdiff import DeepDiff
+
+from neuroa20.libs.user_input import _get_in
 
 def read_dirs(dirs):
     if type(dirs) == str:
@@ -15,9 +18,34 @@ def read_dirs(dirs):
 
     return rows
 
-def save_scholar(scholar, scholar_dir):
+def save_scholar(scholar, scholar_dir, alternate_name=None):
     filename = scholar['name'].replace('/', '_') + '.json'
-    with open(os.path.join(scholar_dir, filename), 'w') as out:
+    filepath = os.path.join(scholar_dir, filename)
+
+    if os.path.isfile(filepath):
+        current_scholar = None
+        with open(filepath) as f:
+            current_scholar = json.load(f)
+        ddiff = DeepDiff(current_scholar, json.loads(json.dumps(scholar)))
+        if ddiff != {}:
+            if len(ddiff) == 1 and len(ddiff['dictionary_item_removed']) == 1 and \
+                    ddiff['dictionary_item_removed'][0] == "root['alternate_names']":
+                scholar = current_scholar
+            else:
+                print("There are differences that will be rewritten when saving.")
+                print(ddiff)
+                v = _get_in('Keep original (o)? Write new (n) or Exit (e)? o/n/x: ', ['o', 'n', 'x'])
+                if v == 'o':
+                    scholar = current_scholar
+                if v == 'x':
+                    exit()
+
+    if alternate_name and alternate_name != scholar['name']:
+        if 'alternate_names' not in scholar:
+            scholar['alternate_names'] = []
+        scholar['alternate_names'].append(alternate_name)
+
+    with open(filepath, 'w') as out:
         out.write(json.dumps(scholar, indent=4) + '\n')
     
 

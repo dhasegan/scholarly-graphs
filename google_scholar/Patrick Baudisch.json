@@ -1,0 +1,2694 @@
+{
+    "affiliation": "Professor of Computer Science, Hasso Plattner Institute",
+    "cites_per_year": {
+        "2003": 60,
+        "2004": 176,
+        "2005": 234,
+        "2006": 386,
+        "2007": 523,
+        "2008": 620,
+        "2009": 771,
+        "2010": 816,
+        "2011": 962,
+        "2012": 1121,
+        "2013": 1356,
+        "2014": 1336,
+        "2015": 1413,
+        "2016": 1379,
+        "2017": 1564,
+        "2018": 1443,
+        "2019": 1663,
+        "2020": 888
+    },
+    "citedby": 17020,
+    "citedby5y": 8367,
+    "coauthors": [
+        {
+            "affiliation": "Assistant Professor, MIT CSAIL",
+            "id": "ki5wlPEAAAAJ",
+            "name": "Stefanie Mueller"
+        },
+        {
+            "affiliation": "Assist. Prof. at University of Chicago (2019)",
+            "id": "dhPGPoIAAAAJ",
+            "name": "Pedro Lopes"
+        },
+        {
+            "affiliation": "Microsoft Research",
+            "id": "XHDuLVEAAAAJ",
+            "name": "Ken Hinckley"
+        },
+        {
+            "affiliation": "General Manager, Microsoft",
+            "id": "J5Nwk-UAAAAJ",
+            "name": "Desney Tan"
+        },
+        {
+            "affiliation": "Principal Researcher, Microsoft Research",
+            "id": "8dfY_RYAAAAJ",
+            "name": "Edward (Ed) Cutrell"
+        },
+        {
+            "affiliation": "Microsoft Research",
+            "id": "qi7fvXoAAAAJ",
+            "name": "Andrew Wilson"
+        },
+        {
+            "affiliation": "Assistant Professor at ETH Zurich",
+            "id": "OfXP9jMAAAAJ",
+            "name": "Christian Holz"
+        },
+        {
+            "affiliation": "Director, Facebook Reality Labs",
+            "id": "BXCGQXwAAAAJ",
+            "name": "Hrvoje Benko"
+        },
+        {
+            "affiliation": "PhD student, Hasso Plattner Institute",
+            "id": "_fbToAsAAAAJ",
+            "name": "Robert Kovacs"
+        },
+        {
+            "affiliation": "postdoctoral researcher, ETH Zurich",
+            "id": "pP920LoAAAAJ",
+            "name": "Alexandra Ion"
+        },
+        {
+            "affiliation": "Stanford University",
+            "id": "YPzKczYAAAAJ",
+            "name": "Maneesh Agrawala"
+        },
+        {
+            "affiliation": "Principal Researcher - Microsoft Research",
+            "id": "0tjugbIAAAAJ",
+            "name": "Gonzalo Ramos"
+        },
+        {
+            "affiliation": "Scout24",
+            "id": "n4-_wGsAAAAJ",
+            "name": "Sean Gustafson"
+        },
+        {
+            "affiliation": "PhD candidate, Hasso Plattner Institute",
+            "id": "e0IL7_MAAAAJ",
+            "name": "Thijs Roumen"
+        },
+        {
+            "affiliation": "Assistant Professor at National Taiwan University",
+            "id": "qfORd34AAAAJ",
+            "name": "Lung-Pan Cheng"
+        },
+        {
+            "affiliation": "University of Adelaide",
+            "id": "UgJAkMgAAAAJ",
+            "name": "Hsiang-Ting (Tim) Chen"
+        },
+        {
+            "affiliation": "University of Toronto",
+            "id": "EZgkJ3sAAAAJ",
+            "name": "Tovi Grossman"
+        },
+        {
+            "affiliation": "Technical Fellow, Tableau Software",
+            "id": "SWworh8AAAAJ",
+            "name": "Jock D. Mackinlay"
+        },
+        {
+            "affiliation": "Microsoft Research",
+            "id": "V4OPEAgAAAAJ",
+            "name": "Eric Horvitz"
+        },
+        {
+            "affiliation": "Hasso Plattner Institut, Potsdam University",
+            "id": "gssiDmwAAAAJ",
+            "name": "Sebastian Marwecki"
+        }
+    ],
+    "email": "@hpi.uni-potsdam.de",
+    "hindex": 73,
+    "hindex5y": 54,
+    "i10index": 162,
+    "i10index5y": 130,
+    "id": "GdRdhYwAAAAJ",
+    "interests": [
+        "Human Computer Interaction",
+        "personal fabrication",
+        "haptics",
+        "natural user interfaces",
+        "computer science"
+    ],
+    "name": "Patrick Baudisch",
+    "publications": [
+        {
+            "bib": {
+                "title": "Precise selection techniques for multi-touch screens",
+                "cites": "1050",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halo: a technique for visualizing off-screen objects",
+                "cites": "537",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Shift: a technique for operating pen-based interfaces using touch",
+                "cites": "504",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drag-and-pop and drag-and-pick: Techniques for accessing remote screen content on touch-and pen-operated systems",
+                "cites": "438",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Back-of-device interaction allows creating very small touch devices",
+                "cites": "369",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lucid touch: a see-through mobile device",
+                "cites": "367",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stitching: pen gestures that span multiple displays",
+                "cites": "330",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for managing software applications in a graphical user interface",
+                "cites": "317",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Keeping things in context: a comparative evaluation of focus plus context screens, overviews, and zooming",
+                "cites": "304",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Touch projector: mobile interaction through video",
+                "cites": "294",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real-time preview for panoramic images",
+                "cites": "292",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hover widgets: using the tracking state to extend the capabilities of pen-operated devices",
+                "cites": "283",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The large-display user experience",
+                "cites": "282",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Focus plus context screens: combining display technology with visualization techniques",
+                "cites": "279",
+                "year": "2001"
+            },
+            "id_citations": "GdRdhYwAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The generalized perceived input point model and how to double touch accuracy by extracting fingerprints",
+                "cites": "263",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Delimiters for selection-action pen gesture phrases",
+                "cites": "251",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Earpod: eyes-free menu selection using touch input and reactive audio feedback",
+                "cites": "231",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Design and analysis of delimiters for selection-action pen gesture phrases in scriboli",
+                "cites": "229",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wedge: clutter-free visualization of off-screen locations",
+                "cites": "224",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nenya: subtle and eyes-free mobile input with a magnetically-tracked finger ring",
+                "cites": "220",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Summary thumbnails: readable overviews for small screen web browsers",
+                "cites": "218",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding touch",
+                "cites": "217",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaginary interfaces: spatial interaction with empty hands and without visual feedback",
+                "cites": "216",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Volume control",
+                "cites": "210",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collapse-to-zoom: viewing web pages on small screen devices by interactively removing irrelevant content",
+                "cites": "189",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Groupbar: The taskbar evolved",
+                "cites": "182",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking input in a screen-reflective interface environment",
+                "cites": "166",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WirePrint: 3D printed previews for fast prototyping",
+                "cites": "162",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Aul-kAQHnToC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "City lights: contextual views in minimal space",
+                "cites": "150",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for accessing remote screen content",
+                "cites": "148",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "faBrickation: fast 3D printing of functional objects by integrating construction kit building blocks",
+                "cites": "144",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:nZcligLrVowC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive construction: interactive fabrication of functional mechanical devices",
+                "cites": "139",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Fabric: flexible task management",
+                "cites": "138",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaginary phone: learning imaginary interfaces by transferring spatial memory from a familiar device",
+                "cites": "134",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Digital image browser",
+                "cites": "132",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lumino: tangible blocks for tabletop computers based on glass fiber bundles",
+                "cites": "132",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phosphor: explaining transitions in the user interface using afterglow effects",
+                "cites": "129",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method that facilitates computer desktop use via scaling of displayed objects with shifts to the periphery",
+                "cites": "123",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time quilt: scaling up zoomable photo browsers for large, unstructured photo collections",
+                "cites": "122",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blindsight: eyes-free access to mobile phones",
+                "cites": "121",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Providing haptics to walls & heavy objects in virtual reality by means of electrical muscle stimulation",
+                "cites": "120",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:BzfGm06jWhQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving drag-and-drop on wall-size displays",
+                "cites": "119",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LaserOrigami: laser-cutting 3D objects",
+                "cites": "118",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CapStones and ZebraWidgets: sensing stacks of building blocks, dials and sliders on capacitive touch screens",
+                "cites": "118",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiblending: displaying overlapping windows simultaneously without the drawbacks of alpha blending",
+                "cites": "117",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Focusing on the essential: considering attention in display design",
+                "cites": "116",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Impacto: Simulating physical impact by combining tactile stimulation with electrical muscle stimulation",
+                "cites": "115",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:sJsF-0ZLhtgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic thumbnails",
+                "cites": "114",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System utilizing mixed resolution displays",
+                "cites": "113",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multitoe: high-precision interaction with back-projected floors based on high-resolution multi-touch input",
+                "cites": "111",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fishnet, a fisheye web browser with search term popouts: a comparative evaluation with overview and linear view",
+                "cites": "111",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method of displaying content on small screen computing devices",
+                "cites": "106",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metamaterial mechanisms",
+                "cites": "105",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ubry08Y2EpUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Turkdeck: Physical virtual reality based on people",
+                "cites": "103",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:6yz0xqPARnAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fiberio: a touchscreen that senses fingerprints",
+                "cites": "102",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:WJVC3Jt7v1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mouse ether: accelerating the acquisition of targets across multi-monitor displays",
+                "cites": "102",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accessing remote screen content",
+                "cites": "100",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-revelation aids for interfaces",
+                "cites": "97",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modular and deformable touch-sensitive surfaces based on time domain reflectometry",
+                "cites": "96",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accessing 2D graphic content using axonometric layer views",
+                "cites": "96",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separability of spatial manipulations in multi-touch interfaces",
+                "cites": "95",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Disappearing mobile devices",
+                "cites": "91",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Haptic turk: a motion platform based on people",
+                "cites": "87",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:P7Ujq4OLJYoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixed resolution displays",
+                "cites": "87",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "InkSeine: In Situ search for active note taking",
+                "cites": "87",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Touch sensitive and mechanical user input device",
+                "cites": "79",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Affordance++ Allowing Objects to Communicate Dynamic Use",
+                "cites": "77",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:tH6gc1N1XXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Snap-and-go: helping users align objects without the modality of traditional snapping",
+                "cites": "77",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Muscle-propelled force feedback: bringing force feedback to mobile devices",
+                "cites": "75",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GravitySpace: tracking users and their poses in a smart room using a pressure-sensing floor",
+                "cites": "75",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding palm-based imaginary interfaces: the role of visual and tactile cues when browsing",
+                "cites": "75",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Operating touch screen interfaces",
+                "cites": "75",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PinchWatch: a wearable device for one-handed microinteractions",
+                "cites": "74",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tumble! Splat! helping users access and manipulate occluded content in 2D drawings",
+                "cites": "71",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Patching physical objects",
+                "cites": "70",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:0CzhzZyukY4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-density cursor: a visualization technique that helps users keep track of fast-moving mouse cursors",
+                "cites": "70",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proprioceptive interaction",
+                "cites": "69",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Bg7qf7VwUHIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Displaying visually correct pointer movements on a multi-monitor display system",
+                "cites": "69",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Displaying 2D graphic content using depth wells",
+                "cites": "69",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The springboard: multiple modes in one spring-loaded control",
+                "cites": "68",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Facilitating target acquisition by expanding targets",
+                "cites": "67",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Personal fabrication",
+                "cites": "66",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:cK4Rrx0J3m0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TV Scout: Lowering the entry barrier to personalized TV program recommendation",
+                "cites": "65",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Soap: a pointing device that works in mid-air",
+                "cites": "64",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handle flags",
+                "cites": "63",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for displaying images utilizing multi-blending",
+                "cites": "63",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In situ search for active note taking",
+                "cites": "58",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for representing content in a file system",
+                "cites": "58",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Skin drag displays: Dragging a physical tactor across the user's skin produces a stronger tactile stimulus than vibrotactile",
+                "cites": "57",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:vDZJ-YLwNdEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Platener: Low-fidelity fabrication of 3D objects by substituting 3D print with laser-cut plates",
+                "cites": "56",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:artPoR2Yc-kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gesture output: eyes-free output using a force feedback touch surface",
+                "cites": "56",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Graphical interface for defining mutually exclusive destinations",
+                "cites": "54",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High density cursor system and method",
+                "cites": "53",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods and systems for indicating invisible contents of workspace",
+                "cites": "53",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "City lights: contextual views in minimal space, CHI'03 Extended Abstracts on Human Factors in Computing Systems, April 05-10, 2003, Ft",
+                "cites": "53"
+            },
+            "id_citations": "GdRdhYwAAAAJ:zGdJYJv2LkUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RoMA: Interactive fabrication with augmented reality and a robotic 3D printer",
+                "cites": "50",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:7H_MAutzIkAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for interaction of graphical objects on a computer controlled system",
+                "cites": "50",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic information filtering",
+                "cites": "50",
+                "year": "2001"
+            },
+            "id_citations": "GdRdhYwAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bootstrapper: recognizing tabletop users by their shoes",
+                "cites": "49",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Touch interaction with a curved display",
+                "cites": "47",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Touch input on curved surfaces",
+                "cites": "47",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Protopiper: Physically sketching room-sized objects at actual scale",
+                "cites": "45",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4X0JR2_MtJMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods of using mixed resolution displays",
+                "cites": "45",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Muscle-plotter: An interactive system based on electrical muscle stimulation that produces spatial output",
+                "cites": "44",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:zCSUwVk65WsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TV scout: Guiding users from printed TV program guides to personalized TV recommendation",
+                "cites": "44",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joining collaborative and content-based filtering",
+                "cites": "43",
+                "year": "1999"
+            },
+            "id_citations": "GdRdhYwAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Digital mechanical metamaterials",
+                "cites": "42",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:kVjdVfd2voEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linespace: A sensemaking platform for the blind",
+                "cites": "42",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:otzGkya1bYkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for determining display differences between monitors on multi-monitor computer systems",
+                "cites": "42",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Panoramic viewfinder: providing a real-time preview to help users avoid flaws in panoramic pictures",
+                "cites": "41",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Starburst: a target expansion algorithm for non-uniform target distributions",
+                "cites": "40",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating visual cues for window switching on large screens",
+                "cites": "40",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Don't click, paint! Using toggle maps to manipulate sets of toggle switches",
+                "cites": "40",
+                "year": "1998"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direction-based system and method of generating commands",
+                "cites": "39",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for acquiring a target with intelligent pointer movement",
+                "cites": "38",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Level-ups: Motorized stilts that simulate stair steps in virtual reality",
+                "cites": "37",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:BJbdYPG6LGMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaginary reality gaming: ball games without a ball",
+                "cites": "37",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:HtS1dXgVpQUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for moving graphical objects on a computer controlled system",
+                "cites": "37",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Location-to-landmark",
+                "cites": "36",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mutual human actuation",
+                "cites": "31",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:1taIhTC69MYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LaserStacker: fabricating 3D objects by laser cutting and welding",
+                "cites": "31",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:NyGDZy8z5eUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kickables: tangibles for feet",
+                "cites": "31",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:OP4eGU-M3BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tapping and rubbing: exploring new dimensions of tactile feedback with voice coil motors",
+                "cites": "30",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method that facilitates computer desktop use via scaling of displayed objects",
+                "cites": "29",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Adding force feedback to mixed reality experiences and games using electrical muscle stimulation",
+                "cites": "28",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:PYBJJbyH-FwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Methods of using mixed resolution displays",
+                "cites": "28",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method for making dense crack free thin films",
+                "cites": "28",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:1Ye0OR6EYb4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Touch interaction with a curved display",
+                "cites": "27",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Ade32sEp0pkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Trussfab: Fabricating sturdy large-scale structures on desktop 3d printers",
+                "cites": "26",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:U4n9YNQMCAIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Cage: Efficient construction in 3D using a cubic adaptive grid",
+                "cites": "26",
+                "year": "1996"
+            },
+            "id_citations": "GdRdhYwAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Virtualspace-overloading physical space with multiple virtual reality users",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:CB2v5VPnA5kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "iturk: Turning passive haptics into active haptics by making users reconfigure props in virtual reality",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:jU7OWUQzBzMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recommending TV Programs: How far can we get at zero user effort?",
+                "cites": "24",
+                "year": "1998"
+            },
+            "id_citations": "GdRdhYwAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metamaterial textures",
+                "cites": "23",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:owLR8QvbtFgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mobile fabrication",
+                "cites": "23",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:jgBuDB5drN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "360 panoramic overviews for location-based services",
+                "cites": "23",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handle Flags: efficient and flexible selections for inking applications",
+                "cites": "23",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for moving computer displayable content into a preferred user interactive focus area",
+                "cites": "23",
+                "year": "2008"
+            },
+            "id_citations": "GdRdhYwAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for implementing a flat audio volume control model",
+                "cites": "21",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curve dial: Eyes-free parameter entry for GUIs",
+                "cites": "21",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Beyond the Desktop Metaphor",
+                "cites": "20",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interacting with large displays",
+                "cites": "20",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaginary devices: gesture-based interaction mimicking traditional input devices",
+                "cites": "19",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "My new PC is a mobile phone",
+                "cites": "19",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Low-fidelity fabrication: Speeding up design iteration of 3D objects",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Ak0FvsSvgGUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for dynamically processing display information to combine display focus and context information in screen displays",
+                "cites": "16",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Automatic text reduction for changing size constraints",
+                "cites": "16",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Focus plus context screens: displays for users working with large visual documents",
+                "cites": "16",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Profile Editor: designing a direct manipulative tool for assembling profiles",
+                "cites": "16",
+                "year": "1997"
+            },
+            "id_citations": "GdRdhYwAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User-configurable advertising profiles applied to Web page banners",
+                "cites": "16",
+                "year": "1997"
+            },
+            "id_citations": "GdRdhYwAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interaction in the virtual studio",
+                "cites": "16",
+                "year": "1996"
+            },
+            "id_citations": "GdRdhYwAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grafter: Remixing 3D-printed machines",
+                "cites": "15",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:L1USKYWJimsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Appropriately sized target expansion",
+                "cites": "15",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scotty: Relocating physical objects across distances using destructive scanning, encryption, and 3D printing",
+                "cites": "14",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:5MTHONV0fEkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and method for aligning objects using non-linear pointer movement",
+                "cites": "14",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TrussFormer: 3D printing large kinetic structures",
+                "cites": "12",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:AXkvAH5U_nMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Muscle-propelled force feedback: bringing force feedback to mobile devices using electrical stimulation",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online personal appearance advisor",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active use lookup via mobile device",
+                "cites": "12",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representing animation as a static image on a graphical user interface",
+                "cites": "11",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:lvd772isFD0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An exploration of user interface designs for real-time panoramic",
+                "cites": "11",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interacting with recommender systems",
+                "cites": "11",
+                "year": "1999"
+            },
+            "id_citations": "GdRdhYwAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise selection techniques for multi-touch screens",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:3NQIlFlcGxIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to this Special Issue on Ubiquitous Multi-Display Environments",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Space efficient lists for thumbnails",
+                "cites": "9",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention, indifference, dislike, action: Web advertising involving users",
+                "cites": "9",
+                "year": "2000"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Action-dependent processing of touch in the human parietal operculum and posterior insula",
+                "cites": "8",
+                "year": "2020"
+            },
+            "id_citations": "GdRdhYwAAAAJ:jSAVyFp_754C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FormFab: continuous interactive fabrication",
+                "cites": "8",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:wvYxNZNCP7wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scenograph: Fitting real-walking vr experiences into various tracking volumes",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:DBa1UEJaJKAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive systems based on electrical muscle stimulation",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:nRpfm8aw39MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Personal fabrication: State of the art and future research",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:CaZNVDsoPx4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Destructive games: Creating value by destroying valuable physical objects",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:buQ7SEKw-1sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rock-paper-fibers: bringing physical affordance to mobile touch devices",
+                "cites": "8",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Immense power in a tiny package: Wearables based on electrical muscle stimulation",
+                "cites": "7",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:7BrZ7Jt4UNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lumino: tangible building blocks based on glass fiber bundles",
+                "cites": "7",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Soap: how to make a mouse work in mid-air",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Information visualization and interaction techniques for collaboration across multiple displays",
+                "cites": "7",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "UIST 2005: Proceedings of the 18th Annual ACM Symposium on User Interface Software and Technology: October 23-26, 2005, Seattle, WA.",
+                "cites": "7",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:QsaTk4IG4EwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using a painting metaphor to rate large numbers of objects",
+                "cites": "7",
+                "year": "1999"
+            },
+            "id_citations": "GdRdhYwAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Designing an evolving Internet TV program guide",
+                "cites": "7",
+                "year": "1997"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ergonomic interaction for touch floors",
+                "cites": "6",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:F1b5ZUV5XREC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and process for increasing the apparent resolution of a display",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Understanding metamaterial mechanisms",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:rbm3iO8VlycC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Personal fabrication in HCI: trends and challenges",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:lgwcVrK6X84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hands-on introduction to interactive electrical muscle stimulation",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:jL-93Qbq4QoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "constructable: interactive construction of functional mechanical devices",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:edDO8Oi4QzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conventions of Control: A Catalog of Gestures for Remotely Interacting With Dynamic Architectural Space",
+                "cites": "5",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4vMrXwiscB8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Soap: a pointing and gaming device for the living room and anywhere else",
+                "cites": "5",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Panoramic viewfinder: Shooting panoramic pictures with the help of a real-time preview",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Flat volume control: Improving usability by hiding the volume control hierarchy in the user interface",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Focus plus context screens: visual context and immersion on the desktop",
+                "cites": "5",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kyub: A 3D Editor for Modeling Sturdy Laser-Cut Objects",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:IsPWOBWtZBwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CrossFAB: Bridging the Gap between Personal Fabrication Research in HCI, Computer Graphics, Robotics, Art, Architecture, and Material Science.",
+                "cites": "4",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:48xauSegjOkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Let your body move: electrical muscle stimuli as haptics",
+                "cites": "4",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:gVv57TyPmFsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Soap mobile electronic human interface device",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Target acquisition",
+                "cites": "4",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Explorations in task management on the desktop",
+                "cites": "4",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interacting with wall-size screens",
+                "cites": "4",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halo: supporting spatial cognition on small screens",
+                "cites": "4",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Demonstration of Metamaterial Textures",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:prdVHNxh-e8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstrating trussFab: Fabricating sturdy large-scale structures on desktop 3D printers",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:v1_lew4L6wgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Laser cutters: a new class of 2D output devices",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:2tRrZ1ZAMYUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Virtual reality in your living room: technical perspective",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:AHdEip9mkN0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tutorial: Hot Topics in Personal Fabrication Research",
+                "cites": "3",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:u-coK7KVo8oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "My new pc is a mobile phone: techniques and technology for the new smallness",
+                "cites": "3",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population of landmarks for use with a map application",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halo: A Virtual Periphery for Small Screens Devices",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Konzepte benutzerangepa\u00dfter Auswahl von Bannerwerbung im World Wide Web am Beispiel der adaptiven Programmzeitschrift TV-Online",
+                "cites": "3",
+                "year": "1998"
+            },
+            "id_citations": "GdRdhYwAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SpringFit: Joints and Mounts that Fabricate on Any Laser Cutter",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:65Yg0jNCQDAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research for practice: technology for underserved communities; personal fabrication",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:FiytvqdAVhgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaginary reality basketball: A ball game without a ball",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:8xutWZnSdmoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Natural user interface hardware",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:dBIO0h50nwkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tv-online: An adaptive tv-program guide on the world wide web",
+                "cites": "2"
+            },
+            "id_citations": "GdRdhYwAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FormFab",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Hck25ST_3aIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DualPanto: a haptic device that enables blind users to continuously interact with virtual worlds",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:q-HalDI95KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demo hour",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ALROH1vI_8AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bootstrapper",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:UuEBAcK4md4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Lumino: Tangible building blocks based on glass fiber bundles: Invited demo",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The large-display user experience",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Xl6nMSl579sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stitching: Connecting Wireless Mobile Devices with Pen Gestures",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "GdRdhYwAAAAJ:uDGL6kOW6j0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "TV scout: guiding users from printed TV program",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Drag-and-Pop: Accelerating Drag-and-Drop on Large Screens",
+                "cites": "1",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Don\u2019t Click\u2013Paint! Applying the Painting Metaphor to Query Interfaces and Personalization",
+                "cites": "1",
+                "year": "1998"
+            },
+            "id_citations": "GdRdhYwAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable Fabric: A Flexible Representation for Task Management",
+                "cites": "1"
+            },
+            "id_citations": "GdRdhYwAAAAJ:3bvyWxjaHKcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactive metamaterials",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:LXmCCkuhhTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "System and methods for three-dimensional printing",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:j7_hQOaDUrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstrating Kyub: A 3D Editor for Modeling Sturdy Laser-Cut Objects",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:PkcyUWeTMh0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Precise selection techniques for multi-touch screens",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "GdRdhYwAAAAJ:wKETBy42zhYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Metamaterial devices",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:SjuI4pbJlxcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstrating Grafter: Remixing 3D-Printed Machines",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:XUvXOeBm_78C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The 31st Annual ACM Symposium on User Interface Software and Technology Adjunct Proceedings",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "GdRdhYwAAAAJ:jFemdcug13IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linespace",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:IaI1MmNe2tcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstrating Interactive Systems based on Electrical Muscle Stimulation",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstrating TrussFab's Editor: Designing Sturdy Large-Scale Structures",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:WHdLCjDvYFkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mobile fabrication: connect to the environment",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:PaBasH6fAo0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research for Practice: Technology for UnderservedCommunities; Personal Fabrication",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "GdRdhYwAAAAJ:7Hz3ACDFbsoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "1. Protopiper",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "GdRdhYwAAAAJ:wMgC3FpKEyYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demo hour",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:QD3KBmkZPeQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Educational Background",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "GdRdhYwAAAAJ:JTqpx9DYBaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demonstration and Applications of Fiberio: A Touchscreen That Senses Fingerprints",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:fbc8zXXH2BUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "[D74] Haptic turk: A motion platform based on people",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "GdRdhYwAAAAJ:a3BOlSfXSfwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demo hour.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:r_AWSJRzSzQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dr. rer. nat.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:An6A6Jpfc1oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demo hour.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:bKqednn6t2AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Social Media Analyses (WS2012/2013)",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the 31st Annual CHI Conference on Human Factors in Computing Systems",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:_OXeSy2IsFwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extended Abstracts of the 31st Annual CHI Conference on Human Factors in Computing Systems",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "GdRdhYwAAAAJ:GFxP56DSvIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "IPv6 Best Practices (WS2012/2013)",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PROBABILISTIC PHYSICAL GAMES: GAME MECHANICS FOR QUANTUM GAMES emilia wittmers",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Ehil0879vHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CHI Madness: Summary of other entries",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "GdRdhYwAAAAJ:uVUOdF_882EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Index of authors cited",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4fKUyHm3Qg0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving computer displayable content into a preferred user interactive focus area",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Acknowledgment to Reviewers",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Proceedings of the 3rd Ph. D. Retreat of the HPI Research School on Service-oriented Systems Engineering",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "GdRdhYwAAAAJ:OcBU2YAGkTUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wednesday CHI Madness",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:RoXSNcbkSzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Navigation & interaction",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "GdRdhYwAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Session details: Sketches: UIST/I3D/video game symposium reprise",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:6_hjMsCP8ZoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phosphor: Explaining Transitions in the User Interface",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:gKiMpY-AVTkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sketches: UIST/ I 3 D/ video game symposium reprise",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "GdRdhYwAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Application Domains for Virtual Information and Knowledge Environments-TV Scout: Lowering the Entry Barrier to Personalized TV Program Recommendation",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "LIRMM, UMR 5506 CNRS",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "GdRdhYwAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-density cursor: an improved mouse cursor that accelerates target acquisition",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "GdRdhYwAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ContextWall: A multi-user workbench for independent work, peer-to-peer interaction, and whiteboard collaboration",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editor-in-Chief's preface",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "GdRdhYwAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Chemical & Material Sciences",
+                "cites": "0",
+                "year": "1913"
+            },
+            "id_citations": "GdRdhYwAAAAJ:4xDN1ZYqzskC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Kerf-Canceling Mechanisms: Making Laser-Cut Mechanisms Operate Across Different Laser Cutters",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:aIdbFUkbNIkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Related US Applications",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:kw52XkFRtyQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "EMS-Based Actuation and Mechanical Actuation: two sides of the same coin?",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:LdasjJ6CEcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microsoft Word-02 2007-Baudisch-Siggraph07-Soap. doc",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:1lhNe0rCu4AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-Density Cursor: A Visualization Technique that Helps Users Keep Track of",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ZzlSgRqYykMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gregory Abowd, Georgia Tech",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "S. Coquillart et al.(eds.), Virtual Realities, DOI 10.1007/978-3-211-99178-7, c Springer-Verlag/Wien 2011",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Editors-in-Chief E. Motta Knowledge Media Institute, The Open University, Milton Keynes, UK E-mail address: e. motta@ open. ac. uk S. Wiedenbeck College of Information Science \u2026",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantum Games: Ball Games Without a Ball",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curve Dial: Eyes-Free Parameter Entry for GUIs",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Thanks to CG&A\u2019s Reviewers",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Curvature Dial: Eyes-Free Parameter Entry for GUIs",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time Quilt: Scaling up Zoomable Photo Browsers",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using a Painting Metaphor to Rate Large Num-bers of Objects",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How to make a gaming soap for $35 or less",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eight New Input Devices\u2014Eight New Ways to Move",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Entwicklung und Implementierung eines effizienten, hardwarenahen Antialiasing-Algorithmus",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Thanks to CG&A\u2019s Reviewers",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Matthew Chalmers Alex Chaparro Neil Charness",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Xerox PARC patrick. baudisch@ acm. org Nathan Good Xerox PARC",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Experimental Comparison of Dial, Scroll and Stroke Gesture Techniques",
+                "cites": "0"
+            },
+            "id_citations": "GdRdhYwAAAAJ:Tiz5es2fbqcC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=GdRdhYwAAAAJ"
+}

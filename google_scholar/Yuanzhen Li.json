@@ -1,0 +1,354 @@
+{
+    "affiliation": "Unknown affiliation",
+    "cites_per_year": {
+        "2003": 12,
+        "2004": 10,
+        "2005": 47,
+        "2006": 70,
+        "2007": 74,
+        "2008": 82,
+        "2009": 110,
+        "2010": 130,
+        "2011": 186,
+        "2012": 182,
+        "2013": 236,
+        "2014": 220,
+        "2015": 232,
+        "2016": 223,
+        "2017": 281,
+        "2018": 247,
+        "2019": 255,
+        "2020": 136
+    },
+    "citedby": 2759,
+    "citedby5y": 1374,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Vision Science, MIT",
+            "id": "todsDfQAAAAJ",
+            "name": "Edward H Adelson"
+        },
+        {
+            "affiliation": "Principal Research Scientist, Dept. of Brain & Cognitive Sciences, CSAIL, MIT",
+            "id": "BfE3-m0AAAAJ",
+            "name": "Ruth Rosenholtz"
+        },
+        {
+            "affiliation": "Research Scientist, Dept of Brain & Cognitive Sciences, MIT",
+            "id": "GlIyobYAAAAJ",
+            "name": "Lavanya Sharan"
+        },
+        {
+            "affiliation": "Microsoft",
+            "id": "9akH-n8AAAAJ",
+            "name": "Heung-Yeung Shum"
+        },
+        {
+            "affiliation": "Professor of Computer Science, Columbia University",
+            "id": "3pZs3j0AAAAJ",
+            "name": "Shree Nayar"
+        },
+        {
+            "affiliation": "Associate Professor, MIT Media Lab",
+            "id": "8hpOmVgAAAAJ",
+            "name": "Ramesh Raskar"
+        },
+        {
+            "affiliation": "Principal Scientist, Amazon-Lab126",
+            "id": "Q3puGtcAAAAJ",
+            "name": "Amit Agrawal"
+        },
+        {
+            "affiliation": "Microsoft Research Asia",
+            "id": "c3PYmxUAAAAJ",
+            "name": "Stephen Lin"
+        },
+        {
+            "affiliation": "Principal Researcher Manager, Microsoft Research Asia",
+            "id": "P91a-UQAAAAJ",
+            "name": "Xin Tong"
+        },
+        {
+            "affiliation": "Professor Applied Economics, Sloan School, MIT",
+            "id": "LBhbk_gAAAAJ",
+            "name": "Roberto Rigobon"
+        },
+        {
+            "affiliation": "Adobe",
+            "id": "JY-WzksAAAAJ",
+            "name": "Aseem Agarwala"
+        }
+    ],
+    "email": "@csail.mit.edu",
+    "hindex": 14,
+    "hindex5y": 11,
+    "i10index": 15,
+    "i10index5y": 12,
+    "id": "k1eaag4AAAAJ",
+    "interests": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "name": "Yuanzhen Li",
+    "publications": [
+        {
+            "bib": {
+                "title": "Measuring visual clutter",
+                "cites": "631",
+                "year": "2007"
+            },
+            "id_citations": "k1eaag4AAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature congestion: a measure of display clutter",
+                "cites": "340",
+                "year": "2005"
+            },
+            "id_citations": "k1eaag4AAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Removing photography artifacts using gradient projection and flash-exposure sampling",
+                "cites": "334",
+                "year": "2005"
+            },
+            "id_citations": "k1eaag4AAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Principal components as a measure of systemic risk",
+                "cites": "320",
+                "year": "2011"
+            },
+            "id_citations": "k1eaag4AAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Compressing and companding high dynamic range images with subband architectures",
+                "cites": "303",
+                "year": "2005"
+            },
+            "id_citations": "k1eaag4AAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diffuse-specular separation and depth recovery from image sequences",
+                "cites": "179",
+                "year": "2002"
+            },
+            "id_citations": "k1eaag4AAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Skulls, financial turbulence, and risk management",
+                "cites": "168",
+                "year": "2010"
+            },
+            "id_citations": "k1eaag4AAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image statistics for surface reflectance perception",
+                "cites": "116",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple-cue illumination estimation in textured scenes",
+                "cites": "76",
+                "year": "2003"
+            },
+            "id_citations": "k1eaag4AAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for acquiring HDR flash images",
+                "cites": "69",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ScribbleBoost: Adding Classification to Edge\u2010Aware Interpolation of Local Image and Video Adjustments",
+                "cites": "59",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method for estimating camera settings adaptively",
+                "cites": "41",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multibaseline stereo in the presence of specular reflections",
+                "cites": "36",
+                "year": "2002"
+            },
+            "id_citations": "k1eaag4AAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Do colored highlights look like highlights?",
+                "cites": "19",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Perceptually based range compression for high dynamic range images",
+                "cites": "11",
+                "year": "2005"
+            },
+            "id_citations": "k1eaag4AAAAJ:GN6RKO0oIOIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature congestion: A measure of visual clutter",
+                "cites": "9",
+                "year": "2006"
+            },
+            "id_citations": "k1eaag4AAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single-image reflectance estimation for relighting by iterative soft grouping",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "k1eaag4AAAAJ:Wut8az6viKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous separation and depth recovery of specular reflections",
+                "cites": "8",
+                "year": "2002"
+            },
+            "id_citations": "k1eaag4AAAAJ:hlYg06qyEy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image statistics for material perception",
+                "cites": "7",
+                "year": "2004"
+            },
+            "id_citations": "k1eaag4AAAAJ:axOtAORPYx0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image mapping using local and global statistics",
+                "cites": "6",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:QuTdOmWMmI4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image statistics for 3D shape estimation",
+                "cites": "5",
+                "year": "2008"
+            },
+            "id_citations": "k1eaag4AAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image statistics and reflectance estimation",
+                "cites": "5",
+                "year": "2005"
+            },
+            "id_citations": "k1eaag4AAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of color saturation and luminance contrast on color naturalness",
+                "cites": "3",
+                "year": "2009"
+            },
+            "id_citations": "k1eaag4AAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature Congestion and Subband Entropy measures of visual clutter",
+                "cites": "3",
+                "year": "2007"
+            },
+            "id_citations": "k1eaag4AAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Image statistics for surface reflectance estimation",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "k1eaag4AAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Material Perception",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "k1eaag4AAAAJ:fJljFJTiP-AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature Congestion and Subband Entropy measures of visual clutter\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "k1eaag4AAAAJ:7wO8s98CvbsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Research Abstracts-2006",
+                "cites": "0"
+            },
+            "id_citations": "k1eaag4AAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FastICA\ufeff",
+                "cites": "0"
+            },
+            "id_citations": "k1eaag4AAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=k1eaag4AAAAJ"
+}

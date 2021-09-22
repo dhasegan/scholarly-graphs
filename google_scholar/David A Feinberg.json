@@ -1,0 +1,1673 @@
+{
+    "affiliation": "Unknown affiliation",
+    "cites_per_year": {
+        "1985": 30,
+        "1986": 38,
+        "1987": 75,
+        "1988": 53,
+        "1989": 65,
+        "1990": 68,
+        "1991": 98,
+        "1992": 75,
+        "1993": 76,
+        "1994": 86,
+        "1995": 110,
+        "1996": 117,
+        "1997": 113,
+        "1998": 175,
+        "1999": 121,
+        "2000": 104,
+        "2001": 95,
+        "2002": 117,
+        "2003": 78,
+        "2004": 90,
+        "2005": 105,
+        "2006": 111,
+        "2007": 142,
+        "2008": 126,
+        "2009": 177,
+        "2010": 172,
+        "2011": 221,
+        "2012": 353,
+        "2013": 628,
+        "2014": 664,
+        "2015": 892,
+        "2016": 1040,
+        "2017": 1109,
+        "2018": 1379,
+        "2019": 1355,
+        "2020": 990
+    },
+    "citedby": 11402,
+    "citedby5y": 6770,
+    "coauthors": [],
+    "email": "@berkeley.edu",
+    "hindex": 50,
+    "hindex5y": 34,
+    "i10index": 91,
+    "i10index5y": 55,
+    "id": "uaUKPpoAAAAJ",
+    "interests": [],
+    "name": "David A Feinberg",
+    "publications": [
+        {
+            "bib": {
+                "title": "The Human Connectome Project: a data acquisition perspective",
+                "cites": "1158",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplexed echo planar imaging for sub-second whole brain FMRI and fast diffusion imaging",
+                "cites": "965",
+                "year": "2010"
+            },
+            "id_citations": "uaUKPpoAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Resting-state fMRI in the human connectome project",
+                "cites": "750",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporally-independent functional modes of spontaneous brain activity",
+                "cites": "629",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advances in diffusion MRI acquisition and processing in the Human Connectome Project",
+                "cites": "587",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:bEWYMUwI8FkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project",
+                "cites": "504",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human brain motion and cerebrospinal fluid circulation demonstrated with MR velocity imaging.",
+                "cites": "424",
+                "year": "1987"
+            },
+            "id_citations": "uaUKPpoAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GRASE (gradient\u2010and spin\u2010echo) imaging: a novel fast MRI technique",
+                "cites": "371",
+                "year": "1991"
+            },
+            "id_citations": "uaUKPpoAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-fast MRI of the human brain with simultaneous multi-slice imaging",
+                "cites": "325",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single\u2010shot 3D imaging techniques improve arterial spin labeling perfusion measurements",
+                "cites": "292",
+                "year": "2005"
+            },
+            "id_citations": "uaUKPpoAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of slice accelerations using multiband echo planar imaging at 3 T",
+                "cites": "275",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halving MR imaging time by conjugation: demonstration at 3.5 kG.",
+                "cites": "273",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inner volume MR imaging: technical concepts and their application.",
+                "cites": "239",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GRASE (gradient-and spin-echo) MR imaging: a new fast clinical imaging technique.",
+                "cites": "215",
+                "year": "1991"
+            },
+            "id_citations": "uaUKPpoAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Real\u2010time magnetic resonance imaging of laser heat deposition in tissue",
+                "cites": "206",
+                "year": "1991"
+            },
+            "id_citations": "uaUKPpoAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Layer-specific fMRI reflects different neuronal computations at different depths in human V1",
+                "cites": "138",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping the organization of axis of motion selective features in human area MT using high-field fMRI",
+                "cites": "138",
+                "year": "2011"
+            },
+            "id_citations": "uaUKPpoAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Arterial spin labeling MRI study of age and gender effects on brain perfusion hemodynamics",
+                "cites": "129",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetic resonance imaging the velocity vector components of fluid flow",
+                "cites": "129",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effects of image reconstruction on fiber orientation mapping from multichannel diffusion MRI: reducing the noise floor using SENSE",
+                "cites": "125",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase errors in multi\u2010shot echo planar imaging",
+                "cites": "125",
+                "year": "1994"
+            },
+            "id_citations": "uaUKPpoAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Continuous arterial spin labeling perfusion measurements using single shot 3D GRASE at 3 T",
+                "cites": "117",
+                "year": "2005"
+            },
+            "id_citations": "uaUKPpoAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-fast multi-section MRI using gradient and spin echo (GRASE) imaging",
+                "cites": "105",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous echo refocusing in EPI",
+                "cites": "102",
+                "year": "2002"
+            },
+            "id_citations": "uaUKPpoAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The rapid development of high speed, resolution and precision in fMRI",
+                "cites": "101",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetic resonance imaging strategies for heart studies.",
+                "cites": "99",
+                "year": "1984"
+            },
+            "id_citations": "uaUKPpoAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Echo\u2010planar imaging with asymmetric gradient modulation and inner\u2010volume excitation",
+                "cites": "98",
+                "year": "1990"
+            },
+            "id_citations": "uaUKPpoAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cerebral blood flow, blood volume, and oxygen metabolism dynamics in human visual and motor cortex as measured by whole-brain multi-modal magnetic resonance imaging",
+                "cites": "94",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measuring the effects of remifentanil on cerebral blood flow and arterial arrival time using 3D GRASE MRI with pulsed arterial spin labelling",
+                "cites": "94",
+                "year": "2008"
+            },
+            "id_citations": "uaUKPpoAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pulsatile blood velocity in human arteries displayed by magnetic resonance imaging.",
+                "cites": "92",
+                "year": "1984"
+            },
+            "id_citations": "uaUKPpoAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-fast multi-section MRI using gradient and spin echo (grase) imaging",
+                "cites": "91",
+                "year": "1993"
+            },
+            "id_citations": "uaUKPpoAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Minimizing acquisition time of arterial spin labeling at 3T",
+                "cites": "88",
+                "year": "2008"
+            },
+            "id_citations": "uaUKPpoAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of highly accelerated simultaneous multi-slice EPI for fMRI",
+                "cites": "83",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reversible, reproducible reduction of brain water apparent diffusion coefficient by cortical electroshocks",
+                "cites": "77",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hybrid ultrasound MRI for improved cardiac imaging and real\u2010time respiration control",
+                "cites": "74",
+                "year": "2010"
+            },
+            "id_citations": "uaUKPpoAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Consortium, WU",
+                "cites": "70",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Highly accelerated whole brain imaging using aligned-blipped-controlled-aliasing multiband EPI",
+                "cites": "66",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Vessel\u2010encoded dynamic magnetic resonance angiography using arterial spin labeling",
+                "cites": "64",
+                "year": "2010"
+            },
+            "id_citations": "uaUKPpoAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid brain MRI acquisition techniques at ultra\u2010high fields",
+                "cites": "63",
+                "year": "2016"
+            },
+            "id_citations": "uaUKPpoAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for NMR detection and imaging of flowing fluid nuclei",
+                "cites": "63",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional mapping of the magnocellular and parvocellular subdivisions of human LGN",
+                "cites": "61",
+                "year": "2014"
+            },
+            "id_citations": "uaUKPpoAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halving imaging time of whole brain diffusion spectrum imaging and diffusion tractography using simultaneous image refocusing in EPI",
+                "cites": "61",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vitro evaluation of platinum Guglielmi detachable coils at 3 T with a porcine model: safety issues and artifacts",
+                "cites": "60",
+                "year": "2001"
+            },
+            "id_citations": "uaUKPpoAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gradient-echo shifting in fast MRI techniques (ERASE imaging) for correction of field inhomogeneity errors and chemical shift",
+                "cites": "56",
+                "year": "1992"
+            },
+            "id_citations": "uaUKPpoAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Imaging mesial temporal lobe activation during scene encoding: comparison of fMRI using BOLD and arterial spin labeling",
+                "cites": "54",
+                "year": "2007"
+            },
+            "id_citations": "uaUKPpoAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-millimeter T2 weighted fMRI at 7 T: comparison of 3D-GRASE and 2D SE-EPI",
+                "cites": "53",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rapid magnetic resonance imaging using multiple phase encoded spin echoes in each of plural measurement cycles",
+                "cites": "52",
+                "year": "1987"
+            },
+            "id_citations": "uaUKPpoAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrasound\u2010guided MRI: Preliminary results using a motion phantom",
+                "cites": "50",
+                "year": "2004"
+            },
+            "id_citations": "uaUKPpoAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tissue perfusion in humans studied by Fourier velocity distribution, line scan, and echo\u2010planar imaging",
+                "cites": "50",
+                "year": "1990"
+            },
+            "id_citations": "uaUKPpoAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple spin-echo magnetic resonance imaging.",
+                "cites": "50",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamics of respiratory and cardiac CSF motion revealed with real-time simultaneous multi-slice EPI velocity phase contrast imaging",
+                "cites": "49",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GRASE improves spatial resolution in single shot imaging",
+                "cites": "48",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modern concepts of brain motion and cerebrospinal fluid flow.",
+                "cites": "47",
+                "year": "1992"
+            },
+            "id_citations": "uaUKPpoAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultrasound within MRI scanners for guidance of MRI pulse sequences",
+                "cites": "46",
+                "year": "2011"
+            },
+            "id_citations": "uaUKPpoAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and product for improved images in magnetic resonance imaging using multiple breatholding",
+                "cites": "45",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Localized functional principal component analysis",
+                "cites": "44",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Arterial spin labeling with simultaneous multi\u2010slice echo planar imaging",
+                "cites": "43",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Phase contrast MRI of myocardial 3D strain by encoding contiguous slices in a single shot",
+                "cites": "41",
+                "year": "2002"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Magnetic resonance imaging performance: a comparison of sodium and hydrogen.",
+                "cites": "39",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:M3ejUd6NZC8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-millimeter Single-shot 3D GRASE with Inner Volume Selection for T2 weighted fMRI applications at 7 Tesla",
+                "cites": "37",
+                "year": "2008"
+            },
+            "id_citations": "uaUKPpoAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High resolution GRASE MRI of the brain and spine: 512 and 1024 matrix imaging",
+                "cites": "35",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single\u2010shot GRASE imaging without fast gradients",
+                "cites": "32",
+                "year": "1992"
+            },
+            "id_citations": "uaUKPpoAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRI of chemical shift spectra within limited inner volume",
+                "cites": "30",
+                "year": "1987"
+            },
+            "id_citations": "uaUKPpoAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contiguous thin multisection MR imaging by two-dimensional Fourier transform techniques.",
+                "cites": "30",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous image refocusing",
+                "cites": "27",
+                "year": "2003"
+            },
+            "id_citations": "uaUKPpoAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Arterial spin labeled, segmented, interleaved 3D GRASE MRI",
+                "cites": "25",
+                "year": "2011"
+            },
+            "id_citations": "uaUKPpoAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A comparison of phase encoding ordering schemes in T2\u2010weighted GRASE imaging",
+                "cites": "25",
+                "year": "1996"
+            },
+            "id_citations": "uaUKPpoAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Changes in size and magnetic resonance signal intensity of the cerebral CSF spaces during the cardiac cycle as studied by gated, high-resolution magnetic resonance imaging",
+                "cites": "24",
+                "year": "1987"
+            },
+            "id_citations": "uaUKPpoAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiplicative increase in MRI data acquisition with multi-band RF excitation pulses in a simultaneous image refocusing pulse sequence",
+                "cites": "23",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MR technology: effect of even-echo rephasing on calculated T2 values and T2 images.",
+                "cites": "23",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increased flexibility in GRASE imaging by k space\u2010banded phase encoding",
+                "cites": "22",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dual contrast GRASE (gradient\u2010spin echo) imaging using mixed bandwidth",
+                "cites": "22",
+                "year": "1994"
+            },
+            "id_citations": "uaUKPpoAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Pushing the limits of ultra-high resolution human brain imaging with SMS-EPI demonstrated for columnar level fMRI",
+                "cites": "20",
+                "year": "2018"
+            },
+            "id_citations": "uaUKPpoAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Time varying read and phase gradients where the duration of their overlap varies or the sum of their durations is constant",
+                "cites": "20",
+                "year": "1999"
+            },
+            "id_citations": "uaUKPpoAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of new ASL 3D GRASE sequences using parallel imaging, segmented and interleaved k-space at 3T with 12-and 32-channel coils",
+                "cites": "19",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous spin\u2010echo refocusing",
+                "cites": "19",
+                "year": "2005"
+            },
+            "id_citations": "uaUKPpoAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multiple breath\u2010hold averaging (mba) method for increased snr in abdominal mri",
+                "cites": "19",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Translucent intensity projection imaging",
+                "cites": "18",
+                "year": "2006"
+            },
+            "id_citations": "uaUKPpoAAAAJ:JV2RwH3_ST0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional magnetic resonance imaging. Application to degenerative brain disease and hydrocephalus.",
+                "cites": "17",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hydrogen MR imaging of the head at 0.35 T and 0.7 T: effects of magnetic field strength.",
+                "cites": "15",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and apparatus for removing specific stimulated echoes in simultaneous image refocusing",
+                "cites": "14",
+                "year": "2005"
+            },
+            "id_citations": "uaUKPpoAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increased signal-to-noise ratio in magnetic resonance images using synthesized conjugate symmetric data",
+                "cites": "14",
+                "year": "1988"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Averaging of identically phase-encoded MR signals to reduce image degradation caused by spin-spin relaxation",
+                "cites": "13",
+                "year": "1996"
+            },
+            "id_citations": "uaUKPpoAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Thin-section definition in magnetic resonance imaging. Technical concepts and their implementation.",
+                "cites": "13",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Concept and realization of high strength gradients for the Human Connectome Project",
+                "cites": "12",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Halving imaging time of whole brain diffusion spectrum imaging (DSI) using simultaneous echo refocusing (SER) EPI",
+                "cites": "11",
+                "year": "2006"
+            },
+            "id_citations": "uaUKPpoAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Efficient visualization of cortical vascular territories and functional MRI by cycled arterial spin labeling MRI",
+                "cites": "10",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:WbkHhVStYXYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cerebral blood flow imaging with 3D GRASE ASL sequence increases SNR and shortens acquisition time",
+                "cites": "10",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:tS2w5q8j5-wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of transmit array phase relationship on local Specific Absorption Rate (SAR)",
+                "cites": "10",
+                "year": "2006"
+            },
+            "id_citations": "uaUKPpoAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grase-type MR pulse sequences",
+                "cites": "10",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single\u2010shot GRASE imaging with short effective TEs",
+                "cites": "10",
+                "year": "1996"
+            },
+            "id_citations": "uaUKPpoAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Grase-type three-dimensional MR pulse sequences",
+                "cites": "9",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of slice dithered enhanced resolution simultaneous multislice (SLIDER-SMS) for human fMRI",
+                "cites": "8",
+                "year": "2018"
+            },
+            "id_citations": "uaUKPpoAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous multislice perfusion imaging in MRI",
+                "cites": "8",
+                "year": "2016"
+            },
+            "id_citations": "uaUKPpoAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Contiguous slices in multi-slice MRI",
+                "cites": "8",
+                "year": "1988"
+            },
+            "id_citations": "uaUKPpoAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Single\u2010shot 3D GRASE with cylindrical k\u2010space trajectories",
+                "cites": "7",
+                "year": "2008"
+            },
+            "id_citations": "uaUKPpoAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous MR and ultrasound imaging: towards US-navigated MRI",
+                "cites": "7",
+                "year": "2003"
+            },
+            "id_citations": "uaUKPpoAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A new window on brain research",
+                "cites": "7",
+                "year": "1998"
+            },
+            "id_citations": "uaUKPpoAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Methodology for co\u2010registering abdominal MR images over multiple breath\u2010holds",
+                "cites": "7",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Arterial spin-labeled (asl) multiplexed echo planar imaging (m-epi)",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Segmentation analysis in functional MRI: Activation sensitivity and gray\u2010matter specificity of RARE and FLASH",
+                "cites": "6",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GRASE imaging provides image quality and speed.",
+                "cites": "6",
+                "year": "1993"
+            },
+            "id_citations": "uaUKPpoAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of MR cardiac-gated aqueductal flow velocity measurements in healthy individuals and in patients with hydrocephalus",
+                "cites": "6",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Very fast 3D perfusion measurement with high signal-to-noise ratio using single-shot 3D GRASE: Application to improve perfusion quantitation",
+                "cites": "5",
+                "year": "2004"
+            },
+            "id_citations": "uaUKPpoAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "VET imaging: magnetic resonance imaging with variable encoding time",
+                "cites": "5",
+                "year": "1997"
+            },
+            "id_citations": "uaUKPpoAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gated magnetic resonance imaging of the intracranial cerebrospinal fluid spaces.",
+                "cites": "5",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analytical techniques for post-imaging evaluation of N, R tissue contrast",
+                "cites": "5",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DETERMINATION OF VELOCITY AND PULSE PRESSURE IN PULSATILE BLOOD USING A NEW SPIN-ECHO PULSE SEQUENCE FOR NMR IMAGING-APPLICATIONS TO HUMAN HEAD AND THORAX",
+                "cites": "5",
+                "year": "1984"
+            },
+            "id_citations": "uaUKPpoAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous multi-volume GRASE imaging",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diagonal multi-slab inner volume 3D GRASE imaging for high resolution T2 weighted fMRI",
+                "cites": "4",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variation of number and duration of gradient read times during a single pulse sequence for proton density and T2-weighted images",
+                "cites": "4",
+                "year": "1996"
+            },
+            "id_citations": "uaUKPpoAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CSF flow: correlation between signal void and CSF velocity measured by gated velocity phase-encoded MR imaging",
+                "cites": "4",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of BOLD and CBV using 3D EPI and 3D GRASE for cortical layer fMRI at 7T.",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "uaUKPpoAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRI reconstruction of multi\u2010image acquisitions using a rank regularizer with data reordering",
+                "cites": "3",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:wbdj-CoPYUoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous multi-slab echo volume imaging: comparison in sub-second fMRI",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI of the magnocellular and parvocellular subdivisions of human LGN",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Improving rank constrained reconstructions using prior information with reordering",
+                "cites": "3",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence towards columnar organization of human area MT with sub-millimetric, 3D, T2 weighted BOLD FMRI at 7 Tesla",
+                "cites": "3",
+                "year": "2011"
+            },
+            "id_citations": "uaUKPpoAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Achieving late inflow delay in pseudo-CASL 3D GRASE using a hybridized labeling and background suppression scheme",
+                "cites": "3",
+                "year": "2008"
+            },
+            "id_citations": "uaUKPpoAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tissue blood perfusion measurements by two-dimensional Fourier transform velocity MR imaging",
+                "cites": "3",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:VOx2b1Wkg3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computer graphic display of cardiac CT scans",
+                "cites": "3",
+                "year": "1982"
+            },
+            "id_citations": "uaUKPpoAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-Millimeter Resolution Compressed Sensing GRASE for T2-Weighted Functional MRI at 7 Tesla",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "uaUKPpoAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluation of Point Spread Function and functional sensitivity of 3D-GRASE and 2D Spin-Echo EPI for sub-millimeter-resolution fMRI at 7 T",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "uaUKPpoAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Arterial spin labeling with simultaneous multi-slice EPI compared to EPI and 3D GRASE",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Zoomed resolution in Simultaneous Multi-Slice EPI for fMRI",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Highly accelerated epi evaluated for fmri",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "uaUKPpoAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous echo refocused (SIR) EPI with constant TE",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Engineering the Human Connectome Project: concepts and realization of high performance MR",
+                "cites": "2",
+                "year": "2012"
+            },
+            "id_citations": "uaUKPpoAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: Multiplexed Echo Planar Imaging for Sub-Second Whole Brain FMRI and Fast Diffusion Imaging",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "uaUKPpoAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3T Pseudo-continuous ASL perfusion fMRI with background-suppressed single shot 3D GRASE during memory encoding",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Background suppressed 3D perfusion measurement using arterial spin labeling and single-shot 3D-GRASE",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Physiological Measurements using single-shot 3D GRASE: Diffusion and T2* Weighting",
+                "cites": "2",
+                "year": "2003"
+            },
+            "id_citations": "uaUKPpoAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Comparison of ultrafast full-brain 3D-imaging techniques: 3D-GRASE, EVI, 3D-EPI and 3D-PRESTO",
+                "cites": "2",
+                "year": "2002"
+            },
+            "id_citations": "uaUKPpoAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detection of myocardial infarction in dogs by contrast enhanced sequential CT scans",
+                "cites": "2",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Virtual slice concept for improved simultaneous multi\u2010slice MRI employing an extended leakage constraint",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "uaUKPpoAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cine phase contrast simultaneous multi-slice and multi-slab imaging of blood flow and cerebrospinal fluid motion",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "uaUKPpoAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRI using faster multiplexed echo planar imaging (EPI) pulse sequences",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "uaUKPpoAAAAJ:08ZZubdj9fEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Variable Flip Angle 3D-GRASE for increased spatial coverage and improved point spread function in high hesolution fMRI at 7T",
+                "cites": "1",
+                "year": "2014"
+            },
+            "id_citations": "uaUKPpoAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SIR-EPI Diffusion Imaging for 3-Fold Faster Scan Time to Enable Trade-Offs in Slice Coverage and Gradient Duty Cycle Reduction",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "uaUKPpoAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MRI of chemical shift spectra within limited inner volume",
+                "cites": "1",
+                "year": "1987"
+            },
+            "id_citations": "uaUKPpoAAAAJ:1qzjygNMrQYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internal brain motion pumping of CSF using high-resolution velocity MR imaging",
+                "cites": "1",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Method and device for loops-over-loops MRI coils",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "uaUKPpoAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Highly accelerated sub\u2010millimeter resolution 3D GRASE with controlled T2 blurring in T2\u2010weighted FMRI at 7T: feasibility study",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "uaUKPpoAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous Multi-VENC and Simultaneous Multi-Slice Phase Contrast Magnetic Resonance Imaging",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "uaUKPpoAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sub-millimeter T2 weighted fMRI at 7 T: comparison of 3D-GRASE and 2D SE-EPI.",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "uaUKPpoAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstracts Fourth Biennial Conference on Resting State Brain Connectivity September 11\u201313, 2014 Boston/Cambridge, Massachusetts, USA",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "uaUKPpoAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "AGE AND GENDER RELATED ALTERATIONS IN BRAIN PERFUSION DYNAMICS",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "uaUKPpoAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Novel T2* GRASE single-shot 3D sequence for BOLD Imaging",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Whole-brain non-invasive hemodynamic imaging, enabled by a novel CBV-weighted single-shot 3D VASO-FLAIR GRASE sequence combined with CBF-weighted ASL and BOLD fMRI, identifies \u2026",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:VL0QpB8kHFEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A New Method for Selective Dynamic MRI Angiography using Arterial Spin Labeling",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing Spatial Resolution of Human fMRI with 0.25 m3 voxels using a Single-shot T2 weighted 3D GRASE sequence at 7 Tesla.",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Increasing Spatial Resolution in human CBF maps with Isotropic 1.5 mm voxels using Segmented 3D GRASE ASL with 32-channel coil at 3 Tesla.",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "uaUKPpoAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Whole-brain Protocol for Measuring Cerebral Hemodynamic Reactivity using MRI without Contrast Agents",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "uaUKPpoAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "O1\u201305\u201302: Age and Alzheimer's disease related effects on cerebral blood flow and arterial transit time of posterior cingulate cortex with serial arterial spin labeling MRI",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "uaUKPpoAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dynamic Arterial Spin Labeling Perfusion Imaging at 4T Using Parallel Imaging: Effects on Parametric Mapping",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "uaUKPpoAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GRASE Imaging",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "uaUKPpoAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gradient and Spin-Echo (GRASE) Imaging",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "uaUKPpoAAAAJ:738O_yMBCRsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MR-ANGIOGRAPHY WITH SE TAGGING AND STIMULATED ECHO-TAGGING TECHNIQUES",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SINGLE-SHOT GRASE IMAGING OF THE BRAIN-20 T2-WEIGHTED SECTIONS IN LESS-THAN 10 SECONDS",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:KxtntwgDAa4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FAST MR-IMAGING OF THE UTERUS-COMPARISON OF 4 T2-WEIGHTED SEQUENCES FOR DIAGNOSIS OF ADENOMYOSIS AND LEIOMYOMA",
+                "cites": "0",
+                "year": "1995"
+            },
+            "id_citations": "uaUKPpoAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "5254460 Solvent mediated relaxation assay system",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "uaUKPpoAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "5270654 Ultra-fast multi-section MRI using gradient and spin echo (grase) imaging",
+                "cites": "0",
+                "year": "1994"
+            },
+            "id_citations": "uaUKPpoAAAAJ:tOudhMTPpwUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GRASE technique provides image quality and speed",
+                "cites": "0",
+                "year": "1993"
+            },
+            "id_citations": "uaUKPpoAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cerebral Vessels",
+                "cites": "0",
+                "year": "1992"
+            },
+            "id_citations": "uaUKPpoAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "4684891 Rapid magnetic resonance imaging using multiple phase encoded spin echoes in each of plural measurement cycles",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "uaUKPpoAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "4698592 MRI of chemical shift spectra within limited inner volume",
+                "cites": "0",
+                "year": "1988"
+            },
+            "id_citations": "uaUKPpoAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "145 High Resolution and Dynamic MR Imaging of the Larynx",
+                "cites": "0",
+                "year": "1986"
+            },
+            "id_citations": "uaUKPpoAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "177 Comparison of Acquired and Synthesized Multiple Spin Echo Magnetic Resonance Images",
+                "cites": "0",
+                "year": "1985"
+            },
+            "id_citations": "uaUKPpoAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "141. MAGNETIC RESONANCE PHASE IMAGING OF BLOOD VELOCITY IN THE HUMAN VASCULAR SYSTEM",
+                "cites": "0",
+                "year": "1984"
+            },
+            "id_citations": "uaUKPpoAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Quantitative Computer Graphic Displays Of Cardiac Ct Scans",
+                "cites": "0",
+                "year": "1982"
+            },
+            "id_citations": "uaUKPpoAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous Multi-VENC and Multi-Slice (SMVMS) Phase Contrast Imaging Using Dual Steady-State Sequence",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sorted by: Name Name",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Blood-volume imaging using GRASE-VASO at ultra-high field for layer specific fMRI in human brain",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sorted by: Name Name",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accelerated DWI Using Simultaneous Image refocused EPI Optimized for Clinical Imaging",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:dQ2og3OwTAUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous Echo Refocusing EPI (SER-EPI) using Spin Echoes",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE HUMAN CONNECTOME PROJECT: ADVANCES IN DIFFUSION MRI ACQUISITION AND PREPROCESSING",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "FMRI ACQUISITION STRATAGIES",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Tracking blood oxygenation within the cerebral vasculature with pulsed ASL using single-shot 3D GRASE",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:kRWSkSYxWN8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Renal 3D Diffusion Tensor Imaging in a single Breath-hold using single shot 3D GRASE",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using 3D GRASE-ASL to measure Hypercapnic changes in Cerebral Blood Flow and Arterial Arrival Time",
+                "cites": "0"
+            },
+            "id_citations": "uaUKPpoAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=uaUKPpoAAAAJ"
+}

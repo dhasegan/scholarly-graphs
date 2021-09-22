@@ -1,0 +1,1876 @@
+{
+    "affiliation": "Stanford University",
+    "cites_per_year": {
+        "2001": 163,
+        "2002": 162,
+        "2003": 184,
+        "2004": 216,
+        "2005": 369,
+        "2006": 457,
+        "2007": 646,
+        "2008": 782,
+        "2009": 880,
+        "2010": 903,
+        "2011": 994,
+        "2012": 943,
+        "2013": 1104,
+        "2014": 1037,
+        "2015": 1096,
+        "2016": 1228,
+        "2017": 1254,
+        "2018": 1332,
+        "2019": 1401,
+        "2020": 1052
+    },
+    "citedby": 16399,
+    "citedby5y": 7378,
+    "coauthors": [
+        {
+            "affiliation": "Stanford University",
+            "id": "eGBx87EAAAAJ",
+            "name": "nathan witthoft"
+        }
+    ],
+    "email": "@stanford.edu",
+    "hindex": 46,
+    "hindex5y": 41,
+    "i10index": 72,
+    "i10index5y": 65,
+    "id": "ABM0fgcAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Vision",
+        "Computer Science",
+        "Development"
+    ],
+    "name": "Kalanit Grill-Spector",
+    "publications": [
+        {
+            "bib": {
+                "title": "Repetition and the brain: neural models of stimulus-specific effects",
+                "cites": "2241",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential processing of objects under various viewing conditions in the human lateral occipital complex",
+                "cites": "1254",
+                "year": "1999"
+            },
+            "id_citations": "ABM0fgcAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The lateral occipital complex and its role in object recognition",
+                "cites": "1251",
+                "year": "2001"
+            },
+            "id_citations": "ABM0fgcAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMR-adaptation: a tool for studying the functional properties of human cortical neurons",
+                "cites": "1085",
+                "year": "2001"
+            },
+            "id_citations": "ABM0fgcAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The human visual cortex",
+                "cites": "1051",
+                "year": "2004"
+            },
+            "id_citations": "ABM0fgcAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The fusiform face area subserves face perception, not generic within-category identification",
+                "cites": "1045",
+                "year": "2004"
+            },
+            "id_citations": "ABM0fgcAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamics of object-selective activation correlate with recognition performance in humans",
+                "cites": "610",
+                "year": "2000"
+            },
+            "id_citations": "ABM0fgcAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The neural basis of object perception",
+                "cites": "605",
+                "year": "2003"
+            },
+            "id_citations": "ABM0fgcAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual recognition: As soon as you know it is there, you know what it is",
+                "cites": "594",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A sequence of object\u2010processing stages revealed by fMRI in the human occipital lobe",
+                "cites": "563",
+                "year": "1998"
+            },
+            "id_citations": "ABM0fgcAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cue-invariant activation in object-related areas of the human occipital lobe",
+                "cites": "453",
+                "year": "1998"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional architecture of the ventral temporal cortex and its role in categorization",
+                "cites": "450",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:UxriW0iASnsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential development of high-level visual cortex correlates with category-specific recognition memory",
+                "cites": "443",
+                "year": "2007"
+            },
+            "id_citations": "ABM0fgcAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution imaging reveals highly selective nonface clusters in the fusiform face area",
+                "cites": "304",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electrical stimulation of human fusiform face-selective regions distorts face perception",
+                "cites": "266",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sparsely-distributed organization of face and limb activations in human ventral temporal cortex",
+                "cites": "245",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Toward direct visualization of the internal shape representation space by fMRI",
+                "cites": "215",
+                "year": "1998"
+            },
+            "id_citations": "ABM0fgcAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Global similarity and pattern separation in the human medial temporal lobe predict subsequent memory",
+                "cites": "167",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating retinotopic and object-selective responses in human lateral occipital cortex",
+                "cites": "163",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Autism and the development of face processing",
+                "cites": "160",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The mid-fusiform sulcus: a landmark identifying both cytoarchitectonic and functional divisions of human ventral temporal cortex",
+                "cites": "151",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential development of the ventral visual cortex extends through adolescence",
+                "cites": "151",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural representations of faces and limbs neighbor in human high-level visual cortex: evidence for a new organization principle",
+                "cites": "144",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object-selective cortex exhibits performance-independent repetition suppression",
+                "cites": "141",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental neuroimaging of the human ventral visual cortex",
+                "cites": "137",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functionally defined white matter reveals segregated pathways in human ventral temporal cortex associated with category-specific processing",
+                "cites": "132",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electrical stimulation of the left and right human fusiform gyrus causes different effects in conscious face perception",
+                "cites": "129",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Not one extrastriate body area: using anatomical landmarks, hMT+, and visual field maps to parcellate limb-selective activations in human lateral occipitotemporal cortex",
+                "cites": "129",
+                "year": "2011"
+            },
+            "id_citations": "ABM0fgcAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attention reduces spatial uncertainty in human ventral temporal cortex",
+                "cites": "126",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The improbable simplicity of the fusiform face area",
+                "cites": "111",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI-adaptation and category selectivity in human ventral temporal cortex: regional differences across time scales",
+                "cites": "104",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of shapes, edges, and surfaces across multiple cues in the human visual cortex",
+                "cites": "102",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Microstructural proliferation in human cortex is coupled with the development of face processing",
+                "cites": "94",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:eq2jaN3J8jMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional neuroanatomy of human face perception",
+                "cites": "79",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The fusiform face area is enlarged in Williams syndrome",
+                "cites": "78",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Two new cytoarchitectonic areas on the human mid-fusiform gyrus",
+                "cites": "71",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corresponding ECoG and fMRI category-selective signals in human ventral temporal cortex",
+                "cites": "70",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:fQNAKQ3IYiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal processing capacity in high-level visual cortex is domain specific",
+                "cites": "65",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The cytoarchitecture of domain-specific regions in human high-level visual cortex",
+                "cites": "62",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:9vf0nzSNQJEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The representation of object viewpoint in human visual cortex",
+                "cites": "60",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI adaptation: a tool for studying visual representations in the primate brain",
+                "cites": "60",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Selectivity of adaptation in single units: implications for FMRI experiments",
+                "cites": "58",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Apparent thinning of human visual cortex during childhood is associated with myelination",
+                "cites": "54",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development differentially sculpts receptive fields across early and high-level human visual cortex",
+                "cites": "50",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Where is human V4? Predicting the location of hV4 and VO1 from cortical folding",
+                "cites": "50",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:70eg2SAEIzsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "White matter microstructure on diffusion tensor imaging is associated with conventional magnetic resonance imaging findings and cognitive function in adolescents born preterm",
+                "cites": "48",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experience shapes the development of neural substrates of face processing in human ventral temporal cortex",
+                "cites": "46",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:J-pR_7NvFogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fine-scale spatial organization of face and object selectivity in the temporal lobe: do functional magnetic resonance imaging, optical imaging, and electrophysiology agree?",
+                "cites": "46",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object recognition: Insights from advances in fMRI methods",
+                "cites": "46",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional organization of the ventral visual pathway and its relationship to object recognition",
+                "cites": "41",
+                "year": "2003"
+            },
+            "id_citations": "ABM0fgcAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cross-validated cytoarchitectonic atlas of the human ventral visual stream",
+                "cites": "38",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:LjlpjdlvIbIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task alters category representations in prefrontal but not high-level visual cortex",
+                "cites": "37",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of neural sensitivity to face identity correlates with perceptual discriminability",
+                "cites": "37",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:PELIpwtuRlgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face\u2010likeness and image variability drive responses in human face\u2010selective ventral regions",
+                "cites": "37",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Defining the most probable location of the parahippocampal place area using cortex-based alignment and cross-validation",
+                "cites": "32",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Encoding model of temporal processing in human visual cortex",
+                "cites": "31",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional neuroanatomy of face perception: from brain measurements to deep neural networks",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:35r97b3x0nAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The face-processing network is resilient to focal resection of human visual cortex",
+                "cites": "25",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The evolution of face processing networks",
+                "cites": "25",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:5Ul4iDaHHb8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Extensive childhood experience with Pok\u00e9mon suggests eccentricity drives organization of visual cortex",
+                "cites": "20",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic versus perceptual priming in fusiform cortex",
+                "cites": "19",
+                "year": "2001"
+            },
+            "id_citations": "ABM0fgcAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A preference for mathematical processing outweighs the selectivity for Arabic numbers in the inferior temporal gyrus",
+                "cites": "18",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:evX43VCCuoAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural adaptation to faces reveals racial outgroup homogeneity effects in early perception",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "What has fMRI taught us about object recognition",
+                "cites": "14",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying distributed object representations in human extrastriate visual cortex",
+                "cites": "14",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On object selectivity and the anatomy of the human fusiform gyrus",
+                "cites": "13",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum: high-resolution imaging reveals highly selective nonface clusters in the fusiform face area",
+                "cites": "13",
+                "year": "2007"
+            },
+            "id_citations": "ABM0fgcAAAAJ:MLfJN-KU85MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual priming",
+                "cites": "12",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:kzcrU_BdoSEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning to read increases the informativeness of distributed ventral temporal responses",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced spatial integration in the ventral visual cortex underlies face recognition deficits in developmental prosopagnosia",
+                "cites": "11",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature saliency and feedback information interactively impact visual category learning",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:sSrBHYA8nusC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of parts and canonical face configuration in the amygdala, superior temporal sulcus (STS) and the fusiform \u201cface area\u201d(FFA)",
+                "cites": "11",
+                "year": "2004"
+            },
+            "id_citations": "ABM0fgcAAAAJ:aqlVkmm33-oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The interplay between feature-saliency and feedback information in visual category learning tasks",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal information during unsupervised learning enhances viewpoint invariant object recognition",
+                "cites": "8",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Occipital lobe",
+                "cites": "8",
+                "year": "2003"
+            },
+            "id_citations": "ABM0fgcAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Deos the bairn not raed ervey lteter by istlef, but the wrod as a wlohe?",
+                "cites": "7",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of learning strategy versus inherent architecture properties on the ability of convolutional neural networks to develop transformation invariance",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning the 3-D structure of objects from 2-D views depends on shape, not format",
+                "cites": "5",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Common cortical mechanisms for different components of visual object recognition: a combined behavioral and fMRI study",
+                "cites": "5",
+                "year": "2001"
+            },
+            "id_citations": "ABM0fgcAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-high-resolution fMRI of human ventral temporal cortex reveals differential representation of categories and domains",
+                "cites": "4",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:k8Z6L05lTy4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential sustained and transient temporal processing across visual streams",
+                "cites": "4",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:j8SEvjWlNXcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Data on a cytoarchitectonic brain atlas: effects of brain template and a comparison to a multimodal atlas",
+                "cites": "4",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ZuybSZzF8UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchrony upon repetition: One or multiple neural mechanisms?",
+                "cites": "4",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population receptive field measurements in human ventral category-selective cortex",
+                "cites": "4",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sensitivity to face format and distinctiveness in face-selective cortex",
+                "cites": "4",
+                "year": "2007"
+            },
+            "id_citations": "ABM0fgcAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Convergence of visual cues in the human lateral occipital complex (LO)",
+                "cites": "4",
+                "year": "1997"
+            },
+            "id_citations": "ABM0fgcAAAAJ:IWHjjKOFINEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "X-chromosome insufficiency alters receptive fields across the human early visual cortex",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of population receptive fields in the lateral visual stream improves spatial coding amid stable structural-functional coupling",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ipzZ9siozwsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The functional neuroanatomy of face processing: insights from neuroimaging and implications for deep learning",
+                "cites": "3",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Electrocorticography of category-selectivity in human ventral temporal cortex: spatial organization, responses to single images, and coupling with fMRI",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representation of objects",
+                "cites": "3",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:xtRiw3GOFMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linear Aspects of the BOLD Response in Object Related Visual Areas: An MRI study",
+                "cites": "3",
+                "year": "1999"
+            },
+            "id_citations": "ABM0fgcAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separate lanes for adding and reading in the white matter highways of the human brain",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Novel childhood experience suggests eccentricity drives organization of human visual cortex",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:VLnqNzywnoUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural discriminability for face identity improves from childhood to adulthood",
+                "cites": "2",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:BrmTIyaxlBUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential rate of temporal processing across category-selective regions in human high-level visual cortex",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual field coverage of category-selective regions in human visual cortex estimated using population receptive field mapping",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of right inferior longitudinal fasciculus correlates specifically with face perception",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psychophysical and neural investigations of congenital prosopagnosia",
+                "cites": "2",
+                "year": "2011"
+            },
+            "id_citations": "ABM0fgcAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "View sensitivity of object representations in human object-selective visual cortex",
+                "cites": "2",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combined neural tuning in human ventral temporal cortex resolves the perceptual ambiguity of morphed 2-D images",
+                "cites": "1",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:kz9GbA2Ns4gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On the Persistence of Clustering Solutions and True Number of Clusters in a Dataset",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diverse temporal dynamics of repetition suppression revealed by intracranial recordings in human ventral temporal cortex",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Gray Matter Thinning in Ventral Temporal Cortex from Childhood to Adulthood is Associated with Increased Myelination",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:9Nmd_mFXekcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Training a deep convolutional neural network with multiple face sizes and positions, but not resolutions, is necessary for generating invariant face recognition across these \u2026",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:uLbwQdceFCQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential representation of category and task information across high level visual cortex and ventro-lateral prefrontal cortex",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Macromolecular proliferation in human high-level visual cortex constrains development of function and behavior",
+                "cites": "1",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Abstracts of Presentations at the International Conference on Basic and Clinical Multimodal Imaging (BaCI), a Joint Conference of the International Society for Neuroimaging in \u2026",
+                "cites": "1",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Anatomy, retinotopy, & category selectivity in human ventral visual cortex",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:35N4QoGY0k4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for an own-age-bias to face stimuli in the distributed responses of fusiform gyrus",
+                "cites": "1",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stimulus-dependent position sensitivity in human ventral temporal cortex",
+                "cites": "1",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exemplar frequency affects unsupervised learning of shapes",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population Receptive Fields: Optimizing stimuli for mapping different cortical regions",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stronger face-selective responses to typical versus distinctive faces when stimulus variability is controlled",
+                "cites": "1",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution imaging reveals highly selective nonface clusters in the fusiform face area (vol 9, pg 1177, 2006)",
+                "cites": "1",
+                "year": "2007"
+            },
+            "id_citations": "ABM0fgcAAAAJ:gsN89kCJA0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for maturation of the fusiform face area (FFA) in 7 to 16 year old children",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:mB3voiENLucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mixture of view-invariant and view-dependent representations in human object-selective cortex",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using multiple functional criteria to define high-level human visual areas in the lateral occipital and temporal lobes.",
+                "cites": "1",
+                "year": "2004"
+            },
+            "id_citations": "ABM0fgcAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parameters that affect adaptation in the human visual system",
+                "cites": "1",
+                "year": "2003"
+            },
+            "id_citations": "ABM0fgcAAAAJ:bFI3QPDXJZMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Holistic versus part-based representation in the human brain.",
+                "cites": "1",
+                "year": "1999"
+            },
+            "id_citations": "ABM0fgcAAAAJ:HDshCWvjkbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Validation and generalization of pixel-wise relevance in convolutional neural networks trained for face classification",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical recycling in high-level visual cortex during childhood development",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic functional parcellation of human occipito-temporal cortex",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:-FonjvnnhkoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential spatial processing in ventral and lateral face-selective regions is scaffolded by structural connections",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Sulcal depth in medial ventral temporal cortex predicts the location of a place-selective region in macaques, children, and adults.",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "ABM0fgcAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Human visual cortex as a window into the developing brain",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How learning to read affects the function and structure of ventral temporal cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential white matter connections to ventral and lateral occipito-temporal face-selective regions underlie differences in visual field coverage",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Population receptive field measurements of stimulus-driven effects in face-selective areas",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:g3aElNc5_aQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ultra-high-resolution fMRI reveals differential representation of categories and domains across lateral and medial ventral temporal cortex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ILKRHgRFtOwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "User Alerts",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "ABM0fgcAAAAJ:hMsQuOkrut0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prefrontal and category-selective ventro-temporal regions exhibit differential interactions between stimulus visibility and task",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:yB1At4FlUx8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A preference for mathematical tasks outweighs the selectivity for Arabic numbers in the inferior temporal gyrus",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential responses across body-and face-selective cortex predict visual categorization behavior",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:XD-gHx7UXLsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Eccentricity drives developmental organization of human high-level visual cortex",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:t7zJ5fGR-2UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling neural tuning in human ventral temporal cortex predicts the perception of visual ambiguity",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Separate lanes for math and reading in the white matter highways of the human brain",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "ABM0fgcAAAAJ:z_wVstp3MssC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development differentially sculpts population receptive fields across human visual cortex",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_Ybze24A_UAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of neural sensitivity to face identity correlates with perceptual discriminability",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "ABM0fgcAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic Atlas of Category-Selective Regions of Ventral Temporal Cortex",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Macroanatomical alignment improves the intersubject consistency of cytoarchitectonic regions in the human ventral stream",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the special issue on functional selectivity in perceptual and cognitive systems\u2013a tribute to Shlomo Bentin (1946\u20132012)",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "ABM0fgcAAAAJ:bnK-pcrLprsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task modulates category selectivity along a gradient from occipitotemporal cortex to prefrontal cortex in word-and face-selective regions",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning invariant object representations: asymmetric transfer of learning across line drawings and 3D cues",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:D_sINldO8mEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Near-perfect prediction of reaction time for face gender judgments based on activity in ventral temporal cortex",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:eJXPG6dFmWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatiotemporal information during unsupervised learning enhances viewpoint",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "ABM0fgcAAAAJ:hkOj_22Ku90C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Functional Architecture of Human Ventral Temporal Cortex and Its Role in Visual Perception",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functionally-defined white matter selectively predicts face-and place-processing performance",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Removing the right inferior occipital gyrus does not disrupt face-selective responses in human ventral temporal cortex: Evidence against a strict hierarchical model of face \u2026",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:OU6Ihb5iCvQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Viewpoint invariant object recognition: Spatiotemporal information during unsupervised learning enhances generalization",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:uWQEDVKXjbEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatial receptive fields persist at the latest stages of the human ventral visual stream",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "ABM0fgcAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal information is not necessary for generating view-point invariant object recognition during unsupervised learning: 15: 50-16: 10",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "141 How Context Influences the Physiology of Perception: The Sub-Second Dynamics of Repetition Suppression in Inferior Temporal Cortex",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Spatio-temporal information is not necessary for generating view-point invariant object recognition during unsupervised learning",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Show Me the Features: Regular Viewing Patterns During Encoding and Recognition of Faces, Objects, and Places.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-resolution fMRI reveals cortical tiling of face and limb selectivity in human high-level visual cortex",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: Parvizi et al., Electrical Stimulation of Human Fusiform Face-Selective Regions Distorts Face Perception",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\" Electrical stimulation of human fusiform face-selective regions distorts face perception\": Erratum.",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "THE FUSIFORM GYRUS REPRESENTS THE AGE OF FACES",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "ABM0fgcAAAAJ:hMod-77fHWUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Neural Correlates of Feedback Information Processing in Visual Category Learning Tasks",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Investigating the relationship between visual object category selectivity measured with functional neuroimaging and electrocorticography in the human ventral temporal cortex",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Re-thinking the functional organization of human visual cortex",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Parametric face-to-hand transformations reveal shape-tuned representations in human high-level visual cortex.",
+                "cites": "0",
+                "year": "2012"
+            },
+            "id_citations": "ABM0fgcAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Face-likeness and variability drive responses in human face-selective regions",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "ABM0fgcAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visual category learning can be accomplished either under ambiguous supervision or low feature saliency, but not under both challenges",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "ABM0fgcAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI-Adaptation in Human Ventral Temporal Cortex: Regional Differences Across Time Scales",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "ABM0fgcAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Discrimination training builds position tolerant object representations",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:NhqRSupF_l8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "14 Advancements in fMRI Methods: What Can They Inform about the Functional Organization of the Human Ventral Stream?",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "ABM0fgcAAAAJ:lSLTfruPkqcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI-Adaptation and category selectivity in human ventral temporal cortex: Evidence for the scaling and sharpening models",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential development of the human ventral stream.",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exemplar Frequency Affects Unsupervised Learning of Shapes",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evidence for Development of Face-selective and Place-selective Cortex During Adolescence",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High resolution fMRI of the human ventral stream: Reproducible sparse-distributed representations of faces and limbs",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "ABM0fgcAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reliability of object-and face-selective activations measured with high-resolution fMRI",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:abG-DnoFyZgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Repetition suppression and category selectivity in the human ventral stream: fMRI evidence for the scaling model",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:HoB7MX3m0LUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retinal position and object category effects in human lateral occipital cortex",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "ABM0fgcAAAAJ:vV6vV6tmYwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The role of local feature processing in face and car detection",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "ABM0fgcAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differential processing of salient regions, contours and shape in the human LOC",
+                "cites": "0",
+                "year": "2007"
+            },
+            "id_citations": "ABM0fgcAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Corrigendum:\" High-resolution imaging reveals highly selective nonface clusters in the fusiform face area.\"",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:kuK5TVdYjLIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Behavioral sensitivity to novel object features can be modulated by high-level knowledge of function",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Sciences",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:NaGl4SEjCO4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "fMRI-adaptation: a method to characterize the nature of neural representations",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "ABM0fgcAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal dynamics of object-repetition effects in the human visual cortex",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object and shape processing in the human lateral occipital complex",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The influence of holistic information on face detection",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "ABM0fgcAAAAJ:RGFaLdJalmkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Category-specific versus item-specific repetition effects in visual object processing",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "ABM0fgcAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Task dependent modulation of size-sensitivity across human visual cortex",
+                "cites": "0",
+                "year": "2004"
+            },
+            "id_citations": "ABM0fgcAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The fusiform face area is significantly correlated with successful detection andidentification of faces but not objects",
+                "cites": "0",
+                "year": "2003"
+            },
+            "id_citations": "ABM0fgcAAAAJ:k_IJM867U9cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mapping representations of individual object pictures in the human brain",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "ABM0fgcAAAAJ:3s1wT3WcHBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Dept. of Computer Science and Neurobiology",
+                "cites": "0",
+                "year": "1999"
+            },
+            "id_citations": "ABM0fgcAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Attentional modulation of activation in object related areas of human visual cortex",
+                "cites": "0",
+                "year": "1998"
+            },
+            "id_citations": "ABM0fgcAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "November 11, 1997",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "ABM0fgcAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional MRI Study of Object Related Activity in the Human Occipital Lobe.",
+                "cites": "0",
+                "year": "1997"
+            },
+            "id_citations": "ABM0fgcAAAAJ:M05iB0D1s5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchy of visual object-processing stages revealed in human occipital lobe: an FMRI study",
+                "cites": "0",
+                "year": "1996"
+            },
+            "id_citations": "ABM0fgcAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Diverse temporal dynamics of repetition suppression revealed by intracranial recordings in human ventral temporal cortex",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3.12 Visual Priming",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Fusiform Face Area subserves face detection and face identification, not generic within-category identification",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3.12 a0005 Visual Priming",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Special Issue Functional Selectivity in Perceptual and Cognitive Systems-A Tribute to Shlomo Bentin (1946-2012) Guest Editors Kalanit Grill-Spector, Leon Deouell, Rafael Malach \u2026",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:ZfRJV9d4-WMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Broadly tuned face and hand representations in human high-level visual cortex.",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:tKAzc9rXhukC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Keynote Lecture: fMRI-Adaptation in Human Ventral Temporal Cortex: Regional Differences Across Time Scale",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Introduction to the Special Issue on Functional Selectivity",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Number of pages: 31 Number of figures: 3",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:4OULZ7Gr8RgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Object Recognition Kalanit Grill-Spector and Rory Sayres Object Recognition Insights From Advances in fMRI Methods",
+                "cites": "0"
+            },
+            "id_citations": "ABM0fgcAAAAJ:RYcK_YlVTxYC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=ABM0fgcAAAAJ"
+}

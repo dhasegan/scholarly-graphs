@@ -1,0 +1,759 @@
+{
+    "affiliation": "Professor, Neurology and Psychiatry, David Geffen School of Medicine, UCLA",
+    "cites_per_year": {
+        "1999": 14,
+        "2000": 18,
+        "2001": 28,
+        "2002": 34,
+        "2003": 28,
+        "2004": 37,
+        "2005": 23,
+        "2006": 25,
+        "2007": 35,
+        "2008": 23,
+        "2009": 38,
+        "2010": 79,
+        "2011": 76,
+        "2012": 125,
+        "2013": 189,
+        "2014": 291,
+        "2015": 383,
+        "2016": 575,
+        "2017": 625,
+        "2018": 725,
+        "2019": 824,
+        "2020": 709
+    },
+    "citedby": 4979,
+    "citedby5y": 3856,
+    "coauthors": [],
+    "email": "@mednet.ucla.edu",
+    "hindex": 30,
+    "hindex5y": 28,
+    "i10index": 44,
+    "i10index5y": 39,
+    "id": "H-e-YNUAAAAJ",
+    "interests": [
+        "Neuroscience",
+        "Autism",
+        "Cortical Network Dynamics"
+    ],
+    "name": "Peyman Golshani",
+    "publications": [
+        {
+            "bib": {
+                "title": "Absence of CNTNAP2 leads to epilepsy, neuronal migration abnormalities, and core autism-related deficits",
+                "cites": "698",
+                "year": "2011"
+            },
+            "id_citations": "H-e-YNUAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cellular mechanisms of brain state\u2013dependent gain modulation in visual cortex",
+                "cites": "440",
+                "year": "2013"
+            },
+            "id_citations": "H-e-YNUAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A shared neural ensemble links distinct contextual memories encoded close in time",
+                "cites": "377",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:uPCvBZYD9qUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Ca 2+ signaling in astrocytes from Ip3r2\u2212/\u2212 mice in brain slices and during startle responses in vivo",
+                "cites": "254",
+                "year": "2015"
+            },
+            "id_citations": "H-e-YNUAAAAJ:YGhAHpnIhDoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Simultaneous two-photon calcium imaging at different depths with spatiotemporal multiplexing",
+                "cites": "232",
+                "year": "2011"
+            },
+            "id_citations": "H-e-YNUAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differences in quantal amplitude reflect GluR4-subunit number at corticothalamic synapses on two populations of thalamic neurons",
+                "cites": "232",
+                "year": "2001"
+            },
+            "id_citations": "H-e-YNUAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Direct reactivation of a coherent neocortical memory of context",
+                "cites": "212",
+                "year": "2014"
+            },
+            "id_citations": "H-e-YNUAAAAJ:cOfwuRB03ygC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exogenous and evoked oxytocin restores social behavior in the Cntnap2 mouse model of autism",
+                "cites": "205",
+                "year": "2015"
+            },
+            "id_citations": "H-e-YNUAAAAJ:I-2NeQpV75MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Circuit level defects in the developing neocortex of Fragile X mice",
+                "cites": "200",
+                "year": "2013"
+            },
+            "id_citations": "H-e-YNUAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Internally mediated developmental desynchronization of neocortical network activity",
+                "cites": "192",
+                "year": "2009"
+            },
+            "id_citations": "H-e-YNUAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Frequency-invariant temporal ordering of interneuronal discharges during hippocampal oscillations in awake mice",
+                "cites": "188",
+                "year": "2012"
+            },
+            "id_citations": "H-e-YNUAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DNA hypomethylation restricted to the murine forebrain induces cortical degeneration and impairs postnatal neuronal maturation",
+                "cites": "157",
+                "year": "2009"
+            },
+            "id_citations": "H-e-YNUAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Drosophila model of ALS: human ALS-associated mutation in VAP33A suggests a dominant negative mechanism",
+                "cites": "120",
+                "year": "2008"
+            },
+            "id_citations": "H-e-YNUAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Self-organized cerebral organoids with human-specific features predict effective drugs to combat Zika virus infection",
+                "cites": "115",
+                "year": "2017"
+            },
+            "id_citations": "H-e-YNUAAAAJ:kvJssbFybhEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "New transgenic mouse lines for selectively targeting astrocytes and studying calcium signals in astrocyte processes in situ and in vivo",
+                "cites": "103",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:QtA78RmWg5MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Fast volumetric calcium imaging across multiple cortical layers using sculpted light",
+                "cites": "103",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:g30IDTdgJMgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Progression of change in NMDA, non-NMDA, and metabotropic glutamate receptor function at the developing corticothalamic synapse",
+                "cites": "99",
+                "year": "1998"
+            },
+            "id_citations": "H-e-YNUAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Functional fission of parvalbumin interneuron classes during fast network events",
+                "cites": "96",
+                "year": "2014"
+            },
+            "id_citations": "H-e-YNUAAAAJ:1wZ_wKGpLuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Associative fear learning enhances sparse network coding in primary sensory cortex",
+                "cites": "85",
+                "year": "2012"
+            },
+            "id_citations": "H-e-YNUAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conditional Dnmt1 deletion in dorsal forebrain disrupts development of somatosensory barrel cortex and thalamocortical long-term potentiation",
+                "cites": "74",
+                "year": "2005"
+            },
+            "id_citations": "H-e-YNUAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CREB regulates memory allocation in the insular cortex",
+                "cites": "63",
+                "year": "2014"
+            },
+            "id_citations": "H-e-YNUAAAAJ:KIRwYnRZzWQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reducing astrocyte calcium signaling in vivo alters striatal microcircuits and causes repetitive behavior",
+                "cites": "55",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:I2jIoRS3jIgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The autism related protein contactin-associated protein-like 2 (CNTNAP2) stabilizes new spines: an in vivo mouse study",
+                "cites": "54",
+                "year": "2015"
+            },
+            "id_citations": "H-e-YNUAAAAJ:cww_0JKUTDwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "High-speed volumetric imaging of neuronal activity in freely moving rodents",
+                "cites": "52",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:jq04SsiGh3QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Synchronized paroxysmal activity in the developing thalamocortical network mediated by corticothalamic projections and \u201csilent\u201d synapses",
+                "cites": "46",
+                "year": "1999"
+            },
+            "id_citations": "H-e-YNUAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PTEN: a master regulator of neuronal structure, function, and plasticity",
+                "cites": "42",
+                "year": "2014"
+            },
+            "id_citations": "H-e-YNUAAAAJ:-38epGy1wY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Developmental expression of GABAA receptor subunit and GAD genes in mouse somatosensory barrel cortex",
+                "cites": "42",
+                "year": "1997"
+            },
+            "id_citations": "H-e-YNUAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Temporal correlations among functionally specialized striatal neural ensembles in reward-conditioned mice",
+                "cites": "40",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:jKT558fuBk8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "In vivo 2-photon calcium imaging in layer 2/3 of mice",
+                "cites": "40",
+                "year": "2008"
+            },
+            "id_citations": "H-e-YNUAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A quantitative electrophysiological biomarker of duplication 15q11. 2-q13. 1 syndrome",
+                "cites": "33",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:37Fl7vPTsUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlated neural activity and encoding of behavior across brains of socially interacting animals",
+                "cites": "30",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:mJbmKSuM8toC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "All the light that we can see: a new era in miniaturized microscopy",
+                "cites": "28",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:QeguYG95ZbAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Differentiation of corticothalamic and collateral thalamocortical synapses on mouse reticular nucleus neurons by EPSC amplitude and AMPA receptor subunit composition",
+                "cites": "27",
+                "year": "2001"
+            },
+            "id_citations": "H-e-YNUAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WONOEP appraisal: optogenetic tools to suppress seizures and explore the mechanisms of epileptogenesis",
+                "cites": "24",
+                "year": "2014"
+            },
+            "id_citations": "H-e-YNUAAAAJ:GUYAmugLYisC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Visually evoked 3\u20135 Hz membrane potential oscillations reduce the responsiveness of visual cortex neurons in awake behaving mice",
+                "cites": "22",
+                "year": "2017"
+            },
+            "id_citations": "H-e-YNUAAAAJ:5F1dSjz1ScoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Breakdown of spatial coding and interneuron synchronization in epileptic mice",
+                "cites": "20",
+                "year": "2020"
+            },
+            "id_citations": "H-e-YNUAAAAJ:gkldIfsazJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GABAB-Receptor-Mediated Inhibition in Developing Mouse Ventral Posterior Thalamic Nucleus",
+                "cites": "20",
+                "year": "1997"
+            },
+            "id_citations": "H-e-YNUAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The utility of rodent models of autism spectrum disorders",
+                "cites": "19",
+                "year": "2015"
+            },
+            "id_citations": "H-e-YNUAAAAJ:jRIwE-1ttnoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Overexpression of calcium-activated potassium channels underlies cortical dysfunction in a model of PTEN-associated autism",
+                "cites": "18",
+                "year": "2013"
+            },
+            "id_citations": "H-e-YNUAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Theta rhythmopathy as a cause of cognitive disability in TLE",
+                "cites": "17",
+                "year": "2017"
+            },
+            "id_citations": "H-e-YNUAAAAJ:h1pkognVyKwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Transient, consequential increases in extracellular potassium ions accompany channelrhodopsin2 excitation",
+                "cites": "16",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:ovGv7akYl-cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DeepBehavior: A deep learning toolbox for automated analysis of animal and human behavior imaging data",
+                "cites": "15",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:SPgmg5JLkoEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reduced prefrontal synaptic connectivity and disturbed oscillatory population dynamics in the CNTNAP2 model of autism",
+                "cites": "13",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:9tXw7Op4-u0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rescue of the functional alterations of motor cortical circuits in arginase deficiency by neonatal gene therapy",
+                "cites": "10",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:hB2aVRuWZNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "CA1-projecting subiculum neurons facilitate object\u2013place learning",
+                "cites": "9",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:KqW5X_olkfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The mouse as a model for neuropsychiatric drug development",
+                "cites": "9",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:koF6b02d8EEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Mechanisms underlying the EEG biomarker in Dup15q syndrome",
+                "cites": "7",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:yKzB5RS27GgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Breakdown of spatial coding and neural synchronization in epilepsy",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:IExZWSxeYXUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Clinical neurogenetics: autism spectrum disorders",
+                "cites": "5",
+                "year": "2013"
+            },
+            "id_citations": "H-e-YNUAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "WONOEP appraisal: Network concept from an imaging perspective",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:UarirCmVI0EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identification of neural oscillations and epileptiform changes in human brain organoids",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:oXKBmVzQOggC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cortical network dynamics is altered in mouse models of Huntington\u2019s disease",
+                "cites": "2",
+                "year": "2020"
+            },
+            "id_citations": "H-e-YNUAAAAJ:qSd0DAb9jMoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Representational untangling by the firing rate nonlinearity in v1 simple cells",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:F9HO9s0W2bwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of single pyramidal neuron firing within layer 2/3 and layer 4 in mouse V1",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:FQ36aI_S1AEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Emergence of stable sensory and dynamic temporal representations in the hippocampus during working memory",
+                "cites": "2",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:6Zm5LS9gQ5UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Properties of beta oscillations in Dup15q syndrome",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H-e-YNUAAAAJ:mgoTDWlsYNUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neuronal Network Topology Indicates Distinct Recovery Processes after Stroke",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "H-e-YNUAAAAJ:JdL-Xu2nR38C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Connectivity characterization of the mouse basolateral amygdalar complex",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "H-e-YNUAAAAJ:dhpJJ7xvgBgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Machine Learning, Kinematics of Reaching and Motor Cortex Dynamics after Stroke",
+                "cites": "0",
+                "year": "2018"
+            },
+            "id_citations": "H-e-YNUAAAAJ:onKP9CxGSkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "180 fs High power megahertz Ytterbium fiber chirped pulse amplifier for in-vivo high-speed functional imaging",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "H-e-YNUAAAAJ:lRPiJ3GhvscC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of single pyramidal neuron firing across and within layers in mouse V1",
+                "cites": "0",
+                "year": "2017"
+            },
+            "id_citations": "H-e-YNUAAAAJ:KsTgnNRry18C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "From Behavior to Biomarkers in Dup15q Syndrome: Moving Towards Targeted Treatments for a Genetically Defined Neurodevelopmental Disorder",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:Oj-SLI0tZTcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Oxytocin Prosocial Effect in a Genetic Mouse Model of Autism Spectrum Disorder",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:3x-KLxxGyuUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "45. Rescue of the Functional Alterations of Motor Cortical Circuits in Arginase 1 Deficiency with AAV-Based Gene Therapy",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:uEM9VtRl8xsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "memories encoded close in time",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:ZYsTHYU9jrMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "3-5 Hz membrane potential oscillations decrease the gain of neurons in visual cortex",
+                "cites": "0",
+                "year": "2016"
+            },
+            "id_citations": "H-e-YNUAAAAJ:U3qCfcK-7lkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correction: The Autism Related Protein Contactin-Associated Protein-Like 2 (CNTNAP2) Stabilizes New Spines: An",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "H-e-YNUAAAAJ:DUFsPKDdMi0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A phantom study of tumor localization using biomimetic electrostatic imaging",
+                "cites": "0",
+                "year": "2013"
+            },
+            "id_citations": "H-e-YNUAAAAJ:j2GSQqY3pL0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "DNA HYPOMETHYLATION IMPAIRS NEURONAL EXCITABILITY AND INDUCES CORTICAL DEGENERATION DURING PERINATAL DEVELOPMENT: C15\u201301",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "H-e-YNUAAAAJ:3_f9JqYsqVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactions of synaptic and intrinsic electroresponsiveness determine corticothalamic activation dynamics CM Pedroarena and R. Llin\u00e1s (USA) 3 Differentiation of \u2026",
+                "cites": "0",
+                "year": "2002"
+            },
+            "id_citations": "H-e-YNUAAAAJ:IvSMUa3B7yYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Development of corticothalamic synaptic and network function.",
+                "cites": "0",
+                "year": "2001"
+            },
+            "id_citations": "H-e-YNUAAAAJ:9VeumLvkZSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Correlated Neural Activity and Encoding of Behavior Across Brains of Socially Interacting Individuals",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:wlzmIqt2EaEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Preprint highlights, selected by the biological community",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:6pF0wJmtdfAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Neural signatures of coping with multiple tasks in mouse visual cortex",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:RgznTc0nqo4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An electron microscopic investigation of the central oxytocin system the CNTNAP2 mouse model of autism",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:QAOzB4mb83kC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Supplemental Table Legend",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:nroGzMJTTpEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Open-source wearable miniature microscopes to study astrocytes and astrocyte-neuron interactions in freely behaving mice",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:PZE8UkGerEcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subtype-specific assembly of",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:1_W9tMSvGuwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Biomedical Imaging",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:Q3-QASNKTMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Biomimetic Electrostatic Imaging System Proposed for Real-time In-vivo Surgical Guidance of Tumor Resection",
+                "cites": "0"
+            },
+            "id_citations": "H-e-YNUAAAAJ:gFrPXmx1TSsC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=H-e-YNUAAAAJ",
+    "alternate_names": [
+        "Peyman Golshani"
+    ]
+}

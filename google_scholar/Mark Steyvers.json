@@ -1,0 +1,1940 @@
+{
+    "affiliation": "University of California, Irvine",
+    "cites_per_year": {
+        "2001": 102,
+        "2002": 87,
+        "2003": 125,
+        "2004": 167,
+        "2005": 282,
+        "2006": 358,
+        "2007": 504,
+        "2008": 722,
+        "2009": 1075,
+        "2010": 1188,
+        "2011": 1322,
+        "2012": 1654,
+        "2013": 1681,
+        "2014": 1929,
+        "2015": 2038,
+        "2016": 2111,
+        "2017": 2146,
+        "2018": 2177,
+        "2019": 2058,
+        "2020": 1302
+    },
+    "citedby": 23368,
+    "citedby5y": 11835,
+    "coauthors": [
+        {
+            "affiliation": "Professor of Psychology and Computer Science, Princeton University",
+            "id": "UAwKvEsAAAAJ",
+            "name": "Thomas L. Griffiths"
+        },
+        {
+            "affiliation": "Professor, Computer Science, University of California Irvine",
+            "id": "OsoQ-dcAAAAJ",
+            "name": "Padhraic Smyth"
+        },
+        {
+            "affiliation": "MIT",
+            "id": "rRJ9wTJMUB8C",
+            "name": "Joshua B. Tenenbaum"
+        },
+        {
+            "affiliation": "Professor of Cognitive Sciences, University of California Irvine",
+            "id": "gbY_w1IAAAAJ",
+            "name": "Michael Lee"
+        },
+        {
+            "affiliation": "University of Amsterdam",
+            "id": "L_HG640AAAAJ",
+            "name": "Eric-Jan Wagenmakers"
+        },
+        {
+            "affiliation": "school of psychology, university of newcastle",
+            "id": "kIiMFF0AAAAJ",
+            "name": "scott brown"
+        },
+        {
+            "affiliation": "The Ohio State University",
+            "id": "zcFoJ48AAAAJ",
+            "name": "Brandon Turner"
+        },
+        {
+            "affiliation": "Director of Science, Pandora",
+            "id": "VJODuGkAAAAJ",
+            "name": "Chaitanya Chemudugunta"
+        },
+        {
+            "affiliation": "Rutgers University",
+            "id": "8fx9oXwAAAAJ",
+            "name": "Pernille Hemmer"
+        },
+        {
+            "affiliation": "Lyssn.io, Inc. // BRiTE Center, University of Washington",
+            "id": "PU9TZ64AAAAJ",
+            "name": "David C Atkins"
+        },
+        {
+            "affiliation": "Indiana University",
+            "id": "PJma-ZgAAAAJ",
+            "name": "Robert Goldstone"
+        },
+        {
+            "affiliation": "University of Amsterdam",
+            "id": "-vJYI3wAAAAJ",
+            "name": "Birte Forstmann"
+        },
+        {
+            "affiliation": "Professor of Language Science & Cognitive Sciences, University of California, Irvine",
+            "id": "hKf-aJUAAAAJ",
+            "name": "Lisa Pearl"
+        },
+        {
+            "affiliation": "University of Utah",
+            "id": "SHLnnQ8AAAAJ",
+            "name": "Zac Imel"
+        },
+        {
+            "affiliation": "University of Missouri",
+            "id": "LNVvgwQAAAAJ",
+            "name": "Edgar C Merkle"
+        },
+        {
+            "affiliation": "Professor, University of Melbourne",
+            "id": "gY1w14YAAAAJ",
+            "name": "Simon Dennis"
+        },
+        {
+            "affiliation": "Professor of Cognitive Psychology, University of Amsterdam",
+            "id": "WfJZ_koAAAAJ",
+            "name": "Jeroen G.W. Raaijmakers"
+        },
+        {
+            "affiliation": "University of South Florida",
+            "id": "YzYo3xAAAAAJ",
+            "name": "Kenneth J Malmberg"
+        },
+        {
+            "affiliation": "University of New South Wales",
+            "id": "QPH_lRIAAAAJ",
+            "name": "Danielle Navarro"
+        },
+        {
+            "affiliation": "Associate Professor of Psychology, University of Virginia",
+            "id": "V87qgTwAAAAJ",
+            "name": "Per B. Sederberg"
+        }
+    ],
+    "email": "@uci.edu",
+    "hindex": 55,
+    "hindex5y": 41,
+    "i10index": 102,
+    "i10index5y": 82,
+    "id": "szUb_isAAAAJ",
+    "interests": [
+        "cognitive science",
+        "machine learning",
+        "wisdom of crowds",
+        "cognitive psychology",
+        "learning"
+    ],
+    "name": "Mark Steyvers",
+    "publications": [
+        {
+            "bib": {
+                "title": "Finding scientific topics",
+                "cites": "6160",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:u5HHmVD_uO8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic topic models",
+                "cites": "3006",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:qjMakFHDy7sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The author-topic model for authors and documents",
+                "cites": "1749",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:UeHWp8X0CEIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Large\u2010Scale Structure of Semantic Networks: Statistical Analyses and a Model of Semantic Growth",
+                "cites": "1422",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:d1gkVwhDpl0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topics in semantic representation.",
+                "cites": "1100",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:9yKSN-GCB0IC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for recognition memory: REM\u2014retrieving effectively from memory",
+                "cites": "1009",
+                "year": "1997"
+            },
+            "id_citations": "szUb_isAAAAJ:u-x6o8ySG0sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic author-topic models for information discovery",
+                "cites": "758",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:IjCSPb-OGe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating topics and syntax",
+                "cites": "637",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:Tyk-4Ss8FVUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring causal networks from observations and interventions",
+                "cites": "519",
+                "year": "2003"
+            },
+            "id_citations": "szUb_isAAAAJ:zYLM7Y9cAGgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning author-topic models from text corpora",
+                "cites": "339",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:8k81kl-MbHgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Statistical topic models for multi-label document classification",
+                "cites": "334",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:NMxIlDl6LWMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A probabilistic approach to semantic representation",
+                "cites": "300",
+                "year": "2002"
+            },
+            "id_citations": "szUb_isAAAAJ:2osOgNQ5qMEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling General and Speci\ufb01c Aspects of Documents with a Probabilistic Topic Model",
+                "cites": "243",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:LkGwnXOMwfcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The sensitization and differentiation of dimensions during category learning.",
+                "cites": "234",
+                "year": "2001"
+            },
+            "id_citations": "szUb_isAAAAJ:Y0pCki6q_DkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Multidimensional scaling",
+                "cites": "200",
+                "year": "2002"
+            },
+            "id_citations": "szUb_isAAAAJ:ufrVoPGSRksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian analysis of human decision-making on bandit problems",
+                "cites": "199",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:kNdYIx-mwKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Word Association Spaces for Predicting Semantic Similarity Effects in Episodic Memory.",
+                "cites": "194",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:W7OEmFMy1HYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A method for efficiently sampling from distributions with correlated dimensions.",
+                "cites": "190",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:mvPsJ3kp5DgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Google and the mind: Predicting fluency with PageRank",
+                "cites": "186",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:MXK_kJrjxJIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling individual differences using Dirichlet processes",
+                "cites": "163",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:YsMSGLbcyi4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Analyzing entities and topics in news articles using statistical topic models",
+                "cites": "146",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:hqOjcs7Dif8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian framework for simultaneously modeling neural and behavioral data",
+                "cites": "143",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:eflP2zaiRacC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction and semantic association",
+                "cites": "135",
+                "year": "2003"
+            },
+            "id_citations": "szUb_isAAAAJ:UebtZRa9Y70C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Stability and intermittency in large-scale coupled oscillator models for perceptual segmentation",
+                "cites": "131",
+                "year": "1997"
+            },
+            "id_citations": "szUb_isAAAAJ:eQOLeE2rZwMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian account of reconstructive memory",
+                "cites": "129",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:dhFuZR0502QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Wisdom of the Crowd in Combinatorial Problems",
+                "cites": "122",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:ldfaerwXgEUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting and predicting changes",
+                "cites": "121",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:5nxA0vEk-isC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effect of normative context variability on recognition memory.",
+                "cites": "114",
+                "year": "2003"
+            },
+            "id_citations": "szUb_isAAAAJ:roLk4NBRz8UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Probabilistic inference in human semantic memory",
+                "cites": "105",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:3fE2CSJIrl8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling documents by combining semantic concepts with unsupervised statistical learning",
+                "cites": "103",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:Zph67rFs4hoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Accumulative prediction error and the selection of time series models",
+                "cites": "102",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:YOwf2qJgpHMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model for evidence accumulation in the lexical decision task",
+                "cites": "100",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:Se3iqnhoufwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Feature frequency effects in recognition memory",
+                "cites": "98",
+                "year": "2002"
+            },
+            "id_citations": "szUb_isAAAAJ:_FxGoFyzp5QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling up the evaluation of psychotherapy: evaluating motivational interviewing fidelity via statistical text classification",
+                "cites": "91",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:tkaPQYYpVKoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Latent semantic analysis: a road to meaning, chapter probabilistic topic models",
+                "cites": "91",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:foquWX3nUaYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Morphing techniques for manipulating face images",
+                "cites": "83",
+                "year": "1999"
+            },
+            "id_citations": "szUb_isAAAAJ:ULOm3_A8WrAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conceptual interrelatedness and caricatures",
+                "cites": "78",
+                "year": "2003"
+            },
+            "id_citations": "szUb_isAAAAJ:0EnyYjriUFMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The effectiveness of retrieval from memory",
+                "cites": "78",
+                "year": "1998"
+            },
+            "id_citations": "szUb_isAAAAJ:WF5omc3nYNoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The dynamics of experimentally induced criterion shifts.",
+                "cites": "76",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:KlAtU1dfN6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psychological models of human and optimal performance in bandit problems",
+                "cites": "74",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:-f6ydRqryjwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Finding scientific topics",
+                "cites": "74",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:Ug5p-4gJ2f0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Interactions between perceptual and conceptual learning",
+                "cites": "74",
+                "year": "2000"
+            },
+            "id_citations": "szUb_isAAAAJ:7PzlFSSx8tAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Categorical perception of novel dimensions",
+                "cites": "71",
+                "year": "1996"
+            },
+            "id_citations": "szUb_isAAAAJ:_kc_bZDykSQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Why more is better: Simultaneous modeling of EEG, fMRI, and behavioral data",
+                "cites": "68",
+                "year": "2016"
+            },
+            "id_citations": "szUb_isAAAAJ:uJ-U7cs_P_0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The wisdom of crowds in the recollection of order information",
+                "cites": "68",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:mVmsd5A6BfQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory.",
+                "cites": "66",
+                "year": "2017"
+            },
+            "id_citations": "szUb_isAAAAJ:2KloaMYe4IUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating episodic memories and prior knowledge at multiple levels of abstraction",
+                "cites": "65",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:ZeXyd9-uunAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational psychotherapy research: Scaling up the evaluation of patient\u2013provider interactions.",
+                "cites": "64",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:_B80troHkn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining feature norms and text data with topic models",
+                "cites": "64",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:Wp0gIr-vW9MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online learning mechanisms for bayesian models of word segmentation",
+                "cites": "60",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:hC7cP41nSMkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Choosing a strictly proper scoring rule",
+                "cites": "59",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:t6usbXjVLHcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topic models: A novel method for modeling couple and family text data.",
+                "cites": "57",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:pyW8ca7W8N0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scoring workers in crowdsourcing: How many control questions are enough?",
+                "cites": "56",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:XiVPGOgt02cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observing evidence accumulation during multi-alternative decisions",
+                "cites": "56",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:qUcmZB5y_30C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring expertise in knowledge and prediction ranking tasks",
+                "cites": "55",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:O3NaXMp0MMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A hierarchical adaptive approach to optimal experimental design",
+                "cites": "53",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:WA5NYHcadZ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Forecast aggregation via recalibration",
+                "cites": "53",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:HE397vMXCloC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Detecting authorship deception: a supervised machine learning approach using author writeprints",
+                "cites": "52",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:fPk4N6BV_jEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining concept hierarchies and statistical topic models",
+                "cites": "48",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:L8Ckcad2t8MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonword repetition in lexical decision: Support for two opposing processes",
+                "cites": "47",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:4TOpqqG69KYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling experimentally induced strategy shifts",
+                "cites": "45",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:qxL8FJ1GzNcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying emotions, intentions, and attitudes in text using a game with a purpose",
+                "cites": "44",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:hFOr9nPyWt4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rational analysis as a link between human memory and information retrieval",
+                "cites": "44",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:TQgYirikUcIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A cognitive model for aggregating people's rankings",
+                "cites": "38",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:AXPGKjj_ei8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Combining background knowledge and learned topics",
+                "cites": "37",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:r0BpntZqJG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Future directions",
+                "cites": "34",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:8d8msizDQcsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scalable parallel topic models",
+                "cites": "34",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:R3hNpaxXUhUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting similarity ratings to faces using physical descriptions",
+                "cites": "34",
+                "year": "2001"
+            },
+            "id_citations": "szUb_isAAAAJ:4DMP91E08xMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An optimal adjustment procedure to minimize experiment time in decisions with multiple alternatives",
+                "cites": "32",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:maZDTaKrznsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Prediction and change detection",
+                "cites": "31",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:9ZlFYXVOiuMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling human performance in restless bandits with particle filters",
+                "cites": "29",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:_Qo2XoVZTnwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Context Effects in Multi\u2010Alternative Decision Making: Empirical Data and a Bayesian Model",
+                "cites": "26",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:iH-uZ7U-co4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Integrating Episodic and Semantic Information in Memory for Natural Scenes",
+                "cites": "26",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:YFjsv_pBGBYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A tutorial on joint models of neural and behavioral measures of cognition",
+                "cites": "25",
+                "year": "2018"
+            },
+            "id_citations": "szUb_isAAAAJ:TIZ-Mc8IlK0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The wisdom of crowds in rank ordering problems",
+                "cites": "23",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:rO6llkc54NcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advancing methods for reliably assessing motivational interviewing fidelity using the motivational interviewing skills code",
+                "cites": "22",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:1yQoGdGgb4wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Content coding of psychotherapy transcripts using labeled topic models",
+                "cites": "21",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:-_dYPAW6P2MC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A generative joint model for spike trains and saccades during perceptual decision-making",
+                "cites": "20",
+                "year": "2016"
+            },
+            "id_citations": "szUb_isAAAAJ:nrtMV_XWKgEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational statistics with MATLAB",
+                "cites": "19",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:eMMeJKvmdy0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling semantic and orthographic similarity effects on memory for individual words",
+                "cites": "19",
+                "year": "2000"
+            },
+            "id_citations": "szUb_isAAAAJ:QIV2ME_5wuYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A model-based approach to measuring expertise in ranking tasks",
+                "cites": "18",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:EUQCXRtRnyEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling the covariance structure of complex datasets using cognitive models: An application to individual differences and the heritability of cognitive ability",
+                "cites": "17",
+                "year": "2018"
+            },
+            "id_citations": "szUb_isAAAAJ:b1wdh0AR-JQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Moving beyond qualitative evaluations of Bayesian models of cognition",
+                "cites": "17",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:PR6Y55bgFSsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Reconstruction from Memory in Naturalistic Environments",
+                "cites": "17",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:cFHS6HbyZ2cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A psychological model for aggregating judgments of magnitude",
+                "cites": "17",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:isC4tDSrTZIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The wisdom of crowds with communication",
+                "cites": "16",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:5ugPr518TE4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Text modeling using unsupervised topic models and concept hierarchies",
+                "cites": "16",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:RHpTSmoSYBkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Measurement error and outcome distributions: Methodological issues in regression analyses of behavioral coding data.",
+                "cites": "15",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:_Re3VWB3Y0AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wisdom of the Crowds in Minimum Spanning Tree Problems",
+                "cites": "15",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:TFP_iSt0sucC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Applications",
+                "cites": "14",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:0N-VGjzr574C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Demographics from behavior",
+                "cites": "14",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:vRqMK49ujn8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Semantic spaces based on free association that predict memory performance",
+                "cites": "14",
+                "year": "2002"
+            },
+            "id_citations": "szUb_isAAAAJ:e5wmG9Sq2KIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Item response models of probability judgments: Application to a geopolitical forecasting tournament.",
+                "cites": "12",
+                "year": "2016"
+            },
+            "id_citations": "szUb_isAAAAJ:7T2F9Uy0os0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Relating memory to functional performance in normal aging to dementia using hierarchical Bayesian cognitive processing models",
+                "cites": "12",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:p2g8aNsByqUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using inverse planning and theory of mind for social goal inference",
+                "cites": "12",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:f2IySw72cVMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning concept graphs from text with stick-breaking priors",
+                "cites": "12",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:M3NEmzRMIkIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "How ideal are we? Incorporating human limitations into Bayesian models of word segmentation",
+                "cites": "12",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:4JMBOYKVnBMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experimental cognitive psychology and its applications",
+                "cites": "12",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:j3f4tGmQtD8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Joint models of neural and behavioral data",
+                "cites": "11",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:PoWvk5oyLR8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognition and collective intelligence",
+                "cites": "11",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:tzM49s52ZIMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Evaluating probabilistic forecasts with Bayesian signal detection models",
+                "cites": "11",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:olpn-zPbct0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The aggregative contingent estimation system: Selecting, rewarding, and training experts in a wisdom of crowds approach to forecasting",
+                "cites": "11",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:u9iWguZQMMsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Collaborative memory in a serial combination procedure",
+                "cites": "9",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:LPZeul_q3PIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Decision speed induces context effects in choice",
+                "cites": "9",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:CHSYGLWDkRkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Wisdom of the Crowd Approach to Forecasting",
+                "cites": "9",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:ns9cj8rnVeAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The wisdom of crowds with informative priors",
+                "cites": "9",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:BqipwSGYUEgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A topic model for movie choices and ratings",
+                "cites": "9",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:pqnbT2bcN3wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A neglected dimension of good forecasting judgment: The questions we choose also matter",
+                "cites": "8",
+                "year": "2017"
+            },
+            "id_citations": "szUb_isAAAAJ:ML0RJ9NH7IQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The large-scale structure of semantic networks",
+                "cites": "8",
+                "year": "2001"
+            },
+            "id_citations": "szUb_isAAAAJ:ClCfbGk0d_YC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The language of interpersonal interaction: An interdisciplinary approach to assessing and processing vocal and speech data",
+                "cites": "7",
+                "year": "2018"
+            },
+            "id_citations": "szUb_isAAAAJ:Z5m8FVwuT1cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "\u201cC\u2019mon\u2013You Should Read This\u201d: Automatic Identification of Tone from Language Text",
+                "cites": "7",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:a0OBvERweLwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Wisdom of the crowds in traveling salesman problems",
+                "cites": "7",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:dTyEYWd-f8wC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Topics in semantic association",
+                "cites": "7",
+                "year": "2007"
+            },
+            "id_citations": "szUb_isAAAAJ:FPJr55Dyh1AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "On reliable crowdsourcing and the use of ground truth information",
+                "cites": "6",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:UHK10RUVsp4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Route choice in individuals\u2014semantic network navigation",
+                "cites": "6",
+                "year": "2012"
+            },
+            "id_citations": "szUb_isAAAAJ:D03iK_w7-QYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Using heuristic models to understand human and optimal decision-making on bandit problems",
+                "cites": "6",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:GnPB-g6toBAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian model for lexical decision",
+                "cites": "6",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:HbR8gkJAVGIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The joint contribution of participation and performance to learning functions: Exploring the effects of age in large-scale data sets",
+                "cites": "5",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:M7yex6snE4oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Making a wiser crowd: Benefits of individual metacognitive control on crowd performance",
+                "cites": "5",
+                "year": "2018"
+            },
+            "id_citations": "szUb_isAAAAJ:lmc2jWPfTJgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conjunction and disjunction fallacies in prediction markets",
+                "cites": "5",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:g5m5HwL7SMYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Estimating COVID-19 Antibody Seroprevalence in Santa Clara County, California. A re-analysis of Bendavid et al.",
+                "cites": "3",
+                "year": "2020"
+            },
+            "id_citations": "szUb_isAAAAJ:FAceZFleit8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A large-scale analysis of task switching practice effects across the lifespan",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:_axFR9aDTf0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Predicting task and subject differences with functional connectivity and blood-oxygen-level-dependent variability",
+                "cites": "3",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:LI9QrySNdTsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Hierarchical Bayesian analyses for modeling BOLD time series data",
+                "cites": "3",
+                "year": "2018"
+            },
+            "id_citations": "szUb_isAAAAJ:oNZyr7d5Mn4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Griffiths, T.; Steyvers, M.; and Smyth",
+                "cites": "3",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:ZHo1McVdvXMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distant connectivity and multiple-step priming in large-scale semantic networks.",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:Ri6SYOTghG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "SAGE: a hybrid geopolitical event forecasting system",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:rmuvC79q63oC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "It's not the treasure, it's the hunt: Children are more explorative on an explore/exploit task than adults.",
+                "cites": "2",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:86PQX7AUzd4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian model of knowledge and metacognitive control: Applications to opt-in tasks.",
+                "cites": "2",
+                "year": "2017"
+            },
+            "id_citations": "szUb_isAAAAJ:p__nRnzSRKYC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Should we trust our judgments about the proficiency of Motivational Interviewing counselors? A glimpse at the impact of low inter-rater reliability",
+                "cites": "2",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:JQOojiI6XY0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inferring subjective prior knowledge: An integrative Bayesian approach",
+                "cites": "2",
+                "year": "2013"
+            },
+            "id_citations": "szUb_isAAAAJ:q3oQSFYPqjQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Tag Dependencies in Tagged Documents",
+                "cites": "2",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:u_35RYKgDlwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploration and Exploitation in Structured Environments",
+                "cites": "2",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:_FM0Bhl9EiAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Memory for Chinese characters",
+                "cites": "2",
+                "year": "2004"
+            },
+            "id_citations": "szUb_isAAAAJ:L7CI7m0gUJcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "RM & Nelson, DL (2004). Word association spaces for predicting semantic similarity effects in episodic memory",
+                "cites": "2"
+            },
+            "id_citations": "szUb_isAAAAJ:SeFeTyx0c_EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "GW (2001). Nonword repetition in lexical decision: Evidence for two opposing processes",
+                "cites": "2"
+            },
+            "id_citations": "szUb_isAAAAJ:2P1L_qKh6hAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "M., and K. Larimer. 1996. Categorical perception of novel dimensions",
+                "cites": "2"
+            },
+            "id_citations": "szUb_isAAAAJ:J_g5lzvAfSwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Large-Scale Structure of semantic networks: Statistical Analyses and a Model for Semantic Growth, 2001",
+                "cites": "2"
+            },
+            "id_citations": "szUb_isAAAAJ:blknAaTinKkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Experimental design modulates variance in BOLD activation: The variance design general linear model",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:VaXvl8Fpj5cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Insight into Language: Investigating Lexical and Morphological Effects in Compound Remote Associate Problem Solving.",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:PVjk1bu6vJQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Picture is Worth 7.17 Words: Learning Categories from Examples and Definitions.",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:5qfkUJPXOUwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Tutorial on Joint Modeling",
+                "cites": "1",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:i2xiXl-TujoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Large scale structure-function mappings of the human subcortex",
+                "cites": "1",
+                "year": "2018"
+            },
+            "id_citations": "szUb_isAAAAJ:WZBGuue-350C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Leveraging Response Consistency within Individuals to Improve Group Accuracy for Rank-Ordering Problems.",
+                "cites": "1",
+                "year": "2017"
+            },
+            "id_citations": "szUb_isAAAAJ:EYYDruWGBe4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive modeling in perception and memory: A festschrift for Richard M. Shiffrin",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:Fu2w8maKXqMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The Roles of Knowledge and Memory in Generating Top-10 Lists.",
+                "cites": "1",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:W5xh706n7nkC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Model of Concept Generalization and Feature Representation in Hierarchies",
+                "cites": "1",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:1sJd4Hv_s6UC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rational Process Models",
+                "cites": "1",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:AvfA0Oy_GE0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Part I-Long Papers-Intelligence Analysis and Knowledge Discovery-Analyzing Entities and Topics in News Articles Using Statistical Topic Models",
+                "cites": "1",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:dfsIfKJdRG4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "The topics model for semantic representation",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:SdhP9T11ey4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling individual differences with Dirichlet processes",
+                "cites": "1",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:URolC5Kub84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Nonword repetition in lexical decision: Evidence for two opposing processes",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "szUb_isAAAAJ:YohjEiUPhakC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A measure for contextual variability and its independent effect on recognition memory",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "szUb_isAAAAJ:yD5IFk8b50cC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Bayesian Model for the Time Course of Lexical Processing",
+                "cites": "1",
+                "year": "2001"
+            },
+            "id_citations": "szUb_isAAAAJ:zA6iFVUQeVQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Motivation. Becoming a cheerleader for yourself, your profession.",
+                "cites": "1",
+                "year": "1988"
+            },
+            "id_citations": "szUb_isAAAAJ:XoXfffV-tXoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Computational psychotherapy: Scaling up the evaluation of patient provider interactions",
+                "cites": "1"
+            },
+            "id_citations": "szUb_isAAAAJ:q3CdL3IzO_QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An item response theory model of matching test performance",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "szUb_isAAAAJ:GtLg2Ama23sC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Active Bayesian Assessment for Black-Box Classifiers",
+                "cites": "0",
+                "year": "2020"
+            },
+            "id_citations": "szUb_isAAAAJ:4fGpz3EwCPoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Monitoring the ebb and flow of attention: Does controlling the onset of stimuli during encoding enhance memory?",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:xtoqd-5pKcoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rumelhart Symposium: Honoring Richard Shiffrin",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:SP6oXDckpogC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Distant Concept Connectivity in Network-Based and Spatial Word Representations.",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:LO7wyVUgiFcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Word Games as milestones for NLP research",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:kh2fBNsKQNwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Assessing Model Performance with Generalization Tests",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:SpbeaW3--B0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Other Approaches",
+                "cites": "0",
+                "year": "2019"
+            },
+            "id_citations": "szUb_isAAAAJ:S16KYo8Pm5AC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Handbook of Collective Intelligence",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:tuHXwOkdijsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "15 The Collective Memory Performance in a Recognition Memory Task",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:NJ774b8OgUMC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Advanced Matlab: Exploratory Data Analysis and Computational Statistics",
+                "cites": "0",
+                "year": "2015"
+            },
+            "id_citations": "szUb_isAAAAJ:KUbvn5osdkgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "A Hierarchical Adaptive Approach to the Optimal Design of Experiments",
+                "cites": "0",
+                "year": "2014"
+            },
+            "id_citations": "szUb_isAAAAJ:JoZmwDi-zQgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "P1\u2010474: Relating memory to functional capacity from normal aging to dementia using hierarchical Bayesian cognitive processing models",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:dshw04ExmUIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Garside, PD, JE Belanger and SA Ragaz (2004).'British Fiction, 1800\u20131829: A Database of Production",
+                "cites": "0",
+                "year": "2011"
+            },
+            "id_citations": "szUb_isAAAAJ:ruyezt5ZtCIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Exploration and Exploitation in Structured Environments",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:5awf1xo2G04C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Skouras K., Dawid A. P.(1998), On Efficient Point Prediction Systems,\u201eJournal of Royal Statistical Society\u201d B, 60, 765\u2013780 Sugiura N.(1978), Further Analysis of the Data by \u2026",
+                "cites": "0",
+                "year": "2010"
+            },
+            "id_citations": "szUb_isAAAAJ:Dip1O2bNi0gC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Conjunction and Disjunction Fallacies in Prediction Markets",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:BUYA1_V_uYcC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Human Performance in Restless Bandits with Particle Filters (Preprint)",
+                "cites": "0",
+                "year": "2009"
+            },
+            "id_citations": "szUb_isAAAAJ:Y5dfb0dijaUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Inference in Dynamic Environments",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:K3LRdlH-MEoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Higher-Level Cognition Modeling Prize: A Bayesian Account of Reconstructive Memory",
+                "cites": "0",
+                "year": "2008"
+            },
+            "id_citations": "szUb_isAAAAJ:vDijr-p_gm4C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Cognitive Sciences",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:WqliGbK-hY8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Retrieving Effectively from Memory (REM)",
+                "cites": "0",
+                "year": "2006"
+            },
+            "id_citations": "szUb_isAAAAJ:ye4kPcJQO24C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Erratum to: Feature frequency effects in recognition memory",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:XiSMed-E-HIC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Individual Differences with Dirichlet Processes",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:uWiczbcajpAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Effect of Picture Similarity on Recognition Memory",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:zLWjf1WUPmwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Subject Index to Volume 29",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:N5tVd3kTz84C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Identifying Social Information in Text Using Human-Based Computation",
+                "cites": "0",
+                "year": "2005"
+            },
+            "id_citations": "szUb_isAAAAJ:8AbLer7MMksC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "An Aha! Walks into a Bar: Joke Completion as a Form of Insight Problem Solving",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:0izLItjtcgwC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "This is only a preview 2 shown on 8 pages",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:anf4URPfarAC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Bayesian Evaluation of Black-Box Classifiers",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:hCrLmN-GePgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Enforcing Compositionality in Sentence Embedding Models",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:e_rmSamDkqQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Documents with a Probabilistic Topic Model",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:tYavs44e6CUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Rational Process Models",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:vbGhcppDl1QC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Psych 210B Introduction II: Cognition",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:BwyfMAYsbu0C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "PSYCHOTHERAPY RESEARCH1",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:4MWp96NkSFoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Linguistic Cues to Social Information Description of Proposed Research Principal Investigator",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:epqYDVWIO7EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Recent Developments in Global-Matching Models of Episodic Memory",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:EkHepimYqZsC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "MBS 02 11 Semantic Spaces based on free Association that Predict memory Performance",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:uc_IGeMz5qoC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Scaling up the evaluation of psychotherapy: Evaluating motivational interviewing via statistical text classification",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:0KyAp5RtaNEC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "ALL RIGHTS RESERVED",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:geHnlv5EZngC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Online Learning Mechanisms for Bayesian Models of Word Segmentation",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:B3FOqHPlNUQC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Modeling Human Performance in Restless Bandits with Particle Filters Sheng Kung Michael Yi Mark Steyvers Michael Lee University of California, Irvine",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:l7t_Zn2s7bgC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning about Citations using Statistical Topic Models",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:nb7KW1ujOQ8C",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Learning concept graphs from text with stick-breaking distributions",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:P5F9QuxV20EC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Observing Evidence Accumulation During Multi\u2013Alternative",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:b0M2c_1WBrUC",
+            "source": "citations"
+        },
+        {
+            "bib": {
+                "title": "Exploring Large Document Collections using Statistical Topic Models KDD-2006 Demo Session",
+                "cites": "0"
+            },
+            "id_citations": "szUb_isAAAAJ:_xSYboBqXhAC",
+            "source": "citations"
+        }
+    ],
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=szUb_isAAAAJ"
+}
